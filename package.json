@@ -6,7 +6,17 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["corners", "prediction", "soccer", "betting"],
+  "keywords": [
+    "corners",
+    "prediction",
+    "soccer",
+    "betting"
+  ],
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "dependencies": {
+    "libsodium-wrappers": "^0.8.4",
+    "tweetnacl": "^1.0.3",
+    "tweetnacl-util": "^0.15.1"
+  }
 }
