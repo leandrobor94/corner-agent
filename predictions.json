@@ -1,0 +1,8772 @@
+[
+  {
+    "result": {
+      "match": "Columbus Crew vs Atlanta United",
+      "league": "MLS",
+      "minute": 59,
+      "score": "2-0",
+      "corners": {
+        "home": 2,
+        "away": 2,
+        "total": 4
+      },
+      "projected": {
+        "home": 2,
+        "away": 2,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 1,
+        "shotsInsideBox": 12,
+        "attacks": 105,
+        "possession": {
+          "home": 64,
+          "away": 36
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:51.683Z",
+    "match": "Columbus Crew vs Atlanta United",
+    "league": "MLS",
+    "minute": 59,
+    "score": "2-0",
+    "corners": {
+      "home": 2,
+      "away": 2,
+      "total": 4
+    },
+    "projected": {
+      "home": 2,
+      "away": 2,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 1,
+      "shotsInsideBox": 12,
+      "attacks": 105,
+      "possession": {
+        "home": 64,
+        "away": 36
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Columbus Crew vs Atlanta United_59",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Colón vs Mitre SdE",
+      "league": "Primera",
+      "minute": 67,
+      "score": "1-1",
+      "corners": {
+        "home": 5,
+        "away": 2,
+        "total": 7
+      },
+      "projected": {
+        "home": 5,
+        "away": 2,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 137,
+        "possession": {
+          "home": 56,
+          "away": 44
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:51.767Z",
+    "match": "Colón vs Mitre SdE",
+    "league": "Primera",
+    "minute": 67,
+    "score": "1-1",
+    "corners": {
+      "home": 5,
+      "away": 2,
+      "total": 7
+    },
+    "projected": {
+      "home": 5,
+      "away": 2,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 137,
+      "possession": {
+        "home": 56,
+        "away": 44
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Colón vs Mitre SdE_67",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Bay FC vs Chicago Stars FC",
+      "league": "NWSL",
+      "minute": 60,
+      "score": "0-0",
+      "corners": {
+        "home": 4,
+        "away": 0,
+        "total": 4
+      },
+      "projected": {
+        "home": 4,
+        "away": 0,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 2,
+        "shotsInsideBox": 5,
+        "attacks": 110,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:51.851Z",
+    "match": "Bay FC vs Chicago Stars FC",
+    "league": "NWSL",
+    "minute": 60,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 0,
+      "total": 4
+    },
+    "projected": {
+      "home": 4,
+      "away": 0,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 2,
+      "shotsInsideBox": 5,
+      "attacks": 110,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Bay FC vs Chicago Stars FC_60",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Atlético Mineiro (F) vs Ferroviaria (F)",
+      "league": "Brasileirao",
+      "minute": 69,
+      "score": "1-1",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 113,
+        "possession": {
+          "home": 54,
+          "away": 46
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:51.948Z",
+    "match": "Atlético Mineiro (F) vs Ferroviaria (F)",
+    "league": "Brasileirao",
+    "minute": 69,
+    "score": "1-1",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 113,
+      "possession": {
+        "home": 54,
+        "away": 46
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Atlético Mineiro (F) vs Ferroviaria (F)_69",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Cavalry vs Pacific",
+      "league": "Canadian Premier",
+      "minute": 60,
+      "score": "1-0",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 5,
+        "shotsInsideBox": 12,
+        "attacks": 72,
+        "possession": {
+          "home": 57,
+          "away": 43
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:52.032Z",
+    "match": "Cavalry vs Pacific",
+    "league": "Canadian Premier",
+    "minute": 60,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 5,
+      "shotsInsideBox": 12,
+      "attacks": 72,
+      "possession": {
+        "home": 57,
+        "away": 43
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Cavalry vs Pacific_60",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Confianca vs Figueirense",
+      "league": "Serie C",
+      "minute": 74,
+      "score": "0-0",
+      "corners": {
+        "home": 6,
+        "away": 1,
+        "total": 7
+      },
+      "projected": {
+        "home": 6,
+        "away": 1,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 70,
+        "possession": {
+          "home": 53,
+          "away": 47
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:30:52.117Z",
+    "match": "Confianca vs Figueirense",
+    "league": "Serie C",
+    "minute": 74,
+    "score": "0-0",
+    "corners": {
+      "home": 6,
+      "away": 1,
+      "total": 7
+    },
+    "projected": {
+      "home": 6,
+      "away": 1,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 70,
+      "possession": {
+        "home": 53,
+        "away": 47
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Confianca vs Figueirense_74",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "São José RS vs Marcilio Dias",
+      "league": "Serie D - Group 16",
+      "minute": 71,
+      "score": "1-1",
+      "corners": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "projected": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 147,
+        "possession": {
+          "home": 44,
+          "away": 56
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:00.585Z",
+    "match": "São José RS vs Marcilio Dias",
+    "league": "Serie D - Group 16",
+    "minute": 71,
+    "score": "1-1",
+    "corners": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+    },
+    "projected": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 147,
+      "possession": {
+        "home": 44,
+        "away": 56
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "São José RS vs Marcilio Dias_71",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Luverdense vs Aparecidense",
+      "league": "Serie D - Grupo 3",
+      "minute": 70,
+      "score": "0-0",
+      "corners": {
+        "home": 8,
+        "away": 1,
+        "total": 9
+      },
+      "projected": {
+        "home": 8,
+        "away": 1,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 104,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:00.669Z",
+    "match": "Luverdense vs Aparecidense",
+    "league": "Serie D - Grupo 3",
+    "minute": 70,
+    "score": "0-0",
+    "corners": {
+      "home": 8,
+      "away": 1,
+      "total": 9
+    },
+    "projected": {
+      "home": 8,
+      "away": 1,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 104,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Luverdense vs Aparecidense_70",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Monte Roraima vs São Raimundo RR",
+      "league": "Serie D - Grupo 1",
+      "minute": 48,
+      "score": "1-0",
+      "corners": {
+        "home": 1,
+        "away": 3,
+        "total": 4
+      },
+      "projected": {
+        "home": 1,
+        "away": 3,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 84,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:10.606Z",
+    "match": "Monte Roraima vs São Raimundo RR",
+    "league": "Serie D - Grupo 1",
+    "minute": 48,
+    "score": "1-0",
+    "corners": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "projected": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 84,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Monte Roraima vs São Raimundo RR_48",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Carabobo FC vs Deportivo Táchira",
+      "league": "Liga FUTVE - Cuadrangulares - Grupo B",
+      "minute": 73,
+      "score": "0-0",
+      "corners": {
+        "home": 4,
+        "away": 5,
+        "total": 9
+      },
+      "projected": {
+        "home": 4,
+        "away": 5,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 10,
+        "shotsInsideBox": 8,
+        "attacks": 115,
+        "possession": {
+          "home": 48,
+          "away": 52
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:10.692Z",
+    "match": "Carabobo FC vs Deportivo Táchira",
+    "league": "Liga FUTVE - Cuadrangulares - Grupo B",
+    "minute": 73,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+    },
+    "projected": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 10,
+      "shotsInsideBox": 8,
+      "attacks": 115,
+      "possession": {
+        "home": 48,
+        "away": 52
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Carabobo FC vs Deportivo Táchira_73",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Estudiantes de Merida vs Metropolitanos FC",
+      "league": "Liga FUTVE - Cuadrangulares - Grupo B",
+      "minute": 69,
+      "score": "0-1",
+      "corners": {
+        "home": 8,
+        "away": 3,
+        "total": 11
+      },
+      "projected": {
+        "home": 12,
+        "away": 3,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 8,
+        "shotsInsideBox": 9,
+        "attacks": 116,
+        "possession": {
+          "home": 71,
+          "away": 29
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 82,
+          "current": 11,
+          "projected": 15
+        },
+        {
+          "line": 12.5,
+          "prob": 73,
+          "current": 11,
+          "projected": 15
+        }
+      ]
+    },
+    "timestamp": "2026-05-24T22:31:13.413Z",
+    "match": "Estudiantes de Merida vs Metropolitanos FC",
+    "league": "Liga FUTVE - Cuadrangulares - Grupo B",
+    "minute": 69,
+    "score": "0-1",
+    "corners": {
+      "home": 8,
+      "away": 3,
+      "total": 11
+    },
+    "projected": {
+      "home": 12,
+      "away": 3,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 8,
+      "shotsInsideBox": 9,
+      "attacks": 116,
+      "possession": {
+        "home": 71,
+        "away": 29
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 82,
+        "current": 11,
+        "projected": 15
+      },
+      {
+        "line": 12.5,
+        "prob": 73,
+        "current": 11,
+        "projected": 15
+      }
+    ],
+    "key": "Estudiantes de Merida vs Metropolitanos FC_69",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Deportivo Lara vs Zamora FC B",
+      "league": "Liga FUTVE 2",
+      "minute": 73,
+      "score": "4-0",
+      "corners": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "projected": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 156,
+        "possession": {
+          "home": 48,
+          "away": 52
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.496Z",
+    "match": "Deportivo Lara vs Zamora FC B",
+    "league": "Liga FUTVE 2",
+    "minute": 73,
+    "score": "4-0",
+    "corners": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "projected": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 156,
+      "possession": {
+        "home": 48,
+        "away": 52
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Deportivo Lara vs Zamora FC B_73",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Independiente Medellín (F) vs Orsomarso (F)",
+      "league": "Liga Femenina BetPlay",
+      "minute": 72,
+      "score": "2-0",
+      "corners": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "projected": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 151,
+        "possession": {
+          "home": 61,
+          "away": 39
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.581Z",
+    "match": "Independiente Medellín (F) vs Orsomarso (F)",
+    "league": "Liga Femenina BetPlay",
+    "minute": 72,
+    "score": "2-0",
+    "corners": {
+      "home": 1,
+      "away": 0,
+      "total": 1
+    },
+    "projected": {
+      "home": 1,
+      "away": 0,
+      "total": 1
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 151,
+      "possession": {
+        "home": 61,
+        "away": 39
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Independiente Medellín (F) vs Orsomarso (F)_72",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gimnasia y Tiro vs Gimnasia de Jujuy",
+      "league": "Primera",
+      "minute": 45,
+      "score": "0-0",
+      "corners": {
+        "home": 0,
+        "away": 6,
+        "total": 6
+      },
+      "projected": {
+        "home": 0,
+        "away": 7,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 83,
+        "possession": {
+          "home": 42,
+          "away": 58
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.665Z",
+    "match": "Gimnasia y Tiro vs Gimnasia de Jujuy",
+    "league": "Primera",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 0,
+      "away": 6,
+      "total": 6
+    },
+    "projected": {
+      "home": 0,
+      "away": 7,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 83,
+      "possession": {
+        "home": 42,
+        "away": 58
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Gimnasia y Tiro vs Gimnasia de Jujuy_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Güemes vs Patronato",
+      "league": "Primera",
+      "minute": 45,
+      "score": "0-0",
+      "corners": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "projected": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 106,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.747Z",
+    "match": "Güemes vs Patronato",
+    "league": "Primera",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "projected": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 106,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Güemes vs Patronato_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Corinthians vs Atlético Mineiro",
+      "league": "Brasileirão",
+      "minute": 45,
+      "score": "0-0",
+      "corners": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "projected": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "stats": {
+        "crosses": 4,
+        "shotsInsideBox": 5,
+        "attacks": 0,
+        "possession": {
+          "home": 57,
+          "away": 43
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.830Z",
+    "match": "Corinthians vs Atlético Mineiro",
+    "league": "Brasileirão",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "projected": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 4,
+      "shotsInsideBox": 5,
+      "attacks": 0,
+      "possession": {
+        "home": 57,
+        "away": 43
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Corinthians vs Atlético Mineiro_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "América Mineiro vs Vila Nova",
+      "league": "Brasileirão - Série B",
+      "minute": 45,
+      "score": "1-0",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 3,
+        "shotsInsideBox": 8,
+        "attacks": 80,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:13.927Z",
+    "match": "América Mineiro vs Vila Nova",
+    "league": "Brasileirão - Série B",
+    "minute": 45,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 3,
+      "shotsInsideBox": 8,
+      "attacks": 80,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "América Mineiro vs Vila Nova_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Defensor Sporting vs Peñarol",
+      "league": "Liga AUF Uruguaya -",
+      "minute": 45,
+      "score": "0-0",
+      "corners": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "projected": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 94,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:14.011Z",
+    "match": "Defensor Sporting vs Peñarol",
+    "league": "Liga AUF Uruguaya -",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 1,
+      "away": 1,
+      "total": 2
+    },
+    "projected": {
+      "home": 1,
+      "away": 1,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 94,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Defensor Sporting vs Peñarol_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Junior (F) vs Fortaleza FC (F)",
+      "league": "Liga Femenina BetPlay",
+      "minute": 45,
+      "score": "0-0",
+      "corners": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "projected": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 78,
+        "possession": {
+          "home": 51,
+          "away": 49
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:14.229Z",
+    "match": "Junior (F) vs Fortaleza FC (F)",
+    "league": "Liga Femenina BetPlay",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "projected": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 78,
+      "possession": {
+        "home": 51,
+        "away": 49
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Junior (F) vs Fortaleza FC (F)_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Rubio Ñu (W) vs Sportivo 2 de Mayo (F)",
+      "league": "Campeonato Anual FEM",
+      "minute": 45,
+      "score": "0-1",
+      "corners": {
+        "home": 0,
+        "away": 3,
+        "total": 3
+      },
+      "projected": {
+        "home": 1,
+        "away": 3,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 105,
+        "possession": {
+          "home": 50,
+          "away": 50
+        }
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-24T22:31:14.311Z",
+    "match": "Rubio Ñu (W) vs Sportivo 2 de Mayo (F)",
+    "league": "Campeonato Anual FEM",
+    "minute": 45,
+    "score": "0-1",
+    "corners": {
+      "home": 0,
+      "away": 3,
+      "total": 3
+    },
+    "projected": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 105,
+      "possession": {
+        "home": 50,
+        "away": 50
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Rubio Ñu (W) vs Sportivo 2 de Mayo (F)_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Cúcuta Deportivo vs Fortaleza FC",
+      "league": "Copa BetPlay",
+      "minute": 77,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 3,
+        "total": 8
+      },
+      "projected": {
+        "home": 7,
+        "away": 5,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 29,
+        "shotsInsideBox": 11,
+        "attacks": 116,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [
+        {
+          "team": "Cúcuta Deportivo",
+          "line": 5.5,
+          "prob": 70,
+          "current": 5,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Cúcuta Deportivo 13 centros, 5 tiros área, 50% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Fortaleza FC",
+          "line": 3.5,
+          "prob": 73,
+          "current": 3,
+          "projected": 5,
+          "side": "away",
+          "reasoning": "Fortaleza FC 16 centros, 6 tiros área, 50% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 84,
+          "current": 8,
+          "projected": 12
+        },
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 8,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 8,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-29T22:36:33.774Z",
+    "match": "Cúcuta Deportivo vs Fortaleza FC",
+    "league": "Copa BetPlay",
+    "minute": 77,
+    "score": "0-0",
+    "corners": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+    },
+    "projected": {
+      "home": 7,
+      "away": 5,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 29,
+      "shotsInsideBox": 11,
+      "attacks": 116,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [
+      {
+        "team": "Cúcuta Deportivo",
+        "line": 5.5,
+        "prob": 70,
+        "current": 5,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Cúcuta Deportivo 13 centros, 5 tiros área, 50% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Fortaleza FC",
+        "line": 3.5,
+        "prob": 73,
+        "current": 3,
+        "projected": 5,
+        "side": "away",
+        "reasoning": "Fortaleza FC 16 centros, 6 tiros área, 50% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 84,
+        "current": 8,
+        "projected": 12
+      },
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 8,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 8,
+        "projected": 12
+      }
+    ],
+    "key": "Cúcuta Deportivo vs Fortaleza FC_77",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "América de Cali (F) vs Internacional FC (F)",
+      "league": "Liga Femenina BetPlay",
+      "minute": 80,
+      "score": "5-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 5,
+        "away": 2,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 43,
+        "shotsInsideBox": 7,
+        "attacks": 171,
+        "possession": {
+          "home": 62,
+          "away": 38
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [
+        {
+          "team": "América de Cali (F)",
+          "line": 3.5,
+          "prob": 73,
+          "current": 3,
+          "projected": 5,
+          "side": "home",
+          "reasoning": "América de Cali (F) 24 centros, 4 tiros área, 62% posesión"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-29T22:36:34.233Z",
+    "match": "América de Cali (F) vs Internacional FC (F)",
+    "league": "Liga Femenina BetPlay",
+    "minute": 80,
+    "score": "5-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 5,
+      "away": 2,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 43,
+      "shotsInsideBox": 7,
+      "attacks": 171,
+      "possession": {
+        "home": 62,
+        "away": 38
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [
+      {
+        "team": "América de Cali (F)",
+        "line": 3.5,
+        "prob": 73,
+        "current": 3,
+        "projected": 5,
+        "side": "home",
+        "reasoning": "América de Cali (F) 24 centros, 4 tiros área, 62% posesión"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "América de Cali (F) vs Internacional FC (F)_80",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gangneung City vs Changwon City",
+      "league": "Tercera división",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "projected": {
+        "home": 5,
+        "away": 11,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 47,
+        "shotsInsideBox": 14,
+        "attacks": 184,
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "totalShots": 23
+      },
+      "teamAlerts": [
+        {
+          "team": "Changwon City",
+          "line": 7.5,
+          "prob": 86,
+          "current": 7,
+          "projected": 11,
+          "side": "away",
+          "reasoning": "Changwon City 27 centros, 7 tiros área, 60% posesión"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 81,
+          "current": 12,
+          "projected": 16
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:25.614Z",
+    "match": "Gangneung City vs Changwon City",
+    "league": "Tercera división",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "projected": {
+      "home": 5,
+      "away": 11,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 47,
+      "shotsInsideBox": 14,
+      "attacks": 184,
+      "possession": {
+        "home": 40,
+        "away": 60
+      },
+      "totalShots": 23
+    },
+    "teamAlerts": [
+      {
+        "team": "Changwon City",
+        "line": 7.5,
+        "prob": 86,
+        "current": 7,
+        "projected": 11,
+        "side": "away",
+        "reasoning": "Changwon City 27 centros, 7 tiros área, 60% posesión"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 81,
+        "current": 12,
+        "projected": 16
+      }
+    ],
+    "key": "Gangneung City vs Changwon City_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Jeonbuk Motors II vs Busan Transportation",
+      "league": "Tercera división",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 5,
+        "total": 9
+      },
+      "projected": {
+        "home": 14,
+        "away": 5,
+        "total": 19
+      },
+      "stats": {
+        "crosses": 6,
+        "shotsInsideBox": 2,
+        "attacks": 0,
+        "possession": {
+          "home": 74,
+          "away": 26
+        },
+        "totalShots": 3
+      },
+      "teamAlerts": [
+        {
+          "team": "Jeonbuk Motors II",
+          "line": 4.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 14,
+          "side": "home",
+          "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Jeonbuk Motors II",
+          "line": 5.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 14,
+          "side": "home",
+          "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Jeonbuk Motors II",
+          "line": 6.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 14,
+          "side": "home",
+          "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Jeonbuk Motors II",
+          "line": 7.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 14,
+          "side": "home",
+          "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 19
+        },
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 19
+        },
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 19
+        },
+        {
+          "line": 12.5,
+          "prob": 94,
+          "current": 9,
+          "projected": 19
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:27.719Z",
+    "match": "Jeonbuk Motors II vs Busan Transportation",
+    "league": "Tercera división",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+    },
+    "projected": {
+      "home": 14,
+      "away": 5,
+      "total": 19
+    },
+    "stats": {
+      "crosses": 6,
+      "shotsInsideBox": 2,
+      "attacks": 0,
+      "possession": {
+        "home": 74,
+        "away": 26
+      },
+      "totalShots": 3
+    },
+    "teamAlerts": [
+      {
+        "team": "Jeonbuk Motors II",
+        "line": 4.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 14,
+        "side": "home",
+        "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Jeonbuk Motors II",
+        "line": 5.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 14,
+        "side": "home",
+        "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Jeonbuk Motors II",
+        "line": 6.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 14,
+        "side": "home",
+        "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Jeonbuk Motors II",
+        "line": 7.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 14,
+        "side": "home",
+        "reasoning": "Jeonbuk Motors II 2 centros, 1 tiros área, 74% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 19
+      },
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 19
+      },
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 19
+      },
+      {
+        "line": 12.5,
+        "prob": 94,
+        "current": 9,
+        "projected": 19
+      }
+    ],
+    "key": "Jeonbuk Motors II vs Busan Transportation_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Vissel Kobe vs Kashima Antlers",
+      "league": "J LEAGUE - Final",
+      "minute": 90,
+      "score": "5-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 34,
+        "shotsInsideBox": 16,
+        "attacks": 191,
+        "possession": {
+          "home": 38,
+          "away": 62
+        },
+        "totalShots": 25
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:31.099Z",
+    "match": "Vissel Kobe vs Kashima Antlers",
+    "league": "J LEAGUE - Final",
+    "minute": 90,
+    "score": "5-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 34,
+      "shotsInsideBox": 16,
+      "attacks": 191,
+      "possession": {
+        "home": 38,
+        "away": 62
+      },
+      "totalShots": 25
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Vissel Kobe vs Kashima Antlers_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Nagoya Grampus vs Machida Zelvia",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 1,
+        "away": 2,
+        "total": 3
+      },
+      "projected": {
+        "home": 2,
+        "away": 2,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 23,
+        "shotsInsideBox": 15,
+        "attacks": 113,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 29
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:31.339Z",
+    "match": "Nagoya Grampus vs Machida Zelvia",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 1,
+      "away": 2,
+      "total": 3
+    },
+    "projected": {
+      "home": 2,
+      "away": 2,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 23,
+      "shotsInsideBox": 15,
+      "attacks": 113,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 29
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Nagoya Grampus vs Machida Zelvia_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Hiroshima Sanfrecce vs Kawasaki Frontale",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 2,
+        "total": 7
+      },
+      "projected": {
+        "home": 5,
+        "away": 3,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 36,
+        "shotsInsideBox": 20,
+        "attacks": 178,
+        "possession": {
+          "home": 46,
+          "away": 54
+        },
+        "totalShots": 28
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:31.451Z",
+    "match": "Hiroshima Sanfrecce vs Kawasaki Frontale",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 5,
+      "away": 2,
+      "total": 7
+    },
+    "projected": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 36,
+      "shotsInsideBox": 20,
+      "attacks": 178,
+      "possession": {
+        "home": 46,
+        "away": 54
+      },
+      "totalShots": 28
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Hiroshima Sanfrecce vs Kawasaki Frontale_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Yokohama FC vs RB Omiya Ardija",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 4,
+        "total": 9
+      },
+      "projected": {
+        "home": 5,
+        "away": 5,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 30,
+        "shotsInsideBox": 9,
+        "attacks": 116,
+        "possession": {
+          "home": 48,
+          "away": 52
+        },
+        "totalShots": 15
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:31.597Z",
+    "match": "Yokohama FC vs RB Omiya Ardija",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+    },
+    "projected": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 30,
+      "shotsInsideBox": 9,
+      "attacks": 116,
+      "possession": {
+        "home": 48,
+        "away": 52
+      },
+      "totalShots": 15
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Yokohama FC vs RB Omiya Ardija_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Kochi vs Renofa Yamaguchi",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "2-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 1,
+        "total": 6
+      },
+      "projected": {
+        "home": 9,
+        "away": 1,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 8,
+        "attacks": 158,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 13
+      },
+      "teamAlerts": [
+        {
+          "team": "Kochi",
+          "line": 5.5,
+          "prob": 88,
+          "current": 5,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Kochi",
+          "line": 6.5,
+          "prob": 79,
+          "current": 5,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Kochi",
+          "line": 7.5,
+          "prob": 68,
+          "current": 5,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 67,
+          "current": 6,
+          "projected": 10
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:31.694Z",
+    "match": "Kochi vs Renofa Yamaguchi",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "2-3",
+    "corners": {
+      "home": 5,
+      "away": 1,
+      "total": 6
+    },
+    "projected": {
+      "home": 9,
+      "away": 1,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 8,
+      "attacks": 158,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 13
+    },
+    "teamAlerts": [
+      {
+        "team": "Kochi",
+        "line": 5.5,
+        "prob": 88,
+        "current": 5,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Kochi",
+        "line": 6.5,
+        "prob": 79,
+        "current": 5,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Kochi",
+        "line": 7.5,
+        "prob": 68,
+        "current": 5,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Kochi 23 centros, 4 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 67,
+        "current": 6,
+        "projected": 10
+      }
+    ],
+    "key": "Kochi vs Renofa Yamaguchi_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Niigata vs Kagoshima United",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 7,
+        "total": 10
+      },
+      "projected": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 36,
+        "shotsInsideBox": 6,
+        "attacks": 144,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:32.251Z",
+    "match": "Niigata vs Kagoshima United",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 3,
+      "away": 7,
+      "total": 10
+    },
+    "projected": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 36,
+      "shotsInsideBox": 6,
+      "attacks": 144,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Niigata vs Kagoshima United_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Shonan Bellmare vs Iwaki FC",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 6,
+        "total": 10
+      },
+      "projected": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 46,
+        "shotsInsideBox": 10,
+        "attacks": 182,
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:32.371Z",
+    "match": "Shonan Bellmare vs Iwaki FC",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+    },
+    "projected": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 46,
+      "shotsInsideBox": 10,
+      "attacks": 182,
+      "possession": {
+        "home": 45,
+        "away": 55
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Shonan Bellmare vs Iwaki FC_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Tokushima vs Sagan Tosu",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "3-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 8,
+        "total": 9
+      },
+      "projected": {
+        "home": 1,
+        "away": 20,
+        "total": 21
+      },
+      "stats": {
+        "crosses": 36,
+        "shotsInsideBox": 6,
+        "attacks": 143,
+        "possession": {
+          "home": 33,
+          "away": 67
+        },
+        "totalShots": 10
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 21
+        },
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 21
+        },
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 21
+        },
+        {
+          "line": 12.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 21
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:32.474Z",
+    "match": "Tokushima vs Sagan Tosu",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "3-1",
+    "corners": {
+      "home": 1,
+      "away": 8,
+      "total": 9
+    },
+    "projected": {
+      "home": 1,
+      "away": 20,
+      "total": 21
+    },
+    "stats": {
+      "crosses": 36,
+      "shotsInsideBox": 6,
+      "attacks": 143,
+      "possession": {
+        "home": 33,
+        "away": 67
+      },
+      "totalShots": 10
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 21
+      },
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 21
+      },
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 21
+      },
+      {
+        "line": 12.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 21
+      }
+    ],
+    "key": "Tokushima vs Sagan Tosu_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "SC Sagamihara vs Fujieda MYFC",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "4-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 7,
+        "total": 14
+      },
+      "projected": {
+        "home": 8,
+        "away": 8,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 37,
+        "shotsInsideBox": 10,
+        "attacks": 149,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:32.901Z",
+    "match": "SC Sagamihara vs Fujieda MYFC",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "4-3",
+    "corners": {
+      "home": 7,
+      "away": 7,
+      "total": 14
+    },
+    "projected": {
+      "home": 8,
+      "away": 8,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 37,
+      "shotsInsideBox": 10,
+      "attacks": 149,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "SC Sagamihara vs Fujieda MYFC_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Nara Club vs Oita Trinita",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "4-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 3,
+        "total": 9
+      },
+      "projected": {
+        "home": 6,
+        "away": 4,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 10,
+        "attacks": 125,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:33.008Z",
+    "match": "Nara Club vs Oita Trinita",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "4-3",
+    "corners": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+    },
+    "projected": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 10,
+      "attacks": 125,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Nara Club vs Oita Trinita_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Tochigi City vs Jubilo Iwata",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "3-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 4,
+        "total": 11
+      },
+      "projected": {
+        "home": 10,
+        "away": 4,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 41,
+        "shotsInsideBox": 14,
+        "attacks": 166,
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "totalShots": 24
+      },
+      "teamAlerts": [
+        {
+          "team": "Tochigi City",
+          "line": 7.5,
+          "prob": 78,
+          "current": 7,
+          "projected": 10,
+          "side": "home",
+          "reasoning": "Tochigi City 20 centros, 8 tiros área, 54% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 74,
+          "current": 11,
+          "projected": 14
+        },
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 11,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:33.116Z",
+    "match": "Tochigi City vs Jubilo Iwata",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "3-3",
+    "corners": {
+      "home": 7,
+      "away": 4,
+      "total": 11
+    },
+    "projected": {
+      "home": 10,
+      "away": 4,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 41,
+      "shotsInsideBox": 14,
+      "attacks": 166,
+      "possession": {
+        "home": 54,
+        "away": 46
+      },
+      "totalShots": 24
+    },
+    "teamAlerts": [
+      {
+        "team": "Tochigi City",
+        "line": 7.5,
+        "prob": 78,
+        "current": 7,
+        "projected": 10,
+        "side": "home",
+        "reasoning": "Tochigi City 20 centros, 8 tiros área, 54% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 74,
+        "current": 11,
+        "projected": 14
+      },
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 11,
+        "projected": 14
+      }
+    ],
+    "key": "Tochigi City vs Jubilo Iwata_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Fc Osaka vs Reilac Shiga",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 10,
+        "total": 16
+      },
+      "projected": {
+        "home": 8,
+        "away": 10,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 56,
+        "shotsInsideBox": 11,
+        "attacks": 222,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [
+        {
+          "team": "Fc Osaka",
+          "line": 6.5,
+          "prob": 69,
+          "current": 6,
+          "projected": 8,
+          "side": "home",
+          "reasoning": "Fc Osaka 27 centros, 5 tiros área, 51% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:33.521Z",
+    "match": "Fc Osaka vs Reilac Shiga",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 6,
+      "away": 10,
+      "total": 16
+    },
+    "projected": {
+      "home": 8,
+      "away": 10,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 56,
+      "shotsInsideBox": 11,
+      "attacks": 222,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [
+      {
+        "team": "Fc Osaka",
+        "line": 6.5,
+        "prob": 69,
+        "current": 6,
+        "projected": 8,
+        "side": "home",
+        "reasoning": "Fc Osaka 27 centros, 5 tiros área, 51% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Fc Osaka vs Reilac Shiga_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Vegalta Sendai vs Kofu",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 6,
+        "total": 10
+      },
+      "projected": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 35,
+        "shotsInsideBox": 10,
+        "attacks": 137,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:33.926Z",
+    "match": "Vegalta Sendai vs Kofu",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+    },
+    "projected": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 10,
+      "attacks": 137,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Vegalta Sendai vs Kofu_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Yenisey (W) vs Dynamo Moscow (W)",
+      "league": "Supreme Division Women",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:34.031Z",
+    "match": "Yenisey (W) vs Dynamo Moscow (W)",
+    "league": "Supreme Division Women",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Yenisey (W) vs Dynamo Moscow (W)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Cerezo Osaka vs FC Tokyo",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 4,
+        "total": 9
+      },
+      "projected": {
+        "home": 7,
+        "away": 4,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 16,
+        "attacks": 152,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 27
+      },
+      "teamAlerts": [
+        {
+          "team": "Cerezo Osaka",
+          "line": 5.5,
+          "prob": 70,
+          "current": 5,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Cerezo Osaka 18 centros, 9 tiros área, 53% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 66,
+          "current": 9,
+          "projected": 11
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:34.136Z",
+    "match": "Cerezo Osaka vs FC Tokyo",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+    },
+    "projected": {
+      "home": 7,
+      "away": 4,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 16,
+      "attacks": 152,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 27
+    },
+    "teamAlerts": [
+      {
+        "team": "Cerezo Osaka",
+        "line": 5.5,
+        "prob": 70,
+        "current": 5,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Cerezo Osaka 18 centros, 9 tiros área, 53% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 66,
+        "current": 9,
+        "projected": 11
+      }
+    ],
+    "key": "Cerezo Osaka vs FC Tokyo_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Dangjin Citizen vs Yangpyeong",
+      "league": "Tercera división",
+      "minute": 90,
+      "score": "3-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 3,
+        "total": 9
+      },
+      "projected": {
+        "home": 7,
+        "away": 3,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 45,
+        "shotsInsideBox": 11,
+        "attacks": 180,
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:34.551Z",
+    "match": "Dangjin Citizen vs Yangpyeong",
+    "league": "Tercera división",
+    "minute": 90,
+    "score": "3-1",
+    "corners": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+    },
+    "projected": {
+      "home": 7,
+      "away": 3,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 45,
+      "shotsInsideBox": 11,
+      "attacks": 180,
+      "possession": {
+        "home": 55,
+        "away": 45
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Dangjin Citizen vs Yangpyeong_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Yanbian Longding vs Changchun Yatai",
+      "league": "League One",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 6,
+        "total": 10
+      },
+      "projected": {
+        "home": 7,
+        "away": 6,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 23,
+        "shotsInsideBox": 13,
+        "attacks": 152,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 23
+      },
+      "teamAlerts": [
+        {
+          "team": "Yanbian Longding",
+          "line": 4.5,
+          "prob": 83,
+          "current": 4,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Yanbian Longding 10 centros, 5 tiros área, 57% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Yanbian Longding",
+          "line": 5.5,
+          "prob": 70,
+          "current": 4,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Yanbian Longding 10 centros, 5 tiros área, 57% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 75,
+          "current": 10,
+          "projected": 13
+        },
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:34.656Z",
+    "match": "Yanbian Longding vs Changchun Yatai",
+    "league": "League One",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+    },
+    "projected": {
+      "home": 7,
+      "away": 6,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 23,
+      "shotsInsideBox": 13,
+      "attacks": 152,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 23
+    },
+    "teamAlerts": [
+      {
+        "team": "Yanbian Longding",
+        "line": 4.5,
+        "prob": 83,
+        "current": 4,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Yanbian Longding 10 centros, 5 tiros área, 57% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Yanbian Longding",
+        "line": 5.5,
+        "prob": 70,
+        "current": 4,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Yanbian Longding 10 centros, 5 tiros área, 57% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 75,
+        "current": 10,
+        "projected": 13
+      },
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 13
+      }
+    ],
+    "key": "Yanbian Longding vs Changchun Yatai_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Fukuoka vs JEF United Chiba",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "projected": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 13,
+        "attacks": 195,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 23
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:35.087Z",
+    "match": "Fukuoka vs JEF United Chiba",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "projected": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 13,
+      "attacks": 195,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 23
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Fukuoka vs JEF United Chiba_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gamba Osaka vs Tokyo Verdy",
+      "league": "J",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 8,
+        "away": 6,
+        "total": 14
+      },
+      "projected": {
+        "home": 15,
+        "away": 6,
+        "total": 21
+      },
+      "stats": {
+        "crosses": 34,
+        "shotsInsideBox": 10,
+        "attacks": 167,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:35.188Z",
+    "match": "Gamba Osaka vs Tokyo Verdy",
+    "league": "J",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 8,
+      "away": 6,
+      "total": 14
+    },
+    "projected": {
+      "home": 15,
+      "away": 6,
+      "total": 21
+    },
+    "stats": {
+      "crosses": 34,
+      "shotsInsideBox": 10,
+      "attacks": 167,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Gamba Osaka vs Tokyo Verdy_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Ehime FC vs Kumamoto",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 3,
+        "total": 9
+      },
+      "projected": {
+        "home": 11,
+        "away": 3,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 37,
+        "shotsInsideBox": 13,
+        "attacks": 0,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 21
+      },
+      "teamAlerts": [
+        {
+          "team": "Ehime FC",
+          "line": 6.5,
+          "prob": 92,
+          "current": 6,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Ehime FC 32 centros, 11 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Ehime FC",
+          "line": 7.5,
+          "prob": 86,
+          "current": 6,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Ehime FC 32 centros, 11 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 89,
+          "current": 9,
+          "projected": 14
+        },
+        {
+          "line": 10.5,
+          "prob": 82,
+          "current": 9,
+          "projected": 14
+        },
+        {
+          "line": 11.5,
+          "prob": 74,
+          "current": 9,
+          "projected": 14
+        },
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 9,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:35.285Z",
+    "match": "Ehime FC vs Kumamoto",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+    },
+    "projected": {
+      "home": 11,
+      "away": 3,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 37,
+      "shotsInsideBox": 13,
+      "attacks": 0,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 21
+    },
+    "teamAlerts": [
+      {
+        "team": "Ehime FC",
+        "line": 6.5,
+        "prob": 92,
+        "current": 6,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Ehime FC 32 centros, 11 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Ehime FC",
+        "line": 7.5,
+        "prob": 86,
+        "current": 6,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Ehime FC 32 centros, 11 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 89,
+        "current": 9,
+        "projected": 14
+      },
+      {
+        "line": 10.5,
+        "prob": 82,
+        "current": 9,
+        "projected": 14
+      },
+      {
+        "line": 11.5,
+        "prob": 74,
+        "current": 9,
+        "projected": 14
+      },
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 9,
+        "projected": 14
+      }
+    ],
+    "key": "Ehime FC vs Kumamoto_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Asan Mugunghwa FC vs Suwon Bluewings",
+      "league": "Segunda división",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 8,
+        "total": 9
+      },
+      "projected": {
+        "home": 1,
+        "away": 21,
+        "total": 22
+      },
+      "stats": {
+        "crosses": 87,
+        "shotsInsideBox": 12,
+        "attacks": 345,
+        "possession": {
+          "home": 33,
+          "away": 67
+        },
+        "totalShots": 20
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 22
+        },
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 22
+        },
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 22
+        },
+        {
+          "line": 12.5,
+          "prob": 95,
+          "current": 9,
+          "projected": 22
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:35.706Z",
+    "match": "Asan Mugunghwa FC vs Suwon Bluewings",
+    "league": "Segunda división",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 1,
+      "away": 8,
+      "total": 9
+    },
+    "projected": {
+      "home": 1,
+      "away": 21,
+      "total": 22
+    },
+    "stats": {
+      "crosses": 87,
+      "shotsInsideBox": 12,
+      "attacks": 345,
+      "possession": {
+        "home": 33,
+        "away": 67
+      },
+      "totalShots": 20
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 22
+      },
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 22
+      },
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 22
+      },
+      {
+        "line": 12.5,
+        "prob": 95,
+        "current": 9,
+        "projected": 22
+      }
+    ],
+    "key": "Asan Mugunghwa FC vs Suwon Bluewings_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Yongin vs Daegu FC",
+      "league": "Segunda división",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 5,
+        "total": 10
+      },
+      "projected": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 50,
+        "shotsInsideBox": 10,
+        "attacks": 200,
+        "possession": {
+          "home": 46,
+          "away": 54
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [
+        {
+          "team": "Daegu FC",
+          "line": 5.5,
+          "prob": 70,
+          "current": 5,
+          "projected": 7,
+          "side": "away",
+          "reasoning": "Daegu FC 29 centros, 6 tiros área, 54% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:36.110Z",
+    "match": "Yongin vs Daegu FC",
+    "league": "Segunda división",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+    },
+    "projected": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 50,
+      "shotsInsideBox": 10,
+      "attacks": 200,
+      "possession": {
+        "home": 46,
+        "away": 54
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [
+      {
+        "team": "Daegu FC",
+        "line": 5.5,
+        "prob": 70,
+        "current": 5,
+        "projected": 7,
+        "side": "away",
+        "reasoning": "Daegu FC 29 centros, 6 tiros área, 54% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 12
+      }
+    ],
+    "key": "Yongin vs Daegu FC_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Stallion vs Davao Aguilas",
+      "league": "PFL",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 3,
+        "total": 6
+      },
+      "projected": {
+        "home": 4,
+        "away": 4,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 44,
+        "shotsInsideBox": 0,
+        "attacks": 175,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:36.585Z",
+    "match": "Stallion vs Davao Aguilas",
+    "league": "PFL",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "projected": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 44,
+      "shotsInsideBox": 0,
+      "attacks": 175,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Stallion vs Davao Aguilas_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Chuncheon Citizen vs Gyeongju H&N",
+      "league": "Tercera división",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "projected": {
+        "home": 4,
+        "away": 1,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 19,
+        "shotsInsideBox": 11,
+        "attacks": 75,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:36.703Z",
+    "match": "Chuncheon Citizen vs Gyeongju H&N",
+    "league": "Tercera división",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "projected": {
+      "home": 4,
+      "away": 1,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 19,
+      "shotsInsideBox": 11,
+      "attacks": 75,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Chuncheon Citizen vs Gyeongju H&N_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Zvezda Perm (W) vs Ryazan (W)",
+      "league": "Supreme Division Women",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:36.810Z",
+    "match": "Zvezda Perm (W) vs Ryazan (W)",
+    "league": "Supreme Division Women",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Zvezda Perm (W) vs Ryazan (W)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "V-Varen Nagasaki vs Mito Hollyhock",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 0,
+        "away": 7,
+        "total": 7
+      },
+      "projected": {
+        "home": 0,
+        "away": 12,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 15,
+        "attacks": 199,
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "totalShots": 23
+      },
+      "teamAlerts": [
+        {
+          "team": "Mito Hollyhock",
+          "line": 7.5,
+          "prob": 91,
+          "current": 7,
+          "projected": 12,
+          "side": "away",
+          "reasoning": "Mito Hollyhock 27 centros, 11 tiros área, 57% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 84,
+          "current": 7,
+          "projected": 12
+        },
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 7,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 7,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:36.921Z",
+    "match": "V-Varen Nagasaki vs Mito Hollyhock",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 0,
+      "away": 7,
+      "total": 7
+    },
+    "projected": {
+      "home": 0,
+      "away": 12,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 15,
+      "attacks": 199,
+      "possession": {
+        "home": 43,
+        "away": 57
+      },
+      "totalShots": 23
+    },
+    "teamAlerts": [
+      {
+        "team": "Mito Hollyhock",
+        "line": 7.5,
+        "prob": 91,
+        "current": 7,
+        "projected": 12,
+        "side": "away",
+        "reasoning": "Mito Hollyhock 27 centros, 11 tiros área, 57% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 84,
+        "current": 7,
+        "projected": 12
+      },
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 7,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 7,
+        "projected": 12
+      }
+    ],
+    "key": "V-Varen Nagasaki vs Mito Hollyhock_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Toyama vs Tegevajaro Miyazaki",
+      "league": "J2 League - Puesto de",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 3,
+        "total": 6
+      },
+      "projected": {
+        "home": 3,
+        "away": 5,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 41,
+        "shotsInsideBox": 6,
+        "attacks": 165,
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [
+        {
+          "team": "Tegevajaro Miyazaki",
+          "line": 3.5,
+          "prob": 73,
+          "current": 3,
+          "projected": 5,
+          "side": "away",
+          "reasoning": "Tegevajaro Miyazaki 22 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:37.334Z",
+    "match": "Toyama vs Tegevajaro Miyazaki",
+    "league": "J2 League - Puesto de",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "projected": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 41,
+      "shotsInsideBox": 6,
+      "attacks": 165,
+      "possession": {
+        "home": 43,
+        "away": 57
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [
+      {
+        "team": "Tegevajaro Miyazaki",
+        "line": 3.5,
+        "prob": 73,
+        "current": 3,
+        "projected": 5,
+        "side": "away",
+        "reasoning": "Tegevajaro Miyazaki 22 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Toyama vs Tegevajaro Miyazaki_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Vorskla Poltava vs Podillya Khmelnytskyi",
+      "league": "Persha Liga",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 8,
+        "away": 2,
+        "total": 10
+      },
+      "projected": {
+        "home": 10,
+        "away": 3,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 75,
+          "current": 10,
+          "projected": 13
+        },
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:37.740Z",
+    "match": "Vorskla Poltava vs Podillya Khmelnytskyi",
+    "league": "Persha Liga",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 8,
+      "away": 2,
+      "total": 10
+    },
+    "projected": {
+      "home": 10,
+      "away": 3,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 75,
+        "current": 10,
+        "projected": 13
+      },
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 13
+      }
+    ],
+    "key": "Vorskla Poltava vs Podillya Khmelnytskyi_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Suwon FC vs Seongnam Ilhwa",
+      "league": "Segunda división",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 6,
+        "total": 11
+      },
+      "projected": {
+        "home": 6,
+        "away": 8,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 53,
+        "shotsInsideBox": 17,
+        "attacks": 211,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 29
+      },
+      "teamAlerts": [
+        {
+          "team": "Seongnam Ilhwa",
+          "line": 6.5,
+          "prob": 69,
+          "current": 6,
+          "projected": 8,
+          "side": "away",
+          "reasoning": "Seongnam Ilhwa 35 centros, 9 tiros área, 50% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 74,
+          "current": 11,
+          "projected": 14
+        },
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 11,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:38.149Z",
+    "match": "Suwon FC vs Seongnam Ilhwa",
+    "league": "Segunda división",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 5,
+      "away": 6,
+      "total": 11
+    },
+    "projected": {
+      "home": 6,
+      "away": 8,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 53,
+      "shotsInsideBox": 17,
+      "attacks": 211,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 29
+    },
+    "teamAlerts": [
+      {
+        "team": "Seongnam Ilhwa",
+        "line": 6.5,
+        "prob": 69,
+        "current": 6,
+        "projected": 8,
+        "side": "away",
+        "reasoning": "Seongnam Ilhwa 35 centros, 9 tiros área, 50% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 74,
+        "current": 11,
+        "projected": 14
+      },
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 11,
+        "projected": 14
+      }
+    ],
+    "key": "Suwon FC vs Seongnam Ilhwa_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "FC Mesakhte Tkibuli vs Dinamo Tbilisi",
+      "league": "Erovnuli Liga",
+      "minute": 90,
+      "score": "1-6",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 7,
+        "total": 13
+      },
+      "projected": {
+        "home": 9,
+        "away": 7,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 37,
+        "shotsInsideBox": 11,
+        "attacks": 144,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [
+        {
+          "team": "FC Mesakhte Tkibuli",
+          "line": 6.5,
+          "prob": 79,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "FC Mesakhte Tkibuli 19 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "FC Mesakhte Tkibuli",
+          "line": 7.5,
+          "prob": 68,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "FC Mesakhte Tkibuli 19 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:38.564Z",
+    "match": "FC Mesakhte Tkibuli vs Dinamo Tbilisi",
+    "league": "Erovnuli Liga",
+    "minute": 90,
+    "score": "1-6",
+    "corners": {
+      "home": 6,
+      "away": 7,
+      "total": 13
+    },
+    "projected": {
+      "home": 9,
+      "away": 7,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 37,
+      "shotsInsideBox": 11,
+      "attacks": 144,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [
+      {
+        "team": "FC Mesakhte Tkibuli",
+        "line": 6.5,
+        "prob": 79,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "FC Mesakhte Tkibuli 19 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "FC Mesakhte Tkibuli",
+        "line": 7.5,
+        "prob": 68,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "FC Mesakhte Tkibuli 19 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "FC Mesakhte Tkibuli vs Dinamo Tbilisi_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gimhae City vs GimPo FC",
+      "league": "Segunda división",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "projected": {
+        "home": 7,
+        "away": 7,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 87,
+        "shotsInsideBox": 19,
+        "attacks": 344,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 31
+      },
+      "teamAlerts": [
+        {
+          "team": "Gimhae City",
+          "line": 5.5,
+          "prob": 70,
+          "current": 5,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Gimhae City 37 centros, 10 tiros área, 51% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 12,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:38.988Z",
+    "match": "Gimhae City vs GimPo FC",
+    "league": "Segunda división",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "projected": {
+      "home": 7,
+      "away": 7,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 87,
+      "shotsInsideBox": 19,
+      "attacks": 344,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 31
+    },
+    "teamAlerts": [
+      {
+        "team": "Gimhae City",
+        "line": 5.5,
+        "prob": 70,
+        "current": 5,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Gimhae City 37 centros, 10 tiros área, 51% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 12,
+        "projected": 14
+      }
+    ],
+    "key": "Gimhae City vs GimPo FC_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Ulsan Citizen vs Pocheon FC",
+      "league": "Tercera división",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 5,
+        "total": 8
+      },
+      "projected": {
+        "home": 3,
+        "away": 6,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 39,
+        "shotsInsideBox": 16,
+        "attacks": 154,
+        "possession": {
+          "home": 46,
+          "away": 54
+        },
+        "totalShots": 26
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:39.394Z",
+    "match": "Ulsan Citizen vs Pocheon FC",
+    "league": "Tercera división",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+    },
+    "projected": {
+      "home": 3,
+      "away": 6,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 39,
+      "shotsInsideBox": 16,
+      "attacks": 154,
+      "possession": {
+        "home": 46,
+        "away": 54
+      },
+      "totalShots": 26
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Ulsan Citizen vs Pocheon FC_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Qingdao West Coast vs Shanghai Shenhua",
+      "league": "Superliga",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 6,
+        "away": 3,
+        "total": 9
+      },
+      "projected": {
+        "home": 9,
+        "away": 3,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 46,
+        "shotsInsideBox": 14,
+        "attacks": 196,
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [
+        {
+          "team": "Qingdao West Coast",
+          "line": 6.5,
+          "prob": 79,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Qingdao West Coast 30 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Qingdao West Coast",
+          "line": 7.5,
+          "prob": 68,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Qingdao West Coast 30 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 9,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 9,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:39.493Z",
+    "match": "Qingdao West Coast vs Shanghai Shenhua",
+    "league": "Superliga",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+    },
+    "projected": {
+      "home": 9,
+      "away": 3,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 46,
+      "shotsInsideBox": 14,
+      "attacks": 196,
+      "possession": {
+        "home": 55,
+        "away": 45
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [
+      {
+        "team": "Qingdao West Coast",
+        "line": 6.5,
+        "prob": 79,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Qingdao West Coast 30 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Qingdao West Coast",
+        "line": 7.5,
+        "prob": 68,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Qingdao West Coast 30 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 9,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 9,
+        "projected": 12
+      }
+    ],
+    "key": "Qingdao West Coast vs Shanghai Shenhua_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Sidama Bunna vs Adama Kenema",
+      "league": "Premier",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:39.901Z",
+    "match": "Sidama Bunna vs Adama Kenema",
+    "league": "Premier",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Sidama Bunna vs Adama Kenema_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Albergaria (F) vs Marítimo (F)",
+      "league": "Liga BPI - Repechaje",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "projected": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "stats": {
+        "crosses": 59,
+        "shotsInsideBox": 11,
+        "attacks": 234,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:39.998Z",
+    "match": "Albergaria (F) vs Marítimo (F)",
+    "league": "Liga BPI - Repechaje",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 1,
+      "away": 1,
+      "total": 2
+    },
+    "projected": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "stats": {
+      "crosses": 59,
+      "shotsInsideBox": 11,
+      "attacks": 234,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Albergaria (F) vs Marítimo (F)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Kyoto vs Kashiwa Reysol",
+      "league": "J LEAGUE - Puesto de",
+      "minute": 90,
+      "score": "2-6",
+      "dataQuality": "real",
+      "corners": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "projected": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 14,
+        "attacks": 176,
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "totalShots": 28
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:40.099Z",
+    "match": "Kyoto vs Kashiwa Reysol",
+    "league": "J LEAGUE - Puesto de",
+    "minute": 90,
+    "score": "2-6",
+    "corners": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "projected": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 14,
+      "attacks": 176,
+      "possession": {
+        "home": 54,
+        "away": 46
+      },
+      "totalShots": 28
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Kyoto vs Kashiwa Reysol_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Dynamic Herb Cebu Fc vs Kaya",
+      "league": "PFL",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 13,
+        "total": 14
+      },
+      "projected": {
+        "home": 1,
+        "away": 16,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 36,
+        "shotsInsideBox": 0,
+        "attacks": 144,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:40.191Z",
+    "match": "Dynamic Herb Cebu Fc vs Kaya",
+    "league": "PFL",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 1,
+      "away": 13,
+      "total": 14
+    },
+    "projected": {
+      "home": 1,
+      "away": 16,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 36,
+      "shotsInsideBox": 0,
+      "attacks": 144,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Dynamic Herb Cebu Fc vs Kaya_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Tainan City F.C vs Hang Yuen",
+      "league": "Premier",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 8,
+        "away": 7,
+        "total": 15
+      },
+      "projected": {
+        "home": 8,
+        "away": 13,
+        "total": 21
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 0,
+        "attacks": 131,
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [
+        {
+          "team": "Hang Yuen",
+          "line": 7.5,
+          "prob": 95,
+          "current": 7,
+          "projected": 13,
+          "side": "away",
+          "reasoning": "Hang Yuen 20 centros, 0 tiros área, 59% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:40.459Z",
+    "match": "Tainan City F.C vs Hang Yuen",
+    "league": "Premier",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 8,
+      "away": 7,
+      "total": 15
+    },
+    "projected": {
+      "home": 8,
+      "away": 13,
+      "total": 21
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 0,
+      "attacks": 131,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [
+      {
+        "team": "Hang Yuen",
+        "line": 7.5,
+        "prob": 95,
+        "current": 7,
+        "projected": 13,
+        "side": "away",
+        "reasoning": "Hang Yuen 20 centros, 0 tiros área, 59% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Tainan City F.C vs Hang Yuen_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "LjungSKile SK vs Varbergs BoIS",
+      "league": "Superettan",
+      "minute": 90,
+      "score": "1-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 5,
+        "total": 6
+      },
+      "projected": {
+        "home": 1,
+        "away": 5,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 51,
+        "shotsInsideBox": 14,
+        "attacks": 203,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 24
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:40.867Z",
+    "match": "LjungSKile SK vs Varbergs BoIS",
+    "league": "Superettan",
+    "minute": 90,
+    "score": "1-3",
+    "corners": {
+      "home": 1,
+      "away": 5,
+      "total": 6
+    },
+    "projected": {
+      "home": 1,
+      "away": 5,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 51,
+      "shotsInsideBox": 14,
+      "attacks": 203,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 24
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "LjungSKile SK vs Varbergs BoIS_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Landskrona Bois vs IK Brage",
+      "league": "Superettan",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 12,
+        "away": 5,
+        "total": 17
+      },
+      "projected": {
+        "home": 23,
+        "away": 5,
+        "total": 28
+      },
+      "stats": {
+        "crosses": 59,
+        "shotsInsideBox": 16,
+        "attacks": 233,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 26
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:40.972Z",
+    "match": "Landskrona Bois vs IK Brage",
+    "league": "Superettan",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 12,
+      "away": 5,
+      "total": 17
+    },
+    "projected": {
+      "home": 23,
+      "away": 5,
+      "total": 28
+    },
+    "stats": {
+      "crosses": 59,
+      "shotsInsideBox": 16,
+      "attacks": 233,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 26
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Landskrona Bois vs IK Brage_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Henan vs Zhejiang",
+      "league": "Superliga",
+      "minute": 90,
+      "score": "0-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 7,
+        "away": 1,
+        "total": 8
+      },
+      "projected": {
+        "home": 16,
+        "away": 1,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 20,
+        "attacks": 189,
+        "possession": {
+          "home": 65,
+          "away": 35
+        },
+        "totalShots": 26
+      },
+      "teamAlerts": [
+        {
+          "team": "Henan",
+          "line": 7.5,
+          "prob": 95,
+          "current": 7,
+          "projected": 16,
+          "side": "home",
+          "reasoning": "Henan 33 centros, 16 tiros área, 65% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 17
+        },
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 17
+        },
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 17
+        },
+        {
+          "line": 11.5,
+          "prob": 92,
+          "current": 8,
+          "projected": 17
+        },
+        {
+          "line": 12.5,
+          "prob": 86,
+          "current": 8,
+          "projected": 17
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:41.077Z",
+    "match": "Henan vs Zhejiang",
+    "league": "Superliga",
+    "minute": 90,
+    "score": "0-2",
+    "corners": {
+      "home": 7,
+      "away": 1,
+      "total": 8
+    },
+    "projected": {
+      "home": 16,
+      "away": 1,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 20,
+      "attacks": 189,
+      "possession": {
+        "home": 65,
+        "away": 35
+      },
+      "totalShots": 26
+    },
+    "teamAlerts": [
+      {
+        "team": "Henan",
+        "line": 7.5,
+        "prob": 95,
+        "current": 7,
+        "projected": 16,
+        "side": "home",
+        "reasoning": "Henan 33 centros, 16 tiros área, 65% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 17
+      },
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 17
+      },
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 17
+      },
+      {
+        "line": 11.5,
+        "prob": 92,
+        "current": 8,
+        "projected": 17
+      },
+      {
+        "line": 12.5,
+        "prob": 86,
+        "current": 8,
+        "projected": 17
+      }
+    ],
+    "key": "Henan vs Zhejiang_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "FK Arsenal Dzerzhinsk vs Dinamo Minsk",
+      "league": "Vysshaya Liga",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 6,
+        "total": 13
+      },
+      "projected": {
+        "home": 7,
+        "away": 12,
+        "total": 19
+      },
+      "stats": {
+        "crosses": 42,
+        "shotsInsideBox": 11,
+        "attacks": 165,
+        "possession": {
+          "home": 34,
+          "away": 66
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [
+        {
+          "team": "Dinamo Minsk",
+          "line": 6.5,
+          "prob": 95,
+          "current": 6,
+          "projected": 12,
+          "side": "away",
+          "reasoning": "Dinamo Minsk 25 centros, 7 tiros área, 66% posesión"
+        },
+        {
+          "team": "Dinamo Minsk",
+          "line": 7.5,
+          "prob": 91,
+          "current": 6,
+          "projected": 12,
+          "side": "away",
+          "reasoning": "Dinamo Minsk 25 centros, 7 tiros área, 66% posesión"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:41.509Z",
+    "match": "FK Arsenal Dzerzhinsk vs Dinamo Minsk",
+    "league": "Vysshaya Liga",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 7,
+      "away": 6,
+      "total": 13
+    },
+    "projected": {
+      "home": 7,
+      "away": 12,
+      "total": 19
+    },
+    "stats": {
+      "crosses": 42,
+      "shotsInsideBox": 11,
+      "attacks": 165,
+      "possession": {
+        "home": 34,
+        "away": 66
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [
+      {
+        "team": "Dinamo Minsk",
+        "line": 6.5,
+        "prob": 95,
+        "current": 6,
+        "projected": 12,
+        "side": "away",
+        "reasoning": "Dinamo Minsk 25 centros, 7 tiros área, 66% posesión"
+      },
+      {
+        "team": "Dinamo Minsk",
+        "line": 7.5,
+        "prob": 91,
+        "current": 6,
+        "projected": 12,
+        "side": "away",
+        "reasoning": "Dinamo Minsk 25 centros, 7 tiros área, 66% posesión"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "FK Arsenal Dzerzhinsk vs Dinamo Minsk_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Suzhou Dongwu vs Wuxi Wugou",
+      "league": "League One",
+      "minute": 90,
+      "score": "1-3",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "projected": {
+        "home": 5,
+        "away": 9,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 41,
+        "shotsInsideBox": 14,
+        "attacks": 394,
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "totalShots": 21
+      },
+      "teamAlerts": [
+        {
+          "team": "Wuxi Wugou",
+          "line": 7.5,
+          "prob": 68,
+          "current": 7,
+          "projected": 9,
+          "side": "away",
+          "reasoning": "Wuxi Wugou 18 centros, 9 tiros área, 59% posesión"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 12,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:41.914Z",
+    "match": "Suzhou Dongwu vs Wuxi Wugou",
+    "league": "League One",
+    "minute": 90,
+    "score": "1-3",
+    "corners": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "projected": {
+      "home": 5,
+      "away": 9,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 41,
+      "shotsInsideBox": 14,
+      "attacks": 394,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 21
+    },
+    "teamAlerts": [
+      {
+        "team": "Wuxi Wugou",
+        "line": 7.5,
+        "prob": 68,
+        "current": 7,
+        "projected": 9,
+        "side": "away",
+        "reasoning": "Wuxi Wugou 18 centros, 9 tiros área, 59% posesión"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 12,
+        "projected": 14
+      }
+    ],
+    "key": "Suzhou Dongwu vs Wuxi Wugou_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Dalian K'un City vs Shijiazhuang Gongfu",
+      "league": "League One",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 6,
+        "away": 2,
+        "total": 8
+      },
+      "projected": {
+        "home": 6,
+        "away": 4,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 19,
+        "attacks": 163,
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "totalShots": 26
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 67,
+          "current": 8,
+          "projected": 10
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:42.329Z",
+    "match": "Dalian K'un City vs Shijiazhuang Gongfu",
+    "league": "League One",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 6,
+      "away": 2,
+      "total": 8
+    },
+    "projected": {
+      "home": 6,
+      "away": 4,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 19,
+      "attacks": 163,
+      "possession": {
+        "home": 40,
+        "away": 60
+      },
+      "totalShots": 26
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 67,
+        "current": 8,
+        "projected": 10
+      }
+    ],
+    "key": "Dalian K'un City vs Shijiazhuang Gongfu_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "FK Krasnodar (W) vs CSKA Moskva (W)",
+      "league": "Supreme Division Women",
+      "minute": 90,
+      "score": "0-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 12,
+        "total": 14
+      },
+      "projected": {
+        "home": 3,
+        "away": 12,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:42.729Z",
+    "match": "FK Krasnodar (W) vs CSKA Moskva (W)",
+    "league": "Supreme Division Women",
+    "minute": 90,
+    "score": "0-3",
+    "corners": {
+      "home": 2,
+      "away": 12,
+      "total": 14
+    },
+    "projected": {
+      "home": 3,
+      "away": 12,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FK Krasnodar (W) vs CSKA Moskva (W)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Tauras Taurage vs Hegelmann Litauen Ii",
+      "league": "I Lyga",
+      "minute": 90,
+      "score": "6-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 3,
+        "total": 7
+      },
+      "projected": {
+        "home": 5,
+        "away": 3,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 12,
+        "attacks": 134,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:42.832Z",
+    "match": "Tauras Taurage vs Hegelmann Litauen Ii",
+    "league": "I Lyga",
+    "minute": 90,
+    "score": "6-1",
+    "corners": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+    },
+    "projected": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 12,
+      "attacks": 134,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Tauras Taurage vs Hegelmann Litauen Ii_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Fk Neptunas vs Be1 Nfa",
+      "league": "I Lyga",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "projected": {
+        "home": 3,
+        "away": 5,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 55,
+        "shotsInsideBox": 15,
+        "attacks": 219,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 25
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:42.929Z",
+    "match": "Fk Neptunas vs Be1 Nfa",
+    "league": "I Lyga",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "projected": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 55,
+      "shotsInsideBox": 15,
+      "attacks": 219,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 25
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Fk Neptunas vs Be1 Nfa_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Taborsko vs Banik Ostrava",
+      "league": "Liga checa - Descenso/Ascenso",
+      "minute": 90,
+      "score": "0-5",
+      "dataQuality": "real",
+      "corners": {
+        "home": 0,
+        "away": 4,
+        "total": 4
+      },
+      "projected": {
+        "home": 0,
+        "away": 5,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 24,
+        "shotsInsideBox": 12,
+        "attacks": 145,
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:43.281Z",
+    "match": "Taborsko vs Banik Ostrava",
+    "league": "Liga checa - Descenso/Ascenso",
+    "minute": 90,
+    "score": "0-5",
+    "corners": {
+      "home": 0,
+      "away": 4,
+      "total": 4
+    },
+    "projected": {
+      "home": 0,
+      "away": 5,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 24,
+      "shotsInsideBox": 12,
+      "attacks": 145,
+      "possession": {
+        "home": 42,
+        "away": 58
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Taborsko vs Banik Ostrava_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Džiugas Telšiai vs FK Panevezys",
+      "league": "A Lyga",
+      "minute": 90,
+      "score": "4-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 4,
+        "away": 2,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 39,
+        "shotsInsideBox": 3,
+        "attacks": 156,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 5
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:43.451Z",
+    "match": "Džiugas Telšiai vs FK Panevezys",
+    "league": "A Lyga",
+    "minute": 90,
+    "score": "4-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 4,
+      "away": 2,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 39,
+      "shotsInsideBox": 3,
+      "attacks": 156,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 5
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Džiugas Telšiai vs FK Panevezys_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Pärnu JK Vaprus vs Kalju Nomme",
+      "league": "Meistriliiga",
+      "minute": 90,
+      "score": "3-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 9,
+        "total": 13
+      },
+      "projected": {
+        "home": 5,
+        "away": 9,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 39,
+        "shotsInsideBox": 11,
+        "attacks": 153,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:43.578Z",
+    "match": "Pärnu JK Vaprus vs Kalju Nomme",
+    "league": "Meistriliiga",
+    "minute": 90,
+    "score": "3-1",
+    "corners": {
+      "home": 4,
+      "away": 9,
+      "total": 13
+    },
+    "projected": {
+      "home": 5,
+      "away": 9,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 39,
+      "shotsInsideBox": 11,
+      "attacks": 153,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Pärnu JK Vaprus vs Kalju Nomme_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Harju Jalgpallikool vs Trans Narva",
+      "league": "Meistriliiga",
+      "minute": 90,
+      "score": "3-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 3,
+        "total": 6
+      },
+      "projected": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 72,
+        "shotsInsideBox": 22,
+        "attacks": 286,
+        "possession": {
+          "home": 48,
+          "away": 52
+        },
+        "totalShots": 37
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:43.776Z",
+    "match": "Harju Jalgpallikool vs Trans Narva",
+    "league": "Meistriliiga",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "projected": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 72,
+      "shotsInsideBox": 22,
+      "attacks": 286,
+      "possession": {
+        "home": 48,
+        "away": 52
+      },
+      "totalShots": 37
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Harju Jalgpallikool vs Trans Narva_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Meizhou Wuhua vs Dingnan United",
+      "league": "League One",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 6,
+        "away": 7,
+        "total": 13
+      },
+      "projected": {
+        "home": 9,
+        "away": 7,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 43,
+        "shotsInsideBox": 18,
+        "attacks": 151,
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "totalShots": 32
+      },
+      "teamAlerts": [
+        {
+          "team": "Meizhou Wuhua",
+          "line": 6.5,
+          "prob": 79,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Meizhou Wuhua 20 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Meizhou Wuhua",
+          "line": 7.5,
+          "prob": 68,
+          "current": 6,
+          "projected": 9,
+          "side": "home",
+          "reasoning": "Meizhou Wuhua 20 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:43.939Z",
+    "match": "Meizhou Wuhua vs Dingnan United",
+    "league": "League One",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 6,
+      "away": 7,
+      "total": 13
+    },
+    "projected": {
+      "home": 9,
+      "away": 7,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 43,
+      "shotsInsideBox": 18,
+      "attacks": 151,
+      "possession": {
+        "home": 55,
+        "away": 45
+      },
+      "totalShots": 32
+    },
+    "teamAlerts": [
+      {
+        "team": "Meizhou Wuhua",
+        "line": 6.5,
+        "prob": 79,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Meizhou Wuhua 20 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Meizhou Wuhua",
+        "line": 7.5,
+        "prob": 68,
+        "current": 6,
+        "projected": 9,
+        "side": "home",
+        "reasoning": "Meizhou Wuhua 20 centros, 9 tiros área, 55% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Meizhou Wuhua vs Dingnan United_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Guangxi Hengchen vs Foshan Nanshi F.C.",
+      "league": "League One",
+      "minute": 90,
+      "score": "3-3",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 6,
+        "total": 10
+      },
+      "projected": {
+        "home": 11,
+        "away": 6,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 35,
+        "shotsInsideBox": 20,
+        "attacks": 138,
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "totalShots": 24
+      },
+      "teamAlerts": [
+        {
+          "team": "Guangxi Hengchen",
+          "line": 4.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Guangxi Hengchen",
+          "line": 5.5,
+          "prob": 95,
+          "current": 4,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Guangxi Hengchen",
+          "line": 6.5,
+          "prob": 92,
+          "current": 4,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Guangxi Hengchen",
+          "line": 7.5,
+          "prob": 86,
+          "current": 4,
+          "projected": 11,
+          "side": "home",
+          "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 10,
+          "projected": 17
+        },
+        {
+          "line": 11.5,
+          "prob": 92,
+          "current": 10,
+          "projected": 17
+        },
+        {
+          "line": 12.5,
+          "prob": 86,
+          "current": 10,
+          "projected": 17
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:44.461Z",
+    "match": "Guangxi Hengchen vs Foshan Nanshi F.C.",
+    "league": "League One",
+    "minute": 90,
+    "score": "3-3",
+    "corners": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+    },
+    "projected": {
+      "home": 11,
+      "away": 6,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 20,
+      "attacks": 138,
+      "possession": {
+        "home": 68,
+        "away": 32
+      },
+      "totalShots": 24
+    },
+    "teamAlerts": [
+      {
+        "team": "Guangxi Hengchen",
+        "line": 4.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Guangxi Hengchen",
+        "line": 5.5,
+        "prob": 95,
+        "current": 4,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Guangxi Hengchen",
+        "line": 6.5,
+        "prob": 92,
+        "current": 4,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Guangxi Hengchen",
+        "line": 7.5,
+        "prob": 86,
+        "current": 4,
+        "projected": 11,
+        "side": "home",
+        "reasoning": "Guangxi Hengchen 20 centros, 11 tiros área, 68% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 10,
+        "projected": 17
+      },
+      {
+        "line": 11.5,
+        "prob": 92,
+        "current": 10,
+        "projected": 17
+      },
+      {
+        "line": 12.5,
+        "prob": 86,
+        "current": 10,
+        "projected": 17
+      }
+    ],
+    "key": "Guangxi Hengchen vs Foshan Nanshi F.C._90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Chengdu Rongcheng vs Shandong Taishan",
+      "league": "Superliga",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 2,
+        "total": 7
+      },
+      "projected": {
+        "home": 5,
+        "away": 3,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 36,
+        "shotsInsideBox": 17,
+        "attacks": 209,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 31
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:44.924Z",
+    "match": "Chengdu Rongcheng vs Shandong Taishan",
+    "league": "Superliga",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 5,
+      "away": 2,
+      "total": 7
+    },
+    "projected": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 36,
+      "shotsInsideBox": 17,
+      "attacks": 209,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 31
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Chengdu Rongcheng vs Shandong Taishan_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "HJK Helsinki vs IFK Mariehamn",
+      "league": "Veikkausliiga",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 7,
+        "away": 1,
+        "total": 8
+      },
+      "projected": {
+        "home": 12,
+        "away": 1,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 35,
+        "shotsInsideBox": 22,
+        "attacks": 171,
+        "possession": {
+          "home": 63,
+          "away": 37
+        },
+        "totalShots": 33
+      },
+      "teamAlerts": [
+        {
+          "team": "HJK Helsinki",
+          "line": 7.5,
+          "prob": 91,
+          "current": 7,
+          "projected": 12,
+          "side": "home",
+          "reasoning": "HJK Helsinki 20 centros, 12 tiros área, 63% posesión"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 90,
+          "current": 8,
+          "projected": 13
+        },
+        {
+          "line": 9.5,
+          "prob": 83,
+          "current": 8,
+          "projected": 13
+        },
+        {
+          "line": 10.5,
+          "prob": 75,
+          "current": 8,
+          "projected": 13
+        },
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 8,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:45.022Z",
+    "match": "HJK Helsinki vs IFK Mariehamn",
+    "league": "Veikkausliiga",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 7,
+      "away": 1,
+      "total": 8
+    },
+    "projected": {
+      "home": 12,
+      "away": 1,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 22,
+      "attacks": 171,
+      "possession": {
+        "home": 63,
+        "away": 37
+      },
+      "totalShots": 33
+    },
+    "teamAlerts": [
+      {
+        "team": "HJK Helsinki",
+        "line": 7.5,
+        "prob": 91,
+        "current": 7,
+        "projected": 12,
+        "side": "home",
+        "reasoning": "HJK Helsinki 20 centros, 12 tiros área, 63% posesión"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 90,
+        "current": 8,
+        "projected": 13
+      },
+      {
+        "line": 9.5,
+        "prob": 83,
+        "current": 8,
+        "projected": 13
+      },
+      {
+        "line": 10.5,
+        "prob": 75,
+        "current": 8,
+        "projected": 13
+      },
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 8,
+        "projected": 13
+      }
+    ],
+    "key": "HJK Helsinki vs IFK Mariehamn_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Kolkheti Poti vs Sioni Bolnisi",
+      "league": "Erovnuli Liga 2",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 10,
+        "total": 13
+      },
+      "projected": {
+        "home": 3,
+        "away": 19,
+        "total": 22
+      },
+      "stats": {
+        "crosses": 20,
+        "shotsInsideBox": 0,
+        "attacks": 80,
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:45.458Z",
+    "match": "Kolkheti Poti vs Sioni Bolnisi",
+    "league": "Erovnuli Liga 2",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 3,
+      "away": 10,
+      "total": 13
+    },
+    "projected": {
+      "home": 3,
+      "away": 19,
+      "total": 22
+    },
+    "stats": {
+      "crosses": 20,
+      "shotsInsideBox": 0,
+      "attacks": 80,
+      "possession": {
+        "home": 40,
+        "away": 60
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Kolkheti Poti vs Sioni Bolnisi_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Odishi 1919 vs Shturmi",
+      "league": "Erovnuli Liga 2",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 8,
+        "total": 8
+      },
+      "projected": {
+        "home": 0,
+        "away": 16,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 0,
+        "attacks": 132,
+        "possession": {
+          "home": 39,
+          "away": 61
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 16
+        },
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 16
+        },
+        {
+          "line": 10.5,
+          "prob": 92,
+          "current": 8,
+          "projected": 16
+        },
+        {
+          "line": 11.5,
+          "prob": 87,
+          "current": 8,
+          "projected": 16
+        },
+        {
+          "line": 12.5,
+          "prob": 81,
+          "current": 8,
+          "projected": 16
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:45.556Z",
+    "match": "Odishi 1919 vs Shturmi",
+    "league": "Erovnuli Liga 2",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 0,
+      "away": 8,
+      "total": 8
+    },
+    "projected": {
+      "home": 0,
+      "away": 16,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 0,
+      "attacks": 132,
+      "possession": {
+        "home": 39,
+        "away": 61
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 16
+      },
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 16
+      },
+      {
+        "line": 10.5,
+        "prob": 92,
+        "current": 8,
+        "projected": 16
+      },
+      {
+        "line": 11.5,
+        "prob": 87,
+        "current": 8,
+        "projected": 16
+      },
+      {
+        "line": 12.5,
+        "prob": 81,
+        "current": 8,
+        "projected": 16
+      }
+    ],
+    "key": "Odishi 1919 vs Shturmi_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gareji vs Samtredia",
+      "league": "Erovnuli Liga 2",
+      "minute": 90,
+      "score": "3-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 6,
+        "total": 10
+      },
+      "projected": {
+        "home": 4,
+        "away": 9,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 60,
+        "shotsInsideBox": 0,
+        "attacks": 241,
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [
+        {
+          "team": "Samtredia",
+          "line": 6.5,
+          "prob": 79,
+          "current": 6,
+          "projected": 9,
+          "side": "away",
+          "reasoning": "Samtredia 32 centros, 0 tiros área, 55% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Samtredia",
+          "line": 7.5,
+          "prob": 68,
+          "current": 6,
+          "projected": 9,
+          "side": "away",
+          "reasoning": "Samtredia 32 centros, 0 tiros área, 55% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 75,
+          "current": 10,
+          "projected": 13
+        },
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:45.957Z",
+    "match": "Gareji vs Samtredia",
+    "league": "Erovnuli Liga 2",
+    "minute": 90,
+    "score": "3-2",
+    "corners": {
+      "home": 4,
+      "away": 6,
+      "total": 10
+    },
+    "projected": {
+      "home": 4,
+      "away": 9,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 60,
+      "shotsInsideBox": 0,
+      "attacks": 241,
+      "possession": {
+        "home": 45,
+        "away": 55
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [
+      {
+        "team": "Samtredia",
+        "line": 6.5,
+        "prob": 79,
+        "current": 6,
+        "projected": 9,
+        "side": "away",
+        "reasoning": "Samtredia 32 centros, 0 tiros área, 55% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Samtredia",
+        "line": 7.5,
+        "prob": 68,
+        "current": 6,
+        "projected": 9,
+        "side": "away",
+        "reasoning": "Samtredia 32 centros, 0 tiros área, 55% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 75,
+        "current": 10,
+        "projected": 13
+      },
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 13
+      }
+    ],
+    "key": "Gareji vs Samtredia_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Escocia vs Curazao",
+      "league": "Amistoso",
+      "minute": 90,
+      "score": "4-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 8,
+        "away": 2,
+        "total": 10
+      },
+      "projected": {
+        "home": 15,
+        "away": 2,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 45,
+        "shotsInsideBox": 18,
+        "attacks": 188,
+        "possession": {
+          "home": 67,
+          "away": 33
+        },
+        "totalShots": 27
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 10,
+          "projected": 17
+        },
+        {
+          "line": 11.5,
+          "prob": 92,
+          "current": 10,
+          "projected": 17
+        },
+        {
+          "line": 12.5,
+          "prob": 86,
+          "current": 10,
+          "projected": 17
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:46.396Z",
+    "match": "Escocia vs Curazao",
+    "league": "Amistoso",
+    "minute": 90,
+    "score": "4-1",
+    "corners": {
+      "home": 8,
+      "away": 2,
+      "total": 10
+    },
+    "projected": {
+      "home": 15,
+      "away": 2,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 45,
+      "shotsInsideBox": 18,
+      "attacks": 188,
+      "possession": {
+        "home": 67,
+        "away": 33
+      },
+      "totalShots": 27
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 10,
+        "projected": 17
+      },
+      {
+        "line": 11.5,
+        "prob": 92,
+        "current": 10,
+        "projected": 17
+      },
+      {
+        "line": 12.5,
+        "prob": 86,
+        "current": 10,
+        "projected": 17
+      }
+    ],
+    "key": "Escocia vs Curazao_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "FK Liepaja vs FK Tukums 2000",
+      "league": "Virsliga",
+      "minute": 90,
+      "score": "3-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 8,
+        "away": 4,
+        "total": 12
+      },
+      "projected": {
+        "home": 9,
+        "away": 4,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 37,
+        "shotsInsideBox": 24,
+        "attacks": 150,
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "totalShots": 35
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:46.847Z",
+    "match": "FK Liepaja vs FK Tukums 2000",
+    "league": "Virsliga",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 8,
+      "away": 4,
+      "total": 12
+    },
+    "projected": {
+      "home": 9,
+      "away": 4,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 37,
+      "shotsInsideBox": 24,
+      "attacks": 150,
+      "possession": {
+        "home": 56,
+        "away": 44
+      },
+      "totalShots": 35
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FK Liepaja vs FK Tukums 2000_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Shenzhen Peng City vs Qingdao Hainiu",
+      "league": "Superliga",
+      "minute": 90,
+      "score": "3-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 9,
+        "away": 3,
+        "total": 12
+      },
+      "projected": {
+        "home": 9,
+        "away": 4,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 45,
+        "shotsInsideBox": 16,
+        "attacks": 360,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 25
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:46.948Z",
+    "match": "Shenzhen Peng City vs Qingdao Hainiu",
+    "league": "Superliga",
+    "minute": 90,
+    "score": "3-2",
+    "corners": {
+      "home": 9,
+      "away": 3,
+      "total": 12
+    },
+    "projected": {
+      "home": 9,
+      "away": 4,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 45,
+      "shotsInsideBox": 16,
+      "attacks": 360,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 25
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Shenzhen Peng City vs Qingdao Hainiu_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Chongqing Tongliangloong vs Beijing Guoan",
+      "league": "Superliga",
+      "minute": 90,
+      "score": "2-3",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 8,
+        "total": 12
+      },
+      "projected": {
+        "home": 4,
+        "away": 11,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 39,
+        "shotsInsideBox": 23,
+        "attacks": 187,
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "totalShots": 31
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 73,
+          "current": 12,
+          "projected": 15
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:47.063Z",
+    "match": "Chongqing Tongliangloong vs Beijing Guoan",
+    "league": "Superliga",
+    "minute": 90,
+    "score": "2-3",
+    "corners": {
+      "home": 4,
+      "away": 8,
+      "total": 12
+    },
+    "projected": {
+      "home": 4,
+      "away": 11,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 39,
+      "shotsInsideBox": 23,
+      "attacks": 187,
+      "possession": {
+        "home": 43,
+        "away": 57
+      },
+      "totalShots": 31
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 73,
+        "current": 12,
+        "projected": 15
+      }
+    ],
+    "key": "Chongqing Tongliangloong vs Beijing Guoan_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "BFA Vilnius vs FK Lietava Jonava",
+      "league": "I Lyga",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 5,
+        "total": 8
+      },
+      "projected": {
+        "home": 3,
+        "away": 6,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 43,
+        "shotsInsideBox": 12,
+        "attacks": 171,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 20
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:47.746Z",
+    "match": "BFA Vilnius vs FK Lietava Jonava",
+    "league": "I Lyga",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 5,
+      "total": 8
+    },
+    "projected": {
+      "home": 3,
+      "away": 6,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 43,
+      "shotsInsideBox": 12,
+      "attacks": 171,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 20
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "BFA Vilnius vs FK Lietava Jonava_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Banga Gargzdai vs Siauliai",
+      "league": "A Lyga",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "projected": {
+        "home": 4,
+        "away": 12,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 47,
+        "shotsInsideBox": 23,
+        "attacks": 186,
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "totalShots": 37
+      },
+      "teamAlerts": [
+        {
+          "team": "Siauliai",
+          "line": 7.5,
+          "prob": 91,
+          "current": 7,
+          "projected": 12,
+          "side": "away",
+          "reasoning": "Siauliai 25 centros, 10 tiros área, 58% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 87,
+          "current": 11,
+          "projected": 16
+        },
+        {
+          "line": 12.5,
+          "prob": 81,
+          "current": 11,
+          "projected": 16
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:48.044Z",
+    "match": "Banga Gargzdai vs Siauliai",
+    "league": "A Lyga",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "projected": {
+      "home": 4,
+      "away": 12,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 47,
+      "shotsInsideBox": 23,
+      "attacks": 186,
+      "possession": {
+        "home": 42,
+        "away": 58
+      },
+      "totalShots": 37
+    },
+    "teamAlerts": [
+      {
+        "team": "Siauliai",
+        "line": 7.5,
+        "prob": 91,
+        "current": 7,
+        "projected": 12,
+        "side": "away",
+        "reasoning": "Siauliai 25 centros, 10 tiros área, 58% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 87,
+        "current": 11,
+        "projected": 16
+      },
+      {
+        "line": 12.5,
+        "prob": 81,
+        "current": 11,
+        "projected": 16
+      }
+    ],
+    "key": "Banga Gargzdai vs Siauliai_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Lisse vs ADO 20",
+      "league": "Tweede Divisie - Descenso/Ascenso",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 8,
+        "away": 3,
+        "total": 11
+      },
+      "projected": {
+        "home": 16,
+        "away": 3,
+        "total": 19
+      },
+      "stats": {
+        "crosses": 53,
+        "shotsInsideBox": 9,
+        "attacks": 211,
+        "possession": {
+          "home": 61,
+          "away": 39
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 11,
+          "projected": 19
+        },
+        {
+          "line": 12.5,
+          "prob": 94,
+          "current": 11,
+          "projected": 19
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:48.456Z",
+    "match": "Lisse vs ADO 20",
+    "league": "Tweede Divisie - Descenso/Ascenso",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 8,
+      "away": 3,
+      "total": 11
+    },
+    "projected": {
+      "home": 16,
+      "away": 3,
+      "total": 19
+    },
+    "stats": {
+      "crosses": 53,
+      "shotsInsideBox": 9,
+      "attacks": 211,
+      "possession": {
+        "home": 61,
+        "away": 39
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 11,
+        "projected": 19
+      },
+      {
+        "line": 12.5,
+        "prob": 94,
+        "current": 11,
+        "projected": 19
+      }
+    ],
+    "key": "Lisse vs ADO 20_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Excelsior Maassluis vs VVSB",
+      "league": "Tweede Divisie - Descenso/Ascenso",
+      "minute": 90,
+      "score": "3-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 7,
+        "total": 9
+      },
+      "projected": {
+        "home": 2,
+        "away": 10,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 56,
+        "shotsInsideBox": 10,
+        "attacks": 223,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [
+        {
+          "team": "VVSB",
+          "line": 7.5,
+          "prob": 78,
+          "current": 7,
+          "projected": 10,
+          "side": "away",
+          "reasoning": "VVSB 29 centros, 6 tiros área, 53% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 9,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 9,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:48.859Z",
+    "match": "Excelsior Maassluis vs VVSB",
+    "league": "Tweede Divisie - Descenso/Ascenso",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 2,
+      "away": 7,
+      "total": 9
+    },
+    "projected": {
+      "home": 2,
+      "away": 10,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 56,
+      "shotsInsideBox": 10,
+      "attacks": 223,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [
+      {
+        "team": "VVSB",
+        "line": 7.5,
+        "prob": 78,
+        "current": 7,
+        "projected": 10,
+        "side": "away",
+        "reasoning": "VVSB 29 centros, 6 tiros área, 53% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 9,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 9,
+        "projected": 12
+      }
+    ],
+    "key": "Excelsior Maassluis vs VVSB_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Malmö FF vs Halmstad",
+      "league": "Allsvenskan",
+      "minute": 90,
+      "score": "5-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 5,
+        "total": 9
+      },
+      "projected": {
+        "home": 7,
+        "away": 5,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 32,
+        "shotsInsideBox": 25,
+        "attacks": 141,
+        "possession": {
+          "home": 66,
+          "away": 34
+        },
+        "totalShots": 33
+      },
+      "teamAlerts": [
+        {
+          "team": "Malmö FF",
+          "line": 4.5,
+          "prob": 83,
+          "current": 4,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Malmö FF 16 centros, 15 tiros área, 66% posesión"
+        },
+        {
+          "team": "Malmö FF",
+          "line": 5.5,
+          "prob": 70,
+          "current": 4,
+          "projected": 7,
+          "side": "home",
+          "reasoning": "Malmö FF 16 centros, 15 tiros área, 66% posesión"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 9,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 9,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:49.273Z",
+    "match": "Malmö FF vs Halmstad",
+    "league": "Allsvenskan",
+    "minute": 90,
+    "score": "5-2",
+    "corners": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+    },
+    "projected": {
+      "home": 7,
+      "away": 5,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 32,
+      "shotsInsideBox": 25,
+      "attacks": 141,
+      "possession": {
+        "home": 66,
+        "away": 34
+      },
+      "totalShots": 33
+    },
+    "teamAlerts": [
+      {
+        "team": "Malmö FF",
+        "line": 4.5,
+        "prob": 83,
+        "current": 4,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Malmö FF 16 centros, 15 tiros área, 66% posesión"
+      },
+      {
+        "team": "Malmö FF",
+        "line": 5.5,
+        "prob": 70,
+        "current": 4,
+        "projected": 7,
+        "side": "home",
+        "reasoning": "Malmö FF 16 centros, 15 tiros área, 66% posesión"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 9,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 9,
+        "projected": 12
+      }
+    ],
+    "key": "Malmö FF vs Halmstad_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gais vs Kalmar FF",
+      "league": "Allsvenskan",
+      "minute": 90,
+      "score": "3-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 8,
+        "away": 3,
+        "total": 11
+      },
+      "projected": {
+        "home": 8,
+        "away": 4,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 16,
+        "attacks": 154,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 28
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:49.699Z",
+    "match": "Gais vs Kalmar FF",
+    "league": "Allsvenskan",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 8,
+      "away": 3,
+      "total": 11
+    },
+    "projected": {
+      "home": 8,
+      "away": 4,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 16,
+      "attacks": 154,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 28
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Gais vs Kalmar FF_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "AIK Solna vs Sirius",
+      "league": "Allsvenskan",
+      "minute": 90,
+      "score": "0-3",
+      "dataQuality": "real",
+      "corners": {
+        "home": 9,
+        "away": 3,
+        "total": 12
+      },
+      "projected": {
+        "home": 15,
+        "away": 3,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 32,
+        "shotsInsideBox": 20,
+        "attacks": 150,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 30
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 91,
+          "current": 12,
+          "projected": 18
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:49.800Z",
+    "match": "AIK Solna vs Sirius",
+    "league": "Allsvenskan",
+    "minute": 90,
+    "score": "0-3",
+    "corners": {
+      "home": 9,
+      "away": 3,
+      "total": 12
+    },
+    "projected": {
+      "home": 15,
+      "away": 3,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 32,
+      "shotsInsideBox": 20,
+      "attacks": 150,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 30
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 91,
+        "current": 12,
+        "projected": 18
+      }
+    ],
+    "key": "AIK Solna vs Sirius_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "IK Uppsala (F) vs AIK (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 11,
+        "total": 12
+      },
+      "projected": {
+        "home": 1,
+        "away": 19,
+        "total": 20
+      },
+      "stats": {
+        "crosses": 49,
+        "shotsInsideBox": 9,
+        "attacks": 195,
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "totalShots": 15
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 95,
+          "current": 12,
+          "projected": 20
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:50.212Z",
+    "match": "IK Uppsala (F) vs AIK (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 1,
+      "away": 11,
+      "total": 12
+    },
+    "projected": {
+      "home": 1,
+      "away": 19,
+      "total": 20
+    },
+    "stats": {
+      "crosses": 49,
+      "shotsInsideBox": 9,
+      "attacks": 195,
+      "possession": {
+        "home": 42,
+        "away": 58
+      },
+      "totalShots": 15
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 95,
+        "current": 12,
+        "projected": 20
+      }
+    ],
+    "key": "IK Uppsala (F) vs AIK (F)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Norrkoping (F) vs Pitea (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 3,
+        "total": 10
+      },
+      "projected": {
+        "home": 10,
+        "away": 3,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 63,
+        "shotsInsideBox": 6,
+        "attacks": 254,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 10
+      },
+      "teamAlerts": [
+        {
+          "team": "Norrkoping (F)",
+          "line": 7.5,
+          "prob": 78,
+          "current": 7,
+          "projected": 10,
+          "side": "home",
+          "reasoning": "Norrkoping (F) 37 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 75,
+          "current": 10,
+          "projected": 13
+        },
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:50.622Z",
+    "match": "Norrkoping (F) vs Pitea (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 7,
+      "away": 3,
+      "total": 10
+    },
+    "projected": {
+      "home": 10,
+      "away": 3,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 63,
+      "shotsInsideBox": 6,
+      "attacks": 254,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 10
+    },
+    "teamAlerts": [
+      {
+        "team": "Norrkoping (F)",
+        "line": 7.5,
+        "prob": 78,
+        "current": 7,
+        "projected": 10,
+        "side": "home",
+        "reasoning": "Norrkoping (F) 37 centros, 3 tiros área, 53% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 75,
+        "current": 10,
+        "projected": 13
+      },
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 13
+      }
+    ],
+    "key": "Norrkoping (F) vs Pitea (F)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Djurgardens (F) vs Eskilstuna United DFF (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 9,
+        "away": 8,
+        "total": 17
+      },
+      "projected": {
+        "home": 15,
+        "away": 8,
+        "total": 23
+      },
+      "stats": {
+        "crosses": 23,
+        "shotsInsideBox": 12,
+        "attacks": 91,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 21
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:51.054Z",
+    "match": "Djurgardens (F) vs Eskilstuna United DFF (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 9,
+      "away": 8,
+      "total": 17
+    },
+    "projected": {
+      "home": 15,
+      "away": 8,
+      "total": 23
+    },
+    "stats": {
+      "crosses": 23,
+      "shotsInsideBox": 12,
+      "attacks": 91,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 21
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Djurgardens (F) vs Eskilstuna United DFF (F)_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Falkenbergs FF vs IK Oddevold",
+      "league": "Superettan",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 8,
+        "total": 11
+      },
+      "projected": {
+        "home": 3,
+        "away": 15,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 50,
+        "shotsInsideBox": 15,
+        "attacks": 198,
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "totalShots": 25
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 11,
+          "projected": 18
+        },
+        {
+          "line": 12.5,
+          "prob": 91,
+          "current": 11,
+          "projected": 18
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:51.157Z",
+    "match": "Falkenbergs FF vs IK Oddevold",
+    "league": "Superettan",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 3,
+      "away": 8,
+      "total": 11
+    },
+    "projected": {
+      "home": 3,
+      "away": 15,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 50,
+      "shotsInsideBox": 15,
+      "attacks": 198,
+      "possession": {
+        "home": 40,
+        "away": 60
+      },
+      "totalShots": 25
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 11,
+        "projected": 18
+      },
+      {
+        "line": 12.5,
+        "prob": 91,
+        "current": 11,
+        "projected": 18
+      }
+    ],
+    "key": "Falkenbergs FF vs IK Oddevold_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "GIF Sundsvall vs Sandvikens IF",
+      "league": "Superettan",
+      "minute": 90,
+      "score": "0-3",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 3,
+        "total": 10
+      },
+      "projected": {
+        "home": 8,
+        "away": 3,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 37,
+        "shotsInsideBox": 7,
+        "attacks": 147,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 12
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:51.566Z",
+    "match": "GIF Sundsvall vs Sandvikens IF",
+    "league": "Superettan",
+    "minute": 90,
+    "score": "0-3",
+    "corners": {
+      "home": 7,
+      "away": 3,
+      "total": 10
+    },
+    "projected": {
+      "home": 8,
+      "away": 3,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 37,
+      "shotsInsideBox": 7,
+      "attacks": 147,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 12
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "GIF Sundsvall vs Sandvikens IF_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Neman Grodno vs FC ML Vitebsk",
+      "league": "Vysshaya Liga",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 3,
+        "total": 7
+      },
+      "projected": {
+        "home": 4,
+        "away": 4,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 34,
+        "shotsInsideBox": 11,
+        "attacks": 0,
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:51.675Z",
+    "match": "Neman Grodno vs FC ML Vitebsk",
+    "league": "Vysshaya Liga",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+    },
+    "projected": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 34,
+      "shotsInsideBox": 11,
+      "attacks": 0,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Neman Grodno vs FC ML Vitebsk_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Gomel vs Dinamo Brest",
+      "league": "Vysshaya Liga",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 3,
+        "total": 5
+      },
+      "projected": {
+        "home": 2,
+        "away": 5,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 50,
+        "shotsInsideBox": 12,
+        "attacks": 199,
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "totalShots": 20
+      },
+      "teamAlerts": [
+        {
+          "team": "Dinamo Brest",
+          "line": 3.5,
+          "prob": 73,
+          "current": 3,
+          "projected": 5,
+          "side": "away",
+          "reasoning": "Dinamo Brest 29 centros, 5 tiros área, 55% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:51.776Z",
+    "match": "Gomel vs Dinamo Brest",
+    "league": "Vysshaya Liga",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 2,
+      "away": 3,
+      "total": 5
+    },
+    "projected": {
+      "home": 2,
+      "away": 5,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 50,
+      "shotsInsideBox": 12,
+      "attacks": 199,
+      "possession": {
+        "home": 45,
+        "away": 55
+      },
+      "totalShots": 20
+    },
+    "teamAlerts": [
+      {
+        "team": "Dinamo Brest",
+        "line": 3.5,
+        "prob": 73,
+        "current": 3,
+        "projected": 5,
+        "side": "away",
+        "reasoning": "Dinamo Brest 29 centros, 5 tiros área, 55% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Gomel vs Dinamo Brest_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Aalborg vs HB Køge",
+      "league": "1st Division -",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "projected": {
+        "home": 4,
+        "away": 1,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 9,
+        "attacks": 175,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:52.182Z",
+    "match": "Aalborg vs HB Køge",
+    "league": "1st Division -",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "projected": {
+      "home": 4,
+      "away": 1,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 9,
+      "attacks": 175,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Aalborg vs HB Køge_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "B93 Copenhagen vs Aarhus Fremad",
+      "league": "1st Division -",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 9,
+        "away": 3,
+        "total": 12
+      },
+      "projected": {
+        "home": 15,
+        "away": 3,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 21,
+        "attacks": 195,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 27
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 91,
+          "current": 12,
+          "projected": 18
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:52.288Z",
+    "match": "B93 Copenhagen vs Aarhus Fremad",
+    "league": "1st Division -",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 9,
+      "away": 3,
+      "total": 12
+    },
+    "projected": {
+      "home": 15,
+      "away": 3,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 21,
+      "attacks": 195,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 27
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 91,
+        "current": 12,
+        "projected": 18
+      }
+    ],
+    "key": "B93 Copenhagen vs Aarhus Fremad_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Hobro vs Middlefart",
+      "league": "1st Division -",
+      "minute": 90,
+      "score": "3-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 4,
+        "total": 9
+      },
+      "projected": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 28,
+        "shotsInsideBox": 16,
+        "attacks": 0,
+        "possession": {
+          "home": 43,
+          "away": 57
+        },
+        "totalShots": 22
+      },
+      "teamAlerts": [
+        {
+          "team": "Middlefart",
+          "line": 4.5,
+          "prob": 83,
+          "current": 4,
+          "projected": 7,
+          "side": "away",
+          "reasoning": "Middlefart 15 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+        },
+        {
+          "team": "Middlefart",
+          "line": 5.5,
+          "prob": 70,
+          "current": 4,
+          "projected": 7,
+          "side": "away",
+          "reasoning": "Middlefart 15 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 76,
+          "current": 9,
+          "projected": 12
+        },
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 9,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:52.682Z",
+    "match": "Hobro vs Middlefart",
+    "league": "1st Division -",
+    "minute": 90,
+    "score": "3-2",
+    "corners": {
+      "home": 5,
+      "away": 4,
+      "total": 9
+    },
+    "projected": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 28,
+      "shotsInsideBox": 16,
+      "attacks": 0,
+      "possession": {
+        "home": 43,
+        "away": 57
+      },
+      "totalShots": 22
+    },
+    "teamAlerts": [
+      {
+        "team": "Middlefart",
+        "line": 4.5,
+        "prob": 83,
+        "current": 4,
+        "projected": 7,
+        "side": "away",
+        "reasoning": "Middlefart 15 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "Middlefart",
+        "line": 5.5,
+        "prob": 70,
+        "current": 4,
+        "projected": 7,
+        "side": "away",
+        "reasoning": "Middlefart 15 centros, 4 tiros área, 57% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 76,
+        "current": 9,
+        "projected": 12
+      },
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 9,
+        "projected": 12
+      }
+    ],
+    "key": "Hobro vs Middlefart_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Welwalo Adigrat Uni vs Ethiopian Insurance",
+      "league": "Premier",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 6,
+        "total": 8
+      },
+      "projected": {
+        "home": 2,
+        "away": 16,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 18,
+        "shotsInsideBox": 6,
+        "attacks": 0,
+        "possession": {
+          "home": 32,
+          "away": 68
+        },
+        "totalShots": 10
+      },
+      "teamAlerts": [
+        {
+          "team": "Ethiopian Insurance",
+          "line": 6.5,
+          "prob": 95,
+          "current": 6,
+          "projected": 16,
+          "side": "away",
+          "reasoning": "Ethiopian Insurance 11 centros, 4 tiros área, 68% posesión | empate, busca el gol"
+        },
+        {
+          "team": "Ethiopian Insurance",
+          "line": 7.5,
+          "prob": 95,
+          "current": 6,
+          "projected": 16,
+          "side": "away",
+          "reasoning": "Ethiopian Insurance 11 centros, 4 tiros área, 68% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": [
+        {
+          "line": 8.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 18
+        },
+        {
+          "line": 9.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 18
+        },
+        {
+          "line": 10.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 18
+        },
+        {
+          "line": 11.5,
+          "prob": 95,
+          "current": 8,
+          "projected": 18
+        },
+        {
+          "line": 12.5,
+          "prob": 91,
+          "current": 8,
+          "projected": 18
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:53.179Z",
+    "match": "Welwalo Adigrat Uni vs Ethiopian Insurance",
+    "league": "Premier",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 2,
+      "away": 6,
+      "total": 8
+    },
+    "projected": {
+      "home": 2,
+      "away": 16,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 18,
+      "shotsInsideBox": 6,
+      "attacks": 0,
+      "possession": {
+        "home": 32,
+        "away": 68
+      },
+      "totalShots": 10
+    },
+    "teamAlerts": [
+      {
+        "team": "Ethiopian Insurance",
+        "line": 6.5,
+        "prob": 95,
+        "current": 6,
+        "projected": 16,
+        "side": "away",
+        "reasoning": "Ethiopian Insurance 11 centros, 4 tiros área, 68% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Ethiopian Insurance",
+        "line": 7.5,
+        "prob": 95,
+        "current": 6,
+        "projected": 16,
+        "side": "away",
+        "reasoning": "Ethiopian Insurance 11 centros, 4 tiros área, 68% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 8.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 18
+      },
+      {
+        "line": 9.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 18
+      },
+      {
+        "line": 10.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 18
+      },
+      {
+        "line": 11.5,
+        "prob": 95,
+        "current": 8,
+        "projected": 18
+      },
+      {
+        "line": 12.5,
+        "prob": 91,
+        "current": 8,
+        "projected": 18
+      }
+    ],
+    "key": "Welwalo Adigrat Uni vs Ethiopian Insurance_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Mekelle Kenema vs Bahir Dar Kenema",
+      "league": "Premier",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 3,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 23,
+        "shotsInsideBox": 8,
+        "attacks": 0,
+        "possession": {
+          "home": 48,
+          "away": 52
+        },
+        "totalShots": 13
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:53.574Z",
+    "match": "Mekelle Kenema vs Bahir Dar Kenema",
+    "league": "Premier",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 23,
+      "shotsInsideBox": 8,
+      "attacks": 0,
+      "possession": {
+        "home": 48,
+        "away": 52
+      },
+      "totalShots": 13
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Mekelle Kenema vs Bahir Dar Kenema_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Manila Digger vs One Taguig",
+      "league": "PFL",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "projected": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 0,
+        "attacks": 123,
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:53.672Z",
+    "match": "Manila Digger vs One Taguig",
+    "league": "PFL",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "projected": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 0,
+      "attacks": 123,
+      "possession": {
+        "home": 55,
+        "away": 45
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Manila Digger vs One Taguig_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Racing Club Montevideo vs Defensor Sporting",
+      "league": "Liga AUF Uruguaya -",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 10,
+        "away": 1,
+        "total": 11
+      },
+      "projected": {
+        "home": 13,
+        "away": 1,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 55,
+        "shotsInsideBox": 7,
+        "attacks": 220,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 12
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 74,
+          "current": 11,
+          "projected": 14
+        },
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 11,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-05-30T22:46:53.780Z",
+    "match": "Racing Club Montevideo vs Defensor Sporting",
+    "league": "Liga AUF Uruguaya -",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 10,
+      "away": 1,
+      "total": 11
+    },
+    "projected": {
+      "home": 13,
+      "away": 1,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 55,
+      "shotsInsideBox": 7,
+      "attacks": 220,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 12
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 74,
+        "current": 11,
+        "projected": 14
+      },
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 11,
+        "projected": 14
+      }
+    ],
+    "key": "Racing Club Montevideo vs Defensor Sporting_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  },
+  {
+    "result": {
+      "match": "Croacia Sub21 vs Grecia Sub-21",
+      "league": "Amistoso Internacional Sub21",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 7,
+        "total": 13
+      },
+      "projected": {
+        "home": 8,
+        "away": 8,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 45,
+        "shotsInsideBox": 11,
+        "attacks": 181,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [
+        {
+          "team": "Croacia Sub21",
+          "line": 6.5,
+          "prob": 69,
+          "current": 6,
+          "projected": 8,
+          "side": "home",
+          "reasoning": "Croacia Sub21 23 centros, 7 tiros área, 52% posesión | empate, busca el gol"
+        }
+      ],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-05-30T22:46:54.186Z",
+    "match": "Croacia Sub21 vs Grecia Sub-21",
+    "league": "Amistoso Internacional Sub21",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 6,
+      "away": 7,
+      "total": 13
+    },
+    "projected": {
+      "home": 8,
+      "away": 8,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 45,
+      "shotsInsideBox": 11,
+      "attacks": 181,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [
+      {
+        "team": "Croacia Sub21",
+        "line": 6.5,
+        "prob": 69,
+        "current": 6,
+        "projected": 8,
+        "side": "home",
+        "reasoning": "Croacia Sub21 23 centros, 7 tiros área, 52% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Croacia Sub21 vs Grecia Sub-21_90",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "name": "corner-agent",
+  "version": "1.0.0",
+  "description": "Live corner prediction agent using 365scores API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["corners", "prediction", "soccer", "betting"],
+  "license": "ISC",
+  "type": "commonjs"
+}
