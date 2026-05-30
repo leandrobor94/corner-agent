@@ -29,19 +29,19 @@ function buildMessage(result) {
 
   if (result.teamAlerts.length > 0) {
     const a = result.teamAlerts[0];
-    msg += `🎯 ${a.team} O${a.line} (${a.prob}% / ${(100/a.prob).toFixed(2)})`;
+    msg += `🎯 ${a.team} O${a.line} (${a.prob}%)`;
     if (result.teamAlerts.length > 1) {
       const b = result.teamAlerts[1];
-      msg += ` | ${b.team} O${b.line} (${b.prob}% / ${(100/b.prob).toFixed(2)})`;
+      msg += ` | ${b.team} O${b.line} (${b.prob}%)`;
     }
     msg += `\n`;
   }
   if (result.totalAlerts.length > 0) {
     const a = result.totalAlerts[0];
-    msg += `🎯 Over ${a.line} (${a.prob}% / ${(100/a.prob).toFixed(2)})`;
+    msg += `🎯 Over ${a.line} (${a.prob}%)`;
     if (result.totalAlerts.length > 1) {
       const b = result.totalAlerts[1];
-      msg += ` | Over ${b.line} (${b.prob}% / ${(100/b.prob).toFixed(2)})`;
+      msg += ` | Over ${b.line} (${b.prob}%)`;
     }
     msg += `\n`;
   }
