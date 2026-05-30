@@ -4,6 +4,7 @@ const CONFIG = {
   MIN_MINUTE: 40,
   MAX_MINUTE: 85,
   MIN_CONFIDENCE: 60,
+  MIN_QUOTA: 1.50,  // ignora alertas con cuota justa menor a esta
   MAX_LOOPS: 4,
   LOOP_DELAY: 720000,  // 12 min (igual que sistema de goles)
 
