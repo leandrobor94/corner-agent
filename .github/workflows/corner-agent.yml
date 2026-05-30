@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 20
       - name: Run corner analysis
-        run: node corner-agent/index.js ci
+        run: node index.js ci
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -22,6 +22,6 @@ jobs:
         run: |
           git config user.name "Corner Agent"
           git config user.email "agent@corner.local"
-          git add corner-agent/predictions.json corner-agent/leagues.json corner-agent/weights.json
+          git add predictions.json leagues.json weights.json
           git diff --quiet && git diff --staged --quiet || git commit -m "auto: update corner data [skip ci]"
           git push
