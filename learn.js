@@ -26,6 +26,23 @@ function saveWeights(w) { w.lastUpdated = new Date().toISOString(); saveJSON(WEI
 function loadLeagues() { return loadJSON(LEAGUES_FILE, {}); }
 function saveLeagues(l) { saveJSON(LEAGUES_FILE, l); }
 
+function getAlertsSent(match, minute) {
+  const predictions = loadPredictions();
+  const key = `${match}_${minute}`;
+  const existing = predictions.find(p => p.key === key);
+  return existing ? (existing._sentAlerts || []) : [];
+}
+
+function markAlertsSent(match, minute, alertKeys) {
+  const predictions = loadPredictions();
+  const key = `${match}_${minute}`;
+  const existing = predictions.find(p => p.key === key);
+  if (existing) {
+    existing._sentAlerts = [...new Set([...(existing._sentAlerts || []), ...alertKeys])];
+    savePredictions(predictions);
+  }
+}
+
 function storePrediction(result) {
   const predictions = loadPredictions();
   const key = `${result.match}_${result.minute}`;
@@ -34,7 +51,7 @@ function storePrediction(result) {
     Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
     return;
   }
-  predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
+  predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
   savePredictions(predictions);
 }
 
@@ -121,4 +138,4 @@ function printReport() {
   console.log('');
 }
 
-module.exports = { storePrediction, verifyPredictions, printReport };
+module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent };

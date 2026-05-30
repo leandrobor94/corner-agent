@@ -1,7 +1,7 @@
 const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
 const { sendTelegram, buildMessage } = require('./notify');
-const { storePrediction, verifyPredictions, printReport } = require('./learn');
+const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent } = require('./learn');
 const { CONFIG } = require('./config');
 
 let loopCount = 0;
@@ -32,13 +32,23 @@ async function analyzeMatchList(matches) {
       continue;
     }
 
-    const hasAlerts = result.teamAlerts.length > 0 || result.totalAlerts.length > 0;
     storePrediction(result);
+    const sentKeys = getAlertsSent(result.match, result.minute);
+    const newAlerts = [];
+    for (const a of result.teamAlerts) {
+      const k = `${a.team}_O${a.line}`;
+      if (!sentKeys.includes(k)) newAlerts.push(a);
+    }
+    for (const a of result.totalAlerts) {
+      const k = `Total_O${a.line}`;
+      if (!sentKeys.includes(k)) newAlerts.push(a);
+    }
 
-    if (hasAlerts) {
+    if (newAlerts.length > 0) {
       const msg = buildMessage(result);
-      console.log(`  🔔 ${result.match} — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
+      console.log(`  🔔 ${result.match} — ${newAlerts.length} nueva(s)`);
       await sendTelegram(msg);
+      markAlertsSent(result.match, result.minute, newAlerts.map(a => a.team ? `${a.team}_O${a.line}` : `Total_O${a.line}`));
       alertsSent++;
     } else {
       const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';

@@ -23,34 +23,29 @@ function sendTelegram(message) {
   });
 }
 
-function formatProb(prob) {
-  const quota = (100 / prob).toFixed(2);
-  return `${prob}% / @${quota}`;
-}
-
 function buildMessage(result) {
   let msg = `<b>🔔 ${result.match}</b>\n`;
   msg += `⏱ ${result.minute}' | ${result.score} | 📊 ${result.corners.total} → ~${result.projected.total}\n`;
 
   if (result.teamAlerts.length > 0) {
     const a = result.teamAlerts[0];
-    msg += `🎯 ${a.team} O${a.line} (${formatProb(a.prob)})`;
+    msg += `🎯 ${a.team} O${a.line} (${a.prob}%)`;
     if (result.teamAlerts.length > 1) {
       const b = result.teamAlerts[1];
-      msg += ` | ${b.team} O${b.line} (${formatProb(b.prob)})`;
+      msg += ` | ${b.team} O${b.line} (${b.prob}%)`;
     }
     msg += `\n`;
   }
   if (result.totalAlerts.length > 0) {
     const a = result.totalAlerts[0];
-    msg += `🎯 Over ${a.line} (${formatProb(a.prob)})`;
+    msg += `🎯 Over ${a.line} (${a.prob}%)`;
     if (result.totalAlerts.length > 1) {
       const b = result.totalAlerts[1];
-      msg += ` | Over ${b.line} (${formatProb(b.prob)})`;
+      msg += ` | Over ${b.line} (${b.prob}%)`;
     }
     msg += `\n`;
   }
-  msg += `<i>🤖 ${CONFIG.TIMEZONE}</i>`;
+  msg += `<i>🤖 corner-agent</i>`;
   return msg;
 }
 
