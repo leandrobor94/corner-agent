@@ -23,29 +23,34 @@ function sendTelegram(message) {
   });
 }
 
+function formatProb(prob) {
+  const quota = (100 / prob).toFixed(2);
+  return `${prob}% / @${quota}`;
+}
+
 function buildMessage(result) {
-  const medal = (result.teamAlerts.length > 0 || result.totalAlerts.length > 0) ? '🔔' : '📋';
-  let msg = `<b>${medal} CORNER ALERT — ${new Date().toLocaleString('es-CO', { timeZone: 'America/Bogota' })}</b>\n\n`;
-  msg += `<b>${result.match}</b>\n`;
-  msg += `🏆 ${result.league} | ⏱ ${result.minute}' | ${result.score}\n`;
-  msg += `📊 Córners: ${result.corners.home}-${result.corners.away} (Total: ${result.corners.total})\n`;
-  msg += `   Centros: ${result.stats.crosses} | T.área: ${result.stats.shotsInsideBox} | Ataques: ${result.stats.attacks}\n`;
-  msg += `   Proy: ${result.projected.home}-${result.projected.away} (~${result.projected.total})\n`;
+  let msg = `<b>🔔 ${result.match}</b>\n`;
+  msg += `⏱ ${result.minute}' | ${result.score} | 📊 ${result.corners.total} → ~${result.projected.total}\n`;
 
   if (result.teamAlerts.length > 0) {
-    msg += `\n<b>🎯 POR EQUIPO:</b>\n`;
-    for (const a of result.teamAlerts.slice(0, 3)) {
-      msg += `✅ ${a.team} O${a.line} (${a.prob}%)\n`;
-      msg += `   ${a.reasoning}\n`;
+    const a = result.teamAlerts[0];
+    msg += `🎯 ${a.team} O${a.line} (${formatProb(a.prob)})`;
+    if (result.teamAlerts.length > 1) {
+      const b = result.teamAlerts[1];
+      msg += ` | ${b.team} O${b.line} (${formatProb(b.prob)})`;
     }
+    msg += `\n`;
   }
   if (result.totalAlerts.length > 0) {
-    msg += `\n<b>🎯 TOTAL:</b>\n`;
-    for (const a of result.totalAlerts.slice(0, 2)) {
-      msg += `✅ Over ${a.line} (${a.prob}%)\n`;
+    const a = result.totalAlerts[0];
+    msg += `🎯 Over ${a.line} (${formatProb(a.prob)})`;
+    if (result.totalAlerts.length > 1) {
+      const b = result.totalAlerts[1];
+      msg += ` | Over ${b.line} (${formatProb(b.prob)})`;
     }
+    msg += `\n`;
   }
-  msg += `\n<i>🤖 corner-agent</i>`;
+  msg += `<i>🤖 ${CONFIG.TIMEZONE}</i>`;
   return msg;
 }
 
