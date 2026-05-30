@@ -22,6 +22,6 @@ jobs:
         run: |
           git config user.name "Corner Agent"
           git config user.email "agent@corner.local"
-          git add predictions.json leagues.json weights.json
+          for f in predictions.json leagues.json weights.json; do [ -f "$f" ] && git add "$f"; done
           git diff --quiet && git diff --staged --quiet || git commit -m "auto: update corner data [skip ci]"
           git push

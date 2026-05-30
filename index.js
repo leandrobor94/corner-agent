@@ -85,7 +85,6 @@ async function runCatchup() {
 
   console.log(`  Candidatos con stats: ${candidates.length}`);
 
-  let alertsSent = 0;
   for (const m of candidates) {
     const stats = await fetchMatchStats(m.gameId, m.homeId, m.awayId);
     if (!stats) {
@@ -102,19 +101,10 @@ async function runCatchup() {
     if (!result) continue;
 
     storePrediction(result);
-    const hasAlerts = result.teamAlerts.length > 0 || result.totalAlerts.length > 0;
-
-    if (hasAlerts) {
-      const msg = buildMessage(result) + '\n\n⚠️ <i>Post-partido — datos históricos</i>';
-      console.log(`  🔔 ${result.match} — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
-      await sendTelegram(msg);
-      alertsSent++;
-    } else {
-      console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — sin alertas`);
-    }
+    console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
   }
 
-  console.log(`  Catchup completado: ${alertsSent} alertas`);
+  console.log(`  Catchup completado — solo aprendizaje, sin alertas`);
 }
 
 async function main() {
