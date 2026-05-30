@@ -1,0 +1,27 @@
+name: Corner Agent
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Run corner analysis
+        run: node corner-agent/index.js ci
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      - name: Commit updated data
+        run: |
+          git config user.name "Corner Agent"
+          git config user.email "agent@corner.local"
+          git add corner-agent/predictions.json corner-agent/leagues.json corner-agent/weights.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "auto: update corner data [skip ci]"
+          git push
