@@ -1,6 +1,5 @@
 node_modules/
 .env
 *.log
-_logs/
-_logs.zip
+_logs*
 package-lock.json
