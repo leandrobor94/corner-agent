@@ -21,9 +21,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 2,
-    "totalCorners": "0[object Object][object Object]0",
-    "totalProjected": 0,
+    "matches": 4,
+    "totalCorners": "0[object Object][object Object]009",
+    "totalProjected": 10,
     "totalCrosses": 152,
     "totalShotsBox": 24
   },
@@ -103,5 +103,19 @@
     "totalProjected": 26,
     "totalCrosses": 88,
     "totalShotsBox": 26
+  },
+  "Ligi Kuu Bara": {
+    "matches": 2,
+    "totalCorners": 18,
+    "totalProjected": 21,
+    "totalCrosses": 130,
+    "totalShotsBox": 24
+  },
+  "Vysshaya Liga": {
+    "matches": 2,
+    "totalCorners": 17,
+    "totalProjected": 18,
+    "totalCrosses": 127,
+    "totalShotsBox": 28
   }
 }
