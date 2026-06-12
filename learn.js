@@ -78,7 +78,7 @@ async function verifyPredictions(liveMatches, verifyFn) {
       pred.finalCorners = finalCorners;
 
       const totalPredicted = pred.projected.total;
-      const totalActual = finalCorners.home + finalCorners.away;
+      const totalActual = (finalCorners.home.corners || 0) + (finalCorners.away.corners || 0);
       const diff = Math.abs(totalActual - totalPredicted);
       pred.correct = diff <= 3;
       if (pred.correct) weights.stats.correctCount++;
