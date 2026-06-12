@@ -21,18 +21,18 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 7,
-    "totalCorners": "0[object Object][object Object]009096",
-    "totalProjected": 27,
-    "totalCrosses": 250,
-    "totalShotsBox": 33
+    "matches": 10,
+    "totalCorners": "0[object Object][object Object]009096096",
+    "totalProjected": 44,
+    "totalCrosses": 348,
+    "totalShotsBox": 42
   },
   "Ykkonen": {
-    "matches": 4,
-    "totalCorners": "0[object Object][object Object]41414",
-    "totalProjected": 43,
-    "totalCrosses": 168,
-    "totalShotsBox": 24
+    "matches": 5,
+    "totalCorners": "0[object Object][object Object]4141414",
+    "totalProjected": 59,
+    "totalCrosses": 229,
+    "totalShotsBox": 33
   },
   "Segunda división": {
     "matches": 2,
@@ -56,11 +56,11 @@
     "totalShotsBox": 24
   },
   "Premier Division - Temporada": {
-    "matches": 4,
-    "totalCorners": "0[object Object][object Object]853",
-    "totalProjected": 30,
-    "totalCrosses": 206,
-    "totalShotsBox": 15
+    "matches": 6,
+    "totalCorners": "0[object Object][object Object]85354",
+    "totalProjected": 42,
+    "totalCrosses": 338,
+    "totalShotsBox": 33
   },
   "Brasileirao Sub20": {
     "matches": 8,
@@ -98,122 +98,129 @@
     "totalShotsBox": 20
   },
   "Copa de la Liga": {
-    "matches": 3,
-    "totalCorners": "0[object Object][object Object]1110",
-    "totalProjected": 40,
-    "totalCrosses": 143,
-    "totalShotsBox": 35
+    "matches": 6,
+    "totalCorners": "0[object Object][object Object]11101099",
+    "totalProjected": 123,
+    "totalCrosses": 270,
+    "totalShotsBox": 69
   },
   "Ligi Kuu Bara": {
-    "matches": 5,
-    "totalCorners": 46,
-    "totalProjected": 53,
-    "totalCrosses": 283,
-    "totalShotsBox": 55
+    "matches": 8,
+    "totalCorners": 74,
+    "totalProjected": 85,
+    "totalCrosses": 436,
+    "totalShotsBox": 86
   },
   "Vysshaya Liga": {
-    "matches": 6,
-    "totalCorners": 54,
-    "totalProjected": 54,
-    "totalCrosses": 299,
-    "totalShotsBox": 71
+    "matches": 9,
+    "totalCorners": 81,
+    "totalProjected": 85,
+    "totalCrosses": 459,
+    "totalShotsBox": 110
   },
   "Erovnuli Liga": {
-    "matches": 3,
-    "totalCorners": 33,
-    "totalProjected": 44,
-    "totalCrosses": 179,
-    "totalShotsBox": 37
-  },
-  "Virsliga": {
-    "matches": 3,
-    "totalCorners": 20,
-    "totalProjected": 27,
-    "totalCrosses": 100,
-    "totalShotsBox": 44
-  },
-  "Botola Pro": {
-    "matches": 6,
-    "totalCorners": 57,
-    "totalProjected": 75,
-    "totalCrosses": 367,
-    "totalShotsBox": 70
-  },
-  "Ykkosliiga": {
-    "matches": 4,
-    "totalCorners": 48,
-    "totalProjected": 54,
-    "totalCrosses": 128,
-    "totalShotsBox": 36
-  },
-  "A Lyga": {
-    "matches": 4,
-    "totalCorners": 44,
-    "totalProjected": 49,
-    "totalCrosses": 174,
+    "matches": 5,
+    "totalCorners": 54,
+    "totalProjected": 70,
+    "totalCrosses": 293,
     "totalShotsBox": 63
   },
-  "I Lyga": {
+  "Virsliga": {
+    "matches": 5,
+    "totalCorners": 33,
+    "totalProjected": 45,
+    "totalCrosses": 165,
+    "totalShotsBox": 74
+  },
+  "Botola Pro": {
+    "matches": 10,
+    "totalCorners": 95,
+    "totalProjected": 130,
+    "totalCrosses": 630,
+    "totalShotsBox": 118
+  },
+  "Ykkosliiga": {
     "matches": 6,
-    "totalCorners": 66,
-    "totalProjected": 77,
-    "totalCrosses": 239,
-    "totalShotsBox": 44
+    "totalCorners": 72,
+    "totalProjected": 82,
+    "totalCrosses": 209,
+    "totalShotsBox": 62
+  },
+  "A Lyga": {
+    "matches": 7,
+    "totalCorners": 74,
+    "totalProjected": 83,
+    "totalCrosses": 316,
+    "totalShotsBox": 117
+  },
+  "I Lyga": {
+    "matches": 10,
+    "totalCorners": 107,
+    "totalProjected": 127,
+    "totalCrosses": 429,
+    "totalShotsBox": 80
   },
   "Damallsvenskan": {
-    "matches": 1,
-    "totalCorners": 6,
-    "totalProjected": 14,
-    "totalCrosses": 60,
-    "totalShotsBox": 10
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 28,
+    "totalCrosses": 120,
+    "totalShotsBox": 20
   },
   "Icelandic Cup - Mjólkurbikarinn - Cuartos de Final": {
-    "matches": 1,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 4,
+    "totalCorners": 20,
+    "totalProjected": 33,
+    "totalCrosses": 72,
+    "totalShotsBox": 19
   },
   "Paulista U20 - Primera Fase - Grupo 3": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 15,
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 30,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 2,
-    "totalCorners": 16,
-    "totalProjected": 18,
-    "totalCrosses": 99,
+    "matches": 4,
+    "totalCorners": 32,
+    "totalProjected": 36,
+    "totalCrosses": 198,
     "totalShotsBox": 0
   },
   "Division 1": {
-    "matches": 4,
-    "totalCorners": 40,
-    "totalProjected": 53,
-    "totalCrosses": 201,
-    "totalShotsBox": 58
+    "matches": 8,
+    "totalCorners": 80,
+    "totalProjected": 106,
+    "totalCrosses": 402,
+    "totalShotsBox": 116
   },
   "Liga de": {
-    "matches": 5,
-    "totalCorners": 59,
-    "totalProjected": 93,
-    "totalCrosses": 232,
-    "totalShotsBox": 89
+    "matches": 10,
+    "totalCorners": 118,
+    "totalProjected": 186,
+    "totalCrosses": 464,
+    "totalShotsBox": 178
   },
   "Campeonato": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 8,
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 16,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
-    "matches": 1,
-    "totalCorners": 13,
-    "totalProjected": 22,
-    "totalCrosses": 34,
-    "totalShotsBox": 15
+    "matches": 2,
+    "totalCorners": 26,
+    "totalProjected": 44,
+    "totalCrosses": 68,
+    "totalShotsBox": 30
+  },
+  "Inkasso": {
+    "matches": 2,
+    "totalCorners": 26,
+    "totalProjected": 29,
+    "totalCrosses": 80,
+    "totalShotsBox": 27
   }
 }
