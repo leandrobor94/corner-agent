@@ -8799,7 +8799,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:16.844Z",
+    "timestamp": "2026-06-12T01:37:36.969Z",
     "match": "Nam Dinh vs Ho Chi Minh City",
     "league": "Copa Nacional",
     "minute": 90,
@@ -9166,7 +9166,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:16.965Z",
+    "timestamp": "2026-06-12T01:37:37.101Z",
     "match": "Ninh Binh FC vs Viettel",
     "league": "Copa Nacional",
     "minute": 90,
@@ -9533,7 +9533,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:17.078Z",
+    "timestamp": "2026-06-12T01:37:37.348Z",
     "match": "Venezuela Sub20 vs Japón Sub20",
     "league": "Torneo Maurice",
     "minute": 90,
@@ -9561,7 +9561,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Venezuela Sub20 vs Japón Sub20_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 0,
       "away": 1
@@ -10546,7 +10546,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:17.190Z",
+    "timestamp": "2026-06-12T01:37:37.548Z",
     "match": "Montevideo City Torque (Reserva) vs Defensor Sporting (Reserva)",
     "league": "Tercera División -",
     "minute": 90,
@@ -10574,7 +10574,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Montevideo City Torque (Reserva) vs Defensor Sporting (Reserva)_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 0,
       "away": 1
@@ -10789,7 +10789,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:17.303Z",
+    "timestamp": "2026-06-12T01:37:37.798Z",
     "match": "Racing vs Al Mabarrah",
     "league": "Premier",
     "minute": 90,
@@ -10817,7 +10817,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Racing vs Al Mabarrah_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 0,
       "away": 1
@@ -11184,7 +11184,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:17.614Z",
+    "timestamp": "2026-06-12T01:37:37.968Z",
     "match": "Tampere United vs OLS Oulu",
     "league": "Ykkonen",
     "minute": 90,
@@ -11212,7 +11212,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Tampere United vs OLS Oulu_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 3,
       "away": 0
@@ -11547,7 +11547,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:17.727Z",
+    "timestamp": "2026-06-12T01:37:38.146Z",
     "match": "FC Elva vs FC Maardu",
     "league": "Segunda división",
     "minute": 90,
@@ -11575,7 +11575,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "FC Elva vs FC Maardu_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 4,
       "away": 3
@@ -11964,7 +11964,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:18.004Z",
+    "timestamp": "2026-06-12T01:37:39.005Z",
     "match": "Helsingborg vs Landskrona Bois",
     "league": "Superettan",
     "minute": 90,
@@ -12375,7 +12375,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:18.120Z",
+    "timestamp": "2026-06-12T01:37:39.401Z",
     "match": "Västra Frölunda vs Onsala",
     "league": "Copa de Suecia - Clasificación",
     "minute": 90,
@@ -12742,7 +12742,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:18.238Z",
+    "timestamp": "2026-06-12T01:37:39.560Z",
     "match": "Portugal Sub20 vs Canada Sub20",
     "league": "Torneo Maurice",
     "minute": 90,
@@ -12770,7 +12770,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Portugal Sub20 vs Canada Sub20_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 6,
       "away": 1
@@ -13821,7 +13821,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:18.342Z",
+    "timestamp": "2026-06-12T01:37:39.663Z",
     "match": "Al Shabab vs Jahra FC",
     "league": "Premier Division - Temporada",
     "minute": 90,
@@ -13849,7 +13849,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Al Shabab vs Jahra FC_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 1,
       "away": 0
@@ -14113,7 +14113,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:18.454Z",
+    "timestamp": "2026-06-12T01:37:39.760Z",
     "match": "São Paulo Sub20 vs RB Bragantino/Sp Youth",
     "league": "Brasileirao Sub20",
     "minute": 90,
@@ -14148,7 +14148,7 @@
       }
     ],
     "key": "São Paulo Sub20 vs RB Bragantino/Sp Youth_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 0,
       "away": 2
@@ -14363,7 +14363,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:18.785Z",
+    "timestamp": "2026-06-12T01:37:39.870Z",
     "match": "Cruzeiro Sub20 vs Fortaleza/Ce Youth",
     "league": "Brasileirao Sub20",
     "minute": 90,
@@ -14391,7 +14391,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Cruzeiro Sub20 vs Fortaleza/Ce Youth_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 3,
       "away": 2
@@ -14655,7 +14655,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:18.899Z",
+    "timestamp": "2026-06-12T01:37:39.982Z",
     "match": "Vasco/Rj Youth vs Cuiabá/MT Youth",
     "league": "Brasileirao Sub20",
     "minute": 90,
@@ -14690,7 +14690,7 @@
       }
     ],
     "key": "Vasco/Rj Youth vs Cuiabá/MT Youth_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 2,
       "away": 1
@@ -14932,7 +14932,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:19.001Z",
+    "timestamp": "2026-06-12T01:37:40.093Z",
     "match": "Portuguesa/Sp Youth vs Itapirense Youth",
     "league": "Paulista U20 - Primera Fase - Grupo 1",
     "minute": 90,
@@ -14967,7 +14967,7 @@
       }
     ],
     "key": "Portuguesa/Sp Youth vs Itapirense Youth_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 3,
       "away": 0
@@ -15121,7 +15121,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:19.203Z",
+    "timestamp": "2026-06-12T01:37:40.737Z",
     "match": "Gramadense vs Monsoon FC",
     "league": "Copa FGF",
     "minute": 90,
@@ -15156,7 +15156,7 @@
       }
     ],
     "key": "Gramadense vs Monsoon FC_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 1,
       "away": 0
@@ -15500,7 +15500,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:19.604Z",
+    "timestamp": "2026-06-12T01:37:41.087Z",
     "match": "Sportivo Limpeño vs Atlético Colegiales",
     "league": "APF Primera B",
     "minute": 90,
@@ -15535,7 +15535,7 @@
       }
     ],
     "key": "Sportivo Limpeño vs Atlético Colegiales_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 1,
       "away": 2
@@ -15792,7 +15792,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:19.817Z",
+    "timestamp": "2026-06-12T01:37:41.261Z",
     "match": "México vs Sudáfrica",
     "league": "Mundial - Grupo A",
     "minute": 90,
@@ -15820,7 +15820,7 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "México vs Sudáfrica_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 2,
       "away": 0
@@ -16968,7 +16968,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-12T01:35:19.933Z",
+    "timestamp": "2026-06-12T01:37:41.369Z",
     "match": "ADA Jaén vs Comerciantes Unidos",
     "league": "Copa de la Liga",
     "minute": 90,
@@ -17003,7 +17003,7 @@
       }
     ],
     "key": "ADA Jaén vs Comerciantes Unidos_90",
-    "correct": false,
+    "correct": true,
     "finalScore": {
       "home": 2,
       "away": 0
@@ -17344,7 +17344,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-12T01:35:20.041Z",
+    "timestamp": "2026-06-12T01:37:41.488Z",
     "match": "Palmeiras Sub20 vs Santos/Sp Youth",
     "league": "Brasileirao Sub20",
     "minute": 90,

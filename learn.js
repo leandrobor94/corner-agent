@@ -49,6 +49,7 @@ function storePrediction(result) {
   const existing = predictions.find(p => p.key === key);
   if (existing) {
     Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
+    savePredictions(predictions);
     return;
   }
   predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });

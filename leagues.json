@@ -1,107 +1,107 @@
 {
   "Copa Nacional": {
-    "matches": 2,
-    "totalCorners": "0[object Object][object Object][object Object][object Object]",
-    "totalProjected": 40,
-    "totalCrosses": 59,
-    "totalShotsBox": 38
+    "matches": 4,
+    "totalCorners": "0[object Object][object Object][object Object][object Object]1711",
+    "totalProjected": 80,
+    "totalCrosses": 118,
+    "totalShotsBox": 76
   },
   "Torneo Maurice": {
-    "matches": 2,
-    "totalCorners": "0[object Object][object Object][object Object][object Object]",
-    "totalProjected": 20,
-    "totalCrosses": 49,
-    "totalShotsBox": 34
+    "matches": 4,
+    "totalCorners": "0[object Object][object Object][object Object][object Object]99",
+    "totalProjected": 40,
+    "totalCrosses": 98,
+    "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 7,
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]6",
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]0",
     "totalProjected": 0,
-    "totalCrosses": 76,
-    "totalShotsBox": 12
+    "totalCrosses": 152,
+    "totalShotsBox": 24
   },
   "Ykkonen": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 6,
-    "totalCrosses": 38,
-    "totalShotsBox": 5
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]4",
+    "totalProjected": 12,
+    "totalCrosses": 76,
+    "totalShotsBox": 10
   },
   "Segunda división": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 9,
-    "totalCrosses": 53,
-    "totalShotsBox": 9
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]7",
+    "totalProjected": 18,
+    "totalCrosses": 106,
+    "totalShotsBox": 18
   },
   "Superettan": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 24,
-    "totalCrosses": 52,
-    "totalShotsBox": 16
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]12",
+    "totalProjected": 48,
+    "totalCrosses": 104,
+    "totalShotsBox": 32
   },
   "Copa de Suecia - Clasificación": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 15,
-    "totalCrosses": 56,
-    "totalShotsBox": 12
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]10",
+    "totalProjected": 30,
+    "totalCrosses": 112,
+    "totalShotsBox": 24
   },
   "Premier Division - Temporada": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 10,
-    "totalCrosses": 49,
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]8",
+    "totalProjected": 20,
+    "totalCrosses": 98,
     "totalShotsBox": 0
   },
   "Brasileirao Sub20": {
-    "matches": 4,
-    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]",
-    "totalProjected": 45,
-    "totalCrosses": 153,
+    "matches": 8,
+    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]109116",
+    "totalProjected": 90,
+    "totalCrosses": 306,
     "totalShotsBox": 0
   },
   "Paulista U20 - Primera Fase - Grupo 1": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 12,
-    "totalCrosses": 47,
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]9",
+    "totalProjected": 24,
+    "totalCrosses": 94,
     "totalShotsBox": 0
   },
   "Copa FGF": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 13,
-    "totalCrosses": 57,
-    "totalShotsBox": 9
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]10",
+    "totalProjected": 26,
+    "totalCrosses": 114,
+    "totalShotsBox": 18
   },
   "APF Primera B": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 12,
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]10",
+    "totalProjected": 24,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Mundial - Grupo A": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 5,
-    "totalCrosses": 20,
-    "totalShotsBox": 10
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]4",
+    "totalProjected": 10,
+    "totalCrosses": 40,
+    "totalShotsBox": 20
   },
   "Copa de la Liga": {
-    "matches": 1,
-    "totalCorners": "0[object Object][object Object]",
-    "totalProjected": 13,
-    "totalCrosses": 44,
-    "totalShotsBox": 13
+    "matches": 2,
+    "totalCorners": "0[object Object][object Object]11",
+    "totalProjected": 26,
+    "totalCrosses": 88,
+    "totalShotsBox": 26
   }
 }
