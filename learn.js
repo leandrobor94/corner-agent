@@ -138,4 +138,36 @@ function printReport() {
   console.log('');
 }
 
-module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent };
+async function commitData() {
+  const token = process.env.GITHUB_TOKEN || process.env.ghp_GITHUB_TOKEN || '';
+  if (!token) { console.log('  COMMIT SKIP: no GITHUB_TOKEN'); return; }
+  const https = require('https');
+  const repo = process.env.GITHUB_REPOSITORY || 'leandrobor94/corner-agent';
+  const branch = process.env.GITHUB_REF_NAME || 'master';
+  const files = ['predictions.json', 'leagues.json', 'weights.json'].filter(f => { try { return require('fs').existsSync(require('path').join(__dirname, f)); } catch { return false; } });
+  if (files.length === 0) { console.log('  COMMIT SKIP: no hay archivos para committear'); return; }
+
+  for (const file of files) {
+    const content = require('fs').readFileSync(require('path').join(__dirname, file), 'utf8');
+    const sha = await getFileSha(token, repo, file, branch);
+    const body = JSON.stringify({ message: `auto: update ${file} [skip ci]`, content: Buffer.from(content).toString('base64'), sha, branch });
+    await new Promise(ok => {
+      const req = https.request(`https://api.github.com/repos/${repo}/contents/${file}`, {
+        method: 'PUT',
+        headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'corner-agent', 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
+      }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>{ const j=JSON.parse(d); console.log(`  COMMIT ${file}: ${j.content ? 'OK' : (j.message || 'error')}`); ok(); }); });
+      req.write(body); req.end();
+    });
+  }
+}
+
+function getFileSha(token, repo, file, branch) {
+  return new Promise(ok => {
+    const https = require('https');
+    https.get(`https://api.github.com/repos/${repo}/contents/${file}?ref=${branch}`, { headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'corner-agent' } }, r => {
+      let d=''; r.on('data',c=>d+=c); r.on('end',()=>{ try { ok(JSON.parse(d).sha); } catch { ok(undefined); } });
+    });
+  });
+}
+
+module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData };

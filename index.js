@@ -1,7 +1,7 @@
 const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
 const { sendTelegram, buildMessage } = require('./notify');
-const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent } = require('./learn');
+const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData } = require('./learn');
 const { CONFIG } = require('./config');
 
 let loopCount = 0;
@@ -148,6 +148,7 @@ async function main() {
     const live = await fetchLiveMatches();
     await analyzeMatchList(live);
     await printReport();
+    await commitData();
     return;
   }
 
