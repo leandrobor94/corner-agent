@@ -72,7 +72,9 @@ async function runLoop() {
   await analyzeMatchList(live);
 
   // Verify past predictions against finished matches
-  const verified = await verifyPredictions(live, async (gameId, homeId, awayId) => {
+  const finished = await fetchFinishedToday();
+  const allEnded = [...live.filter(m => m.minute >= 90), ...finished.map(m => ({ ...m, minute: 90 }))];
+  const verified = await verifyPredictions(allEnded, async (gameId, homeId, awayId) => {
     const stats = await fetchMatchStats(gameId, homeId, awayId);
     return stats ? stats : null;
   });
@@ -114,7 +116,13 @@ async function runCatchup() {
     console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
   }
 
-  console.log(`  Catchup completado — solo aprendizaje, sin alertas`);
+  // Verificar predicciones previas contra estos finalizados
+  const verified = await verifyPredictions(finished.map(m => ({ ...m, minute: 90 })), async (gameId, homeId, awayId) => {
+    const stats = await fetchMatchStats(gameId, homeId, awayId);
+    return stats ? stats : null;
+  });
+  if (verified > 0) printReport();
+  console.log(`  Catchup completado — aprendizaje y verificación`);
 }
 
 async function main() {
