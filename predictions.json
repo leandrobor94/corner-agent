@@ -49130,7 +49130,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-13T11:45:13.184Z",
+    "timestamp": "2026-06-13T13:18:59.338Z",
     "match": "Changchun Yatai vs Dalian K'un City",
     "league": "League One",
     "minute": 90,
@@ -50173,7 +50173,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-13T11:45:13.302Z",
+    "timestamp": "2026-06-13T13:18:59.423Z",
     "match": "Kuressaare vs Harju Jalgpallikool",
     "league": "Meistriliiga",
     "minute": 90,
@@ -50582,7 +50582,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-13T11:45:13.947Z",
+    "timestamp": "2026-06-13T13:19:00.606Z",
     "match": "Shijiazhuang Gongfu vs Suzhou Dongwu",
     "league": "League One",
     "minute": 90,
@@ -51445,9 +51445,309 @@
       }
     ],
     "key": "Pitea (F) vs Brommapojkarna (F)_59",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 47,
+        "totalShots": 1,
+        "shotsOnTarget": 1,
+        "corners": 6,
+        "attacks": 123,
+        "shotsOffTarget": 0,
+        "freeKicks": 5,
+        "throwIns": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 53,
+        "totalShots": 2,
+        "shotsOnTarget": 2,
+        "corners": 6,
+        "attacks": 125,
+        "shotsOffTarget": 0,
+        "freeKicks": 3,
+        "throwIns": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24147,
+          "isMajor": true,
+          "value": "47%",
+          "valuePercentage": 0.47,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24147,
+          "value": "6",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24147,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24147,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24147,
+          "value": "123",
+          "valuePercentage": 0.5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24147,
+          "value": "5",
+          "valuePercentage": 0.62,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24147,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24147,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.38,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24147,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 66568,
+          "isMajor": true,
+          "value": "53%",
+          "valuePercentage": 0.53,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 66568,
+          "value": "6",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 66568,
+          "value": "1",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 66568,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 66568,
+          "value": "125",
+          "valuePercentage": 0.5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 66568,
+          "value": "3",
+          "valuePercentage": 0.38,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 66568,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 66568,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.62,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 66568,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
     "_sentAlerts": [
       "Total_O12.5"
     ]
@@ -51510,9 +51810,335 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "FC Rosengard (F) vs Norrkoping (F)_45",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 57,
+        "totalShots": 15,
+        "shotsOnTarget": 6,
+        "corners": 8,
+        "attacks": 112,
+        "shotsOffTarget": 7,
+        "blockedShots": 2,
+        "freeKicks": 18,
+        "throwIns": 29,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 43,
+        "totalShots": 4,
+        "shotsOnTarget": 1,
+        "corners": 8,
+        "attacks": 87,
+        "shotsOffTarget": 0,
+        "blockedShots": 3,
+        "freeKicks": 7,
+        "throwIns": 29,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24140,
+          "isMajor": true,
+          "value": "57%",
+          "valuePercentage": 0.57,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "15",
+          "valuePercentage": 0.79,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "6",
+          "valuePercentage": 0.86,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24140,
+          "value": "8",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24140,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24140,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24140,
+          "value": "112",
+          "valuePercentage": 0.56,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.4,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24140,
+          "value": "18",
+          "valuePercentage": 0.72,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24140,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "29",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24140,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24140,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 74125,
+          "isMajor": true,
+          "value": "43%",
+          "valuePercentage": 0.43,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "4",
+          "valuePercentage": 0.21,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.14,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 74125,
+          "value": "8",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 74125,
+          "value": "1",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 74125,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 74125,
+          "value": "87",
+          "valuePercentage": 0.44,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.6,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 74125,
+          "value": "7",
+          "valuePercentage": 0.28,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 74125,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "29",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 74125,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "17",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 74125,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
     "_sentAlerts": []
   },
   {
@@ -51573,9 +52199,339 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "AIK (F) vs Djurgardens (F)_45",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
+    "correct": false,
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 49,
+        "totalShots": 16,
+        "shotsOnTarget": 6,
+        "corners": 8,
+        "attacks": 57,
+        "shotsOffTarget": 7,
+        "blockedShots": 3,
+        "freeKicks": 13,
+        "throwIns": 30,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 51,
+        "totalShots": 8,
+        "shotsOnTarget": 2,
+        "corners": 5,
+        "attacks": 52,
+        "shotsOffTarget": 4,
+        "blockedShots": 2,
+        "freeKicks": 13,
+        "throwIns": 26,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24145,
+          "isMajor": true,
+          "value": "49%",
+          "valuePercentage": 0.49,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "16",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "6",
+          "valuePercentage": 0.75,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24145,
+          "value": "8",
+          "valuePercentage": 0.62,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24145,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24145,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24145,
+          "value": "57",
+          "valuePercentage": 0.52,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.64,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.6,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24145,
+          "value": "13",
+          "valuePercentage": 0.5,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24145,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "30",
+          "valuePercentage": 0.54,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24145,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "10",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24145,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 30733,
+          "isMajor": true,
+          "value": "51%",
+          "valuePercentage": 0.51,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "8",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.25,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 30733,
+          "value": "5",
+          "valuePercentage": 0.38,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 30733,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 30733,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 30733,
+          "value": "52",
+          "valuePercentage": 0.48,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "4",
+          "valuePercentage": 0.36,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.4,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 30733,
+          "value": "13",
+          "valuePercentage": 0.5,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 30733,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.46,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 30733,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "15",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 30733,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
     "_sentAlerts": []
   },
   {
@@ -51636,9 +52592,1001 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Ogre United vs Riga_46",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 36,
+        "totalShots": 5,
+        "shotsOnTarget": 1,
+        "bigChances": 1,
+        "corners": 4,
+        "passesCompleted": 205,
+        "attacks": 51,
+        "shotsOffTarget": 3,
+        "blockedShots": 1,
+        "freeKicks": 15,
+        "shotsInsideBox": 2,
+        "totalPasses": 285,
+        "crosses": 16,
+        "throwIns": 17,
+        "keyPasses": 4,
+        "passesFinalThird": 41,
+        "interceptions": 7,
+        "tacklesWon": 22,
+        "clearances": 32,
+        "duelsWon": 50,
+        "aerialDuelsWon": 15,
+        "dribbles": 20,
+        "fouls": 12
+      },
+      "away": {
+        "possession": 64,
+        "totalShots": 31,
+        "shotsOnTarget": 11,
+        "bigChances": 4,
+        "corners": 7,
+        "passesCompleted": 439,
+        "attacks": 73,
+        "shotsOffTarget": 13,
+        "blockedShots": 7,
+        "freeKicks": 11,
+        "shotsInsideBox": 21,
+        "totalPasses": 515,
+        "crosses": 24,
+        "throwIns": 26,
+        "keyPasses": 26,
+        "passesFinalThird": 150,
+        "interceptions": 13,
+        "tacklesWon": 19,
+        "clearances": 17,
+        "duelsWon": 46,
+        "aerialDuelsWon": 15,
+        "dribbles": 18,
+        "fouls": 15
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 88917,
+          "isMajor": true,
+          "value": "36%",
+          "valuePercentage": 0.36,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "5",
+          "valuePercentage": 0.14,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.08,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 24,
+          "name": "Grandes chances",
+          "competitorId": 88917,
+          "value": "1",
+          "valuePercentage": 0.2,
+          "order": 4,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 88917,
+          "value": "4",
+          "valuePercentage": 0.36,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 88917,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 19,
+          "name": "Pases completados",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "205",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 88917,
+          "value": "51",
+          "valuePercentage": 0.41,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.19,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 2
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "1",
+          "valuePercentage": 0.12,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 88917,
+          "value": "15",
+          "valuePercentage": 0.58,
+          "order": 14
+        },
+        {
+          "id": 146,
+          "name": "Remates dentro del área",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.09,
+          "categoryOrder": 1,
+          "order": 14,
+          "markedTeam": 2
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 88917,
+          "value": "285",
+          "valuePercentage": 0.36,
+          "order": 15
+        },
+        {
+          "id": 147,
+          "name": "Remates fuera del área",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.23,
+          "categoryOrder": 1,
+          "order": 15,
+          "markedTeam": 2
+        },
+        {
+          "id": 36,
+          "name": "Grandes chances perdidas",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 16,
+          "markedTeam": 1
+        },
+        {
+          "id": 52,
+          "name": "Centros",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "5/16 (31%)",
+          "valuePercentage": 0.42,
+          "categoryOrder": 2,
+          "order": 31,
+          "markedTeam": 2
+        },
+        {
+          "id": 148,
+          "name": "Pases en el propio campo",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "162",
+          "valuePercentage": 0.42,
+          "categoryOrder": 2,
+          "order": 33,
+          "markedTeam": 2
+        },
+        {
+          "id": 149,
+          "name": "Pases en el campo contrario",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "139",
+          "valuePercentage": 0.31,
+          "categoryOrder": 2,
+          "order": 34,
+          "markedTeam": 2
+        },
+        {
+          "id": 53,
+          "name": "Pases largos completados",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "25/66 (38%)",
+          "valuePercentage": 0.43,
+          "categoryOrder": 2,
+          "order": 35,
+          "markedTeam": 2
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "17",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 46,
+          "name": "Pases claves",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "4",
+          "valuePercentage": 0.13,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 80,
+          "name": "Pases en el último tercio",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "41",
+          "valuePercentage": 0.21,
+          "categoryOrder": 2,
+          "order": 39,
+          "markedTeam": 2
+        },
+        {
+          "id": 81,
+          "name": "Pases hacia atrás",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "49",
+          "valuePercentage": 0.36,
+          "categoryOrder": 2,
+          "order": 40,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "15",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 41,
+          "name": "Intercepciones",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "7",
+          "valuePercentage": 0.35,
+          "categoryOrder": 3,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "7",
+          "valuePercentage": 1,
+          "categoryOrder": 3,
+          "order": 51,
+          "markedTeam": 1
+        },
+        {
+          "id": 51,
+          "name": "Barridas ganadas",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "18/22 (82%)",
+          "valuePercentage": 0.59,
+          "categoryOrder": 3,
+          "order": 52,
+          "markedTeam": 1
+        },
+        {
+          "id": 40,
+          "name": "Despejes",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "32",
+          "valuePercentage": 0.65,
+          "categoryOrder": 3,
+          "order": 55,
+          "markedTeam": 1
+        },
+        {
+          "id": 150,
+          "name": "Duelos ganados",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "50",
+          "valuePercentage": 0.52,
+          "categoryOrder": 4,
+          "order": 70,
+          "markedTeam": 1
+        },
+        {
+          "id": 56,
+          "name": "Duelos aéreos (ganados)",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "7/15 (47%)",
+          "valuePercentage": 0.47,
+          "categoryOrder": 4,
+          "order": 71,
+          "markedTeam": 2
+        },
+        {
+          "id": 55,
+          "name": "Duelos en el suelo (ganados)",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "43/81 (53%)",
+          "valuePercentage": 0.53,
+          "categoryOrder": 4,
+          "order": 72,
+          "markedTeam": 1
+        },
+        {
+          "id": 37,
+          "name": "Faltas recibidas",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "15",
+          "valuePercentage": 0.58,
+          "categoryOrder": 4,
+          "order": 74,
+          "markedTeam": 1
+        },
+        {
+          "id": 54,
+          "name": "Regates",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "6/20 (30%)",
+          "valuePercentage": 0.41,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 60,
+          "name": "Regateado",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "14",
+          "valuePercentage": 0.58,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 84,
+          "name": "Posesiones ganadas en el último tercio",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "1",
+          "valuePercentage": 0.11,
+          "categoryOrder": 4,
+          "order": 76,
+          "markedTeam": 2
+        },
+        {
+          "id": 73,
+          "name": "Posesiones perdidas",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "127",
+          "valuePercentage": 0.49,
+          "categoryOrder": 4,
+          "order": 77,
+          "markedTeam": 1
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "12",
+          "valuePercentage": 0.44,
+          "categoryOrder": 5,
+          "order": 90,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 29362,
+          "isMajor": true,
+          "value": "64%",
+          "valuePercentage": 0.64,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "31",
+          "valuePercentage": 0.86,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "11",
+          "valuePercentage": 0.92,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 24,
+          "name": "Grandes chances",
+          "competitorId": 29362,
+          "value": "4",
+          "valuePercentage": 0.8,
+          "order": 4,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 29362,
+          "value": "7",
+          "valuePercentage": 0.64,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 29362,
+          "value": "4",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 19,
+          "name": "Pases completados",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "439",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 29362,
+          "value": "73",
+          "valuePercentage": 0.59,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "13",
+          "valuePercentage": 0.81,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 2
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.88,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 29362,
+          "value": "11",
+          "valuePercentage": 0.42,
+          "order": 14
+        },
+        {
+          "id": 146,
+          "name": "Remates dentro del área",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "21",
+          "valuePercentage": 0.91,
+          "categoryOrder": 1,
+          "order": 14,
+          "markedTeam": 2
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 29362,
+          "value": "515",
+          "valuePercentage": 0.64,
+          "order": 15
+        },
+        {
+          "id": 147,
+          "name": "Remates fuera del área",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "10",
+          "valuePercentage": 0.77,
+          "categoryOrder": 1,
+          "order": 15,
+          "markedTeam": 2
+        },
+        {
+          "id": 36,
+          "name": "Grandes chances perdidas",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 16,
+          "markedTeam": 1
+        },
+        {
+          "id": 52,
+          "name": "Centros",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "10/24 (42%)",
+          "valuePercentage": 0.58,
+          "categoryOrder": 2,
+          "order": 31,
+          "markedTeam": 2
+        },
+        {
+          "id": 148,
+          "name": "Pases en el propio campo",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "224",
+          "valuePercentage": 0.58,
+          "categoryOrder": 2,
+          "order": 33,
+          "markedTeam": 2
+        },
+        {
+          "id": 149,
+          "name": "Pases en el campo contrario",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "315",
+          "valuePercentage": 0.69,
+          "categoryOrder": 2,
+          "order": 34,
+          "markedTeam": 2
+        },
+        {
+          "id": 53,
+          "name": "Pases largos completados",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "27/54 (50%)",
+          "valuePercentage": 0.57,
+          "categoryOrder": 2,
+          "order": 35,
+          "markedTeam": 2
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 46,
+          "name": "Pases claves",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.87,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 80,
+          "name": "Pases en el último tercio",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "150",
+          "valuePercentage": 0.79,
+          "categoryOrder": 2,
+          "order": 39,
+          "markedTeam": 2
+        },
+        {
+          "id": 81,
+          "name": "Pases hacia atrás",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "86",
+          "valuePercentage": 0.64,
+          "categoryOrder": 2,
+          "order": 40,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 41,
+          "name": "Intercepciones",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "13",
+          "valuePercentage": 0.65,
+          "categoryOrder": 3,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 51,
+          "markedTeam": 1
+        },
+        {
+          "id": 51,
+          "name": "Barridas ganadas",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "11/19 (58%)",
+          "valuePercentage": 0.41,
+          "categoryOrder": 3,
+          "order": 52,
+          "markedTeam": 1
+        },
+        {
+          "id": 40,
+          "name": "Despejes",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "17",
+          "valuePercentage": 0.35,
+          "categoryOrder": 3,
+          "order": 55,
+          "markedTeam": 1
+        },
+        {
+          "id": 150,
+          "name": "Duelos ganados",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "46",
+          "valuePercentage": 0.48,
+          "categoryOrder": 4,
+          "order": 70,
+          "markedTeam": 1
+        },
+        {
+          "id": 56,
+          "name": "Duelos aéreos (ganados)",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8/15 (53%)",
+          "valuePercentage": 0.53,
+          "categoryOrder": 4,
+          "order": 71,
+          "markedTeam": 2
+        },
+        {
+          "id": 55,
+          "name": "Duelos en el suelo (ganados)",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "38/81 (47%)",
+          "valuePercentage": 0.47,
+          "categoryOrder": 4,
+          "order": 72,
+          "markedTeam": 1
+        },
+        {
+          "id": 37,
+          "name": "Faltas recibidas",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "11",
+          "valuePercentage": 0.42,
+          "categoryOrder": 4,
+          "order": 74,
+          "markedTeam": 1
+        },
+        {
+          "id": 54,
+          "name": "Regates",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8/18 (44%)",
+          "valuePercentage": 0.59,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 60,
+          "name": "Regateado",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "10",
+          "valuePercentage": 0.42,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 84,
+          "name": "Posesiones ganadas en el último tercio",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8",
+          "valuePercentage": 0.89,
+          "categoryOrder": 4,
+          "order": 76,
+          "markedTeam": 2
+        },
+        {
+          "id": 73,
+          "name": "Posesiones perdidas",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "131",
+          "valuePercentage": 0.51,
+          "categoryOrder": 4,
+          "order": 77,
+          "markedTeam": 1
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "15",
+          "valuePercentage": 0.56,
+          "categoryOrder": 5,
+          "order": 90,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
     "_sentAlerts": []
   },
   {
@@ -51699,9 +53647,363 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Tobol Kostanay vs FC Qyzyljar_44",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
+    "correct": false,
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 68,
+        "totalShots": 23,
+        "shotsOnTarget": 11,
+        "corners": 9,
+        "attacks": 118,
+        "shotsOffTarget": 10,
+        "blockedShots": 2,
+        "freeKicks": 13,
+        "throwIns": 22,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 32,
+        "totalShots": 9,
+        "shotsOnTarget": 2,
+        "corners": 4,
+        "attacks": 86,
+        "shotsOffTarget": 7,
+        "blockedShots": 0,
+        "freeKicks": 15,
+        "throwIns": 26,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 5632,
+          "isMajor": true,
+          "value": "68%",
+          "valuePercentage": 0.68,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "23",
+          "valuePercentage": 0.72,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "11",
+          "valuePercentage": 0.85,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 5632,
+          "value": "9",
+          "valuePercentage": 0.69,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 5632,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5632,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 5632,
+          "value": "118",
+          "valuePercentage": 0.58,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "10",
+          "valuePercentage": 0.59,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 5632,
+          "value": "13",
+          "valuePercentage": 0.46,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 5632,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "22",
+          "valuePercentage": 0.46,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 5632,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "12",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5632,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 19868,
+          "isMajor": true,
+          "value": "32%",
+          "valuePercentage": 0.32,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "9",
+          "valuePercentage": 0.28,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.15,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 19868,
+          "value": "4",
+          "valuePercentage": 0.31,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 19868,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 19868,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 19868,
+          "value": "86",
+          "valuePercentage": 0.42,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.41,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 19868,
+          "value": "15",
+          "valuePercentage": 0.54,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 19868,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.54,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 19868,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 19868,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
     "_sentAlerts": []
   },
   {
@@ -51762,6 +54064,4031 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Bumprom vs Shakhter Soligorsk_45",
+    "correct": true,
+    "finalScore": {
+      "home": 6,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 52427,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 52427,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.2,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 1971,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 1971,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.8,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Orsha vs FC Lida",
+      "league": "Pershaya Liga",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:18:59.505Z",
+    "match": "Orsha vs FC Lida",
+    "league": "Pershaya Liga",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Orsha vs FC Lida_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 20500,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 20500,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 13149,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 13149,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Pitea (F) vs Brommapojkarna (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 6,
+        "total": 12
+      },
+      "projected": {
+        "home": 7,
+        "away": 7,
+        "total": 14
+      },
+      "stats": {
+        "crosses": 62,
+        "shotsInsideBox": 2,
+        "attacks": 248,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 3
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 12.5,
+          "prob": 64,
+          "current": 12,
+          "projected": 14
+        }
+      ]
+    },
+    "timestamp": "2026-06-13T13:18:59.585Z",
+    "match": "Pitea (F) vs Brommapojkarna (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 6,
+      "away": 6,
+      "total": 12
+    },
+    "projected": {
+      "home": 7,
+      "away": 7,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 62,
+      "shotsInsideBox": 2,
+      "attacks": 248,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 3
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 12.5,
+        "prob": 64,
+        "current": 12,
+        "projected": 14
+      }
+    ],
+    "key": "Pitea (F) vs Brommapojkarna (F)_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 47,
+        "totalShots": 1,
+        "shotsOnTarget": 1,
+        "corners": 6,
+        "attacks": 123,
+        "shotsOffTarget": 0,
+        "freeKicks": 5,
+        "throwIns": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 53,
+        "totalShots": 2,
+        "shotsOnTarget": 2,
+        "corners": 6,
+        "attacks": 125,
+        "shotsOffTarget": 0,
+        "freeKicks": 3,
+        "throwIns": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24147,
+          "isMajor": true,
+          "value": "47%",
+          "valuePercentage": 0.47,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24147,
+          "value": "6",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24147,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24147,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24147,
+          "value": "123",
+          "valuePercentage": 0.5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24147,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24147,
+          "value": "5",
+          "valuePercentage": 0.62,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24147,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24147,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.38,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24147,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 66568,
+          "isMajor": true,
+          "value": "53%",
+          "valuePercentage": 0.53,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 66568,
+          "value": "6",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 66568,
+          "value": "1",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 66568,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 66568,
+          "value": "125",
+          "valuePercentage": 0.5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 66568,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 66568,
+          "value": "3",
+          "valuePercentage": 0.38,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 66568,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 66568,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.62,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 66568,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "FC Rosengard (F) vs Norrkoping (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 8,
+        "away": 8,
+        "total": 16
+      },
+      "projected": {
+        "home": 13,
+        "away": 8,
+        "total": 21
+      },
+      "stats": {
+        "crosses": 50,
+        "shotsInsideBox": 11,
+        "attacks": 199,
+        "possession": {
+          "home": 57,
+          "away": 43
+        },
+        "totalShots": 19
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:18:59.668Z",
+    "match": "FC Rosengard (F) vs Norrkoping (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 8,
+      "away": 8,
+      "total": 16
+    },
+    "projected": {
+      "home": 13,
+      "away": 8,
+      "total": 21
+    },
+    "stats": {
+      "crosses": 50,
+      "shotsInsideBox": 11,
+      "attacks": 199,
+      "possession": {
+        "home": 57,
+        "away": 43
+      },
+      "totalShots": 19
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FC Rosengard (F) vs Norrkoping (F)_90",
+    "correct": false,
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 57,
+        "totalShots": 15,
+        "shotsOnTarget": 6,
+        "corners": 8,
+        "attacks": 112,
+        "shotsOffTarget": 7,
+        "blockedShots": 2,
+        "freeKicks": 18,
+        "throwIns": 29,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 43,
+        "totalShots": 4,
+        "shotsOnTarget": 1,
+        "corners": 8,
+        "attacks": 87,
+        "shotsOffTarget": 0,
+        "blockedShots": 3,
+        "freeKicks": 7,
+        "throwIns": 29,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24140,
+          "isMajor": true,
+          "value": "57%",
+          "valuePercentage": 0.57,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "15",
+          "valuePercentage": 0.79,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "6",
+          "valuePercentage": 0.86,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24140,
+          "value": "8",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24140,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24140,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24140,
+          "value": "112",
+          "valuePercentage": 0.56,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 24140,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.4,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24140,
+          "value": "18",
+          "valuePercentage": 0.72,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24140,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "29",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24140,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24140,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 74125,
+          "isMajor": true,
+          "value": "43%",
+          "valuePercentage": 0.43,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "4",
+          "valuePercentage": 0.21,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.14,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 74125,
+          "value": "8",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 74125,
+          "value": "1",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 74125,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 74125,
+          "value": "87",
+          "valuePercentage": 0.44,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 74125,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.6,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 74125,
+          "value": "7",
+          "valuePercentage": 0.28,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 74125,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "29",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 37
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 74125,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "17",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 74125,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "AIK (F) vs Djurgardens (F)",
+      "league": "Damallsvenskan",
+      "minute": 90,
+      "score": "3-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 8,
+        "away": 5,
+        "total": 13
+      },
+      "projected": {
+        "home": 8,
+        "away": 7,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 27,
+        "shotsInsideBox": 15,
+        "attacks": 109,
+        "possession": {
+          "home": 49,
+          "away": 51
+        },
+        "totalShots": 24
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:18:59.753Z",
+    "match": "AIK (F) vs Djurgardens (F)",
+    "league": "Damallsvenskan",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 8,
+      "away": 5,
+      "total": 13
+    },
+    "projected": {
+      "home": 8,
+      "away": 7,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 27,
+      "shotsInsideBox": 15,
+      "attacks": 109,
+      "possession": {
+        "home": 49,
+        "away": 51
+      },
+      "totalShots": 24
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "AIK (F) vs Djurgardens (F)_90",
+    "correct": true,
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 49,
+        "totalShots": 16,
+        "shotsOnTarget": 6,
+        "corners": 8,
+        "attacks": 57,
+        "shotsOffTarget": 7,
+        "blockedShots": 3,
+        "freeKicks": 13,
+        "throwIns": 30,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 51,
+        "totalShots": 8,
+        "shotsOnTarget": 2,
+        "corners": 5,
+        "attacks": 52,
+        "shotsOffTarget": 4,
+        "blockedShots": 2,
+        "freeKicks": 13,
+        "throwIns": 26,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 24145,
+          "isMajor": true,
+          "value": "49%",
+          "valuePercentage": 0.49,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "16",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "6",
+          "valuePercentage": 0.75,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 24145,
+          "value": "8",
+          "valuePercentage": 0.62,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 24145,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 24145,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 24145,
+          "value": "57",
+          "valuePercentage": 0.52,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.64,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 24145,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.6,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 24145,
+          "value": "13",
+          "valuePercentage": 0.5,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 24145,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "30",
+          "valuePercentage": 0.54,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 24145,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "10",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 24145,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 30733,
+          "isMajor": true,
+          "value": "51%",
+          "valuePercentage": 0.51,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "8",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.25,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 30733,
+          "value": "5",
+          "valuePercentage": 0.38,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 30733,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 30733,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 30733,
+          "value": "52",
+          "valuePercentage": 0.48,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "4",
+          "valuePercentage": 0.36,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 30733,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.4,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 30733,
+          "value": "13",
+          "valuePercentage": 0.5,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 30733,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.46,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 30733,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "15",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 30733,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Ogre United vs Riga",
+      "league": "Virsliga",
+      "minute": 90,
+      "score": "1-4",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "projected": {
+        "home": 4,
+        "away": 11,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 23,
+        "attacks": 124,
+        "possession": {
+          "home": 36,
+          "away": 64
+        },
+        "totalShots": 36
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:18:59.839Z",
+    "match": "Ogre United vs Riga",
+    "league": "Virsliga",
+    "minute": 90,
+    "score": "1-4",
+    "corners": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "projected": {
+      "home": 4,
+      "away": 11,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 23,
+      "attacks": 124,
+      "possession": {
+        "home": 36,
+        "away": 64
+      },
+      "totalShots": 36
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Ogre United vs Riga_90",
+    "correct": false,
+    "finalScore": {
+      "home": 1,
+      "away": 4
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 36,
+        "totalShots": 5,
+        "shotsOnTarget": 1,
+        "bigChances": 1,
+        "corners": 4,
+        "passesCompleted": 205,
+        "attacks": 51,
+        "shotsOffTarget": 3,
+        "blockedShots": 1,
+        "freeKicks": 15,
+        "shotsInsideBox": 2,
+        "totalPasses": 285,
+        "crosses": 16,
+        "throwIns": 17,
+        "keyPasses": 4,
+        "passesFinalThird": 41,
+        "interceptions": 7,
+        "tacklesWon": 22,
+        "clearances": 32,
+        "duelsWon": 50,
+        "aerialDuelsWon": 15,
+        "dribbles": 20,
+        "fouls": 12
+      },
+      "away": {
+        "possession": 64,
+        "totalShots": 31,
+        "shotsOnTarget": 11,
+        "bigChances": 4,
+        "corners": 7,
+        "passesCompleted": 439,
+        "attacks": 73,
+        "shotsOffTarget": 13,
+        "blockedShots": 7,
+        "freeKicks": 11,
+        "shotsInsideBox": 21,
+        "totalPasses": 515,
+        "crosses": 24,
+        "throwIns": 26,
+        "keyPasses": 26,
+        "passesFinalThird": 150,
+        "interceptions": 13,
+        "tacklesWon": 19,
+        "clearances": 17,
+        "duelsWon": 46,
+        "aerialDuelsWon": 15,
+        "dribbles": 18,
+        "fouls": 15
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 88917,
+          "isMajor": true,
+          "value": "36%",
+          "valuePercentage": 0.36,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "5",
+          "valuePercentage": 0.14,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 0.08,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 24,
+          "name": "Grandes chances",
+          "competitorId": 88917,
+          "value": "1",
+          "valuePercentage": 0.2,
+          "order": 4,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 88917,
+          "value": "4",
+          "valuePercentage": 0.36,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 88917,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 19,
+          "name": "Pases completados",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "205",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 88917,
+          "value": "51",
+          "valuePercentage": 0.41,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.19,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 2
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "1",
+          "valuePercentage": 0.12,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 88917,
+          "value": "15",
+          "valuePercentage": 0.58,
+          "order": 14
+        },
+        {
+          "id": 146,
+          "name": "Remates dentro del área",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.09,
+          "categoryOrder": 1,
+          "order": 14,
+          "markedTeam": 2
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 88917,
+          "value": "285",
+          "valuePercentage": 0.36,
+          "order": 15
+        },
+        {
+          "id": 147,
+          "name": "Remates fuera del área",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "3",
+          "valuePercentage": 0.23,
+          "categoryOrder": 1,
+          "order": 15,
+          "markedTeam": 2
+        },
+        {
+          "id": 36,
+          "name": "Grandes chances perdidas",
+          "competitorId": 88917,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 16,
+          "markedTeam": 1
+        },
+        {
+          "id": 52,
+          "name": "Centros",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "5/16 (31%)",
+          "valuePercentage": 0.42,
+          "categoryOrder": 2,
+          "order": 31,
+          "markedTeam": 2
+        },
+        {
+          "id": 148,
+          "name": "Pases en el propio campo",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "162",
+          "valuePercentage": 0.42,
+          "categoryOrder": 2,
+          "order": 33,
+          "markedTeam": 2
+        },
+        {
+          "id": 149,
+          "name": "Pases en el campo contrario",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "139",
+          "valuePercentage": 0.31,
+          "categoryOrder": 2,
+          "order": 34,
+          "markedTeam": 2
+        },
+        {
+          "id": 53,
+          "name": "Pases largos completados",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "25/66 (38%)",
+          "valuePercentage": 0.43,
+          "categoryOrder": 2,
+          "order": 35,
+          "markedTeam": 2
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "17",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 46,
+          "name": "Pases claves",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "4",
+          "valuePercentage": 0.13,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 80,
+          "name": "Pases en el último tercio",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "41",
+          "valuePercentage": 0.21,
+          "categoryOrder": 2,
+          "order": 39,
+          "markedTeam": 2
+        },
+        {
+          "id": 81,
+          "name": "Pases hacia atrás",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "49",
+          "valuePercentage": 0.36,
+          "categoryOrder": 2,
+          "order": 40,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 88917,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "15",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 41,
+          "name": "Intercepciones",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "7",
+          "valuePercentage": 0.35,
+          "categoryOrder": 3,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "7",
+          "valuePercentage": 1,
+          "categoryOrder": 3,
+          "order": 51,
+          "markedTeam": 1
+        },
+        {
+          "id": 51,
+          "name": "Barridas ganadas",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "18/22 (82%)",
+          "valuePercentage": 0.59,
+          "categoryOrder": 3,
+          "order": 52,
+          "markedTeam": 1
+        },
+        {
+          "id": 40,
+          "name": "Despejes",
+          "competitorId": 88917,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "32",
+          "valuePercentage": 0.65,
+          "categoryOrder": 3,
+          "order": 55,
+          "markedTeam": 1
+        },
+        {
+          "id": 150,
+          "name": "Duelos ganados",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "50",
+          "valuePercentage": 0.52,
+          "categoryOrder": 4,
+          "order": 70,
+          "markedTeam": 1
+        },
+        {
+          "id": 56,
+          "name": "Duelos aéreos (ganados)",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "7/15 (47%)",
+          "valuePercentage": 0.47,
+          "categoryOrder": 4,
+          "order": 71,
+          "markedTeam": 2
+        },
+        {
+          "id": 55,
+          "name": "Duelos en el suelo (ganados)",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "43/81 (53%)",
+          "valuePercentage": 0.53,
+          "categoryOrder": 4,
+          "order": 72,
+          "markedTeam": 1
+        },
+        {
+          "id": 37,
+          "name": "Faltas recibidas",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "15",
+          "valuePercentage": 0.58,
+          "categoryOrder": 4,
+          "order": 74,
+          "markedTeam": 1
+        },
+        {
+          "id": 54,
+          "name": "Regates",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "6/20 (30%)",
+          "valuePercentage": 0.41,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 60,
+          "name": "Regateado",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "14",
+          "valuePercentage": 0.58,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 84,
+          "name": "Posesiones ganadas en el último tercio",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "1",
+          "valuePercentage": 0.11,
+          "categoryOrder": 4,
+          "order": 76,
+          "markedTeam": 2
+        },
+        {
+          "id": 73,
+          "name": "Posesiones perdidas",
+          "competitorId": 88917,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "127",
+          "valuePercentage": 0.49,
+          "categoryOrder": 4,
+          "order": 77,
+          "markedTeam": 1
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "12",
+          "valuePercentage": 0.44,
+          "categoryOrder": 5,
+          "order": 90,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 88917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 29362,
+          "isMajor": true,
+          "value": "64%",
+          "valuePercentage": 0.64,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "31",
+          "valuePercentage": 0.86,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "11",
+          "valuePercentage": 0.92,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 24,
+          "name": "Grandes chances",
+          "competitorId": 29362,
+          "value": "4",
+          "valuePercentage": 0.8,
+          "order": 4,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 29362,
+          "value": "7",
+          "valuePercentage": 0.64,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 29362,
+          "value": "4",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 19,
+          "name": "Pases completados",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "439",
+          "valuePercentage": 0.68,
+          "categoryOrder": 2,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 29362,
+          "value": "73",
+          "valuePercentage": 0.59,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "13",
+          "valuePercentage": 0.81,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 2
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.88,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 2
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 29362,
+          "value": "11",
+          "valuePercentage": 0.42,
+          "order": 14
+        },
+        {
+          "id": 146,
+          "name": "Remates dentro del área",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "21",
+          "valuePercentage": 0.91,
+          "categoryOrder": 1,
+          "order": 14,
+          "markedTeam": 2
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 29362,
+          "value": "515",
+          "valuePercentage": 0.64,
+          "order": 15
+        },
+        {
+          "id": 147,
+          "name": "Remates fuera del área",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "10",
+          "valuePercentage": 0.77,
+          "categoryOrder": 1,
+          "order": 15,
+          "markedTeam": 2
+        },
+        {
+          "id": 36,
+          "name": "Grandes chances perdidas",
+          "competitorId": 29362,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 16,
+          "markedTeam": 1
+        },
+        {
+          "id": 52,
+          "name": "Centros",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "10/24 (42%)",
+          "valuePercentage": 0.58,
+          "categoryOrder": 2,
+          "order": 31,
+          "markedTeam": 2
+        },
+        {
+          "id": 148,
+          "name": "Pases en el propio campo",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "224",
+          "valuePercentage": 0.58,
+          "categoryOrder": 2,
+          "order": 33,
+          "markedTeam": 2
+        },
+        {
+          "id": 149,
+          "name": "Pases en el campo contrario",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "315",
+          "valuePercentage": 0.69,
+          "categoryOrder": 2,
+          "order": 34,
+          "markedTeam": 2
+        },
+        {
+          "id": 53,
+          "name": "Pases largos completados",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "27/54 (50%)",
+          "valuePercentage": 0.57,
+          "categoryOrder": 2,
+          "order": 35,
+          "markedTeam": 2
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 46,
+          "name": "Pases claves",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.87,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 80,
+          "name": "Pases en el último tercio",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "150",
+          "valuePercentage": 0.79,
+          "categoryOrder": 2,
+          "order": 39,
+          "markedTeam": 2
+        },
+        {
+          "id": 81,
+          "name": "Pases hacia atrás",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "86",
+          "valuePercentage": 0.64,
+          "categoryOrder": 2,
+          "order": 40,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 29362,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.32,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 41,
+          "name": "Intercepciones",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "13",
+          "valuePercentage": 0.65,
+          "categoryOrder": 3,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 51,
+          "markedTeam": 1
+        },
+        {
+          "id": 51,
+          "name": "Barridas ganadas",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "11/19 (58%)",
+          "valuePercentage": 0.41,
+          "categoryOrder": 3,
+          "order": 52,
+          "markedTeam": 1
+        },
+        {
+          "id": 40,
+          "name": "Despejes",
+          "competitorId": 29362,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "17",
+          "valuePercentage": 0.35,
+          "categoryOrder": 3,
+          "order": 55,
+          "markedTeam": 1
+        },
+        {
+          "id": 150,
+          "name": "Duelos ganados",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "46",
+          "valuePercentage": 0.48,
+          "categoryOrder": 4,
+          "order": 70,
+          "markedTeam": 1
+        },
+        {
+          "id": 56,
+          "name": "Duelos aéreos (ganados)",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8/15 (53%)",
+          "valuePercentage": 0.53,
+          "categoryOrder": 4,
+          "order": 71,
+          "markedTeam": 2
+        },
+        {
+          "id": 55,
+          "name": "Duelos en el suelo (ganados)",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "38/81 (47%)",
+          "valuePercentage": 0.47,
+          "categoryOrder": 4,
+          "order": 72,
+          "markedTeam": 1
+        },
+        {
+          "id": 37,
+          "name": "Faltas recibidas",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "11",
+          "valuePercentage": 0.42,
+          "categoryOrder": 4,
+          "order": 74,
+          "markedTeam": 1
+        },
+        {
+          "id": 54,
+          "name": "Regates",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8/18 (44%)",
+          "valuePercentage": 0.59,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 60,
+          "name": "Regateado",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "10",
+          "valuePercentage": 0.42,
+          "categoryOrder": 4,
+          "order": 75,
+          "markedTeam": 2
+        },
+        {
+          "id": 84,
+          "name": "Posesiones ganadas en el último tercio",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "8",
+          "valuePercentage": 0.89,
+          "categoryOrder": 4,
+          "order": 76,
+          "markedTeam": 2
+        },
+        {
+          "id": 73,
+          "name": "Posesiones perdidas",
+          "competitorId": 29362,
+          "categoryId": 49,
+          "categoryName": "Duelos",
+          "value": "131",
+          "valuePercentage": 0.51,
+          "categoryOrder": 4,
+          "order": 77,
+          "markedTeam": 1
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "15",
+          "valuePercentage": 0.56,
+          "categoryOrder": 5,
+          "order": 90,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 29362,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Tobol Kostanay vs FC Qyzyljar",
+      "league": "Premier",
+      "minute": 90,
+      "score": "2-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 9,
+        "away": 4,
+        "total": 13
+      },
+      "projected": {
+        "home": 17,
+        "away": 4,
+        "total": 21
+      },
+      "stats": {
+        "crosses": 52,
+        "shotsInsideBox": 19,
+        "attacks": 204,
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "totalShots": 32
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:18:59.921Z",
+    "match": "Tobol Kostanay vs FC Qyzyljar",
+    "league": "Premier",
+    "minute": 90,
+    "score": "2-0",
+    "corners": {
+      "home": 9,
+      "away": 4,
+      "total": 13
+    },
+    "projected": {
+      "home": 17,
+      "away": 4,
+      "total": 21
+    },
+    "stats": {
+      "crosses": 52,
+      "shotsInsideBox": 19,
+      "attacks": 204,
+      "possession": {
+        "home": 68,
+        "away": 32
+      },
+      "totalShots": 32
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Tobol Kostanay vs FC Qyzyljar_90",
+    "correct": false,
+    "finalScore": {
+      "home": 2,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 68,
+        "totalShots": 23,
+        "shotsOnTarget": 11,
+        "corners": 9,
+        "attacks": 118,
+        "shotsOffTarget": 10,
+        "blockedShots": 2,
+        "freeKicks": 13,
+        "throwIns": 22,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 32,
+        "totalShots": 9,
+        "shotsOnTarget": 2,
+        "corners": 4,
+        "attacks": 86,
+        "shotsOffTarget": 7,
+        "blockedShots": 0,
+        "freeKicks": 15,
+        "throwIns": 26,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 5632,
+          "isMajor": true,
+          "value": "68%",
+          "valuePercentage": 0.68,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "23",
+          "valuePercentage": 0.72,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "11",
+          "valuePercentage": 0.85,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 5632,
+          "value": "9",
+          "valuePercentage": 0.69,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 5632,
+          "value": "1",
+          "valuePercentage": 0.33,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5632,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 5632,
+          "value": "118",
+          "valuePercentage": 0.58,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "10",
+          "valuePercentage": 0.59,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 5632,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 5632,
+          "value": "13",
+          "valuePercentage": 0.46,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 5632,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "22",
+          "valuePercentage": 0.46,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 5632,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "12",
+          "valuePercentage": 0.6,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5632,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 19868,
+          "isMajor": true,
+          "value": "32%",
+          "valuePercentage": 0.32,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "9",
+          "valuePercentage": 0.28,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "2",
+          "valuePercentage": 0.15,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 19868,
+          "value": "4",
+          "valuePercentage": 0.31,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 19868,
+          "value": "2",
+          "valuePercentage": 0.67,
+          "order": 6,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 19868,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 19868,
+          "value": "86",
+          "valuePercentage": 0.42,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "7",
+          "valuePercentage": 0.41,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 19868,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 19868,
+          "value": "15",
+          "valuePercentage": 0.54,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 19868,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "26",
+          "valuePercentage": 0.54,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 19868,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "8",
+          "valuePercentage": 0.4,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 19868,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Bumprom vs Shakhter Soligorsk",
+      "league": "Pershaya Liga",
+      "minute": 90,
+      "score": "6-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:00.000Z",
+    "match": "Bumprom vs Shakhter Soligorsk",
+    "league": "Pershaya Liga",
+    "minute": 90,
+    "score": "6-2",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Bumprom vs Shakhter Soligorsk_90",
+    "correct": true,
+    "finalScore": {
+      "home": 6,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 52427,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 52427,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.2,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 1971,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 1971,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.8,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Mbeya City vs Mtibwa Sugar",
+      "league": "Ligi Kuu Bara",
+      "minute": 90,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:00.087Z",
+    "match": "Mbeya City vs Mtibwa Sugar",
+    "league": "Ligi Kuu Bara",
+    "minute": 90,
+    "score": "1-0",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Mbeya City vs Mtibwa Sugar_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 50,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 20409,
+          "isMajor": true,
+          "value": "50%",
+          "valuePercentage": 0.5,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 20409,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 20409,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 20409,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 20412,
+          "isMajor": true,
+          "value": "50%",
+          "valuePercentage": 0.5,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 20412,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 20412,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 20412,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 20412,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 20412,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 10
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 20412,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Suduva vs Banga Gargzdai",
+      "league": "A Lyga",
+      "minute": 90,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 4,
+        "total": 11
+      },
+      "projected": {
+        "home": 13,
+        "away": 4,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 43,
+        "shotsInsideBox": 12,
+        "attacks": 171,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 20
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:00.172Z",
+    "match": "Suduva vs Banga Gargzdai",
+    "league": "A Lyga",
+    "minute": 90,
+    "score": "0-0",
+    "corners": {
+      "home": 7,
+      "away": 4,
+      "total": 11
+    },
+    "projected": {
+      "home": 13,
+      "away": 4,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 43,
+      "shotsInsideBox": 12,
+      "attacks": 171,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 20
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Suduva vs Banga Gargzdai_90",
+    "correct": false,
+    "finalScore": {
+      "home": 0,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 60,
+        "totalShots": 11,
+        "shotsOnTarget": 3,
+        "corners": 7,
+        "attacks": 100,
+        "shotsOffTarget": 6,
+        "blockedShots": 2,
+        "freeKicks": 10,
+        "throwIns": 19,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 40,
+        "totalShots": 9,
+        "shotsOnTarget": 3,
+        "corners": 4,
+        "attacks": 71,
+        "shotsOffTarget": 5,
+        "blockedShots": 1,
+        "freeKicks": 15,
+        "throwIns": 13,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 2316,
+          "isMajor": true,
+          "value": "60%",
+          "valuePercentage": 0.6,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 2316,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "11",
+          "valuePercentage": 0.55,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 2316,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "3",
+          "valuePercentage": 0.5,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 2316,
+          "value": "7",
+          "valuePercentage": 0.64,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 2316,
+          "value": "4",
+          "valuePercentage": 1,
+          "order": 6,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 2316,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 2316,
+          "value": "100",
+          "valuePercentage": 0.58,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 2316,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "6",
+          "valuePercentage": 0.55,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 2316,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 2316,
+          "value": "10",
+          "valuePercentage": 0.4,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 2316,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "19",
+          "valuePercentage": 0.59,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 2316,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.35,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 2316,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 5985,
+          "isMajor": true,
+          "value": "40%",
+          "valuePercentage": 0.4,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 5985,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "9",
+          "valuePercentage": 0.45,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 5985,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "3",
+          "valuePercentage": 0.5,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 5985,
+          "value": "4",
+          "valuePercentage": 0.36,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 5985,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5985,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 5985,
+          "value": "71",
+          "valuePercentage": 0.42,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 5985,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "5",
+          "valuePercentage": 0.45,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 5985,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 5985,
+          "value": "15",
+          "valuePercentage": 0.6,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 5985,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.41,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 5985,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.65,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5985,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Ilves vs TPS",
+      "league": "Veikkausliiga",
+      "minute": 59,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 0,
+        "away": 3,
+        "total": 3
+      },
+      "projected": {
+        "home": 1,
+        "away": 4,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 12,
+        "shotsInsideBox": 5,
+        "attacks": 91,
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "totalShots": 14
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:00.941Z",
+    "match": "Ilves vs TPS",
+    "league": "Veikkausliiga",
+    "minute": 59,
+    "score": "0-0",
+    "corners": {
+      "home": 0,
+      "away": 3,
+      "total": 3
+    },
+    "projected": {
+      "home": 1,
+      "away": 4,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 12,
+      "shotsInsideBox": 5,
+      "attacks": 91,
+      "possession": {
+        "home": 56,
+        "away": 44
+      },
+      "totalShots": 14
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Ilves vs TPS_59",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Inter Turku vs AC Oulu",
+      "league": "Veikkausliiga",
+      "minute": 58,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 2,
+        "total": 6
+      },
+      "projected": {
+        "home": 12,
+        "away": 3,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 27,
+        "shotsInsideBox": 12,
+        "attacks": 125,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:01.040Z",
+    "match": "Inter Turku vs AC Oulu",
+    "league": "Veikkausliiga",
+    "minute": 58,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 2,
+      "total": 6
+    },
+    "projected": {
+      "home": 12,
+      "away": 3,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 27,
+      "shotsInsideBox": 12,
+      "attacks": 125,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Inter Turku vs AC Oulu_58",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Eskilstuna United DFF (F) vs Malmö FF (W)",
+      "league": "Damallsvenskan",
+      "minute": 63,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 7,
+        "total": 10
+      },
+      "projected": {
+        "home": 3,
+        "away": 21,
+        "total": 24
+      },
+      "stats": {
+        "crosses": 35,
+        "shotsInsideBox": 6,
+        "attacks": 141,
+        "possession": {
+          "home": 36,
+          "away": 64
+        },
+        "totalShots": 10
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:01.143Z",
+    "match": "Eskilstuna United DFF (F) vs Malmö FF (W)",
+    "league": "Damallsvenskan",
+    "minute": 63,
+    "score": "0-0",
+    "corners": {
+      "home": 3,
+      "away": 7,
+      "total": 10
+    },
+    "projected": {
+      "home": 3,
+      "away": 21,
+      "total": 24
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 6,
+      "attacks": 141,
+      "possession": {
+        "home": 36,
+        "away": 64
+      },
+      "totalShots": 10
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Eskilstuna United DFF (F) vs Malmö FF (W)_63",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Baranovichi vs FC Minsk",
+      "league": "Vysshaya Liga",
+      "minute": 64,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 1,
+        "total": 6
+      },
+      "projected": {
+        "home": 12,
+        "away": 1,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 20,
+        "shotsInsideBox": 7,
+        "attacks": 0,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 6,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-06-13T13:19:01.233Z",
+    "match": "Baranovichi vs FC Minsk",
+    "league": "Vysshaya Liga",
+    "minute": 64,
+    "score": "0-1",
+    "corners": {
+      "home": 5,
+      "away": 1,
+      "total": 6
+    },
+    "projected": {
+      "home": 12,
+      "away": 1,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 20,
+      "shotsInsideBox": 7,
+      "attacks": 0,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 6,
+        "projected": 13
+      }
+    ],
+    "key": "Baranovichi vs FC Minsk_64",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O11.5"
+    ]
+  },
+  {
+    "result": {
+      "match": "Jetisu vs Okzhetpes",
+      "league": "Premier",
+      "minute": 60,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 4,
+        "total": 7
+      },
+      "projected": {
+        "home": 7,
+        "away": 6,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 22,
+        "shotsInsideBox": 8,
+        "attacks": 89,
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "totalShots": 14
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 7,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-06-13T13:19:02.003Z",
+    "match": "Jetisu vs Okzhetpes",
+    "league": "Premier",
+    "minute": 60,
+    "score": "1-1",
+    "corners": {
+      "home": 3,
+      "away": 4,
+      "total": 7
+    },
+    "projected": {
+      "home": 7,
+      "away": 6,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 22,
+      "shotsInsideBox": 8,
+      "attacks": 89,
+      "possession": {
+        "home": 54,
+        "away": 46
+      },
+      "totalShots": 14
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 7,
+        "projected": 13
+      }
+    ],
+    "key": "Jetisu vs Okzhetpes_60",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O11.5"
+    ]
+  },
+  {
+    "result": {
+      "match": "Dingnan United vs Guangdong GZ-Power",
+      "league": "League One",
+      "minute": 61,
+      "score": "0-2",
+      "dataQuality": "real",
+      "corners": {
+        "home": 5,
+        "away": 1,
+        "total": 6
+      },
+      "projected": {
+        "home": 9,
+        "away": 1,
+        "total": 10
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 14,
+        "attacks": 113,
+        "possession": {
+          "home": 51,
+          "away": 49
+        },
+        "totalShots": 18
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-13T13:19:02.397Z",
+    "match": "Dingnan United vs Guangdong GZ-Power",
+    "league": "League One",
+    "minute": 61,
+    "score": "0-2",
+    "corners": {
+      "home": 5,
+      "away": 1,
+      "total": 6
+    },
+    "projected": {
+      "home": 9,
+      "away": 1,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 14,
+      "attacks": 113,
+      "possession": {
+        "home": 51,
+        "away": 49
+      },
+      "totalShots": 18
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Dingnan United vs Guangdong GZ-Power_61",
     "correct": null,
     "finalScore": null,
     "finalCorners": null,
