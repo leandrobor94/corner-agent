@@ -238,10 +238,17 @@
     "totalShotsBox": 23
   },
   "League One": {
+    "matches": 3,
+    "totalCorners": 18,
+    "totalProjected": 18,
+    "totalCrosses": 73,
+    "totalShotsBox": 43
+  },
+  "Meistriliiga": {
     "matches": 1,
-    "totalCorners": 9,
-    "totalProjected": 9,
-    "totalCrosses": 34,
-    "totalShotsBox": 21
+    "totalCorners": 16,
+    "totalProjected": 23,
+    "totalCrosses": 80,
+    "totalShotsBox": 19
   }
 }
