@@ -236,5 +236,12 @@
     "totalProjected": 39,
     "totalCrosses": 46,
     "totalShotsBox": 23
+  },
+  "League One": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 34,
+    "totalShotsBox": 21
   }
 }
