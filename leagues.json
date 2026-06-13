@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 13,
-    "totalCorners": "0[object Object][object Object]009096096096",
-    "totalProjected": 61,
-    "totalCrosses": 446,
-    "totalShotsBox": 51
+    "matches": 15,
+    "totalCorners": "0[object Object][object Object]0090960960961313",
+    "totalProjected": 104,
+    "totalCrosses": 522,
+    "totalShotsBox": 77
   },
   "Ykkonen": {
     "matches": 6,
@@ -105,7 +105,7 @@
     "totalShotsBox": 95
   },
   "Ligi Kuu Bara": {
-    "matches": 11,
+    "matches": 12,
     "totalCorners": 102,
     "totalProjected": 117,
     "totalCrosses": 589,
@@ -126,11 +126,11 @@
     "totalShotsBox": 89
   },
   "Virsliga": {
-    "matches": 7,
-    "totalCorners": 46,
-    "totalProjected": 63,
-    "totalCrosses": 230,
-    "totalShotsBox": 104
+    "matches": 9,
+    "totalCorners": 68,
+    "totalProjected": 87,
+    "totalCrosses": 287,
+    "totalShotsBox": 134
   },
   "Botola Pro": {
     "matches": 14,
@@ -147,11 +147,11 @@
     "totalShotsBox": 88
   },
   "A Lyga": {
-    "matches": 10,
-    "totalCorners": 104,
-    "totalProjected": 117,
-    "totalCrosses": 458,
-    "totalShotsBox": 171
+    "matches": 11,
+    "totalCorners": 115,
+    "totalProjected": 134,
+    "totalCrosses": 501,
+    "totalShotsBox": 183
   },
   "I Lyga": {
     "matches": 14,
@@ -161,11 +161,11 @@
     "totalShotsBox": 116
   },
   "Damallsvenskan": {
-    "matches": 3,
-    "totalCorners": 18,
-    "totalProjected": 42,
-    "totalCrosses": 180,
-    "totalShotsBox": 30
+    "matches": 9,
+    "totalCorners": 100,
+    "totalProjected": 131,
+    "totalCrosses": 396,
+    "totalShotsBox": 71
   },
   "Icelandic Cup - Mjólkurbikarinn - Cuartos de Final": {
     "matches": 6,
@@ -238,17 +238,24 @@
     "totalShotsBox": 23
   },
   "League One": {
-    "matches": 3,
-    "totalCorners": 18,
-    "totalProjected": 18,
-    "totalCrosses": 73,
-    "totalShotsBox": 43
+    "matches": 5,
+    "totalCorners": 27,
+    "totalProjected": 27,
+    "totalCrosses": 112,
+    "totalShotsBox": 65
   },
   "Meistriliiga": {
-    "matches": 1,
-    "totalCorners": 16,
-    "totalProjected": 23,
-    "totalCrosses": 80,
-    "totalShotsBox": 19
+    "matches": 2,
+    "totalCorners": 32,
+    "totalProjected": 46,
+    "totalCrosses": 160,
+    "totalShotsBox": 38
+  },
+  "Pershaya Liga": {
+    "matches": 3,
+    "totalCorners": 0,
+    "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
