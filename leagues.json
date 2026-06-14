@@ -28,25 +28,25 @@
     "totalShotsBox": 449
   },
   "Ykkonen": {
-    "matches": 19,
-    "totalCorners": "0[object Object][object Object]41414141416161621211621162116211621",
-    "totalProjected": 548,
-    "totalCrosses": 839,
-    "totalShotsBox": 226
+    "matches": 20,
+    "totalCorners": "0[object Object][object Object]414141414161616212116211621162116219",
+    "totalProjected": 560,
+    "totalCrosses": 890,
+    "totalShotsBox": 236
   },
   "Segunda división": {
-    "matches": 7,
-    "totalCorners": "0[object Object][object Object]71212121212",
-    "totalProjected": 90,
-    "totalCrosses": 274,
-    "totalShotsBox": 71
+    "matches": 9,
+    "totalCorners": "0[object Object][object Object]712121212121313",
+    "totalProjected": 121,
+    "totalCrosses": 409,
+    "totalShotsBox": 96
   },
   "Superettan": {
-    "matches": 2,
-    "totalCorners": "0[object Object][object Object]12",
-    "totalProjected": 48,
-    "totalCrosses": 104,
-    "totalShotsBox": 32
+    "matches": 3,
+    "totalCorners": "0[object Object][object Object]1212",
+    "totalProjected": 61,
+    "totalCrosses": 146,
+    "totalShotsBox": 50
   },
   "Copa de Suecia - Clasificación": {
     "matches": 2,
@@ -238,11 +238,11 @@
     "totalShotsBox": 23
   },
   "League One": {
-    "matches": 34,
-    "totalCorners": 212,
-    "totalProjected": 261,
-    "totalCrosses": 821,
-    "totalShotsBox": 548
+    "matches": 35,
+    "totalCorners": 223,
+    "totalProjected": 279,
+    "totalCrosses": 864,
+    "totalShotsBox": 568
   },
   "Meistriliiga": {
     "matches": 29,
@@ -252,7 +252,7 @@
     "totalShotsBox": 471
   },
   "Pershaya Liga": {
-    "matches": 36,
+    "matches": 37,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -432,5 +432,12 @@
     "totalProjected": 12,
     "totalCrosses": 25,
     "totalShotsBox": 28
+  },
+  "FA Cup": {
+    "matches": 2,
+    "totalCorners": 26,
+    "totalProjected": 30,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
