@@ -147530,5 +147530,131 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Kenya Commercial Bank vs Bandari",
+      "league": "FA Cup",
+      "minute": 72,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 6,
+        "away": 5,
+        "total": 11
+      },
+      "projected": {
+        "home": 8,
+        "away": 7,
+        "total": 15
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-14T10:35:07.497Z",
+    "match": "Kenya Commercial Bank vs Bandari",
+    "league": "FA Cup",
+    "minute": 72,
+    "score": "0-0",
+    "corners": {
+      "home": 6,
+      "away": 5,
+      "total": 11
+    },
+    "projected": {
+      "home": 8,
+      "away": 7,
+      "total": 15
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Kenya Commercial Bank vs Bandari_72",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Flora Tallinn II vs JK Tallinna Kalev",
+      "league": "Segunda división",
+      "minute": 49,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "projected": {
+        "home": 11,
+        "away": 6,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 50,
+        "shotsInsideBox": 9,
+        "attacks": 198,
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "totalShots": 14
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-14T10:35:07.629Z",
+    "match": "Flora Tallinn II vs JK Tallinna Kalev",
+    "league": "Segunda división",
+    "minute": 49,
+    "score": "0-1",
+    "corners": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "projected": {
+      "home": 11,
+      "away": 6,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 50,
+      "shotsInsideBox": 9,
+      "attacks": 198,
+      "possession": {
+        "home": 56,
+        "away": 44
+      },
+      "totalShots": 14
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Flora Tallinn II vs JK Tallinna Kalev_49",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
