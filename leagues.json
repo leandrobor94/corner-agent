@@ -1,10 +1,10 @@
 {
   "Copa Nacional": {
-    "matches": 4,
-    "totalCorners": "0[object Object][object Object][object Object][object Object]1711",
-    "totalProjected": 80,
-    "totalCrosses": 118,
-    "totalShotsBox": 76
+    "matches": 5,
+    "totalCorners": "0[object Object][object Object][object Object][object Object]17119",
+    "totalProjected": 93,
+    "totalCrosses": 157,
+    "totalShotsBox": 88
   },
   "Torneo Maurice": {
     "matches": 4,
@@ -21,32 +21,32 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 37,
-    "totalCorners": "0[object Object][object Object]009096096096131313111112131112131112131112131112131112131112",
-    "totalProjected": 572,
-    "totalCrosses": 1384,
-    "totalShotsBox": 449
+    "matches": 41,
+    "totalCorners": "0[object Object][object Object]0090960960961313131111121311121311121311121311121311121311124747",
+    "totalProjected": 599,
+    "totalCrosses": 1489,
+    "totalShotsBox": 478
   },
   "Ykkonen": {
-    "matches": 20,
-    "totalCorners": "0[object Object][object Object]414141414161616212116211621162116219",
-    "totalProjected": 560,
-    "totalCrosses": 890,
-    "totalShotsBox": 236
+    "matches": 21,
+    "totalCorners": "0[object Object][object Object]4141414141616162121162116211621162199",
+    "totalProjected": 572,
+    "totalCrosses": 941,
+    "totalShotsBox": 246
   },
   "Segunda división": {
-    "matches": 9,
-    "totalCorners": "0[object Object][object Object]712121212121313",
-    "totalProjected": 121,
-    "totalCrosses": 409,
-    "totalShotsBox": 96
+    "matches": 10,
+    "totalCorners": "0[object Object][object Object]71212121212131313",
+    "totalProjected": 135,
+    "totalCrosses": 494,
+    "totalShotsBox": 112
   },
   "Superettan": {
-    "matches": 3,
-    "totalCorners": "0[object Object][object Object]1212",
-    "totalProjected": 61,
-    "totalCrosses": 146,
-    "totalShotsBox": 50
+    "matches": 6,
+    "totalCorners": "0[object Object][object Object]121212159",
+    "totalProjected": 109,
+    "totalCrosses": 289,
+    "totalShotsBox": 91
   },
   "Copa de Suecia - Clasificación": {
     "matches": 2,
@@ -105,11 +105,11 @@
     "totalShotsBox": 214
   },
   "Ligi Kuu Bara": {
-    "matches": 32,
-    "totalCorners": 188,
-    "totalProjected": 213,
-    "totalCrosses": 1436,
-    "totalShotsBox": 261
+    "matches": 33,
+    "totalCorners": 196,
+    "totalProjected": 225,
+    "totalCrosses": 1500,
+    "totalShotsBox": 266
   },
   "Vysshaya Liga": {
     "matches": 37,
@@ -147,11 +147,11 @@
     "totalShotsBox": 179
   },
   "A Lyga": {
-    "matches": 18,
-    "totalCorners": 192,
-    "totalProjected": 253,
-    "totalCrosses": 802,
-    "totalShotsBox": 267
+    "matches": 19,
+    "totalCorners": 205,
+    "totalProjected": 269,
+    "totalCrosses": 837,
+    "totalShotsBox": 278
   },
   "I Lyga": {
     "matches": 21,
@@ -175,10 +175,10 @@
     "totalShotsBox": 144
   },
   "Paulista U20 - Primera Fase - Grupo 3": {
-    "matches": 3,
-    "totalCorners": 21,
-    "totalProjected": 45,
-    "totalCrosses": 0,
+    "matches": 4,
+    "totalCorners": 28,
+    "totalProjected": 53,
+    "totalCrosses": 55,
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
@@ -238,23 +238,23 @@
     "totalShotsBox": 23
   },
   "League One": {
-    "matches": 35,
-    "totalCorners": 223,
-    "totalProjected": 279,
-    "totalCrosses": 864,
-    "totalShotsBox": 568
+    "matches": 43,
+    "totalCorners": 277,
+    "totalProjected": 356,
+    "totalCrosses": 1050,
+    "totalShotsBox": 645
   },
   "Meistriliiga": {
-    "matches": 29,
-    "totalCorners": 342,
-    "totalProjected": 528,
-    "totalCrosses": 2693,
-    "totalShotsBox": 471
+    "matches": 31,
+    "totalCorners": 358,
+    "totalProjected": 552,
+    "totalCrosses": 2758,
+    "totalShotsBox": 503
   },
   "Pershaya Liga": {
-    "matches": 37,
-    "totalCorners": 0,
-    "totalProjected": 0,
+    "matches": 40,
+    "totalCorners": 2,
+    "totalProjected": 3,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -287,10 +287,10 @@
     "totalShotsBox": 132
   },
   "Divisional C - Torneo": {
-    "matches": 11,
-    "totalCorners": 112,
-    "totalProjected": 128,
-    "totalCrosses": 511,
+    "matches": 12,
+    "totalCorners": 121,
+    "totalProjected": 141,
+    "totalCrosses": 557,
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
@@ -434,10 +434,10 @@
     "totalShotsBox": 28
   },
   "FA Cup": {
-    "matches": 2,
-    "totalCorners": 26,
-    "totalProjected": 30,
-    "totalCrosses": 0,
+    "matches": 5,
+    "totalCorners": 51,
+    "totalProjected": 65,
+    "totalCrosses": 77,
     "totalShotsBox": 0
   }
 }
