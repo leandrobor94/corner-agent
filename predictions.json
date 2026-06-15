@@ -260157,5 +260157,84 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Negele Arsi Ketema vs Awassa Kenema",
+      "league": "Premier",
+      "minute": 77,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 6,
+        "total": 7
+      },
+      "projected": {
+        "home": 1,
+        "away": 12,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 32,
+        "shotsInsideBox": 6,
+        "attacks": 127,
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "totalShots": 9
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 7,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-06-15T11:39:47.653Z",
+    "match": "Negele Arsi Ketema vs Awassa Kenema",
+    "league": "Premier",
+    "minute": 77,
+    "score": "1-0",
+    "corners": {
+      "home": 1,
+      "away": 6,
+      "total": 7
+    },
+    "projected": {
+      "home": 1,
+      "away": 12,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 32,
+      "shotsInsideBox": 6,
+      "attacks": 127,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 9
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 7,
+        "projected": 13
+      }
+    ],
+    "key": "Negele Arsi Ketema vs Awassa Kenema_77",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O11.5"
+    ]
   }
 ]
