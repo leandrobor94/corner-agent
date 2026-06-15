@@ -67,7 +67,8 @@ function analyzeMatch(match, stats, minute) {
     const projFromShots = teamCurrent + shotRate * minsLeft * CONFIG.CORNER_CONVERSION_SHOTS;
     const projFromAttacks = teamCurrent + attackRate * minsLeft * CONFIG.CORNER_CONVERSION_ATTACKS;
 
-    const possFactor = oppStats.possession > 0 ? teamStats.possession / oppStats.possession : 1;
+    const pf = oppStats.possession > 0 ? teamStats.possession / oppStats.possession : 1;
+    const possFactor = Math.max(Math.min(pf, CONFIG.POS_FACTOR_CAP), 1 / CONFIG.POS_FACTOR_CAP);
     const needFactor = needsGoal ? CONFIG.NEED_GOAL_BOOST : (Math.abs(goalDiff) >= 2 ? CONFIG.WINNING_REDUCTION : 1.0);
 
     const blended = Math.round((
