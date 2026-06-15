@@ -48686,7 +48686,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:34.059Z",
+    "timestamp": "2026-06-15T16:52:30.724Z",
     "match": "Defensores Cambaceres vs Berazategui",
     "league": "Primera C Metropolitana - Zona A",
     "minute": 90,
@@ -260578,7 +260578,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-15T16:51:22.684Z",
+    "timestamp": "2026-06-15T16:52:29.917Z",
     "match": "Negele Arsi Ketema vs Awassa Kenema",
     "league": "Premier",
     "minute": 90,
@@ -260959,7 +260959,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-15T16:51:22.830Z",
+    "timestamp": "2026-06-15T16:52:30.016Z",
     "match": "Arba Minch Kenema vs Shire Endaselassie",
     "league": "Premier",
     "minute": 90,
@@ -261331,7 +261331,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:22.976Z",
+    "timestamp": "2026-06-15T16:52:30.106Z",
     "match": "Kinondoni MC vs Coastal Union",
     "league": "Ligi Kuu Bara",
     "minute": 90,
@@ -261680,7 +261680,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.118Z",
+    "timestamp": "2026-06-15T16:52:30.192Z",
     "match": "Adama Kenema vs Ethiopia Nigd Bank",
     "league": "Premier",
     "minute": 90,
@@ -262027,7 +262027,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.318Z",
+    "timestamp": "2026-06-15T16:52:30.296Z",
     "match": "Nacional (Reserva) vs Boston River (Reserva)",
     "league": "Tercera División -",
     "minute": 90,
@@ -262312,7 +262312,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.455Z",
+    "timestamp": "2026-06-15T16:52:30.380Z",
     "match": "Juventud (Reserva) vs Progreso (Reserva)",
     "league": "Tercera División -",
     "minute": 90,
@@ -262599,7 +262599,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.588Z",
+    "timestamp": "2026-06-15T16:52:30.463Z",
     "match": "Mes Shahr-E Babak vs Be'sat Kermanshah",
     "league": "Division 1",
     "minute": 90,
@@ -262858,7 +262858,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.727Z",
+    "timestamp": "2026-06-15T16:52:30.549Z",
     "match": "Havadar vs Mes Kerman",
     "league": "Division 1",
     "minute": 90,
@@ -263119,7 +263119,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-15T16:51:23.862Z",
+    "timestamp": "2026-06-15T16:52:30.633Z",
     "match": "Fard vs Sanat Naft Abadan",
     "league": "Division 1",
     "minute": 90,
@@ -263446,7 +263446,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-15T16:51:35.093Z",
+    "timestamp": "2026-06-15T16:52:31.162Z",
     "match": "España vs Cabo Verde",
     "league": "Mundial - Grupo H",
     "minute": 45,
@@ -263525,7 +263525,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-15T16:51:35.888Z",
+    "timestamp": "2026-06-15T16:52:31.284Z",
     "match": "Kalju Nomme II vs FC Nomme United II",
     "league": "Segunda división",
     "minute": 45,
@@ -263566,5 +263566,68 @@
     "_sentAlerts": [
       "Total_O10.5"
     ]
+  },
+  {
+    "result": {
+      "match": "SJK Akatemia vs Haka",
+      "league": "Ykkosliiga",
+      "minute": 62,
+      "score": "0-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 6,
+        "total": 6
+      },
+      "projected": {
+        "home": 1,
+        "away": 6,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 27,
+        "shotsInsideBox": 7,
+        "attacks": 107,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-15T16:52:31.040Z",
+    "match": "SJK Akatemia vs Haka",
+    "league": "Ykkosliiga",
+    "minute": 62,
+    "score": "0-2",
+    "corners": {
+      "home": 0,
+      "away": 6,
+      "total": 6
+    },
+    "projected": {
+      "home": 1,
+      "away": 6,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 27,
+      "shotsInsideBox": 7,
+      "attacks": 107,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "SJK Akatemia vs Haka_62",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
