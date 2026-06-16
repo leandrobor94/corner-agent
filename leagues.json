@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 105,
-    "totalCorners": "0[object Object][object Object]009096096096131313111112131112131112131112131112131112131112474747141014108104714108107781110471410810781110471410810781110471410810781110998598598539853",
-    "totalProjected": 1273,
-    "totalCrosses": 3785,
-    "totalShotsBox": 1118
+    "matches": 111,
+    "totalCorners": "0[object Object][object Object]009096096096131313111112131112131112131112131112131112131112474747141014108104714108107781110471410810781110471410810781110471410810781110998598598539853101009118",
+    "totalProjected": 1336,
+    "totalCrosses": 4165,
+    "totalShotsBox": 1161
   },
   "Ykkonen": {
     "matches": 26,
@@ -105,11 +105,11 @@
     "totalShotsBox": 312
   },
   "Ligi Kuu Bara": {
-    "matches": 47,
-    "totalCorners": 276,
-    "totalProjected": 329,
-    "totalCrosses": 1928,
-    "totalShotsBox": 327
+    "matches": 48,
+    "totalCorners": 283,
+    "totalProjected": 340,
+    "totalCrosses": 1987,
+    "totalShotsBox": 347
   },
   "Vysshaya Liga": {
     "matches": 55,
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Division 1": {
-    "matches": 30,
-    "totalCorners": 232,
-    "totalProjected": 293,
+    "matches": 31,
+    "totalCorners": 234,
+    "totalProjected": 296,
     "totalCrosses": 1167,
     "totalShotsBox": 216
   },
