@@ -277747,5 +277747,68 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Ethio Electric vs Mekelle Kenema",
+      "league": "Premier",
+      "minute": 48,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "projected": {
+        "home": 8,
+        "away": 8,
+        "total": 16
+      },
+      "stats": {
+        "crosses": 53,
+        "shotsInsideBox": 4,
+        "attacks": 209,
+        "possession": {
+          "home": 47,
+          "away": 53
+        },
+        "totalShots": 8
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-16T10:49:17.674Z",
+    "match": "Ethio Electric vs Mekelle Kenema",
+    "league": "Premier",
+    "minute": 48,
+    "score": "0-0",
+    "corners": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "projected": {
+      "home": 8,
+      "away": 8,
+      "total": 16
+    },
+    "stats": {
+      "crosses": 53,
+      "shotsInsideBox": 4,
+      "attacks": 209,
+      "possession": {
+        "home": 47,
+        "away": 53
+      },
+      "totalShots": 8
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Ethio Electric vs Mekelle Kenema_48",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
