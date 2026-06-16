@@ -14,18 +14,18 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 20,
-    "totalCorners": "0[object Object][object Object]698989868139498681394",
-    "totalProjected": 180,
-    "totalCrosses": 904,
+    "matches": 24,
+    "totalCorners": "0[object Object][object Object]698989868139498681394115115",
+    "totalProjected": 203,
+    "totalCrosses": 1073,
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 116,
-    "totalCorners": "0[object Object][object Object]0090960960961313131111121311121311121311121311121311121311124747471410141081047141081077811104714108107811104714108107811104714108107811109985985985398531010091181009118",
-    "totalProjected": 1383,
-    "totalCrosses": 4492,
-    "totalShotsBox": 1200
+    "matches": 123,
+    "totalCorners": "0[object Object][object Object]0090960960961313131111121311121311121311121311121311121311124747471410141081047141081077811104714108107811104714108107811104714108107811109985985985398531010091181009118100911899",
+    "totalProjected": 1449,
+    "totalCrosses": 4943,
+    "totalShotsBox": 1262
   },
   "Ykkonen": {
     "matches": 26,
@@ -42,11 +42,11 @@
     "totalShotsBox": 264
   },
   "Superettan": {
-    "matches": 31,
-    "totalCorners": "0[object Object][object Object]1212121591215912159111215911121591112159116868149",
-    "totalProjected": 459,
-    "totalCrosses": 1477,
-    "totalShotsBox": 415
+    "matches": 33,
+    "totalCorners": "0[object Object][object Object]1212121591215912159111215911121591112159116868149149",
+    "totalProjected": 487,
+    "totalCrosses": 1558,
+    "totalShotsBox": 438
   },
   "Copa de Suecia - Clasificación": {
     "matches": 2,
@@ -63,10 +63,10 @@
     "totalShotsBox": 51
   },
   "Brasileirao Sub20": {
-    "matches": 8,
-    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]109116",
-    "totalProjected": 90,
-    "totalCrosses": 306,
+    "matches": 14,
+    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]10911612981298",
+    "totalProjected": 147,
+    "totalCrosses": 574,
     "totalShotsBox": 0
   },
   "Paulista U20 - Primera Fase - Grupo 1": {
@@ -105,11 +105,11 @@
     "totalShotsBox": 312
   },
   "Ligi Kuu Bara": {
-    "matches": 50,
-    "totalCorners": 296,
-    "totalProjected": 357,
-    "totalCrosses": 2075,
-    "totalShotsBox": 377
+    "matches": 52,
+    "totalCorners": 309,
+    "totalProjected": 374,
+    "totalCrosses": 2163,
+    "totalShotsBox": 407
   },
   "Vysshaya Liga": {
     "matches": 55,
@@ -119,18 +119,18 @@
     "totalShotsBox": 598
   },
   "Erovnuli Liga": {
-    "matches": 23,
-    "totalCorners": 248,
-    "totalProjected": 480,
-    "totalCrosses": 1426,
-    "totalShotsBox": 322
+    "matches": 24,
+    "totalCorners": 256,
+    "totalProjected": 490,
+    "totalCrosses": 1474,
+    "totalShotsBox": 336
   },
   "Virsliga": {
-    "matches": 31,
-    "totalCorners": 279,
-    "totalProjected": 395,
-    "totalCrosses": 950,
-    "totalShotsBox": 483
+    "matches": 33,
+    "totalCorners": 301,
+    "totalProjected": 425,
+    "totalCrosses": 1023,
+    "totalShotsBox": 526
   },
   "Botola Pro": {
     "matches": 31,
@@ -147,11 +147,11 @@
     "totalShotsBox": 286
   },
   "A Lyga": {
-    "matches": 26,
-    "totalCorners": 290,
-    "totalProjected": 371,
-    "totalCrosses": 1104,
-    "totalShotsBox": 368
+    "matches": 28,
+    "totalCorners": 310,
+    "totalProjected": 393,
+    "totalCrosses": 1196,
+    "totalShotsBox": 403
   },
   "I Lyga": {
     "matches": 21,
@@ -189,10 +189,10 @@
     "totalShotsBox": 0
   },
   "Division 1": {
-    "matches": 35,
-    "totalCorners": 255,
-    "totalProjected": 318,
-    "totalCrosses": 1221,
+    "matches": 38,
+    "totalCorners": 272,
+    "totalProjected": 338,
+    "totalCrosses": 1255,
     "totalShotsBox": 216
   },
   "Liga de": {
@@ -245,11 +245,11 @@
     "totalShotsBox": 935
   },
   "Meistriliiga": {
-    "matches": 38,
-    "totalCorners": 424,
-    "totalProjected": 639,
-    "totalCrosses": 3059,
-    "totalShotsBox": 619
+    "matches": 40,
+    "totalCorners": 450,
+    "totalProjected": 671,
+    "totalCrosses": 3170,
+    "totalShotsBox": 645
   },
   "Pershaya Liga": {
     "matches": 50,
@@ -455,11 +455,11 @@
     "totalShotsBox": 0
   },
   "Besta-deild karla": {
-    "matches": 10,
-    "totalCorners": 126,
-    "totalProjected": 155,
-    "totalCrosses": 360,
-    "totalShotsBox": 199
+    "matches": 13,
+    "totalCorners": 157,
+    "totalProjected": 194,
+    "totalCrosses": 466,
+    "totalShotsBox": 255
   },
   "Mundial - Grupo E": {
     "matches": 4,
@@ -574,10 +574,17 @@
     "totalShotsBox": 27
   },
   "Premier Division - Zona": {
+    "matches": 6,
+    "totalCorners": 38,
+    "totalProjected": 47,
+    "totalCrosses": 215,
+    "totalShotsBox": 56
+  },
+  "Mundial - Grupo I": {
     "matches": 1,
-    "totalCorners": 5,
-    "totalProjected": 6,
-    "totalCrosses": 40,
-    "totalShotsBox": 14
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 18,
+    "totalShotsBox": 11
   }
 }
