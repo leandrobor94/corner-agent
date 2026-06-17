@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 132,
-    "totalCorners": "0[object Object][object Object]00909609609613131311111213111213111213111213111213111213111247474714101410810471410810778111047141081078111047141081078111047141081078111099859859853985310100911810091181009118991009118914144",
-    "totalProjected": 1546,
-    "totalCrosses": 5438,
-    "totalShotsBox": 1345
+    "matches": 134,
+    "totalCorners": "0[object Object][object Object]00909609609613131311111213111213111213111213111213111213111247474714101410810471410810778111047141081078111047141081078111047141081078111099859859853985310100911810091181009118991009118914144147",
+    "totalProjected": 1570,
+    "totalCrosses": 5516,
+    "totalShotsBox": 1368
   },
   "Ykkonen": {
     "matches": 26,
@@ -63,10 +63,10 @@
     "totalShotsBox": 51
   },
   "Brasileirao Sub20": {
-    "matches": 17,
-    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]109116129812981298",
-    "totalProjected": 177,
-    "totalCrosses": 730,
+    "matches": 19,
+    "totalCorners": "0[object Object][object Object][object Object][object Object][object Object][object Object][object Object][object Object]1091161298129812981512",
+    "totalProjected": 210,
+    "totalCrosses": 776,
     "totalShotsBox": 0
   },
   "Paulista U20 - Primera Fase - Grupo 1": {
@@ -105,11 +105,11 @@
     "totalShotsBox": 312
   },
   "Ligi Kuu Bara": {
-    "matches": 58,
-    "totalCorners": 338,
-    "totalProjected": 409,
-    "totalCrosses": 2279,
-    "totalShotsBox": 447
+    "matches": 60,
+    "totalCorners": 346,
+    "totalProjected": 418,
+    "totalCrosses": 2293,
+    "totalShotsBox": 452
   },
   "Vysshaya Liga": {
     "matches": 55,
@@ -119,25 +119,25 @@
     "totalShotsBox": 598
   },
   "Erovnuli Liga": {
-    "matches": 26,
-    "totalCorners": 273,
-    "totalProjected": 513,
-    "totalCrosses": 1606,
-    "totalShotsBox": 363
+    "matches": 29,
+    "totalCorners": 300,
+    "totalProjected": 545,
+    "totalCrosses": 1750,
+    "totalShotsBox": 393
   },
   "Virsliga": {
-    "matches": 37,
-    "totalCorners": 346,
-    "totalProjected": 483,
-    "totalCrosses": 1173,
-    "totalShotsBox": 605
+    "matches": 41,
+    "totalCorners": 379,
+    "totalProjected": 521,
+    "totalCrosses": 1317,
+    "totalShotsBox": 659
   },
   "Botola Pro": {
-    "matches": 35,
-    "totalCorners": 343,
-    "totalProjected": 459,
-    "totalCrosses": 2286,
-    "totalShotsBox": 414
+    "matches": 39,
+    "totalCorners": 377,
+    "totalProjected": 499,
+    "totalCrosses": 2498,
+    "totalShotsBox": 466
   },
   "Ykkosliiga": {
     "matches": 24,
@@ -147,11 +147,11 @@
     "totalShotsBox": 286
   },
   "A Lyga": {
-    "matches": 31,
-    "totalCorners": 340,
-    "totalProjected": 428,
-    "totalCrosses": 1335,
-    "totalShotsBox": 450
+    "matches": 34,
+    "totalCorners": 374,
+    "totalProjected": 465,
+    "totalCrosses": 1441,
+    "totalShotsBox": 484
   },
   "I Lyga": {
     "matches": 21,
@@ -161,11 +161,11 @@
     "totalShotsBox": 175
   },
   "Damallsvenskan": {
-    "matches": 52,
-    "totalCorners": 646,
-    "totalProjected": 860,
-    "totalCrosses": 2256,
-    "totalShotsBox": 530
+    "matches": 56,
+    "totalCorners": 682,
+    "totalProjected": 896,
+    "totalCrosses": 2400,
+    "totalShotsBox": 565
   },
   "Icelandic Cup - Mjólkurbikarinn - Cuartos de Final": {
     "matches": 13,
@@ -217,11 +217,11 @@
     "totalShotsBox": 129
   },
   "Inkasso": {
-    "matches": 20,
-    "totalCorners": 211,
-    "totalProjected": 310,
-    "totalCrosses": 763,
-    "totalShotsBox": 203
+    "matches": 23,
+    "totalCorners": 250,
+    "totalProjected": 356,
+    "totalCrosses": 903,
+    "totalShotsBox": 251
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 24,
@@ -245,11 +245,11 @@
     "totalShotsBox": 935
   },
   "Meistriliiga": {
-    "matches": 42,
-    "totalCorners": 476,
-    "totalProjected": 703,
-    "totalCrosses": 3281,
-    "totalShotsBox": 671
+    "matches": 47,
+    "totalCorners": 541,
+    "totalProjected": 779,
+    "totalCrosses": 3527,
+    "totalShotsBox": 754
   },
   "Pershaya Liga": {
     "matches": 50,
@@ -259,17 +259,17 @@
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 45,
-    "totalCorners": 443,
-    "totalProjected": 616,
-    "totalCrosses": 1459,
-    "totalShotsBox": 731
+    "matches": 49,
+    "totalCorners": 479,
+    "totalProjected": 658,
+    "totalCrosses": 1594,
+    "totalShotsBox": 798
   },
   "Erovnuli Liga 2": {
-    "matches": 36,
-    "totalCorners": 299,
-    "totalProjected": 371,
-    "totalCrosses": 1766,
+    "matches": 43,
+    "totalCorners": 350,
+    "totalProjected": 432,
+    "totalCrosses": 2101,
     "totalShotsBox": 0
   },
   "Premier League - Descenso/Ascenso": {
@@ -469,11 +469,11 @@
     "totalShotsBox": 88
   },
   "Catarinense - Serie B": {
-    "matches": 9,
-    "totalCorners": 93,
-    "totalProjected": 122,
-    "totalCrosses": 346,
-    "totalShotsBox": 94
+    "matches": 10,
+    "totalCorners": 106,
+    "totalProjected": 136,
+    "totalCrosses": 393,
+    "totalShotsBox": 106
   },
   "Serie D - Grupo 8": {
     "matches": 9,
@@ -560,11 +560,11 @@
     "totalShotsBox": 45
   },
   "Liga Profesional - Reserva -": {
-    "matches": 2,
-    "totalCorners": 24,
-    "totalProjected": 30,
-    "totalCrosses": 78,
-    "totalShotsBox": 18
+    "matches": 5,
+    "totalCorners": 46,
+    "totalProjected": 56,
+    "totalCrosses": 327,
+    "totalShotsBox": 51
   },
   "Mundial - Grupo G": {
     "matches": 2,
@@ -595,17 +595,31 @@
     "totalShotsBox": 0
   },
   "Belarusian Cup - Octavos de final": {
-    "matches": 4,
+    "matches": 7,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa Rio - Primera Fase": {
-    "matches": 1,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 9,
+    "totalCorners": 74,
+    "totalProjected": 94,
+    "totalCrosses": 328,
+    "totalShotsBox": 111
+  },
+  "Mundial - Grupo K": {
+    "matches": 2,
+    "totalCorners": 18,
+    "totalProjected": 18,
+    "totalCrosses": 45,
+    "totalShotsBox": 10
+  },
+  "Premier Division -": {
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 16,
+    "totalCrosses": 97,
+    "totalShotsBox": 19
   }
 }
