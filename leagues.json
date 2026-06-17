@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 129,
-    "totalCorners": "0[object Object][object Object]009096096096131313111112131112131112131112131112131112131112474747141014108104714108107781110471410810781110471410810781110471410810781110998598598539853101009118100911810091189910091189",
-    "totalProjected": 1507,
-    "totalCrosses": 5351,
-    "totalShotsBox": 1316
+    "matches": 132,
+    "totalCorners": "0[object Object][object Object]00909609609613131311111213111213111213111213111213111213111247474714101410810471410810778111047141081078111047141081078111047141081078111099859859853985310100911810091181009118991009118914144",
+    "totalProjected": 1546,
+    "totalCrosses": 5438,
+    "totalShotsBox": 1345
   },
   "Ykkonen": {
     "matches": 26,
@@ -105,11 +105,11 @@
     "totalShotsBox": 312
   },
   "Ligi Kuu Bara": {
-    "matches": 55,
-    "totalCorners": 328,
-    "totalProjected": 398,
-    "totalCrosses": 2265,
-    "totalShotsBox": 442
+    "matches": 58,
+    "totalCorners": 338,
+    "totalProjected": 409,
+    "totalCrosses": 2279,
+    "totalShotsBox": 447
   },
   "Vysshaya Liga": {
     "matches": 55,
@@ -119,25 +119,25 @@
     "totalShotsBox": 598
   },
   "Erovnuli Liga": {
-    "matches": 25,
-    "totalCorners": 264,
-    "totalProjected": 500,
-    "totalCrosses": 1522,
-    "totalShotsBox": 350
+    "matches": 26,
+    "totalCorners": 273,
+    "totalProjected": 513,
+    "totalCrosses": 1606,
+    "totalShotsBox": 363
   },
   "Virsliga": {
-    "matches": 35,
-    "totalCorners": 323,
-    "totalProjected": 455,
-    "totalCrosses": 1096,
-    "totalShotsBox": 569
+    "matches": 37,
+    "totalCorners": 346,
+    "totalProjected": 483,
+    "totalCrosses": 1173,
+    "totalShotsBox": 605
   },
   "Botola Pro": {
-    "matches": 31,
-    "totalCorners": 309,
-    "totalProjected": 419,
-    "totalCrosses": 2074,
-    "totalShotsBox": 362
+    "matches": 35,
+    "totalCorners": 343,
+    "totalProjected": 459,
+    "totalCrosses": 2286,
+    "totalShotsBox": 414
   },
   "Ykkosliiga": {
     "matches": 24,
@@ -147,11 +147,11 @@
     "totalShotsBox": 286
   },
   "A Lyga": {
-    "matches": 30,
-    "totalCorners": 330,
-    "totalProjected": 415,
-    "totalCrosses": 1288,
-    "totalShotsBox": 438
+    "matches": 31,
+    "totalCorners": 340,
+    "totalProjected": 428,
+    "totalCrosses": 1335,
+    "totalShotsBox": 450
   },
   "I Lyga": {
     "matches": 21,
@@ -217,11 +217,11 @@
     "totalShotsBox": 129
   },
   "Inkasso": {
-    "matches": 17,
-    "totalCorners": 172,
-    "totalProjected": 264,
-    "totalCrosses": 623,
-    "totalShotsBox": 155
+    "matches": 20,
+    "totalCorners": 211,
+    "totalProjected": 310,
+    "totalCrosses": 763,
+    "totalShotsBox": 203
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 24,
@@ -259,17 +259,17 @@
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 42,
-    "totalCorners": 413,
-    "totalProjected": 580,
-    "totalCrosses": 1366,
-    "totalShotsBox": 684
+    "matches": 45,
+    "totalCorners": 443,
+    "totalProjected": 616,
+    "totalCrosses": 1459,
+    "totalShotsBox": 731
   },
   "Erovnuli Liga 2": {
-    "matches": 31,
-    "totalCorners": 254,
-    "totalProjected": 317,
-    "totalCrosses": 1573,
+    "matches": 36,
+    "totalCorners": 299,
+    "totalProjected": 371,
+    "totalCrosses": 1766,
     "totalShotsBox": 0
   },
   "Premier League - Descenso/Ascenso": {
@@ -588,6 +588,20 @@
     "totalShotsBox": 22
   },
   "Copa Simón Bolívar - Potosí": {
+    "matches": 1,
+    "totalCorners": 0,
+    "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Belarusian Cup - Octavos de final": {
+    "matches": 4,
+    "totalCorners": 0,
+    "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Rio - Primera Fase": {
     "matches": 1,
     "totalCorners": 0,
     "totalProjected": 0,
