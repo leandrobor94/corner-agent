@@ -297780,5 +297780,667 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Mbeya City vs Simba SC",
+      "league": "Ligi Kuu Bara",
+      "minute": 90,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 5,
+        "total": 6
+      },
+      "projected": {
+        "home": 1,
+        "away": 6,
+        "total": 7
+      },
+      "stats": {
+        "crosses": 14,
+        "shotsInsideBox": 5,
+        "attacks": 0,
+        "possession": {
+          "home": 42,
+          "away": 58
+        },
+        "totalShots": 8
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:31.759Z",
+    "match": "Mbeya City vs Simba SC",
+    "league": "Ligi Kuu Bara",
+    "minute": 90,
+    "score": "0-1",
+    "corners": {
+      "home": 1,
+      "away": 5,
+      "total": 6
+    },
+    "projected": {
+      "home": 1,
+      "away": 6,
+      "total": 7
+    },
+    "stats": {
+      "crosses": 14,
+      "shotsInsideBox": 5,
+      "attacks": 0,
+      "possession": {
+        "home": 42,
+        "away": 58
+      },
+      "totalShots": 8
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Mbeya City vs Simba SC_90",
+    "correct": true,
+    "finalScore": {
+      "home": 0,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 42,
+        "totalShots": 5,
+        "shotsOnTarget": 0,
+        "corners": 1,
+        "shotsOffTarget": 5,
+        "freeKicks": 0,
+        "throwIns": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "away": {
+        "possession": 58,
+        "totalShots": 3,
+        "shotsOnTarget": 1,
+        "corners": 5,
+        "shotsOffTarget": 2,
+        "freeKicks": 0,
+        "throwIns": 1,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 20409,
+          "isMajor": true,
+          "value": "42%",
+          "valuePercentage": 0.42,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "5",
+          "valuePercentage": 0.62,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 20409,
+          "value": "1",
+          "valuePercentage": 0.17,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 20409,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 20409,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 20409,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "5",
+          "valuePercentage": 0.71,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 20409,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 20409,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 20409,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 20409,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 10464,
+          "isMajor": true,
+          "value": "58%",
+          "valuePercentage": 0.58,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 10464,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "3",
+          "valuePercentage": 0.38,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 10464,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 1,
+          "order": 3,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 10464,
+          "value": "5",
+          "valuePercentage": 0.83,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 10464,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 10464,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 10464,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "2",
+          "valuePercentage": 0.29,
+          "categoryOrder": 1,
+          "order": 10,
+          "markedTeam": 1
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 10464,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 10464,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 10464,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 10464,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Singida Black Stars SC vs Dodoma Jiji",
+      "league": "Ligi Kuu Bara",
+      "minute": 61,
+      "score": "3-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "projected": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:32.038Z",
+    "match": "Singida Black Stars SC vs Dodoma Jiji",
+    "league": "Ligi Kuu Bara",
+    "minute": 61,
+    "score": "3-0",
+    "corners": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "projected": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Singida Black Stars SC vs Dodoma Jiji_61",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Gazelle vs Canon Yaounde",
+      "league": "Premier",
+      "minute": 72,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 7,
+        "away": 5,
+        "total": 12
+      },
+      "projected": {
+        "home": 12,
+        "away": 6,
+        "total": 18
+      },
+      "stats": {
+        "crosses": 31,
+        "shotsInsideBox": 11,
+        "attacks": 0,
+        "possession": {
+          "home": 54,
+          "away": 46
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:32.170Z",
+    "match": "Gazelle vs Canon Yaounde",
+    "league": "Premier",
+    "minute": 72,
+    "score": "0-0",
+    "corners": {
+      "home": 7,
+      "away": 5,
+      "total": 12
+    },
+    "projected": {
+      "home": 12,
+      "away": 6,
+      "total": 18
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 11,
+      "attacks": 0,
+      "possession": {
+        "home": 54,
+        "away": 46
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Gazelle vs Canon Yaounde_72",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Merani Martvili vs Samtredia",
+      "league": "Erovnuli Liga 2",
+      "minute": 79,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "projected": {
+        "home": 4,
+        "away": 1,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 0,
+        "attacks": 61,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:32.302Z",
+    "match": "Merani Martvili vs Samtredia",
+    "league": "Erovnuli Liga 2",
+    "minute": 79,
+    "score": "1-1",
+    "corners": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "projected": {
+      "home": 4,
+      "away": 1,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 0,
+      "attacks": 61,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Merani Martvili vs Samtredia_79",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Gareji vs Shturmi",
+      "league": "Erovnuli Liga 2",
+      "minute": 78,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 7,
+        "total": 12
+      },
+      "projected": {
+        "home": 7,
+        "away": 10,
+        "total": 17
+      },
+      "stats": {
+        "crosses": 54,
+        "shotsInsideBox": 0,
+        "attacks": 212,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:32.433Z",
+    "match": "Gareji vs Shturmi",
+    "league": "Erovnuli Liga 2",
+    "minute": 78,
+    "score": "0-0",
+    "corners": {
+      "home": 5,
+      "away": 7,
+      "total": 12
+    },
+    "projected": {
+      "home": 7,
+      "away": 10,
+      "total": 17
+    },
+    "stats": {
+      "crosses": 54,
+      "shotsInsideBox": 0,
+      "attacks": 212,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Gareji vs Shturmi_78",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Molodechno vs BATE Borisov",
+      "league": "Belarusian Cup - Octavos de final",
+      "minute": 81,
+      "score": "1-4",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-17T14:36:32.561Z",
+    "match": "Molodechno vs BATE Borisov",
+    "league": "Belarusian Cup - Octavos de final",
+    "minute": 81,
+    "score": "1-4",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Molodechno vs BATE Borisov_81",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
