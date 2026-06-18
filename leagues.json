@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 27,
-    "totalCorners": "0[object Object][object Object]69898986813949868139411511511510",
-    "totalProjected": 234,
-    "totalCrosses": 1210,
+    "matches": 28,
+    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010",
+    "totalProjected": 246,
+    "totalCrosses": 1251,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -35,11 +35,11 @@
     "totalShotsBox": 296
   },
   "Segunda división": {
-    "matches": 23,
-    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555",
-    "totalProjected": 278,
-    "totalCrosses": 1226,
-    "totalShotsBox": 264
+    "matches": 25,
+    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214",
+    "totalProjected": 312,
+    "totalCrosses": 1314,
+    "totalShotsBox": 287
   },
   "Superettan": {
     "matches": 35,
@@ -105,11 +105,11 @@
     "totalShotsBox": 312
   },
   "Ligi Kuu Bara": {
-    "matches": 64,
-    "totalCorners": 362,
-    "totalProjected": 436,
-    "totalCrosses": 2321,
-    "totalShotsBox": 462
+    "matches": 70,
+    "totalCorners": 402,
+    "totalProjected": 483,
+    "totalCrosses": 2471,
+    "totalShotsBox": 504
   },
   "Vysshaya Liga": {
     "matches": 55,
@@ -119,11 +119,11 @@
     "totalShotsBox": 598
   },
   "Erovnuli Liga": {
-    "matches": 33,
+    "matches": 35,
     "totalCorners": 336,
-    "totalProjected": 593,
-    "totalCrosses": 2002,
-    "totalShotsBox": 445
+    "totalProjected": 596,
+    "totalCrosses": 2043,
+    "totalShotsBox": 454
   },
   "Virsliga": {
     "matches": 47,
@@ -133,11 +133,11 @@
     "totalShotsBox": 753
   },
   "Botola Pro": {
-    "matches": 47,
-    "totalCorners": 445,
-    "totalProjected": 579,
-    "totalCrosses": 2922,
-    "totalShotsBox": 570
+    "matches": 51,
+    "totalCorners": 475,
+    "totalProjected": 616,
+    "totalCrosses": 3205,
+    "totalShotsBox": 610
   },
   "Ykkosliiga": {
     "matches": 24,
@@ -161,11 +161,11 @@
     "totalShotsBox": 175
   },
   "Damallsvenskan": {
-    "matches": 60,
-    "totalCorners": 718,
-    "totalProjected": 936,
-    "totalCrosses": 2598,
-    "totalShotsBox": 615
+    "matches": 63,
+    "totalCorners": 763,
+    "totalProjected": 989,
+    "totalCrosses": 2716,
+    "totalShotsBox": 628
   },
   "Icelandic Cup - Mjólkurbikarinn - Cuartos de Final": {
     "matches": 13,
@@ -259,11 +259,11 @@
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 61,
-    "totalCorners": 591,
-    "totalProjected": 788,
-    "totalCrosses": 1998,
-    "totalShotsBox": 1017
+    "matches": 62,
+    "totalCorners": 603,
+    "totalProjected": 801,
+    "totalCrosses": 2038,
+    "totalShotsBox": 1038
   },
   "Erovnuli Liga 2": {
     "matches": 53,
@@ -635,5 +635,12 @@
     "totalProjected": 10,
     "totalCrosses": 26,
     "totalShotsBox": 24
+  },
+  "Partido": {
+    "matches": 1,
+    "totalCorners": 0,
+    "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
