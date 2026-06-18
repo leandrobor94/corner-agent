@@ -339319,5 +339319,84 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "AC Oulu vs IFK Mariehamn",
+      "league": "Veikkausliiga",
+      "minute": 45,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 1,
+        "away": 4,
+        "total": 5
+      },
+      "projected": {
+        "home": 3,
+        "away": 8,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 6,
+        "attacks": 107,
+        "possession": {
+          "home": 52,
+          "away": 48
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 66,
+          "current": 5,
+          "projected": 11
+        }
+      ]
+    },
+    "timestamp": "2026-06-18T11:03:30.270Z",
+    "match": "AC Oulu vs IFK Mariehamn",
+    "league": "Veikkausliiga",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 1,
+      "away": 4,
+      "total": 5
+    },
+    "projected": {
+      "home": 3,
+      "away": 8,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 6,
+      "attacks": 107,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 66,
+        "current": 5,
+        "projected": 11
+      }
+    ],
+    "key": "AC Oulu vs IFK Mariehamn_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O9.5"
+    ]
   }
 ]
