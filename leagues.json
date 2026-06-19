@@ -642,5 +642,19 @@
     "totalProjected": 31,
     "totalCrosses": 169,
     "totalShotsBox": 0
+  },
+  "National": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 12,
+    "totalCrosses": 116,
+    "totalShotsBox": 15
+  },
+  "Chinese FA Cup - 16avos de final": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 11,
+    "totalCrosses": 118,
+    "totalShotsBox": 12
   }
 }
