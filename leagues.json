@@ -98,11 +98,11 @@
     "totalShotsBox": 66
   },
   "Copa de la Liga": {
-    "matches": 32,
-    "totalCorners": "0[object Object][object Object]111010991096665565111165111111111101101313554",
-    "totalProjected": 376,
-    "totalCrosses": 1340,
-    "totalShotsBox": 312
+    "matches": 33,
+    "totalCorners": "0[object Object][object Object]1110109910966655651111651111111111011013135549",
+    "totalProjected": 386,
+    "totalCrosses": 1392,
+    "totalShotsBox": 319
   },
   "Ligi Kuu Bara": {
     "matches": 76,
@@ -112,11 +112,11 @@
     "totalShotsBox": 552
   },
   "Vysshaya Liga": {
-    "matches": 57,
-    "totalCorners": 424,
-    "totalProjected": 564,
-    "totalCrosses": 2661,
-    "totalShotsBox": 615
+    "matches": 58,
+    "totalCorners": 438,
+    "totalProjected": 584,
+    "totalCrosses": 2690,
+    "totalShotsBox": 625
   },
   "Erovnuli Liga": {
     "matches": 40,
@@ -154,11 +154,11 @@
     "totalShotsBox": 532
   },
   "I Lyga": {
-    "matches": 26,
-    "totalCorners": 292,
-    "totalProjected": 336,
-    "totalCrosses": 992,
-    "totalShotsBox": 211
+    "matches": 27,
+    "totalCorners": 304,
+    "totalProjected": 350,
+    "totalCrosses": 1024,
+    "totalShotsBox": 218
   },
   "Damallsvenskan": {
     "matches": 76,
@@ -203,10 +203,10 @@
     "totalShotsBox": 566
   },
   "Campeonato": {
-    "matches": 18,
-    "totalCorners": 160,
-    "totalProjected": 177,
-    "totalCrosses": 426,
+    "matches": 19,
+    "totalCorners": 166,
+    "totalProjected": 184,
+    "totalCrosses": 469,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
@@ -252,7 +252,7 @@
     "totalShotsBox": 856
   },
   "Pershaya Liga": {
-    "matches": 54,
+    "matches": 56,
     "totalCorners": 7,
     "totalProjected": 8,
     "totalCrosses": 0,
@@ -294,18 +294,18 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 29,
-    "totalCorners": 238,
-    "totalProjected": 322,
-    "totalCrosses": 1050,
-    "totalShotsBox": 169
+    "matches": 31,
+    "totalCorners": 252,
+    "totalProjected": 340,
+    "totalCrosses": 1154,
+    "totalShotsBox": 181
   },
   "Formuladeildin": {
-    "matches": 27,
-    "totalCorners": 357,
-    "totalProjected": 458,
-    "totalCrosses": 1321,
-    "totalShotsBox": 379
+    "matches": 29,
+    "totalCorners": 383,
+    "totalProjected": 494,
+    "totalCrosses": 1406,
+    "totalShotsBox": 406
   },
   "Serie C": {
     "matches": 22,
@@ -441,11 +441,11 @@
     "totalShotsBox": 0
   },
   "OBOS-ligaen": {
-    "matches": 48,
-    "totalCorners": 564,
-    "totalProjected": 782,
-    "totalCrosses": 1919,
-    "totalShotsBox": 598
+    "matches": 50,
+    "totalCorners": 584,
+    "totalProjected": 805,
+    "totalCrosses": 2011,
+    "totalShotsBox": 629
   },
   "Campeonato Femenino A": {
     "matches": 13,
@@ -525,10 +525,10 @@
     "totalShotsBox": 19
   },
   "Liga 3": {
-    "matches": 9,
-    "totalCorners": 75,
-    "totalProjected": 84,
-    "totalCrosses": 147,
+    "matches": 10,
+    "totalCorners": 88,
+    "totalProjected": 99,
+    "totalCrosses": 197,
     "totalShotsBox": 0
   },
   "Serie D - Grupo 2": {
@@ -560,11 +560,11 @@
     "totalShotsBox": 45
   },
   "Liga Profesional - Reserva -": {
-    "matches": 27,
-    "totalCorners": 242,
-    "totalProjected": 286,
-    "totalCrosses": 1845,
-    "totalShotsBox": 317
+    "matches": 33,
+    "totalCorners": 292,
+    "totalProjected": 351,
+    "totalCrosses": 2187,
+    "totalShotsBox": 384
   },
   "Mundial - Grupo G": {
     "matches": 2,
@@ -574,11 +574,11 @@
     "totalShotsBox": 27
   },
   "Premier Division - Zona": {
-    "matches": 10,
-    "totalCorners": 61,
-    "totalProjected": 77,
-    "totalCrosses": 396,
-    "totalShotsBox": 100
+    "matches": 12,
+    "totalCorners": 70,
+    "totalProjected": 90,
+    "totalCrosses": 491,
+    "totalShotsBox": 118
   },
   "Mundial - Grupo I": {
     "matches": 2,
@@ -644,17 +644,17 @@
     "totalShotsBox": 0
   },
   "National": {
-    "matches": 4,
-    "totalCorners": 36,
-    "totalProjected": 48,
-    "totalCrosses": 464,
-    "totalShotsBox": 60
+    "matches": 5,
+    "totalCorners": 45,
+    "totalProjected": 60,
+    "totalCrosses": 580,
+    "totalShotsBox": 75
   },
   "Chinese FA Cup - 16avos de final": {
-    "matches": 16,
-    "totalCorners": 174,
-    "totalProjected": 209,
-    "totalCrosses": 994,
-    "totalShotsBox": 201
+    "matches": 21,
+    "totalCorners": 229,
+    "totalProjected": 275,
+    "totalCrosses": 1286,
+    "totalShotsBox": 264
   }
 }
