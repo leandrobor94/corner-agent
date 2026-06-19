@@ -361403,7 +361403,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-19T13:52:04.415Z",
+    "timestamp": "2026-06-19T16:26:21.872Z",
     "match": "Auckland FC II vs Western Springs",
     "league": "National",
     "minute": 90,
@@ -361832,7 +361832,7 @@
         }
       ]
     },
-    "timestamp": "2026-06-19T13:52:04.593Z",
+    "timestamp": "2026-06-19T16:26:22.058Z",
     "match": "Shanghai Segenda vs Shanghai Port",
     "league": "Chinese FA Cup - 16avos de final",
     "minute": 90,
@@ -362206,7 +362206,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-19T13:52:04.746Z",
+    "timestamp": "2026-06-19T16:26:22.236Z",
     "match": "Shaanxi Union FC vs Zhejiang",
     "league": "Chinese FA Cup - 16avos de final",
     "minute": 90,
@@ -362573,7 +362573,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-19T13:52:04.886Z",
+    "timestamp": "2026-06-19T16:26:22.411Z",
     "match": "Shenzhen Juniors FC vs Shenzhen Peng City",
     "league": "Chinese FA Cup - 16avos de final",
     "minute": 90,
@@ -362942,7 +362942,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-19T13:52:05.029Z",
+    "timestamp": "2026-06-19T16:26:22.584Z",
     "match": "Guangdong GZ-Power vs Beijing Guoan",
     "league": "Chinese FA Cup - 16avos de final",
     "minute": 90,
@@ -363309,7 +363309,7 @@
       "teamAlerts": [],
       "totalAlerts": []
     },
-    "timestamp": "2026-06-19T13:52:05.171Z",
+    "timestamp": "2026-06-19T16:26:22.755Z",
     "match": "Jiangxi Beidamen vs Henan",
     "league": "Chinese FA Cup - 16avos de final",
     "minute": 90,
@@ -363647,5 +363647,417 @@
       ]
     },
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "FC Minsk II vs Volna Pinsk",
+      "league": "Pershaya Liga",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-19T16:26:23.136Z",
+    "match": "FC Minsk II vs Volna Pinsk",
+    "league": "Pershaya Liga",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FC Minsk II vs Volna Pinsk_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 14630,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 14630,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.57,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 13079,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 13079,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "3",
+          "valuePercentage": 0.43,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "FC Lida vs Gomel II",
+      "league": "Pershaya Liga",
+      "minute": 90,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-19T16:26:23.879Z",
+    "match": "FC Lida vs Gomel II",
+    "league": "Pershaya Liga",
+    "minute": 90,
+    "score": "2-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FC Lida vs Gomel II_90",
+    "correct": true,
+    "finalScore": {
+      "home": 2,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 13149,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 13149,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "3",
+          "valuePercentage": 0.75,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 87392,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 87392,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.25,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Naftan Novopolotsk vs Baranovichi",
+      "league": "Vysshaya Liga",
+      "minute": 71,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 9,
+        "total": 12
+      },
+      "projected": {
+        "home": 3,
+        "away": 16,
+        "total": 19
+      },
+      "stats": {
+        "crosses": 19,
+        "shotsInsideBox": 7,
+        "attacks": 0,
+        "possession": {
+          "home": 34,
+          "away": 66
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-19T16:26:24.505Z",
+    "match": "Naftan Novopolotsk vs Baranovichi",
+    "league": "Vysshaya Liga",
+    "minute": 71,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 9,
+      "total": 12
+    },
+    "projected": {
+      "home": 3,
+      "away": 16,
+      "total": 19
+    },
+    "stats": {
+      "crosses": 19,
+      "shotsInsideBox": 7,
+      "attacks": 0,
+      "possession": {
+        "home": 34,
+        "away": 66
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Naftan Novopolotsk vs Baranovichi_71",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Babrungas vs Be1 Nfa",
+      "league": "I Lyga",
+      "minute": 65,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 4,
+        "total": 8
+      },
+      "projected": {
+        "home": 5,
+        "away": 8,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 22,
+        "shotsInsideBox": 3,
+        "attacks": 88,
+        "possession": {
+          "home": 45,
+          "away": 55
+        },
+        "totalShots": 6
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 8,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-06-19T16:26:24.721Z",
+    "match": "Babrungas vs Be1 Nfa",
+    "league": "I Lyga",
+    "minute": 65,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+    },
+    "projected": {
+      "home": 5,
+      "away": 8,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 22,
+      "shotsInsideBox": 3,
+      "attacks": 88,
+      "possession": {
+        "home": 45,
+        "away": 55
+      },
+      "totalShots": 6
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 8,
+        "projected": 13
+      }
+    ],
+    "key": "Babrungas vs Be1 Nfa_65",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O11.5"
+    ]
   }
 ]
