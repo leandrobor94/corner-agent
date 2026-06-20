@@ -392801,5 +392801,351 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Christchurch United Afc vs Selwyn United",
+      "league": "National",
+      "minute": 90,
+      "score": "4-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 1,
+        "total": 5
+      },
+      "projected": {
+        "home": 5,
+        "away": 1,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 30,
+        "shotsInsideBox": 0,
+        "attacks": 120,
+        "possession": {
+          "home": 68,
+          "away": 32
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-20T06:52:15.178Z",
+    "match": "Christchurch United Afc vs Selwyn United",
+    "league": "National",
+    "minute": 90,
+    "score": "4-1",
+    "corners": {
+      "home": 4,
+      "away": 1,
+      "total": 5
+    },
+    "projected": {
+      "home": 5,
+      "away": 1,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 30,
+      "shotsInsideBox": 0,
+      "attacks": 120,
+      "possession": {
+        "home": 68,
+        "away": 32
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Christchurch United Afc vs Selwyn United_90",
+    "correct": true,
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 68,
+        "corners": 4,
+        "attacks": 67,
+        "freeKicks": 14,
+        "throwIns": 28,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 32,
+        "corners": 1,
+        "attacks": 53,
+        "freeKicks": 8,
+        "throwIns": 20,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 72434,
+          "isMajor": true,
+          "value": "68%",
+          "valuePercentage": 0.68,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 72434,
+          "value": "4",
+          "valuePercentage": 0.8,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 72434,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 72434,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 72434,
+          "value": "67",
+          "valuePercentage": 0.56,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 72434,
+          "value": "14",
+          "valuePercentage": 0.64,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 72434,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "28",
+          "valuePercentage": 0.58,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 72434,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "4",
+          "valuePercentage": 0.24,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 72434,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 81302,
+          "isMajor": true,
+          "value": "32%",
+          "valuePercentage": 0.32,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 81302,
+          "value": "1",
+          "valuePercentage": 0.2,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 81302,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 81302,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 81302,
+          "value": "53",
+          "valuePercentage": 0.44,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 81302,
+          "value": "8",
+          "valuePercentage": 0.36,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 81302,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "20",
+          "valuePercentage": 0.42,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 81302,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.76,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 81302,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Birkenhead United vs Auckland City",
+      "league": "National",
+      "minute": 45,
+      "score": "3-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "projected": {
+        "home": 4,
+        "away": 4,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 0,
+        "attacks": 64,
+        "possession": {
+          "home": 39,
+          "away": 61
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-20T06:52:15.815Z",
+    "match": "Birkenhead United vs Auckland City",
+    "league": "National",
+    "minute": 45,
+    "score": "3-1",
+    "corners": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "projected": {
+      "home": 4,
+      "away": 4,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 0,
+      "attacks": 64,
+      "possession": {
+        "home": 39,
+        "away": 61
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Birkenhead United vs Auckland City_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
