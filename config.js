@@ -21,10 +21,13 @@ const CONFIG = {
   SHOTS_BOX_WEIGHT: 0.25,
   ATTACK_WEIGHT: 0.10,
 
-  CORNER_CONVERSION_CROSS: 0.32,
+  CORNER_CONVERSION_CROSS: 0.28,
   CORNER_CONVERSION_SHOTS: 0.18,
-  CORNER_CONVERSION_ATTACKS: 0.05,
-  POS_FACTOR_CAP: 1.25,
+  CORNER_CONVERSION_ATTACKS: 0.03,
+
+  POS_FACTOR_CAP: 1.25,               // ya no se usa (posesión duplicada en stats)
+  POSSESSION_IMBALANCE_THRESHOLD: 1.5, // si ratio > este, usa solo baseRate
+  MAX_TEAM_CORNERS: 15,                // techo de seguridad por equipo
 
   NEED_GOAL_BOOST: 1.25,
   WINNING_REDUCTION: 0.90,

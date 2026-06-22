@@ -67,18 +67,19 @@ function analyzeMatch(match, stats, minute) {
     const projFromShots = teamCurrent + shotRate * minsLeft * CONFIG.CORNER_CONVERSION_SHOTS;
     const projFromAttacks = teamCurrent + attackRate * minsLeft * CONFIG.CORNER_CONVERSION_ATTACKS;
 
-    const pf = oppStats.possession > 0 ? teamStats.possession / oppStats.possession : 1;
-    const possFactor = Math.max(Math.min(pf, CONFIG.POS_FACTOR_CAP), 1 / CONFIG.POS_FACTOR_CAP);
     const needFactor = needsGoal ? CONFIG.NEED_GOAL_BOOST : (Math.abs(goalDiff) >= 2 ? CONFIG.WINNING_REDUCTION : 1.0);
+
+    const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
+    const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
     const blended = Math.round((
       baseProj * CONFIG.RATE_WEIGHT +
-      projFromCrosses * CONFIG.CROSS_WEIGHT +
-      projFromShots * CONFIG.SHOTS_BOX_WEIGHT +
-      projFromAttacks * CONFIG.ATTACK_WEIGHT
-    ) * needFactor * possFactor);
+      (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
+      (imbalanced ? baseProj : projFromShots) * CONFIG.SHOTS_BOX_WEIGHT +
+      (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT
+    ) * needFactor);
 
-    return Math.max(teamCurrent, blended);
+    return Math.min(Math.max(teamCurrent, blended), CONFIG.MAX_TEAM_CORNERS);
   }
 
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0);
