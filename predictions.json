@@ -604467,5 +604467,68 @@
     "_sentAlerts": [
       "Total_O10.5"
     ]
+  },
+  {
+    "result": {
+      "match": "Albion (Reserva) vs Montevideo City Torque (Reserva)",
+      "league": "Tercera División -",
+      "minute": 51,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 3,
+        "total": 4
+      },
+      "projected": {
+        "home": 2,
+        "away": 7,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 26,
+        "shotsInsideBox": 0,
+        "attacks": 103,
+        "possession": {
+          "home": 37,
+          "away": 63
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T14:15:33.652Z",
+    "match": "Albion (Reserva) vs Montevideo City Torque (Reserva)",
+    "league": "Tercera División -",
+    "minute": 51,
+    "score": "1-0",
+    "corners": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "projected": {
+      "home": 2,
+      "away": 7,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 26,
+      "shotsInsideBox": 0,
+      "attacks": 103,
+      "possession": {
+        "home": 37,
+        "away": 63
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Albion (Reserva) vs Montevideo City Torque (Reserva)_51",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
