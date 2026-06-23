@@ -604526,6 +604526,1870 @@
     "teamAlerts": [],
     "totalAlerts": [],
     "key": "Albion (Reserva) vs Montevideo City Torque (Reserva)_51",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 41,
+        "corners": 2,
+        "attacks": 76,
+        "freeKicks": 20,
+        "throwIns": 22,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 59,
+        "corners": 8,
+        "attacks": 100,
+        "freeKicks": 5,
+        "throwIns": 18,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 81798,
+          "isMajor": true,
+          "value": "41%",
+          "valuePercentage": 0.41,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 81798,
+          "value": "2",
+          "valuePercentage": 0.2,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 81798,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 81798,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 81798,
+          "value": "76",
+          "valuePercentage": 0.43,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 81798,
+          "value": "20",
+          "valuePercentage": 0.8,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 81798,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "22",
+          "valuePercentage": 0.55,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 81798,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 41
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 81798,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 81800,
+          "isMajor": true,
+          "value": "59%",
+          "valuePercentage": 0.59,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 81800,
+          "value": "8",
+          "valuePercentage": 0.8,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 81800,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 81800,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 81800,
+          "value": "100",
+          "valuePercentage": 0.57,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 81800,
+          "value": "5",
+          "valuePercentage": 0.2,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 81800,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "18",
+          "valuePercentage": 0.45,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 81800,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 41
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 81800,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Albion (Reserva) vs Montevideo City Torque (Reserva)",
+      "league": "Tercera División -",
+      "minute": 90,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 8,
+        "total": 10
+      },
+      "projected": {
+        "home": 3,
+        "away": 10,
+        "total": 13
+      },
+      "stats": {
+        "crosses": 44,
+        "shotsInsideBox": 0,
+        "attacks": 176,
+        "possession": {
+          "home": 41,
+          "away": 59
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 11.5,
+          "prob": 65,
+          "current": 10,
+          "projected": 13
+        }
+      ]
+    },
+    "timestamp": "2026-06-23T16:45:16.274Z",
+    "match": "Albion (Reserva) vs Montevideo City Torque (Reserva)",
+    "league": "Tercera División -",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 2,
+      "away": 8,
+      "total": 10
+    },
+    "projected": {
+      "home": 3,
+      "away": 10,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 44,
+      "shotsInsideBox": 0,
+      "attacks": 176,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 11.5,
+        "prob": 65,
+        "current": 10,
+        "projected": 13
+      }
+    ],
+    "key": "Albion (Reserva) vs Montevideo City Torque (Reserva)_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 41,
+        "corners": 2,
+        "attacks": 76,
+        "freeKicks": 20,
+        "throwIns": 22,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 59,
+        "corners": 8,
+        "attacks": 100,
+        "freeKicks": 5,
+        "throwIns": 18,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 81798,
+          "isMajor": true,
+          "value": "41%",
+          "valuePercentage": 0.41,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 81798,
+          "value": "2",
+          "valuePercentage": 0.2,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 81798,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 81798,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 81798,
+          "value": "76",
+          "valuePercentage": 0.43,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 81798,
+          "value": "20",
+          "valuePercentage": 0.8,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 81798,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "22",
+          "valuePercentage": 0.55,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 81798,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 41
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 81798,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 81800,
+          "isMajor": true,
+          "value": "59%",
+          "valuePercentage": 0.59,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 81800,
+          "value": "8",
+          "valuePercentage": 0.8,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 81800,
+          "value": "1",
+          "valuePercentage": 0.5,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 81800,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 81800,
+          "value": "100",
+          "valuePercentage": 0.57,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 81800,
+          "value": "5",
+          "valuePercentage": 0.2,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 81800,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "18",
+          "valuePercentage": 0.45,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 81800,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "7",
+          "valuePercentage": 0.5,
+          "categoryOrder": 2,
+          "order": 41
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 81800,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Humenne vs Zemplin Michalovce",
+      "league": "Partido",
+      "minute": 90,
+      "score": "1-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 7,
+        "total": 10
+      },
+      "projected": {
+        "home": 4,
+        "away": 7,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:16.512Z",
+    "match": "Humenne vs Zemplin Michalovce",
+    "league": "Partido",
+    "minute": 90,
+    "score": "1-2",
+    "corners": {
+      "home": 3,
+      "away": 7,
+      "total": 10
+    },
+    "projected": {
+      "home": 4,
+      "away": 7,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Humenne vs Zemplin Michalovce_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "corners": 3,
+        "freeKicks": 16,
+        "throwIns": 25,
+        "possession": 50,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "corners": 7,
+        "freeKicks": 19,
+        "throwIns": 14,
+        "possession": 50,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 6154,
+          "value": "3",
+          "valuePercentage": 0.3,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 6154,
+          "value": "3",
+          "valuePercentage": 0.6,
+          "order": 6,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 6154,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 6154,
+          "value": "16",
+          "valuePercentage": 0.46,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 6154,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "25",
+          "valuePercentage": 0.64,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 6154,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "12",
+          "valuePercentage": 0.75,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 6154,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 2138,
+          "value": "7",
+          "valuePercentage": 0.7,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 2138,
+          "value": "2",
+          "valuePercentage": 0.4,
+          "order": 6,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 2138,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 2138,
+          "value": "19",
+          "valuePercentage": 0.54,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 2138,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "14",
+          "valuePercentage": 0.36,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 1
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 2138,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "4",
+          "valuePercentage": 0.25,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 2138,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Club Hiska Nacional 1919 vs Club 26 de Febrero",
+      "league": "Copa Simón Bolívar - La Paz",
+      "minute": 90,
+      "score": "2-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "projected": {
+        "home": 3,
+        "away": 0,
+        "total": 3
+      },
+      "stats": {
+        "crosses": 40,
+        "shotsInsideBox": 0,
+        "attacks": 159,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:16.756Z",
+    "match": "Club Hiska Nacional 1919 vs Club 26 de Febrero",
+    "league": "Copa Simón Bolívar - La Paz",
+    "minute": 90,
+    "score": "2-2",
+    "corners": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "projected": {
+      "home": 3,
+      "away": 0,
+      "total": 3
+    },
+    "stats": {
+      "crosses": 40,
+      "shotsInsideBox": 0,
+      "attacks": 159,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Club Hiska Nacional 1919 vs Club 26 de Febrero_90",
+    "correct": true,
+    "finalScore": {
+      "home": 2,
+      "away": 2
+    },
+    "finalCorners": {
+      "home": {
+        "corners": 2,
+        "attacks": 82,
+        "possession": 50,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "corners": 0,
+        "attacks": 77,
+        "possession": 50,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 74518,
+          "value": "2",
+          "valuePercentage": 1,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 74518,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 74518,
+          "value": "82",
+          "valuePercentage": 0.52,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 74518,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.4,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 94917,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 94917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.5,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 94917,
+          "value": "77",
+          "valuePercentage": 0.48,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 94917,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "3",
+          "valuePercentage": 0.6,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Brno vs SK Prostejov",
+      "league": "Partido",
+      "minute": 90,
+      "score": "4-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 5,
+        "away": 5,
+        "total": 10
+      },
+      "projected": {
+        "home": 5,
+        "away": 6,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 42,
+        "shotsInsideBox": 0,
+        "attacks": 168,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:16.986Z",
+    "match": "Brno vs SK Prostejov",
+    "league": "Partido",
+    "minute": 90,
+    "score": "4-1",
+    "corners": {
+      "home": 5,
+      "away": 5,
+      "total": 10
+    },
+    "projected": {
+      "home": 5,
+      "away": 6,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 42,
+      "shotsInsideBox": 0,
+      "attacks": 168,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Brno vs SK Prostejov_90",
+    "correct": true,
+    "finalScore": {
+      "home": 4,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 58,
+        "corners": 5,
+        "attacks": 89,
+        "freeKicks": 6,
+        "throwIns": 11,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "away": {
+        "possession": 42,
+        "corners": 5,
+        "attacks": 79,
+        "freeKicks": 8,
+        "throwIns": 21,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 1791,
+          "isMajor": true,
+          "value": "58%",
+          "valuePercentage": 0.58,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 1791,
+          "value": "5",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 1791,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 1791,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 1791,
+          "value": "89",
+          "valuePercentage": 0.53,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 1791,
+          "value": "6",
+          "valuePercentage": 0.43,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 1791,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "11",
+          "valuePercentage": 0.34,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 1791,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "6",
+          "valuePercentage": 0.35,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 1791,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 11433,
+          "isMajor": true,
+          "value": "42%",
+          "valuePercentage": 0.42,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 11433,
+          "value": "5",
+          "valuePercentage": 0.5,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 11433,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 6,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 11433,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 8,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 11433,
+          "value": "79",
+          "valuePercentage": 0.47,
+          "order": 9,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 11433,
+          "value": "8",
+          "valuePercentage": 0.57,
+          "order": 14
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 11433,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "21",
+          "valuePercentage": 0.66,
+          "categoryOrder": 2,
+          "order": 37,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 11433,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "11",
+          "valuePercentage": 0.65,
+          "categoryOrder": 2,
+          "order": 41,
+          "markedTeam": 2
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 11433,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 91,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Lahti vs TPS",
+      "league": "Veikkausliiga",
+      "minute": 83,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 4,
+        "away": 2,
+        "total": 6
+      },
+      "projected": {
+        "home": 5,
+        "away": 3,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 19,
+        "shotsInsideBox": 8,
+        "attacks": 160,
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "totalShots": 16
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:17.714Z",
+    "match": "Lahti vs TPS",
+    "league": "Veikkausliiga",
+    "minute": 83,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 2,
+      "total": 6
+    },
+    "projected": {
+      "home": 5,
+      "away": 3,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 19,
+      "shotsInsideBox": 8,
+      "attacks": 160,
+      "possession": {
+        "home": 56,
+        "away": 44
+      },
+      "totalShots": 16
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Lahti vs TPS_83",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Vaasa PS vs AC Oulu",
+      "league": "Veikkausliiga",
+      "minute": 85,
+      "score": "5-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 2,
+        "away": 3,
+        "total": 5
+      },
+      "projected": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "stats": {
+        "crosses": 22,
+        "shotsInsideBox": 10,
+        "attacks": 192,
+        "possession": {
+          "home": 59,
+          "away": 41
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:18.018Z",
+    "match": "Vaasa PS vs AC Oulu",
+    "league": "Veikkausliiga",
+    "minute": 85,
+    "score": "5-1",
+    "corners": {
+      "home": 2,
+      "away": 3,
+      "total": 5
+    },
+    "projected": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "stats": {
+      "crosses": 22,
+      "shotsInsideBox": 10,
+      "attacks": 192,
+      "possession": {
+        "home": 59,
+        "away": 41
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Vaasa PS vs AC Oulu_85",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "FK Minija Kretinga vs FK Panevezys",
+      "league": "Lithuanian Cup -",
+      "minute": 56,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 4,
+        "total": 6
+      },
+      "projected": {
+        "home": 3,
+        "away": 8,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 10,
+        "attacks": 131,
+        "possession": {
+          "home": 39,
+          "away": 61
+        },
+        "totalShots": 17
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 66,
+          "current": 6,
+          "projected": 11
+        }
+      ]
+    },
+    "timestamp": "2026-06-23T16:45:18.335Z",
+    "match": "FK Minija Kretinga vs FK Panevezys",
+    "league": "Lithuanian Cup -",
+    "minute": 56,
+    "score": "2-1",
+    "corners": {
+      "home": 2,
+      "away": 4,
+      "total": 6
+    },
+    "projected": {
+      "home": 3,
+      "away": 8,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 10,
+      "attacks": 131,
+      "possession": {
+        "home": 39,
+        "away": 61
+      },
+      "totalShots": 17
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 66,
+        "current": 6,
+        "projected": 11
+      }
+    ],
+    "key": "FK Minija Kretinga vs FK Panevezys_56",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O9.5"
+    ]
+  },
+  {
+    "result": {
+      "match": "Levski Sofia vs Etar",
+      "league": "Partido",
+      "minute": 55,
+      "score": "5-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "projected": {
+        "home": 2,
+        "away": 0,
+        "total": 2
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:19.366Z",
+    "match": "Levski Sofia vs Etar",
+    "league": "Partido",
+    "minute": 55,
+    "score": "5-0",
+    "corners": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "projected": {
+      "home": 2,
+      "away": 0,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Levski Sofia vs Etar_55",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Botev Plovdiv vs Spartak Pleven",
+      "league": "Partido",
+      "minute": 41,
+      "score": "2-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:19.678Z",
+    "match": "Botev Plovdiv vs Spartak Pleven",
+    "league": "Partido",
+    "minute": 41,
+    "score": "2-0",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Botev Plovdiv vs Spartak Pleven_41",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "FF Jaro vs Gnistan",
+      "league": "Veikkausliiga",
+      "minute": 45,
+      "score": "0-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "projected": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 6,
+        "attacks": 69,
+        "possession": {
+          "home": 63,
+          "away": 37
+        },
+        "totalShots": 8
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:20.046Z",
+    "match": "FF Jaro vs Gnistan",
+    "league": "Veikkausliiga",
+    "minute": 45,
+    "score": "0-1",
+    "corners": {
+      "home": 1,
+      "away": 1,
+      "total": 2
+    },
+    "projected": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 6,
+      "attacks": 69,
+      "possession": {
+        "home": 63,
+        "away": 37
+      },
+      "totalShots": 8
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "FF Jaro vs Gnistan_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Inter Turku vs SJK Seinajoki",
+      "league": "Veikkausliiga",
+      "minute": 45,
+      "score": "0-1",
+      "dataQuality": "real",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 1,
+        "away": 1,
+        "total": 2
+      },
+      "stats": {
+        "crosses": 17,
+        "shotsInsideBox": 8,
+        "attacks": 72,
+        "possession": {
+          "home": 56,
+          "away": 44
+        },
+        "totalShots": 10
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:20.365Z",
+    "match": "Inter Turku vs SJK Seinajoki",
+    "league": "Veikkausliiga",
+    "minute": 45,
+    "score": "0-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 1,
+      "away": 1,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 17,
+      "shotsInsideBox": 8,
+      "attacks": 72,
+      "possession": {
+        "home": 56,
+        "away": 44
+      },
+      "totalShots": 10
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Inter Turku vs SJK Seinajoki_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Buenos Aires City FC vs Academia Control Orientado",
+      "league": "Torneo Promocional",
+      "minute": 43,
+      "score": "0-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 0,
+        "total": 0
+      },
+      "projected": {
+        "home": 2,
+        "away": 1,
+        "total": 3
+      },
+      "stats": {
+        "crosses": 19,
+        "shotsInsideBox": 0,
+        "attacks": 75,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:20.681Z",
+    "match": "Buenos Aires City FC vs Academia Control Orientado",
+    "league": "Torneo Promocional",
+    "minute": 43,
+    "score": "0-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 2,
+      "away": 1,
+      "total": 3
+    },
+    "stats": {
+      "crosses": 19,
+      "shotsInsideBox": 0,
+      "attacks": 75,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Buenos Aires City FC vs Academia Control Orientado_43",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "NK Aluminij vs Pyunik Yerevan",
+      "league": "Partido",
+      "minute": 41,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 0,
+        "away": 1,
+        "total": 1
+      },
+      "projected": {
+        "home": 1,
+        "away": 3,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 13,
+        "shotsInsideBox": 0,
+        "attacks": 51,
+        "possession": {
+          "home": 53,
+          "away": 47
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:21.010Z",
+    "match": "NK Aluminij vs Pyunik Yerevan",
+    "league": "Partido",
+    "minute": 41,
+    "score": "1-0",
+    "corners": {
+      "home": 0,
+      "away": 1,
+      "total": 1
+    },
+    "projected": {
+      "home": 1,
+      "away": 3,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 13,
+      "shotsInsideBox": 0,
+      "attacks": 51,
+      "possession": {
+        "home": 53,
+        "away": 47
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "NK Aluminij vs Pyunik Yerevan_41",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "NK Olimpija Ljubljana vs Vllaznia",
+      "league": "Partido",
+      "minute": 43,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 1,
+        "away": 0,
+        "total": 1
+      },
+      "projected": {
+        "home": 3,
+        "away": 1,
+        "total": 4
+      },
+      "stats": {
+        "crosses": 20,
+        "shotsInsideBox": 0,
+        "attacks": 81,
+        "possession": {
+          "home": 58,
+          "away": 42
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-23T16:45:21.368Z",
+    "match": "NK Olimpija Ljubljana vs Vllaznia",
+    "league": "Partido",
+    "minute": 43,
+    "score": "1-0",
+    "corners": {
+      "home": 1,
+      "away": 0,
+      "total": 1
+    },
+    "projected": {
+      "home": 3,
+      "away": 1,
+      "total": 4
+    },
+    "stats": {
+      "crosses": 20,
+      "shotsInsideBox": 0,
+      "attacks": 81,
+      "possession": {
+        "home": 58,
+        "away": 42
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "NK Olimpija Ljubljana vs Vllaznia_43",
     "correct": null,
     "finalScore": null,
     "finalCorners": null,
