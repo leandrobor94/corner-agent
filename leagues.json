@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 319,
-    "totalCorners": "0[object Object][object Object]00909609609613131311111213111213111213111213111213111213111247474714101410810471410810778111047141081078111047141081078111047141081078111099859859853985310100911810091181009118991009118914144147147147787874141058741410571287414105712874141057128741410571213138741410571213874141057121377101110118371171011837117771311767101183711713117610471011837117131176104710118371171311761047101183711713117610444910491014144910144910143737373737113711999999977",
-    "totalProjected": 3393,
-    "totalCrosses": 13924,
-    "totalShotsBox": 2940
+    "matches": 323,
+    "totalCorners": "0[object Object][object Object]0090960960961313131111121311121311121311121311121311121311124747471410141081047141081077811104714108107811104714108107811104714108107811109985985985398531010091181009118100911899100911891414414714714778787414105874141057128741410571287414105712874141057121313874141057121387414105712137710111011837117101183711777131176710118371171311761047101183711713117610471011837117131176104710118371171311761044491049101414491014491014373737373711371199999997779910",
+    "totalProjected": 3433,
+    "totalCrosses": 14127,
+    "totalShotsBox": 2976
   },
   "Ykkonen": {
     "matches": 31,
@@ -84,10 +84,10 @@
     "totalShotsBox": 118
   },
   "APF Primera B": {
-    "matches": 2,
-    "totalCorners": "0[object Object][object Object]10",
-    "totalProjected": 24,
-    "totalCrosses": 0,
+    "matches": 3,
+    "totalCorners": "0[object Object][object Object]109",
+    "totalProjected": 34,
+    "totalCrosses": 63,
     "totalShotsBox": 0
   },
   "Mundial - Grupo A": {
@@ -637,10 +637,10 @@
     "totalShotsBox": 61
   },
   "Partido": {
-    "matches": 257,
-    "totalCorners": 2097,
-    "totalProjected": 2364,
-    "totalCrosses": 8071,
+    "matches": 263,
+    "totalCorners": 2148,
+    "totalProjected": 2421,
+    "totalCrosses": 8173,
     "totalShotsBox": 0
   },
   "National": {
@@ -775,5 +775,19 @@
     "totalProjected": 200,
     "totalCrosses": 929,
     "totalShotsBox": 227
+  },
+  "Superliga": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 7,
+    "totalCrosses": 47,
+    "totalShotsBox": 20
+  },
+  "David Kipiani Cup - 16avos de final": {
+    "matches": 4,
+    "totalCorners": 29,
+    "totalProjected": 32,
+    "totalCrosses": 120,
+    "totalShotsBox": 36
   }
 }
