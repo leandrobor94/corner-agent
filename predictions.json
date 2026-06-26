@@ -681249,5 +681249,84 @@
       ]
     },
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Botev Plovdiv vs Arda",
+      "league": "Partido",
+      "minute": 62,
+      "score": "1-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 3,
+        "away": 3,
+        "total": 6
+      },
+      "projected": {
+        "home": 6,
+        "away": 6,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 14,
+        "shotsInsideBox": 0,
+        "attacks": 55,
+        "possession": {
+          "home": 61,
+          "away": 39
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 6,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-06-26T08:24:19.808Z",
+    "match": "Botev Plovdiv vs Arda",
+    "league": "Partido",
+    "minute": 62,
+    "score": "1-1",
+    "corners": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "projected": {
+      "home": 6,
+      "away": 6,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 14,
+      "shotsInsideBox": 0,
+      "attacks": 55,
+      "possession": {
+        "home": 61,
+        "away": 39
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 6,
+        "projected": 12
+      }
+    ],
+    "key": "Botev Plovdiv vs Arda_62",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O10.5"
+    ]
   }
 ]
