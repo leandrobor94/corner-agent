@@ -723952,5 +723952,415 @@
     "finalScore": null,
     "finalCorners": null,
     "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Changwon City vs Yeoju FC",
+      "league": "Tercera división",
+      "minute": 63,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 3,
+        "total": 7
+      },
+      "projected": {
+        "home": 6,
+        "away": 5,
+        "total": 11
+      },
+      "stats": {
+        "crosses": 35,
+        "shotsInsideBox": 3,
+        "attacks": 139,
+        "possession": {
+          "home": 63,
+          "away": 37
+        },
+        "totalShots": 5
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 9.5,
+          "prob": 66,
+          "current": 7,
+          "projected": 11
+        }
+      ]
+    },
+    "timestamp": "2026-06-27T08:22:42.992Z",
+    "match": "Changwon City vs Yeoju FC",
+    "league": "Tercera división",
+    "minute": 63,
+    "score": "1-0",
+    "corners": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+    },
+    "projected": {
+      "home": 6,
+      "away": 5,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 3,
+      "attacks": 139,
+      "possession": {
+        "home": 63,
+        "away": 37
+      },
+      "totalShots": 5
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 9.5,
+        "prob": 66,
+        "current": 7,
+        "projected": 11
+      }
+    ],
+    "key": "Changwon City vs Yeoju FC_63",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O9.5"
+    ]
+  },
+  {
+    "result": {
+      "match": "Siheung Citizen vs Jeonbuk Motors II",
+      "league": "Tercera división",
+      "minute": 64,
+      "score": "0-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 4,
+        "away": 3,
+        "total": 7
+      },
+      "projected": {
+        "home": 7,
+        "away": 5,
+        "total": 12
+      },
+      "stats": {
+        "crosses": 33,
+        "shotsInsideBox": 4,
+        "attacks": 134,
+        "possession": {
+          "home": 60,
+          "away": 40
+        },
+        "totalShots": 7
+      },
+      "teamAlerts": [],
+      "totalAlerts": [
+        {
+          "line": 10.5,
+          "prob": 65,
+          "current": 7,
+          "projected": 12
+        }
+      ]
+    },
+    "timestamp": "2026-06-27T08:22:43.993Z",
+    "match": "Siheung Citizen vs Jeonbuk Motors II",
+    "league": "Tercera división",
+    "minute": 64,
+    "score": "0-0",
+    "corners": {
+      "home": 4,
+      "away": 3,
+      "total": 7
+    },
+    "projected": {
+      "home": 7,
+      "away": 5,
+      "total": 12
+    },
+    "stats": {
+      "crosses": 33,
+      "shotsInsideBox": 4,
+      "attacks": 134,
+      "possession": {
+        "home": 60,
+        "away": 40
+      },
+      "totalShots": 7
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 65,
+        "current": 7,
+        "projected": 12
+      }
+    ],
+    "key": "Siheung Citizen vs Jeonbuk Motors II_64",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O10.5"
+    ]
+  },
+  {
+    "result": {
+      "match": "Zlin vs Slavia Kromeriz",
+      "league": "Partido",
+      "minute": 69,
+      "score": "0-2",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 2,
+        "total": 4
+      },
+      "projected": {
+        "home": 3,
+        "away": 2,
+        "total": 5
+      },
+      "stats": {
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "possession": {
+          "home": 40,
+          "away": 60
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-27T08:22:44.758Z",
+    "match": "Zlin vs Slavia Kromeriz",
+    "league": "Partido",
+    "minute": 69,
+    "score": "0-2",
+    "corners": {
+      "home": 2,
+      "away": 2,
+      "total": 4
+    },
+    "projected": {
+      "home": 3,
+      "away": 2,
+      "total": 5
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 40,
+        "away": 60
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Zlin vs Slavia Kromeriz_69",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Auckland FC II vs Manukau United",
+      "league": "National",
+      "minute": 45,
+      "score": "2-1",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 10,
+        "away": 2,
+        "total": 12
+      },
+      "projected": {
+        "home": 14,
+        "away": 5,
+        "total": 19
+      },
+      "stats": {
+        "crosses": 19,
+        "shotsInsideBox": 0,
+        "attacks": 75,
+        "possession": {
+          "home": 55,
+          "away": 45
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-27T08:22:45.091Z",
+    "match": "Auckland FC II vs Manukau United",
+    "league": "National",
+    "minute": 45,
+    "score": "2-1",
+    "corners": {
+      "home": 10,
+      "away": 2,
+      "total": 12
+    },
+    "projected": {
+      "home": 14,
+      "away": 5,
+      "total": 19
+    },
+    "stats": {
+      "crosses": 19,
+      "shotsInsideBox": 0,
+      "attacks": 75,
+      "possession": {
+        "home": 55,
+        "away": 45
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Auckland FC II vs Manukau United_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "Changchun Yatai vs Guangxi Hengchen",
+      "league": "League One",
+      "minute": 45,
+      "score": "0-0",
+      "dataQuality": "real",
+      "corners": {
+        "home": 0,
+        "away": 3,
+        "total": 3
+      },
+      "projected": {
+        "home": 0,
+        "away": 8,
+        "total": 8
+      },
+      "stats": {
+        "crosses": 18,
+        "shotsInsideBox": 9,
+        "attacks": 83,
+        "possession": {
+          "home": 29,
+          "away": 71
+        },
+        "totalShots": 11
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-27T08:22:45.392Z",
+    "match": "Changchun Yatai vs Guangxi Hengchen",
+    "league": "League One",
+    "minute": 45,
+    "score": "0-0",
+    "corners": {
+      "home": 0,
+      "away": 3,
+      "total": 3
+    },
+    "projected": {
+      "home": 0,
+      "away": 8,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 18,
+      "shotsInsideBox": 9,
+      "attacks": 83,
+      "possession": {
+        "home": 29,
+        "away": 71
+      },
+      "totalShots": 11
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Changchun Yatai vs Guangxi Hengchen_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
+  },
+  {
+    "result": {
+      "match": "NK Lokomotiva Zagreb vs NK Varaždin",
+      "league": "Partido",
+      "minute": 45,
+      "score": "1-0",
+      "dataQuality": "estimated",
+      "corners": {
+        "home": 2,
+        "away": 2,
+        "total": 4
+      },
+      "projected": {
+        "home": 4,
+        "away": 5,
+        "total": 9
+      },
+      "stats": {
+        "crosses": 16,
+        "shotsInsideBox": 0,
+        "attacks": 65,
+        "possession": {
+          "home": 50,
+          "away": 50
+        },
+        "totalShots": 0
+      },
+      "teamAlerts": [],
+      "totalAlerts": []
+    },
+    "timestamp": "2026-06-27T08:22:45.715Z",
+    "match": "NK Lokomotiva Zagreb vs NK Varaždin",
+    "league": "Partido",
+    "minute": 45,
+    "score": "1-0",
+    "corners": {
+      "home": 2,
+      "away": 2,
+      "total": 4
+    },
+    "projected": {
+      "home": 4,
+      "away": 5,
+      "total": 9
+    },
+    "stats": {
+      "crosses": 16,
+      "shotsInsideBox": 0,
+      "attacks": 65,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "NK Lokomotiva Zagreb vs NK Varaždin_45",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": []
   }
 ]
