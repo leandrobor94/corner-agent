@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 405,
-    "totalCorners": "0[object Object][object Object]009096096096131313111112131112131112131112131112131112131112474747141014108104714108107781110471410810781110471410810781110471410810781110998598598539853101009118100911810091189910091189141441471471477878741410587414105712874141057128741410571287414105712131387414105712138741410571213771011101183711710118371177713117671011837117131176104710118371171311761047101183711713117610471011837117131176104449104910141449101449101437373737371137119999999777991079102791027910279102791029696449641013101396421013131329641013132964101313296410131329641013132964101313255577",
-    "totalProjected": 4139,
-    "totalCrosses": 17923,
-    "totalShotsBox": 3780
+    "matches": 409,
+    "totalCorners": "0[object Object][object Object]0090960960961313131111121311121311121311121311121311121311124747471410141081047141081077811104714108107811104714108107811104714108107811109985985985398531010091181009118100911899100911891414414714714778787414105874141057128741410571287414105712874141057121313874141057121387414105712137710111011837117101183711777131176710118371171311761047101183711713117610471011837117131176104710118371171311761044491049101414491014491014373737373711371199999997779910791027910279102791027910296964496410131013964210131313296410131329641013132964101313296410131329641013132555775777",
+    "totalProjected": 4174,
+    "totalCrosses": 18163,
+    "totalShotsBox": 3826
   },
   "Ykkonen": {
     "matches": 35,
@@ -238,11 +238,11 @@
     "totalShotsBox": 605
   },
   "League One": {
-    "matches": 127,
-    "totalCorners": 1123,
-    "totalProjected": 1401,
-    "totalCrosses": 3950,
-    "totalShotsBox": 1869
+    "matches": 130,
+    "totalCorners": 1162,
+    "totalProjected": 1445,
+    "totalCrosses": 4045,
+    "totalShotsBox": 1909
   },
   "Meistriliiga": {
     "matches": 83,
@@ -252,7 +252,7 @@
     "totalShotsBox": 1250
   },
   "Pershaya Liga": {
-    "matches": 149,
+    "matches": 150,
     "totalCorners": 7,
     "totalProjected": 8,
     "totalCrosses": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 852,
-    "totalCorners": 6942,
-    "totalProjected": 7831,
-    "totalCrosses": 26850,
+    "matches": 858,
+    "totalCorners": 6978,
+    "totalProjected": 7870,
+    "totalCrosses": 26968,
     "totalShotsBox": 0
   },
   "National": {
@@ -665,14 +665,14 @@
     "totalShotsBox": 42
   },
   "Tercera división": {
-    "matches": 113,
-    "totalCorners": 978,
-    "totalProjected": 1252,
-    "totalCrosses": 6226,
-    "totalShotsBox": 1338
+    "matches": 116,
+    "totalCorners": 1005,
+    "totalProjected": 1284,
+    "totalCrosses": 6393,
+    "totalShotsBox": 1379
   },
   "Supreme Division Women": {
-    "matches": 74,
+    "matches": 75,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 54,
-    "totalCorners": 531,
-    "totalProjected": 594,
-    "totalCrosses": 2048,
-    "totalShotsBox": 875
+    "matches": 56,
+    "totalCorners": 555,
+    "totalProjected": 622,
+    "totalCrosses": 2134,
+    "totalShotsBox": 907
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
