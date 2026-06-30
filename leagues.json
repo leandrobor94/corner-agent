@@ -14,9 +14,9 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 94,
-    "totalCorners": "0[object Object][object Object]698989868139498681394115115115101010101111816118167310118167310810101010441041041010109109109681010681010586810105868101058681010584",
-    "totalProjected": 908,
+    "matches": 95,
+    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844",
+    "totalProjected": 913,
     "totalCrosses": 4018,
     "totalShotsBox": 0
   },
@@ -105,11 +105,11 @@
     "totalShotsBox": 1161
   },
   "Ligi Kuu Bara": {
-    "matches": 183,
-    "totalCorners": 847,
-    "totalProjected": 1005,
-    "totalCrosses": 4123,
-    "totalShotsBox": 875
+    "matches": 189,
+    "totalCorners": 868,
+    "totalProjected": 1030,
+    "totalCrosses": 4241,
+    "totalShotsBox": 915
   },
   "Vysshaya Liga": {
     "matches": 163,
@@ -126,11 +126,11 @@
     "totalShotsBox": 722
   },
   "Virsliga": {
-    "matches": 108,
-    "totalCorners": 996,
-    "totalProjected": 1215,
-    "totalCrosses": 3383,
-    "totalShotsBox": 1750
+    "matches": 109,
+    "totalCorners": 1001,
+    "totalProjected": 1220,
+    "totalCrosses": 3406,
+    "totalShotsBox": 1766
   },
   "Botola Pro": {
     "matches": 172,
@@ -336,7 +336,7 @@
     "totalShotsBox": 0
   },
   "Copa Simón Bolívar - Santa Cruz": {
-    "matches": 29,
+    "matches": 30,
     "totalCorners": 260,
     "totalProjected": 300,
     "totalCrosses": 798,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 961,
-    "totalCorners": 7611,
-    "totalProjected": 8584,
-    "totalCrosses": 29764,
+    "matches": 965,
+    "totalCorners": 7641,
+    "totalProjected": 8618,
+    "totalCrosses": 29980,
     "totalShotsBox": 0
   },
   "National": {
@@ -894,5 +894,12 @@
     "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Suomen Cup - Cuartos de Final": {
+    "matches": 1,
+    "totalCorners": 7,
+    "totalProjected": 8,
+    "totalCrosses": 47,
+    "totalShotsBox": 17
   }
 }
