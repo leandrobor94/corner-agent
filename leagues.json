@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 101,
-    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844410410410",
-    "totalProjected": 961,
-    "totalCrosses": 4129,
+    "matches": 103,
+    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844410410410410",
+    "totalProjected": 977,
+    "totalCrosses": 4166,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -35,11 +35,11 @@
     "totalShotsBox": 782
   },
   "Segunda división": {
-    "matches": 68,
-    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555121412141621716217121416217787878787899789789789178178178777",
-    "totalProjected": 781,
-    "totalCrosses": 4193,
-    "totalShotsBox": 847
+    "matches": 69,
+    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214121416217162171214162177878787878997897897891781781787777",
+    "totalProjected": 790,
+    "totalCrosses": 4255,
+    "totalShotsBox": 856
   },
   "Superettan": {
     "matches": 132,
@@ -105,11 +105,11 @@
     "totalShotsBox": 1161
   },
   "Ligi Kuu Bara": {
-    "matches": 207,
-    "totalCorners": 931,
-    "totalProjected": 1105,
-    "totalCrosses": 4595,
-    "totalShotsBox": 1035
+    "matches": 213,
+    "totalCorners": 952,
+    "totalProjected": 1130,
+    "totalCrosses": 4713,
+    "totalShotsBox": 1075
   },
   "Vysshaya Liga": {
     "matches": 163,
@@ -126,11 +126,11 @@
     "totalShotsBox": 722
   },
   "Virsliga": {
-    "matches": 115,
-    "totalCorners": 1061,
-    "totalProjected": 1286,
-    "totalCrosses": 3622,
-    "totalShotsBox": 1901
+    "matches": 117,
+    "totalCorners": 1081,
+    "totalProjected": 1308,
+    "totalCrosses": 3694,
+    "totalShotsBox": 1945
   },
   "Botola Pro": {
     "matches": 172,
@@ -336,7 +336,7 @@
     "totalShotsBox": 0
   },
   "Copa Simón Bolívar - Santa Cruz": {
-    "matches": 33,
+    "matches": 34,
     "totalCorners": 260,
     "totalProjected": 300,
     "totalCrosses": 798,
@@ -406,11 +406,11 @@
     "totalShotsBox": 80
   },
   "Primera C Metropolitana - Zona B": {
-    "matches": 49,
-    "totalCorners": 424,
-    "totalProjected": 516,
-    "totalCrosses": 2582,
-    "totalShotsBox": 365
+    "matches": 51,
+    "totalCorners": 442,
+    "totalProjected": 535,
+    "totalCrosses": 2742,
+    "totalShotsBox": 380
   },
   "Serie D - Grupo 7": {
     "matches": 12,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 1012,
-    "totalCorners": 8041,
-    "totalProjected": 9056,
-    "totalCrosses": 32172,
+    "matches": 1029,
+    "totalCorners": 8187,
+    "totalProjected": 9218,
+    "totalCrosses": 32961,
     "totalShotsBox": 0
   },
   "National": {
@@ -798,11 +798,11 @@
     "totalShotsBox": 26
   },
   "Division": {
-    "matches": 27,
-    "totalCorners": 285,
-    "totalProjected": 334,
-    "totalCrosses": 1012,
-    "totalShotsBox": 284
+    "matches": 29,
+    "totalCorners": 301,
+    "totalProjected": 352,
+    "totalCrosses": 1128,
+    "totalShotsBox": 307
   },
   "Super Liga - Fase de": {
     "matches": 25,
@@ -826,10 +826,10 @@
     "totalShotsBox": 218
   },
   "APF Primera C": {
-    "matches": 18,
-    "totalCorners": 110,
-    "totalProjected": 131,
-    "totalCrosses": 967,
+    "matches": 19,
+    "totalCorners": 115,
+    "totalProjected": 137,
+    "totalCrosses": 1033,
     "totalShotsBox": 0
   },
   "Copa FGF -": {
@@ -875,11 +875,11 @@
     "totalShotsBox": 132
   },
   "Mundial - 16avos de final": {
-    "matches": 14,
-    "totalCorners": 155,
-    "totalProjected": 158,
-    "totalCrosses": 522,
-    "totalShotsBox": 182
+    "matches": 16,
+    "totalCorners": 182,
+    "totalProjected": 186,
+    "totalCrosses": 587,
+    "totalShotsBox": 223
   },
   "Euro Sub19 - Grupo B": {
     "matches": 9,
@@ -896,17 +896,17 @@
     "totalShotsBox": 0
   },
   "Suomen Cup - Cuartos de Final": {
-    "matches": 4,
-    "totalCorners": 28,
-    "totalProjected": 32,
-    "totalCrosses": 188,
-    "totalShotsBox": 68
+    "matches": 5,
+    "totalCorners": 35,
+    "totalProjected": 40,
+    "totalCrosses": 235,
+    "totalShotsBox": 85
   },
   "Copa Paraguay - Primera Fase": {
-    "matches": 6,
-    "totalCorners": 63,
-    "totalProjected": 66,
-    "totalCrosses": 282,
+    "matches": 8,
+    "totalCorners": 84,
+    "totalProjected": 89,
+    "totalCrosses": 385,
     "totalShotsBox": 0
   }
 }
