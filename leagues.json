@@ -28,18 +28,18 @@
     "totalShotsBox": 6546
   },
   "Ykkonen": {
-    "matches": 77,
-    "totalCorners": "0[object Object][object Object]4141414141616162121162116211621162199999991010101010121212121313131313131313131313131313131313131312121212121215151599159159159159159159",
-    "totalProjected": 1366,
-    "totalCrosses": 3181,
-    "totalShotsBox": 1142
+    "matches": 78,
+    "totalCorners": "0[object Object][object Object]414141414161616212116211621162116219999999101010101012121212131313131313131313131313131313131313131212121212121515159915915915915915915914",
+    "totalProjected": 1382,
+    "totalCrosses": 3230,
+    "totalShotsBox": 1156
   },
   "Segunda división": {
-    "matches": 134,
-    "totalCorners": "0[object Object][object Object]7121212121213131313138813813813855512141214162171621712141621778787878789978978978917817817877771111111111118888810010810010810010819191001081910010819100108191001081910010819100108191001081910010819",
-    "totalProjected": 1493,
-    "totalCrosses": 8791,
-    "totalShotsBox": 1887
+    "matches": 144,
+    "totalCorners": "0[object Object][object Object]7121212121213131313138813813813855512141214162171621712141621778787878789978978978917817817877771111111111118888810010810010810010819191001081910010819100108191001081910010819100108191001081910010819461013461013810",
+    "totalProjected": 1581,
+    "totalCrosses": 9214,
+    "totalShotsBox": 2020
   },
   "Superettan": {
     "matches": 132,
@@ -238,11 +238,11 @@
     "totalShotsBox": 971
   },
   "League One": {
-    "matches": 196,
-    "totalCorners": 1789,
-    "totalProjected": 2194,
-    "totalCrosses": 6041,
-    "totalShotsBox": 2851
+    "matches": 199,
+    "totalCorners": 1819,
+    "totalProjected": 2228,
+    "totalCrosses": 6134,
+    "totalShotsBox": 2902
   },
   "Meistriliiga": {
     "matches": 122,
@@ -252,7 +252,7 @@
     "totalShotsBox": 1805
   },
   "Pershaya Liga": {
-    "matches": 211,
+    "matches": 214,
     "totalCorners": 56,
     "totalProjected": 66,
     "totalCrosses": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2106,
-    "totalCorners": 17066,
-    "totalProjected": 19448,
-    "totalCrosses": 61985,
+    "matches": 2109,
+    "totalCorners": 17097,
+    "totalProjected": 19481,
+    "totalCrosses": 62087,
     "totalShotsBox": 541
   },
   "National": {
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 128,
-    "totalCorners": 1275,
-    "totalProjected": 1439,
-    "totalCrosses": 5123,
-    "totalShotsBox": 2103
+    "matches": 131,
+    "totalCorners": 1305,
+    "totalProjected": 1473,
+    "totalCrosses": 5212,
+    "totalShotsBox": 2150
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -924,25 +924,25 @@
     "totalShotsBox": 0
   },
   "Allsvenskan": {
-    "matches": 22,
-    "totalCorners": 246,
-    "totalProjected": 278,
-    "totalCrosses": 736,
-    "totalShotsBox": 440
+    "matches": 24,
+    "totalCorners": 271,
+    "totalProjected": 307,
+    "totalCrosses": 823,
+    "totalShotsBox": 471
   },
   "FA Cup - 32avos de final": {
-    "matches": 32,
-    "totalCorners": 370,
-    "totalProjected": 506,
-    "totalCrosses": 5765474,
-    "totalShotsBox": 307
+    "matches": 33,
+    "totalCorners": 380,
+    "totalProjected": 518,
+    "totalCrosses": 5765527,
+    "totalShotsBox": 313
   },
   "Primera división": {
-    "matches": 33,
-    "totalCorners": 176,
-    "totalProjected": 187,
-    "totalCrosses": 1363,
-    "totalShotsBox": 424
+    "matches": 39,
+    "totalCorners": 220,
+    "totalProjected": 237,
+    "totalCrosses": 1610,
+    "totalShotsBox": 483
   },
   "Super Liga": {
     "matches": 11,
@@ -978,5 +978,12 @@
     "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Amistoso Internacional Sub17": {
+    "matches": 1,
+    "totalCorners": 15,
+    "totalProjected": 17,
+    "totalCrosses": 40,
+    "totalShotsBox": 14
   }
 }
