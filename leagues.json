@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 103,
-    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844410410410410",
-    "totalProjected": 977,
-    "totalCrosses": 4166,
+    "matches": 109,
+    "totalCorners": "0[object Object][object Object]698989868139498681394115115115101010101111816118167310118167310810101010441041041010109109109681010681010586810105868101058681010584441041041041014671467",
+    "totalProjected": 1031,
+    "totalCrosses": 4307,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -126,11 +126,11 @@
     "totalShotsBox": 722
   },
   "Virsliga": {
-    "matches": 154,
-    "totalCorners": 1486,
-    "totalProjected": 1754,
-    "totalCrosses": 4739,
-    "totalShotsBox": 2470
+    "matches": 155,
+    "totalCorners": 1497,
+    "totalProjected": 1767,
+    "totalCrosses": 4787,
+    "totalShotsBox": 2495
   },
   "Botola Pro": {
     "matches": 240,
@@ -147,11 +147,11 @@
     "totalShotsBox": 809
   },
   "A Lyga": {
-    "matches": 111,
-    "totalCorners": 1134,
-    "totalProjected": 1421,
-    "totalCrosses": 4610,
-    "totalShotsBox": 1635
+    "matches": 112,
+    "totalCorners": 1139,
+    "totalProjected": 1428,
+    "totalCrosses": 4675,
+    "totalShotsBox": 1644
   },
   "I Lyga": {
     "matches": 130,
@@ -224,11 +224,11 @@
     "totalShotsBox": 1322
   },
   "Primera C Metropolitana - Zona A": {
-    "matches": 97,
-    "totalCorners": 783,
-    "totalProjected": 969,
-    "totalCrosses": 4201,
-    "totalShotsBox": 896
+    "matches": 99,
+    "totalCorners": 805,
+    "totalProjected": 995,
+    "totalCrosses": 4297,
+    "totalShotsBox": 913
   },
   "Brasileirão - Série B": {
     "matches": 74,
@@ -406,11 +406,11 @@
     "totalShotsBox": 80
   },
   "Primera C Metropolitana - Zona B": {
-    "matches": 72,
-    "totalCorners": 575,
-    "totalProjected": 702,
-    "totalCrosses": 3591,
-    "totalShotsBox": 548
+    "matches": 76,
+    "totalCorners": 619,
+    "totalProjected": 755,
+    "totalCrosses": 3740,
+    "totalShotsBox": 584
   },
   "Serie D - Grupo 7": {
     "matches": 12,
@@ -455,11 +455,11 @@
     "totalShotsBox": 0
   },
   "Besta-deild karla": {
-    "matches": 89,
-    "totalCorners": 1020,
-    "totalProjected": 1181,
-    "totalCrosses": 3337,
-    "totalShotsBox": 1534
+    "matches": 90,
+    "totalCorners": 1031,
+    "totalProjected": 1195,
+    "totalCrosses": 3390,
+    "totalShotsBox": 1547
   },
   "Mundial - Grupo E": {
     "matches": 11,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2184,
-    "totalCorners": 17722,
-    "totalProjected": 20190,
-    "totalCrosses": 64583,
+    "matches": 2186,
+    "totalCorners": 17743,
+    "totalProjected": 20215,
+    "totalCrosses": 64672,
     "totalShotsBox": 541
   },
   "National": {
@@ -826,9 +826,9 @@
     "totalShotsBox": 218
   },
   "APF Primera C": {
-    "matches": 25,
-    "totalCorners": 163,
-    "totalProjected": 187,
+    "matches": 26,
+    "totalCorners": 169,
+    "totalProjected": 193,
     "totalCrosses": 1255,
     "totalShotsBox": 0
   },
@@ -924,11 +924,11 @@
     "totalShotsBox": 0
   },
   "Allsvenskan": {
-    "matches": 50,
-    "totalCorners": 585,
-    "totalProjected": 659,
-    "totalCrosses": 1848,
-    "totalShotsBox": 904
+    "matches": 52,
+    "totalCorners": 611,
+    "totalProjected": 690,
+    "totalCrosses": 1924,
+    "totalShotsBox": 952
   },
   "FA Cup - 32avos de final": {
     "matches": 41,
@@ -952,11 +952,11 @@
     "totalShotsBox": 241
   },
   "Mundial - Octavos de final": {
-    "matches": 10,
-    "totalCorners": 118,
-    "totalProjected": 139,
-    "totalCrosses": 271,
-    "totalShotsBox": 97
+    "matches": 11,
+    "totalCorners": 128,
+    "totalProjected": 150,
+    "totalCrosses": 300,
+    "totalShotsBox": 112
   },
   "Liga Pro": {
     "matches": 8,
@@ -1006,5 +1006,12 @@
     "totalProjected": 67,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Copa do Brasil Women - Tercera Ronda": {
+    "matches": 2,
+    "totalCorners": 30,
+    "totalProjected": 30,
+    "totalCrosses": 93,
+    "totalShotsBox": 31
   }
 }
