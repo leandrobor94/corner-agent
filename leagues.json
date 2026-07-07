@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 116,
-    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844410410410410146714671467146712",
-    "totalProjected": 1106,
-    "totalCrosses": 4525,
+    "matches": 117,
+    "totalCorners": "0[object Object][object Object]698989868139498681394115115115101010101111816118167310118167310810101010441041041010109109109681010681010586810105868101058681010584441041041041014671467146714671212",
+    "totalProjected": 1119,
+    "totalCrosses": 4579,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2255,
-    "totalCorners": 18312,
-    "totalProjected": 20884,
-    "totalCrosses": 66766,
+    "matches": 2285,
+    "totalCorners": 18555,
+    "totalProjected": 21169,
+    "totalCrosses": 67642,
     "totalShotsBox": 541
   },
   "National": {
@@ -952,11 +952,11 @@
     "totalShotsBox": 241
   },
   "Mundial - Octavos de final": {
-    "matches": 15,
-    "totalCorners": 162,
-    "totalProjected": 186,
-    "totalCrosses": 426,
-    "totalShotsBox": 172
+    "matches": 16,
+    "totalCorners": 169,
+    "totalProjected": 193,
+    "totalCrosses": 460,
+    "totalShotsBox": 187
   },
   "Liga Pro": {
     "matches": 10,
@@ -1015,17 +1015,17 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 15,
-    "totalCorners": 131,
-    "totalProjected": 151,
-    "totalCrosses": 634,
-    "totalShotsBox": 161
+    "matches": 25,
+    "totalCorners": 215,
+    "totalProjected": 248,
+    "totalCrosses": 1048,
+    "totalShotsBox": 271
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 3,
-    "totalCorners": 35,
-    "totalProjected": 37,
-    "totalCrosses": 154,
-    "totalShotsBox": 46
+    "matches": 5,
+    "totalCorners": 57,
+    "totalProjected": 61,
+    "totalCrosses": 260,
+    "totalShotsBox": 76
   }
 }
