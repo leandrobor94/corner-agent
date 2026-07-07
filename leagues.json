@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2208,
-    "totalCorners": 17923,
-    "totalProjected": 20425,
-    "totalCrosses": 65338,
+    "matches": 2225,
+    "totalCorners": 18069,
+    "totalProjected": 20599,
+    "totalCrosses": 65890,
     "totalShotsBox": 541
   },
   "National": {
@@ -952,11 +952,11 @@
     "totalShotsBox": 241
   },
   "Mundial - Octavos de final": {
-    "matches": 13,
-    "totalCorners": 148,
-    "totalProjected": 172,
-    "totalCrosses": 358,
-    "totalShotsBox": 142
+    "matches": 14,
+    "totalCorners": 155,
+    "totalProjected": 179,
+    "totalCrosses": 392,
+    "totalShotsBox": 157
   },
   "Liga Pro": {
     "matches": 10,
@@ -1013,5 +1013,19 @@
     "totalProjected": 60,
     "totalCrosses": 195,
     "totalShotsBox": 65
+  },
+  "UEFA Champions League Clasificatorio - Primera Ronda": {
+    "matches": 5,
+    "totalCorners": 47,
+    "totalProjected": 54,
+    "totalCrosses": 220,
+    "totalShotsBox": 51
+  },
+  "UEFA Conference League - 1ra ronda de clasificación": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
+    "totalCrosses": 48,
+    "totalShotsBox": 16
   }
 }
