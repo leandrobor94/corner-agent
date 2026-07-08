@@ -84,10 +84,10 @@
     "totalShotsBox": 118
   },
   "APF Primera B": {
-    "matches": 122,
-    "totalCorners": "0[object Object][object Object]109999991212121212121212128888815108410151084108151084108151084108151084106666666151281512815128151281512815128151287471074710151287471015128747102121321213212132121314751391475139",
-    "totalProjected": 1357,
-    "totalCrosses": 5144,
+    "matches": 130,
+    "totalCorners": "0[object Object][object Object]109999991212121212121212128888815108410151084108151084108151084108151084106666666151281512815128151281512815128151287471074710151287471015128747102121321213212132121314751391475139212131475139",
+    "totalProjected": 1447,
+    "totalCrosses": 5533,
     "totalShotsBox": 0
   },
   "Mundial - Grupo A": {
@@ -182,10 +182,10 @@
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 112,
-    "totalCorners": 832,
-    "totalProjected": 899,
-    "totalCrosses": 4380,
+    "matches": 113,
+    "totalCorners": 841,
+    "totalProjected": 909,
+    "totalCrosses": 4416,
     "totalShotsBox": 0
   },
   "Division 1": {
@@ -203,10 +203,10 @@
     "totalShotsBox": 1673
   },
   "Campeonato": {
-    "matches": 99,
-    "totalCorners": 880,
-    "totalProjected": 979,
-    "totalCrosses": 3958,
+    "matches": 104,
+    "totalCorners": 937,
+    "totalProjected": 1042,
+    "totalCrosses": 4113,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
@@ -294,11 +294,11 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 161,
-    "totalCorners": 1163,
-    "totalProjected": 1445,
-    "totalCrosses": 8106,
-    "totalShotsBox": 1247
+    "matches": 167,
+    "totalCorners": 1200,
+    "totalProjected": 1485,
+    "totalCrosses": 8396,
+    "totalShotsBox": 1296
   },
   "Formuladeildin": {
     "matches": 114,
@@ -420,10 +420,10 @@
     "totalShotsBox": 70
   },
   "Superliga Femenina de": {
-    "matches": 59,
-    "totalCorners": 407,
-    "totalProjected": 418,
-    "totalCrosses": 1979,
+    "matches": 60,
+    "totalCorners": 415,
+    "totalProjected": 426,
+    "totalCrosses": 2009,
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
@@ -469,11 +469,11 @@
     "totalShotsBox": 160
   },
   "Catarinense - Serie B": {
-    "matches": 78,
-    "totalCorners": 733,
-    "totalProjected": 847,
-    "totalCrosses": 2998,
-    "totalShotsBox": 757
+    "matches": 79,
+    "totalCorners": 748,
+    "totalProjected": 866,
+    "totalCrosses": 3035,
+    "totalShotsBox": 770
   },
   "Serie D - Grupo 8": {
     "matches": 9,
@@ -602,11 +602,11 @@
     "totalShotsBox": 0
   },
   "Copa Rio - Primera Fase": {
-    "matches": 49,
-    "totalCorners": 454,
-    "totalProjected": 540,
-    "totalCrosses": 2020,
-    "totalShotsBox": 568
+    "matches": 50,
+    "totalCorners": 462,
+    "totalProjected": 550,
+    "totalCrosses": 2075,
+    "totalShotsBox": 579
   },
   "Mundial - Grupo K": {
     "matches": 8,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2444,
-    "totalCorners": 19920,
-    "totalProjected": 22726,
-    "totalCrosses": 72828,
-    "totalShotsBox": 577
+    "matches": 2482,
+    "totalCorners": 20256,
+    "totalProjected": 23112,
+    "totalCrosses": 74112,
+    "totalShotsBox": 598
   },
   "National": {
     "matches": 71,
@@ -973,10 +973,10 @@
     "totalShotsBox": 383
   },
   "Liga Femenina de Fútbol": {
-    "matches": 20,
-    "totalCorners": 14,
-    "totalProjected": 18,
-    "totalCrosses": 53,
+    "matches": 23,
+    "totalCorners": 21,
+    "totalProjected": 27,
+    "totalCrosses": 89,
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub17": {
@@ -987,11 +987,11 @@
     "totalShotsBox": 126
   },
   "Ligi Kuu Bara - Relegation": {
-    "matches": 22,
-    "totalCorners": 187,
-    "totalProjected": 207,
-    "totalCrosses": 1077,
-    "totalShotsBox": 220
+    "matches": 23,
+    "totalCorners": 200,
+    "totalProjected": 223,
+    "totalCrosses": 1132,
+    "totalShotsBox": 224
   },
   "NWSL": {
     "matches": 9,
@@ -1015,45 +1015,59 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 42,
-    "totalCorners": 352,
-    "totalProjected": 404,
-    "totalCrosses": 1868,
-    "totalShotsBox": 469
+    "matches": 46,
+    "totalCorners": 383,
+    "totalProjected": 440,
+    "totalCrosses": 2099,
+    "totalShotsBox": 520
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 13,
-    "totalCorners": 123,
-    "totalProjected": 140,
-    "totalCrosses": 632,
-    "totalShotsBox": 158
+    "matches": 16,
+    "totalCorners": 145,
+    "totalProjected": 167,
+    "totalCrosses": 781,
+    "totalShotsBox": 187
   },
   "Euro Sub19 - World Cup U20": {
-    "matches": 3,
-    "totalCorners": 39,
-    "totalProjected": 48,
-    "totalCrosses": 150,
-    "totalShotsBox": 54
+    "matches": 4,
+    "totalCorners": 52,
+    "totalProjected": 64,
+    "totalCrosses": 200,
+    "totalShotsBox": 72
   },
   "Euro Sub19 -": {
-    "matches": 4,
-    "totalCorners": 34,
-    "totalProjected": 39,
-    "totalCrosses": 105,
-    "totalShotsBox": 44
+    "matches": 6,
+    "totalCorners": 51,
+    "totalProjected": 58,
+    "totalCrosses": 169,
+    "totalShotsBox": 71
   },
   "Amistosos": {
-    "matches": 2,
-    "totalCorners": 8,
-    "totalProjected": 10,
+    "matches": 3,
+    "totalCorners": 12,
+    "totalProjected": 15,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Brasileirao Sub20 - Cuartos de Final": {
-    "matches": 8,
-    "totalCorners": 96,
-    "totalProjected": 99,
-    "totalCrosses": 77,
+    "matches": 12,
+    "totalCorners": 144,
+    "totalProjected": 152,
+    "totalCrosses": 127,
     "totalShotsBox": 0
+  },
+  "Campeonato Canadiense - Cuartos de Final": {
+    "matches": 2,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 28,
+    "totalShotsBox": 13
+  },
+  "Cup - 16avos de final": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 22,
+    "totalCrosses": 80,
+    "totalShotsBox": 10
   }
 }
