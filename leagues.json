@@ -84,10 +84,10 @@
     "totalShotsBox": 118
   },
   "APF Primera B": {
-    "matches": 103,
-    "totalCorners": "0[object Object][object Object]1099999912121212121212121288888151084101510841081510841081510841081510841066666661512815128151281512815128151281512874710747101512874710151287471021213",
-    "totalProjected": 1147,
-    "totalCrosses": 4407,
+    "matches": 106,
+    "totalCorners": "0[object Object][object Object]109999991212121212121212128888815108410151084108151084108151084108151084106666666151281512815128151281512815128151287471074710151287471015128747102121321213",
+    "totalProjected": 1179,
+    "totalCrosses": 4513,
     "totalShotsBox": 0
   },
   "Mundial - Grupo A": {
@@ -203,10 +203,10 @@
     "totalShotsBox": 1673
   },
   "Campeonato": {
-    "matches": 92,
-    "totalCorners": 799,
-    "totalProjected": 888,
-    "totalCrosses": 3586,
+    "matches": 93,
+    "totalCorners": 810,
+    "totalProjected": 901,
+    "totalCrosses": 3648,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
@@ -294,11 +294,11 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 142,
-    "totalCorners": 1049,
-    "totalProjected": 1323,
-    "totalCrosses": 7259,
-    "totalShotsBox": 1115
+    "matches": 147,
+    "totalCorners": 1076,
+    "totalProjected": 1350,
+    "totalCrosses": 7509,
+    "totalShotsBox": 1151
   },
   "Formuladeildin": {
     "matches": 114,
@@ -420,10 +420,10 @@
     "totalShotsBox": 70
   },
   "Superliga Femenina de": {
-    "matches": 56,
-    "totalCorners": 383,
-    "totalProjected": 394,
-    "totalCrosses": 1889,
+    "matches": 57,
+    "totalCorners": 391,
+    "totalProjected": 402,
+    "totalCrosses": 1919,
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
@@ -469,7 +469,7 @@
     "totalShotsBox": 160
   },
   "Catarinense - Serie B": {
-    "matches": 75,
+    "matches": 76,
     "totalCorners": 710,
     "totalProjected": 818,
     "totalCrosses": 2937,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2348,
-    "totalCorners": 19077,
-    "totalProjected": 21771,
-    "totalCrosses": 69681,
+    "matches": 2370,
+    "totalCorners": 19276,
+    "totalProjected": 21996,
+    "totalCrosses": 70330,
     "totalShotsBox": 541
   },
   "National": {
@@ -987,11 +987,11 @@
     "totalShotsBox": 126
   },
   "Ligi Kuu Bara - Relegation": {
-    "matches": 19,
-    "totalCorners": 148,
-    "totalProjected": 159,
-    "totalCrosses": 912,
-    "totalShotsBox": 208
+    "matches": 20,
+    "totalCorners": 161,
+    "totalProjected": 175,
+    "totalCrosses": 967,
+    "totalShotsBox": 212
   },
   "NWSL": {
     "matches": 9,
@@ -1015,11 +1015,11 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 35,
-    "totalCorners": 299,
-    "totalProjected": 345,
-    "totalCrosses": 1462,
-    "totalShotsBox": 381
+    "matches": 36,
+    "totalCorners": 306,
+    "totalProjected": 352,
+    "totalCrosses": 1517,
+    "totalShotsBox": 393
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
     "matches": 7,
@@ -1027,5 +1027,12 @@
     "totalProjected": 85,
     "totalCrosses": 366,
     "totalShotsBox": 106
+  },
+  "Euro Sub19 - World Cup U20": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 16,
+    "totalCrosses": 50,
+    "totalShotsBox": 18
   }
 }
