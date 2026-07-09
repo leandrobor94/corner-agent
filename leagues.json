@@ -35,11 +35,11 @@
     "totalShotsBox": 1389
   },
   "Segunda división": {
-    "matches": 192,
-    "totalCorners": "0[object Object][object Object]7121212121213131313138813813813855512141214162171621712141621778787878789978978978917817817877771111111111118888810010810010810010819191001081910010819100108191001081910010819100108191001081910010819461013461013810461013810461013810461013810461013810461013810461013810461013810461013810",
-    "totalProjected": 2061,
-    "totalCrosses": 11518,
-    "totalShotsBox": 2716
+    "matches": 193,
+    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214121416217162171214162177878787878997897897891781781787777111111111111888881001081001081001081919100108191001081910010819100108191001081910010819100108191001081946101346101381046101381046101381046101381046101381046101381046101381046101381046101381010",
+    "totalProjected": 2072,
+    "totalCrosses": 11600,
+    "totalShotsBox": 2734
   },
   "Superettan": {
     "matches": 132,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2576,
-    "totalCorners": 21072,
-    "totalProjected": 24051,
-    "totalCrosses": 77356,
+    "matches": 2591,
+    "totalCorners": 21196,
+    "totalProjected": 24195,
+    "totalCrosses": 77873,
     "totalShotsBox": 640
   },
   "National": {
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 622
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 23,
-    "totalCorners": 193,
-    "totalProjected": 226,
-    "totalCrosses": 1121,
-    "totalShotsBox": 254
+    "matches": 34,
+    "totalCorners": 294,
+    "totalProjected": 346,
+    "totalCrosses": 1712,
+    "totalShotsBox": 371
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1069,5 +1069,12 @@
     "totalProjected": 53,
     "totalCrosses": 210,
     "totalShotsBox": 28
+  },
+  "UEFA Europa League Clasificatorio - Primera Ronda": {
+    "matches": 3,
+    "totalCorners": 34,
+    "totalProjected": 41,
+    "totalCrosses": 175,
+    "totalShotsBox": 36
   }
 }
