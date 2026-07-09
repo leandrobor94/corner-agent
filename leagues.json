@@ -35,11 +35,11 @@
     "totalShotsBox": 1389
   },
   "Segunda división": {
-    "matches": 193,
-    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214121416217162171214162177878787878997897897891781781787777111111111111888881001081001081001081919100108191001081910010819100108191001081910010819100108191001081946101346101381046101381046101381046101381046101381046101381046101381046101381046101381010",
-    "totalProjected": 2072,
-    "totalCrosses": 11600,
-    "totalShotsBox": 2734
+    "matches": 194,
+    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555121412141621716217121416217787878787899789789789178178178777711111111111188888100108100108100108191910010819100108191001081910010819100108191001081910010819100108194610134610138104610138104610138104610138104610138104610138104610138104610138104610138101010",
+    "totalProjected": 2083,
+    "totalCrosses": 11682,
+    "totalShotsBox": 2752
   },
   "Superettan": {
     "matches": 132,
@@ -294,11 +294,11 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 179,
-    "totalCorners": 1274,
-    "totalProjected": 1565,
-    "totalCrosses": 8976,
-    "totalShotsBox": 1394
+    "matches": 180,
+    "totalCorners": 1281,
+    "totalProjected": 1573,
+    "totalCrosses": 9036,
+    "totalShotsBox": 1410
   },
   "Formuladeildin": {
     "matches": 114,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2591,
-    "totalCorners": 21196,
-    "totalProjected": 24195,
-    "totalCrosses": 77873,
+    "matches": 2608,
+    "totalCorners": 21340,
+    "totalProjected": 24362,
+    "totalCrosses": 78426,
     "totalShotsBox": 640
   },
   "National": {
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 622
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 34,
-    "totalCorners": 294,
-    "totalProjected": 346,
-    "totalCrosses": 1712,
-    "totalShotsBox": 371
+    "matches": 55,
+    "totalCorners": 476,
+    "totalProjected": 559,
+    "totalCrosses": 2880,
+    "totalShotsBox": 599
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1071,10 +1071,10 @@
     "totalShotsBox": 28
   },
   "UEFA Europa League Clasificatorio - Primera Ronda": {
-    "matches": 3,
-    "totalCorners": 34,
-    "totalProjected": 41,
-    "totalCrosses": 175,
-    "totalShotsBox": 36
+    "matches": 9,
+    "totalCorners": 100,
+    "totalProjected": 117,
+    "totalCrosses": 484,
+    "totalShotsBox": 112
   }
 }
