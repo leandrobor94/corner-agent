@@ -35,11 +35,11 @@
     "totalShotsBox": 1389
   },
   "Segunda división": {
-    "matches": 195,
-    "totalCorners": "0[object Object][object Object]7121212121213131313138813813813855512141214162171621712141621778787878789978978978917817817877771111111111118888810010810010810010819191001081910010819100108191001081910010819100108191001081910010819461013461013810461013810461013810461013810461013810461013810461013810461013810461013810101010",
-    "totalProjected": 2094,
-    "totalCrosses": 11764,
-    "totalShotsBox": 2770
+    "matches": 196,
+    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214121416217162171214162177878787878997897897891781781787777111111111111888881001081001081001081919100108191001081910010819100108191001081910010819100108191001081946101346101381046101381046101381046101381046101381046101381046101381046101381046101381010101010",
+    "totalProjected": 2105,
+    "totalCrosses": 11846,
+    "totalShotsBox": 2788
   },
   "Superettan": {
     "matches": 132,
@@ -294,11 +294,11 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 181,
-    "totalCorners": 1288,
-    "totalProjected": 1581,
-    "totalCrosses": 9096,
-    "totalShotsBox": 1426
+    "matches": 182,
+    "totalCorners": 1295,
+    "totalProjected": 1589,
+    "totalCrosses": 9156,
+    "totalShotsBox": 1442
   },
   "Formuladeildin": {
     "matches": 114,
@@ -420,10 +420,10 @@
     "totalShotsBox": 70
   },
   "Superliga Femenina de": {
-    "matches": 63,
-    "totalCorners": 441,
-    "totalProjected": 454,
-    "totalCrosses": 2113,
+    "matches": 64,
+    "totalCorners": 451,
+    "totalProjected": 466,
+    "totalCrosses": 2157,
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 2625,
-    "totalCorners": 21484,
-    "totalProjected": 24529,
-    "totalCrosses": 78979,
+    "matches": 2642,
+    "totalCorners": 21628,
+    "totalProjected": 24696,
+    "totalCrosses": 79532,
     "totalShotsBox": 640
   },
   "National": {
@@ -910,11 +910,11 @@
     "totalShotsBox": 0
   },
   "Serie B": {
-    "matches": 10,
-    "totalCorners": 54,
-    "totalProjected": 59,
-    "totalCrosses": 472,
-    "totalShotsBox": 80
+    "matches": 11,
+    "totalCorners": 68,
+    "totalProjected": 75,
+    "totalCrosses": 529,
+    "totalShotsBox": 90
   },
   "Copa Estonia - Primera Ronda": {
     "matches": 5,
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 622
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 76,
-    "totalCorners": 658,
-    "totalProjected": 772,
-    "totalCrosses": 4048,
-    "totalShotsBox": 827
+    "matches": 97,
+    "totalCorners": 840,
+    "totalProjected": 985,
+    "totalCrosses": 5216,
+    "totalShotsBox": 1055
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1071,24 +1071,24 @@
     "totalShotsBox": 28
   },
   "UEFA Europa League Clasificatorio - Primera Ronda": {
-    "matches": 15,
-    "totalCorners": 166,
-    "totalProjected": 193,
-    "totalCrosses": 793,
-    "totalShotsBox": 188
+    "matches": 21,
+    "totalCorners": 232,
+    "totalProjected": 269,
+    "totalCrosses": 1102,
+    "totalShotsBox": 264
   },
   "Copa de la Liga - Octavos de final": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 9,
-    "totalCrosses": 52,
-    "totalShotsBox": 9
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 18,
+    "totalCrosses": 104,
+    "totalShotsBox": 18
   },
   "Mundial - Cuartos de Final": {
-    "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 11,
-    "totalCrosses": 25,
-    "totalShotsBox": 13
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 22,
+    "totalCrosses": 50,
+    "totalShotsBox": 26
   }
 }
