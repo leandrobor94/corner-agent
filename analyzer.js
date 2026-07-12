@@ -13,21 +13,18 @@ function poissonOver(lambda, k) {
 /** Estimate missing stats when 365scores doesn't provide them */
 function enrichStats(stats) {
   const h = stats.home, a = stats.away;
-  // Estimate shotsInsideBox from totalShots if missing
   if ((!h.shotsInsideBox || h.shotsInsideBox === 0) && h.totalShots > 0) {
     h.shotsInsideBox = Math.round(h.totalShots * 0.60);
   }
   if ((!a.shotsInsideBox || a.shotsInsideBox === 0) && a.totalShots > 0) {
     a.shotsInsideBox = Math.round(a.totalShots * 0.60);
   }
-  // Estimate crosses from attacks if missing
   if ((!h.crosses || h.crosses === 0) && h.attacks > 0) {
     h.crosses = Math.round(h.attacks * 0.25);
   }
   if ((!a.crosses || a.crosses === 0) && a.attacks > 0) {
     a.crosses = Math.round(a.attacks * 0.25);
   }
-  // Fallback: estimate from totalShots
   if ((!h.crosses || h.crosses === 0) && h.totalShots > 0) {
     h.crosses = Math.round(h.totalShots * 1.8);
   }
@@ -54,7 +51,7 @@ function analyzeMatch(match, stats, minute) {
 
   const goalDiff = match.scoreHome - match.scoreAway;
 
-  function projectTeam(teamCurrent, teamStats, oppStats, needsGoal) {
+  function projectTeam(teamCurrent, teamStats, oppStats, needsGoal, isHome) {
     const rate = teamCurrent / minute;
     const baseProj = teamCurrent + rate * minsLeft;
 
@@ -62,7 +59,6 @@ function analyzeMatch(match, stats, minute) {
     const shotRate = (teamStats.shotsInsideBox || 0) / minute;
     const attackRate = (teamStats.attacks || 0) / minute;
 
-    // All four methods project the TOTAL final corners (current + additional)
     const projFromCrosses = teamCurrent + crossRate * minsLeft * CONFIG.CORNER_CONVERSION_CROSS;
     const projFromShots = teamCurrent + shotRate * minsLeft * CONFIG.CORNER_CONVERSION_SHOTS;
     const projFromAttacks = teamCurrent + attackRate * minsLeft * CONFIG.CORNER_CONVERSION_ATTACKS;
@@ -72,18 +68,38 @@ function analyzeMatch(match, stats, minute) {
     const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
     const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
-    const blended = Math.round((
+    let blended = Math.round((
       baseProj * CONFIG.RATE_WEIGHT +
       (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
       (imbalanced ? baseProj : projFromShots) * CONFIG.SHOTS_BOX_WEIGHT +
       (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT
     ) * needFactor);
 
+    // Home boost: home teams generan ~11% mas corners
+    if (isHome) blended = Math.round(blended * CONFIG.HOME_BOOST);
+
+    // Late game decay: en minutos tardios, la proyeccion tiende a sobrestimar
+    if (minute >= CONFIG.LATE_GAME_DECAY_MIN) {
+      blended = Math.round(blended * CONFIG.LATE_GAME_DECAY_FACTOR);
+    } else if (minute >= CONFIG.MID_GAME_DECAY_MIN) {
+      blended = Math.round(blended * CONFIG.MID_GAME_DECAY_FACTOR);
+    }
+
+    // Low corners penalty: si tiene pocos corners en el segundo tiempo, el partido esta lento
+    if (teamCurrent <= CONFIG.LOW_CORNERS_THRESHOLD && minute >= CONFIG.LOW_CORNERS_MIN) {
+      blended = Math.round(blended * CONFIG.LOW_CORNERS_PENALTY);
+    }
+
+    // High corners decay: si ya tiene muchos corners, la proyeccion no puede crecer indefinidamente
+    if (teamCurrent >= CONFIG.HIGH_CORNERS_THRESHOLD) {
+      blended = Math.round(blended * CONFIG.HIGH_CORNERS_DECAY);
+    }
+
     return Math.min(Math.max(teamCurrent, blended), CONFIG.MAX_TEAM_CORNERS);
   }
 
-  const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0);
-  const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0);
+  const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
+  const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
   const projectedTotal = homeProjected + awayProjected;
 
   const teamAlerts = [];

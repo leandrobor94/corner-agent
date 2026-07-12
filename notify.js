@@ -49,4 +49,25 @@ function buildMessage(result) {
   return msg;
 }
 
-module.exports = { sendTelegram, buildMessage };
+/**
+ * Mensaje compacto: todas las alertas del ciclo en un solo mensaje, formato corto.
+ */
+function buildCompactBatch(alertList) {
+  if (alertList.length === 0) return '';
+  if (alertList.length === 1) return buildMessage(alertList[0].result);
+
+  let msg = `<b>🔔 ${alertList.length} ALERTAS</b>\n`;
+
+  alertList.forEach((item, i) => {
+    const r = item.result;
+    const a = item.alert;
+    const lineLabel = a.team ? `${a.team} O${a.line}` : `O${a.line}`;
+    msg += `\n<b>${r.match}</b>\n`;
+    msg += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | <b>${lineLabel} ${a.prob}%</b>\n`;
+  });
+
+  msg += `<i>🤖 corner-agent</i>`;
+  return msg;
+}
+
+module.exports = { sendTelegram, buildMessage, buildCompactBatch };

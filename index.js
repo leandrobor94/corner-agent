@@ -1,6 +1,6 @@
 const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
-const { sendTelegram, buildMessage } = require('./notify');
+const { sendTelegram, buildMessage, buildCompactBatch } = require('./notify');
 const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData } = require('./learn');
 const { CONFIG } = require('./config');
 
@@ -18,7 +18,9 @@ async function analyzeMatchList(matches) {
     console.log(`  📊 ${m.homeTeam} vs ${m.awayTeam} (${m.minute}') [${m.league}]`);
   });
 
-  let alertsSent = 0;
+  // Recopilar TODAS las alertas pendientes de todos los partidos
+  const allPendingAlerts = [];
+
   for (const m of targets) {
     const stats = await fetchMatchStats(m.gameId, m.homeId, m.awayId);
     if (!stats) {
@@ -34,31 +36,44 @@ async function analyzeMatchList(matches) {
 
     storePrediction(result);
     const sentKeys = getAlertsSent(result.match, result.minute);
-    const newAlerts = [];
+
     for (const a of result.teamAlerts) {
       const k = `${a.team}_O${a.line}`;
-      if (!sentKeys.includes(k)) newAlerts.push(a);
+      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
     }
     for (const a of result.totalAlerts) {
       const k = `Total_O${a.line}`;
-      if (!sentKeys.includes(k)) newAlerts.push(a);
+      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
     }
 
-    if (newAlerts.length > 0) {
-      const msg = buildMessage(result);
-      console.log(`  🔔 ${result.match} — ${newAlerts.length} nueva(s)`);
-      await sendTelegram(msg);
-      markAlertsSent(result.match, result.minute, newAlerts.map(a => a.team ? `${a.team}_O${a.line}` : `Total_O${a.line}`));
-      alertsSent++;
-    } else {
-      const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';
-      const totalR = result.totalAlerts.length > 0 ? `total:${result.totalAlerts[0].prob}%` : 'total bajo';
-      console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${top}, ${totalR}`);
-    }
+    const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';
+    const totalR = result.totalAlerts.length > 0 ? `total:${result.totalAlerts[0].prob}%` : 'total bajo';
+    console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${top}, ${totalR}`);
   }
 
-  console.log(`  Alertas enviadas: ${alertsSent}`);
-  return alertsSent;
+  if (allPendingAlerts.length === 0) {
+    console.log(`  Alertas pendientes: 0`);
+    return 0;
+  }
+
+  // Ordenar de mayor a menor probabilidad
+  allPendingAlerts.sort((a, b) => b.alert.prob - a.alert.prob);
+
+  console.log(`  Alertas pendientes: ${allPendingAlerts.length}`);
+
+  // Enviar todas las alertas en un solo mensaje, ordenadas por probabilidad
+  const msg = buildCompactBatch(allPendingAlerts);
+  if (msg) {
+    await sendTelegram(msg);
+    // Marcar todas como enviadas
+    for (const item of allPendingAlerts) {
+      const alertKey = item.alert.team ? `${item.alert.team}_O${item.alert.line}` : `Total_O${item.alert.line}`;
+      markAlertsSent(item.result.match, item.result.minute, [alertKey]);
+    }
+    console.log(`  ✅ ${allPendingAlerts.length} alerta(s) enviada(s) — mayor prob: ${allPendingAlerts[0].alert.prob}%`);
+  }
+
+  return allPendingAlerts.length;
 }
 
 async function runLoop() {
