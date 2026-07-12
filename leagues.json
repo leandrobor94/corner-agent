@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4289,
-    "totalCorners": 34234,
-    "totalProjected": 39272,
-    "totalCrosses": 135005,
+    "matches": 4290,
+    "totalCorners": 34243,
+    "totalProjected": 39284,
+    "totalCrosses": 135053,
     "totalShotsBox": 1395
   },
   "National": {
@@ -840,7 +840,7 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 21,
+    "matches": 22,
     "totalCorners": 143,
     "totalProjected": 164,
     "totalCrosses": 831,
