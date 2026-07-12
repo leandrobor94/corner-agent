@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4290,
-    "totalCorners": 34243,
-    "totalProjected": 39284,
-    "totalCrosses": 135053,
+    "matches": 4294,
+    "totalCorners": 34271,
+    "totalProjected": 39319,
+    "totalCrosses": 135135,
     "totalShotsBox": 1395
   },
   "National": {
@@ -665,11 +665,11 @@
     "totalShotsBox": 42
   },
   "Tercera división": {
-    "matches": 198,
-    "totalCorners": 1840,
-    "totalProjected": 2272,
-    "totalCrosses": 9928,
-    "totalShotsBox": 2347
+    "matches": 200,
+    "totalCorners": 1856,
+    "totalProjected": 2292,
+    "totalCrosses": 10022,
+    "totalShotsBox": 2373
   },
   "Supreme Division Women": {
     "matches": 135,
@@ -840,7 +840,7 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 22,
+    "matches": 23,
     "totalCorners": 143,
     "totalProjected": 164,
     "totalCrosses": 831,
