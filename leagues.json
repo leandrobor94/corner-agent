@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4495,
-    "totalCorners": 35748,
-    "totalProjected": 40981,
-    "totalCrosses": 141037,
-    "totalShotsBox": 1515
+    "matches": 4511,
+    "totalCorners": 35883,
+    "totalProjected": 41129,
+    "totalCrosses": 141447,
+    "totalShotsBox": 1531
   },
   "National": {
     "matches": 115,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 177,
-    "totalCorners": 1861,
-    "totalProjected": 2081,
-    "totalCrosses": 7178,
-    "totalShotsBox": 3058
+    "matches": 178,
+    "totalCorners": 1871,
+    "totalProjected": 2092,
+    "totalCrosses": 7214,
+    "totalShotsBox": 3083
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -1204,10 +1204,10 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 6,
-    "totalCorners": 51,
-    "totalProjected": 57,
-    "totalCrosses": 147,
-    "totalShotsBox": 87
+    "matches": 8,
+    "totalCorners": 68,
+    "totalProjected": 76,
+    "totalCrosses": 196,
+    "totalShotsBox": 116
   }
 }
