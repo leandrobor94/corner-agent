@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4470,
-    "totalCorners": 35556,
-    "totalProjected": 40773,
-    "totalCrosses": 140267,
+    "matches": 4476,
+    "totalCorners": 35597,
+    "totalProjected": 40817,
+    "totalCrosses": 140445,
     "totalShotsBox": 1515
   },
   "National": {
@@ -1202,5 +1202,12 @@
     "totalProjected": 10,
     "totalCrosses": 58,
     "totalShotsBox": 12
+  },
+  "Australia Cup - Tercera Ronda": {
+    "matches": 2,
+    "totalCorners": 17,
+    "totalProjected": 19,
+    "totalCrosses": 49,
+    "totalShotsBox": 29
   }
 }
