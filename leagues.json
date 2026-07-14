@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 79,
-    "totalCorners": 756,
-    "totalProjected": 981,
-    "totalCrosses": 11607928,
-    "totalShotsBox": 793
+    "matches": 87,
+    "totalCorners": 820,
+    "totalProjected": 1047,
+    "totalCrosses": 11608416,
+    "totalShotsBox": 848
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4511,
-    "totalCorners": 35883,
-    "totalProjected": 41129,
-    "totalCrosses": 141447,
-    "totalShotsBox": 1531
+    "matches": 4538,
+    "totalCorners": 36125,
+    "totalProjected": 41379,
+    "totalCrosses": 142230,
+    "totalShotsBox": 1567
   },
   "National": {
     "matches": 115,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 178,
-    "totalCorners": 1871,
-    "totalProjected": 2092,
-    "totalCrosses": 7214,
-    "totalShotsBox": 3083
+    "matches": 179,
+    "totalCorners": 1881,
+    "totalProjected": 2103,
+    "totalCrosses": 7250,
+    "totalShotsBox": 3108
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -1015,11 +1015,11 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 54,
-    "totalCorners": 445,
-    "totalProjected": 512,
-    "totalCrosses": 2561,
-    "totalShotsBox": 622
+    "matches": 58,
+    "totalCorners": 507,
+    "totalProjected": 573,
+    "totalCrosses": 2689,
+    "totalShotsBox": 660
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
     "matches": 97,
@@ -1204,10 +1204,17 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 8,
-    "totalCorners": 68,
-    "totalProjected": 76,
-    "totalCrosses": 196,
-    "totalShotsBox": 116
+    "matches": 10,
+    "totalCorners": 85,
+    "totalProjected": 95,
+    "totalCrosses": 245,
+    "totalShotsBox": 145
+  },
+  "Copa Paraguay - Segunda Fase": {
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 13,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
