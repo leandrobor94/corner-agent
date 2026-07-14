@@ -182,10 +182,10 @@
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 131,
-    "totalCorners": 981,
-    "totalProjected": 1081,
-    "totalCrosses": 4916,
+    "matches": 134,
+    "totalCorners": 996,
+    "totalProjected": 1098,
+    "totalCrosses": 5018,
     "totalShotsBox": 0
   },
   "Division 1": {
@@ -217,11 +217,11 @@
     "totalShotsBox": 222
   },
   "Inkasso": {
-    "matches": 137,
-    "totalCorners": 1506,
-    "totalProjected": 1780,
-    "totalCrosses": 4839,
-    "totalShotsBox": 1680
+    "matches": 138,
+    "totalCorners": 1518,
+    "totalProjected": 1793,
+    "totalCrosses": 4906,
+    "totalShotsBox": 1695
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 136,
@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 87,
-    "totalCorners": 820,
-    "totalProjected": 1047,
-    "totalCrosses": 11608416,
-    "totalShotsBox": 848
+    "matches": 95,
+    "totalCorners": 884,
+    "totalProjected": 1113,
+    "totalCrosses": 11608904,
+    "totalShotsBox": 903
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4538,
-    "totalCorners": 36125,
-    "totalProjected": 41379,
-    "totalCrosses": 142230,
-    "totalShotsBox": 1567
+    "matches": 4572,
+    "totalCorners": 36420,
+    "totalProjected": 41687,
+    "totalCrosses": 143241,
+    "totalShotsBox": 1603
   },
   "National": {
     "matches": 115,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 179,
-    "totalCorners": 1881,
-    "totalProjected": 2103,
-    "totalCrosses": 7250,
-    "totalShotsBox": 3108
+    "matches": 180,
+    "totalCorners": 1891,
+    "totalProjected": 2114,
+    "totalCrosses": 7286,
+    "totalShotsBox": 3133
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -1015,11 +1015,11 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 58,
-    "totalCorners": 507,
-    "totalProjected": 573,
-    "totalCrosses": 2689,
-    "totalShotsBox": 660
+    "matches": 66,
+    "totalCorners": 616,
+    "totalProjected": 681,
+    "totalCrosses": 2981,
+    "totalShotsBox": 758
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
     "matches": 97,
@@ -1204,16 +1204,16 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 10,
-    "totalCorners": 85,
-    "totalProjected": 95,
-    "totalCrosses": 245,
-    "totalShotsBox": 145
+    "matches": 12,
+    "totalCorners": 102,
+    "totalProjected": 114,
+    "totalCrosses": 294,
+    "totalShotsBox": 174
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 2,
-    "totalCorners": 14,
-    "totalProjected": 13,
+    "matches": 4,
+    "totalCorners": 28,
+    "totalProjected": 26,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
