@@ -98,11 +98,11 @@
     "totalShotsBox": 66
   },
   "Copa de la Liga": {
-    "matches": 268,
-    "totalCorners": "0[object Object][object Object]1110109910966655651111651111111111011013135549993393555514145141510151051415108886868689813137720202011811820118777799997998148148148141010814101515158815865259131620577136101365259131620577136101365259131620577136101365259131620577136101365259131620577136101365259131620577136101312121265259131620577136101312652591316205771361013126525913162057713610131265259131620577136101312",
-    "totalProjected": 2850,
-    "totalCrosses": 10716,
-    "totalShotsBox": 2839
+    "matches": 272,
+    "totalCorners": "0[object Object][object Object]1110109910966655651111651111111111011013135549993393555514145141510151051415108886868689813137720202011811820118777799997998148148148141010814101515158815865259131620577136101365259131620577136101365259131620577136101365259131620577136101365259131620577136101365259131620577136101312121265259131620577136101312652591316205771361013126525913162057713610131265259131620577136101312311710",
+    "totalProjected": 2882,
+    "totalCrosses": 10866,
+    "totalShotsBox": 2894
   },
   "Ligi Kuu Bara": {
     "matches": 213,
@@ -182,10 +182,10 @@
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 134,
-    "totalCorners": 996,
-    "totalProjected": 1098,
-    "totalCrosses": 5018,
+    "matches": 137,
+    "totalCorners": 1011,
+    "totalProjected": 1115,
+    "totalCrosses": 5120,
     "totalShotsBox": 0
   },
   "Division 1": {
@@ -217,11 +217,11 @@
     "totalShotsBox": 222
   },
   "Inkasso": {
-    "matches": 138,
-    "totalCorners": 1518,
-    "totalProjected": 1793,
-    "totalCrosses": 4906,
-    "totalShotsBox": 1695
+    "matches": 140,
+    "totalCorners": 1547,
+    "totalProjected": 1824,
+    "totalCrosses": 5008,
+    "totalShotsBox": 1721
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 136,
@@ -378,11 +378,11 @@
     "totalShotsBox": 46
   },
   "Primera B": {
-    "matches": 240,
-    "totalCorners": 2152,
-    "totalProjected": 2665,
-    "totalCrosses": 14845,
-    "totalShotsBox": 2528
+    "matches": 247,
+    "totalCorners": 2218,
+    "totalProjected": 2737,
+    "totalCrosses": 15267,
+    "totalShotsBox": 2596
   },
   "Primera": {
     "matches": 249,
@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 95,
-    "totalCorners": 884,
-    "totalProjected": 1113,
-    "totalCrosses": 11608904,
-    "totalShotsBox": 903
+    "matches": 103,
+    "totalCorners": 948,
+    "totalProjected": 1179,
+    "totalCrosses": 11609392,
+    "totalShotsBox": 958
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4572,
-    "totalCorners": 36420,
-    "totalProjected": 41687,
-    "totalCrosses": 143241,
-    "totalShotsBox": 1603
+    "matches": 4632,
+    "totalCorners": 36937,
+    "totalProjected": 42232,
+    "totalCrosses": 145181,
+    "totalShotsBox": 1666
   },
   "National": {
     "matches": 115,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 180,
-    "totalCorners": 1891,
-    "totalProjected": 2114,
-    "totalCrosses": 7286,
-    "totalShotsBox": 3133
+    "matches": 181,
+    "totalCorners": 1901,
+    "totalProjected": 2125,
+    "totalCrosses": 7322,
+    "totalShotsBox": 3158
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -1015,11 +1015,11 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 66,
-    "totalCorners": 616,
-    "totalProjected": 681,
-    "totalCrosses": 2981,
-    "totalShotsBox": 758
+    "matches": 77,
+    "totalCorners": 753,
+    "totalProjected": 819,
+    "totalCrosses": 3404,
+    "totalShotsBox": 883
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
     "matches": 97,
@@ -1050,11 +1050,11 @@
     "totalShotsBox": 0
   },
   "Brasileirao Sub20 - Cuartos de Final": {
-    "matches": 20,
-    "totalCorners": 240,
-    "totalProjected": 258,
-    "totalCrosses": 227,
-    "totalShotsBox": 0
+    "matches": 21,
+    "totalCorners": 256,
+    "totalProjected": 275,
+    "totalCrosses": 286,
+    "totalShotsBox": 11
   },
   "Campeonato Canadiense - Cuartos de Final": {
     "matches": 5,
@@ -1204,17 +1204,17 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 12,
-    "totalCorners": 102,
-    "totalProjected": 114,
-    "totalCrosses": 294,
-    "totalShotsBox": 174
+    "matches": 14,
+    "totalCorners": 119,
+    "totalProjected": 133,
+    "totalCrosses": 343,
+    "totalShotsBox": 203
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 4,
-    "totalCorners": 28,
-    "totalProjected": 26,
-    "totalCrosses": 0,
+    "matches": 7,
+    "totalCorners": 49,
+    "totalProjected": 46,
+    "totalCrosses": 53,
     "totalShotsBox": 0
   }
 }
