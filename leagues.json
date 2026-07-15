@@ -140,11 +140,11 @@
     "totalShotsBox": 2469
   },
   "Ykkosliiga": {
-    "matches": 126,
-    "totalCorners": 1217,
-    "totalProjected": 1401,
-    "totalCrosses": 5372,
-    "totalShotsBox": 1217
+    "matches": 127,
+    "totalCorners": 1227,
+    "totalProjected": 1411,
+    "totalCrosses": 5407,
+    "totalShotsBox": 1229
   },
   "A Lyga": {
     "matches": 128,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4836,
-    "totalCorners": 38690,
-    "totalProjected": 44111,
-    "totalCrosses": 152126,
-    "totalShotsBox": 1837
+    "matches": 4858,
+    "totalCorners": 38838,
+    "totalProjected": 44272,
+    "totalCrosses": 152792,
+    "totalShotsBox": 1854
   },
   "National": {
     "matches": 115,
@@ -840,10 +840,10 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 34,
-    "totalCorners": 216,
-    "totalProjected": 246,
-    "totalCrosses": 1358,
+    "matches": 35,
+    "totalCorners": 227,
+    "totalProjected": 257,
+    "totalCrosses": 1404,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -931,11 +931,11 @@
     "totalShotsBox": 2577
   },
   "FA Cup - 32avos de final": {
-    "matches": 72,
-    "totalCorners": 771,
-    "totalProjected": 949,
-    "totalCrosses": 5767565,
-    "totalShotsBox": 660
+    "matches": 88,
+    "totalCorners": 928,
+    "totalProjected": 1118,
+    "totalCrosses": 5768405,
+    "totalShotsBox": 813
   },
   "Primera división": {
     "matches": 138,
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 1307
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 100,
-    "totalCorners": 867,
-    "totalProjected": 1015,
-    "totalCrosses": 5345,
-    "totalShotsBox": 1091
+    "matches": 101,
+    "totalCorners": 878,
+    "totalProjected": 1027,
+    "totalCrosses": 5444,
+    "totalShotsBox": 1105
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 22,
-    "totalCorners": 184,
-    "totalProjected": 204,
-    "totalCrosses": 540,
-    "totalShotsBox": 328
+    "matches": 23,
+    "totalCorners": 191,
+    "totalProjected": 211,
+    "totalCrosses": 565,
+    "totalShotsBox": 347
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 16,
@@ -1223,5 +1223,12 @@
     "totalProjected": 27,
     "totalCrosses": 84,
     "totalShotsBox": 27
+  },
+  "Kazakhstan Cup": {
+    "matches": 1,
+    "totalCorners": 12,
+    "totalProjected": 13,
+    "totalCrosses": 46,
+    "totalShotsBox": 3
   }
 }
