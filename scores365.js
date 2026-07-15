@@ -58,7 +58,8 @@ async function fetchFinishedForDate(dateStr) {
   try {
     body = await fetch(`${API_BASE}/game/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4`);
   } catch { return []; }
-  const j = JSON.parse(body);
+  let j;
+  try { j = JSON.parse(body); } catch { return []; }
   if (!j.games) return [];
   return j.games
     .filter(g => g.statusGroup === 4 || g.statusText === 'Finalizado')
