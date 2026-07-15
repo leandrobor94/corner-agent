@@ -140,11 +140,11 @@
     "totalShotsBox": 2469
   },
   "Ykkosliiga": {
-    "matches": 127,
-    "totalCorners": 1227,
-    "totalProjected": 1411,
-    "totalCrosses": 5407,
-    "totalShotsBox": 1229
+    "matches": 128,
+    "totalCorners": 1237,
+    "totalProjected": 1421,
+    "totalCrosses": 5442,
+    "totalShotsBox": 1241
   },
   "A Lyga": {
     "matches": 128,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4858,
-    "totalCorners": 38838,
-    "totalProjected": 44272,
-    "totalCrosses": 152792,
-    "totalShotsBox": 1854
+    "matches": 4895,
+    "totalCorners": 39102,
+    "totalProjected": 44558,
+    "totalCrosses": 154055,
+    "totalShotsBox": 1884
   },
   "National": {
     "matches": 115,
@@ -840,10 +840,10 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 35,
-    "totalCorners": 227,
-    "totalProjected": 257,
-    "totalCrosses": 1404,
+    "matches": 36,
+    "totalCorners": 238,
+    "totalProjected": 268,
+    "totalCrosses": 1450,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -931,11 +931,11 @@
     "totalShotsBox": 2577
   },
   "FA Cup - 32avos de final": {
-    "matches": 88,
-    "totalCorners": 928,
-    "totalProjected": 1118,
-    "totalCrosses": 5768405,
-    "totalShotsBox": 813
+    "matches": 104,
+    "totalCorners": 1085,
+    "totalProjected": 1287,
+    "totalCrosses": 5769245,
+    "totalShotsBox": 966
   },
   "Primera división": {
     "matches": 138,
@@ -973,10 +973,10 @@
     "totalShotsBox": 748
   },
   "Liga Femenina de Fútbol": {
-    "matches": 49,
-    "totalCorners": 98,
-    "totalProjected": 117,
-    "totalCrosses": 812,
+    "matches": 50,
+    "totalCorners": 106,
+    "totalProjected": 126,
+    "totalCrosses": 868,
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub17": {
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 1307
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 101,
-    "totalCorners": 878,
-    "totalProjected": 1027,
-    "totalCrosses": 5444,
-    "totalShotsBox": 1105
+    "matches": 102,
+    "totalCorners": 889,
+    "totalProjected": 1039,
+    "totalCrosses": 5543,
+    "totalShotsBox": 1119
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 23,
-    "totalCorners": 191,
-    "totalProjected": 211,
-    "totalCrosses": 565,
-    "totalShotsBox": 347
+    "matches": 24,
+    "totalCorners": 198,
+    "totalProjected": 218,
+    "totalCrosses": 590,
+    "totalShotsBox": 366
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 16,
@@ -1225,10 +1225,10 @@
     "totalShotsBox": 27
   },
   "Kazakhstan Cup": {
-    "matches": 1,
-    "totalCorners": 12,
-    "totalProjected": 13,
-    "totalCrosses": 46,
-    "totalShotsBox": 3
+    "matches": 2,
+    "totalCorners": 24,
+    "totalProjected": 26,
+    "totalCrosses": 92,
+    "totalShotsBox": 6
   }
 }
