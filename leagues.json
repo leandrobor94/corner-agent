@@ -140,11 +140,11 @@
     "totalShotsBox": 2469
   },
   "Ykkosliiga": {
-    "matches": 128,
-    "totalCorners": 1237,
-    "totalProjected": 1421,
-    "totalCrosses": 5442,
-    "totalShotsBox": 1241
+    "matches": 129,
+    "totalCorners": 1247,
+    "totalProjected": 1431,
+    "totalCrosses": 5477,
+    "totalShotsBox": 1253
   },
   "A Lyga": {
     "matches": 128,
@@ -469,11 +469,11 @@
     "totalShotsBox": 160
   },
   "Catarinense - Serie B": {
-    "matches": 102,
-    "totalCorners": 964,
-    "totalProjected": 1104,
-    "totalCrosses": 3821,
-    "totalShotsBox": 1040
+    "matches": 104,
+    "totalCorners": 993,
+    "totalProjected": 1135,
+    "totalCrosses": 3911,
+    "totalShotsBox": 1061
   },
   "Serie D - Grupo 8": {
     "matches": 9,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 4895,
-    "totalCorners": 39102,
-    "totalProjected": 44558,
-    "totalCrosses": 154055,
-    "totalShotsBox": 1884
+    "matches": 4938,
+    "totalCorners": 39435,
+    "totalProjected": 44919,
+    "totalCrosses": 155551,
+    "totalShotsBox": 1927
   },
   "National": {
     "matches": 115,
@@ -840,10 +840,10 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 36,
-    "totalCorners": 238,
-    "totalProjected": 268,
-    "totalCrosses": 1450,
+    "matches": 37,
+    "totalCorners": 249,
+    "totalProjected": 279,
+    "totalCrosses": 1496,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -931,11 +931,11 @@
     "totalShotsBox": 2577
   },
   "FA Cup - 32avos de final": {
-    "matches": 104,
-    "totalCorners": 1085,
-    "totalProjected": 1287,
-    "totalCrosses": 5769245,
-    "totalShotsBox": 966
+    "matches": 120,
+    "totalCorners": 1242,
+    "totalProjected": 1456,
+    "totalCrosses": 5770085,
+    "totalShotsBox": 1119
   },
   "Primera división": {
     "matches": 138,
@@ -959,11 +959,11 @@
     "totalShotsBox": 220
   },
   "Liga Pro": {
-    "matches": 31,
-    "totalCorners": 302,
-    "totalProjected": 328,
-    "totalCrosses": 999,
-    "totalShotsBox": 396
+    "matches": 32,
+    "totalCorners": 311,
+    "totalProjected": 338,
+    "totalCrosses": 1044,
+    "totalShotsBox": 411
   },
   "Serie D - 16avos de final": {
     "matches": 86,
@@ -973,10 +973,10 @@
     "totalShotsBox": 748
   },
   "Liga Femenina de Fútbol": {
-    "matches": 50,
-    "totalCorners": 106,
-    "totalProjected": 126,
-    "totalCrosses": 868,
+    "matches": 51,
+    "totalCorners": 114,
+    "totalProjected": 135,
+    "totalCrosses": 924,
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub17": {
@@ -1015,18 +1015,18 @@
     "totalShotsBox": 65
   },
   "UEFA Champions League Clasificatorio - Primera Ronda": {
-    "matches": 110,
-    "totalCorners": 1119,
-    "totalProjected": 1203,
-    "totalCrosses": 4788,
-    "totalShotsBox": 1307
+    "matches": 111,
+    "totalCorners": 1133,
+    "totalProjected": 1218,
+    "totalCrosses": 4834,
+    "totalShotsBox": 1326
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 102,
-    "totalCorners": 889,
-    "totalProjected": 1039,
-    "totalCrosses": 5543,
-    "totalShotsBox": 1119
+    "matches": 103,
+    "totalCorners": 900,
+    "totalProjected": 1051,
+    "totalCrosses": 5642,
+    "totalShotsBox": 1133
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 12
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 24,
-    "totalCorners": 198,
-    "totalProjected": 218,
-    "totalCrosses": 590,
-    "totalShotsBox": 366
+    "matches": 25,
+    "totalCorners": 205,
+    "totalProjected": 225,
+    "totalCrosses": 615,
+    "totalShotsBox": 385
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 16,
@@ -1225,10 +1225,17 @@
     "totalShotsBox": 27
   },
   "Kazakhstan Cup": {
-    "matches": 2,
-    "totalCorners": 24,
-    "totalProjected": 26,
-    "totalCrosses": 92,
-    "totalShotsBox": 6
+    "matches": 3,
+    "totalCorners": 36,
+    "totalProjected": 39,
+    "totalCrosses": 138,
+    "totalShotsBox": 9
+  },
+  "Copa Rio - Octavos de final": {
+    "matches": 5,
+    "totalCorners": 34,
+    "totalProjected": 38,
+    "totalCrosses": 230,
+    "totalShotsBox": 51
   }
 }
