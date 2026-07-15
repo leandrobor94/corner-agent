@@ -135,6 +135,10 @@ function analyzeMatch(match, stats, minute) {
   return {
     match: `${match.homeTeam} vs ${match.awayTeam}`,
     league: match.league,
+    gameId: match.gameId,
+    homeId: match.homeId,
+    awayId: match.awayId,
+    date: match.date || new Date().toISOString().slice(0, 10),
     minute,
     score: `${match.scoreHome}-${match.scoreAway}`,
     dataQuality,

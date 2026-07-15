@@ -48,11 +48,11 @@ function storePrediction(result) {
   const key = `${result.match}_${result.minute}`;
   const existing = predictions.find(p => p.key === key);
   if (existing) {
-    Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
+    Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
     savePredictions(predictions);
     return;
   }
-  predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
+  predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
   savePredictions(predictions);
 }
 

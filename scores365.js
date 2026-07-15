@@ -19,6 +19,7 @@ function sanitizeLeague(league) {
 async function fetchTodayMatches(onlyLive = true) {
   const today = new Date();
   const dateStr = `${String(today.getDate()).padStart(2, '0')}/${String(today.getMonth() + 1).padStart(2, '0')}/${today.getFullYear()}`;
+  const isoDate = today.toISOString().slice(0, 10);
   let body;
   try {
     const liveParam = onlyLive ? '&onlyLiveGames=true' : '';
@@ -40,6 +41,7 @@ async function fetchTodayMatches(onlyLive = true) {
     hasStats: g.hasStats,
     statusGroup: g.statusGroup,
     statusText: g.statusText,
+    date: isoDate,
   }));
 }
 
@@ -54,6 +56,8 @@ async function fetchFinishedToday() {
 }
 
 async function fetchFinishedForDate(dateStr) {
+  const parts = dateStr.split('/');
+  const isoDate = `${parts[2]}-${parts[1]}-${parts[0]}`;
   let body;
   try {
     body = await fetch(`${API_BASE}/game/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4`);
@@ -77,6 +81,7 @@ async function fetchFinishedForDate(dateStr) {
       hasStats: g.hasStats,
       statusGroup: g.statusGroup,
       statusText: g.statusText,
+      date: isoDate,
     }));
 }
 
