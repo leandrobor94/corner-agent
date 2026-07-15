@@ -53,6 +53,44 @@ async function fetchFinishedToday() {
   return all.filter(g => g.statusGroup === 4 || g.statusText === 'Finalizado');
 }
 
+async function fetchFinishedForDate(dateStr) {
+  let body;
+  try {
+    body = await fetch(`${API_BASE}/game/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4`);
+  } catch { return []; }
+  const j = JSON.parse(body);
+  if (!j.games) return [];
+  return j.games
+    .filter(g => g.statusGroup === 4 || g.statusText === 'Finalizado')
+    .map(g => ({
+      gameId: g.id,
+      homeTeam: g.homeCompetitor?.name || '?',
+      awayTeam: g.awayCompetitor?.name || '?',
+      homeId: g.homeCompetitor?.id,
+      awayId: g.awayCompetitor?.id,
+      scoreHome: g.homeCompetitor?.score ?? 0,
+      scoreAway: g.awayCompetitor?.score ?? 0,
+      minute: 90,
+      league: sanitizeLeague(g.competitionDisplayName || ''),
+      competitionId: g.competitionId,
+      hasStats: g.hasStats,
+      statusGroup: g.statusGroup,
+      statusText: g.statusText,
+    }));
+}
+
+async function fetchFinishedLast7Days() {
+  const all = [];
+  for (let i = 0; i <= 6; i++) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    const dateStr = `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}/${d.getFullYear()}`;
+    const matches = await fetchFinishedForDate(dateStr);
+    all.push(...matches);
+  }
+  return all;
+}
+
 async function fetchMatchStats(gameId, homeId, awayId) {
   let body;
   try {
@@ -124,4 +162,4 @@ async function fetchMatchStats(gameId, homeId, awayId) {
   return stats;
 }
 
-module.exports = { fetchLiveMatches, fetchFinishedToday, fetchMatchStats };
+module.exports = { fetchLiveMatches, fetchFinishedToday, fetchFinishedForDate, fetchFinishedLast7Days, fetchMatchStats };

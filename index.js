@@ -1,4 +1,4 @@
-const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
+const { fetchLiveMatches, fetchFinishedToday, fetchFinishedLast7Days, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
 const { sendTelegram, buildMessage, buildCompactBatch } = require('./notify');
 const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData } = require('./learn');
@@ -86,9 +86,10 @@ async function runLoop() {
 
   await analyzeMatchList(live);
 
-  // Verify past predictions against finished matches
+  // Verify past predictions against finished matches (last 7 days to catch any unverified)
   const finished = await fetchFinishedToday();
-  const allEnded = [...live.filter(m => m.minute >= 90), ...finished.map(m => ({ ...m, minute: 90 }))];
+  const finishedOld = await fetchFinishedLast7Days();
+  const allEnded = [...live.filter(m => m.minute >= 90), ...finished.map(m => ({ ...m, minute: 90 })), ...finishedOld];
   const verified = await verifyPredictions(allEnded, async (gameId, homeId, awayId) => {
     const stats = await fetchMatchStats(gameId, homeId, awayId);
     return stats ? stats : null;
@@ -131,8 +132,9 @@ async function runCatchup() {
     console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
   }
 
-  // Verificar predicciones previas contra estos finalizados
-  const verified = await verifyPredictions(finished.map(m => ({ ...m, minute: 90 })), async (gameId, homeId, awayId) => {
+  // Verificar predicciones previas contra los últimos 7 días
+  const finishedOld = await fetchFinishedLast7Days();
+  const verified = await verifyPredictions([...finished.map(m => ({ ...m, minute: 90 })), ...finishedOld], async (gameId, homeId, awayId) => {
     const stats = await fetchMatchStats(gameId, homeId, awayId);
     return stats ? stats : null;
   });
