@@ -111,8 +111,7 @@ function analyzeMatch(match, stats, minute) {
     for (const line of CONFIG.TEAM_LINES) {
       if (line <= t.current || t.projected <= line) continue;
       const prob = poissonOver(t.projected, line);
-      const quota = 100 / prob;
-      if (prob >= CONFIG.MIN_CONFIDENCE && quota >= CONFIG.MIN_QUOTA) {
+      if (prob >= CONFIG.MIN_CONFIDENCE) {
         teamAlerts.push({
           team: t.name, line, prob,
           current: t.current, projected: t.projected, side: t.side,
@@ -126,8 +125,7 @@ function analyzeMatch(match, stats, minute) {
   for (const line of CONFIG.TOTAL_LINES) {
     if (line <= totalCorners || projectedTotal <= line) continue;
     const prob = poissonOver(projectedTotal, line);
-    const quota = 100 / prob;
-    if (prob >= CONFIG.MIN_CONFIDENCE && quota >= CONFIG.MIN_QUOTA) {
+    if (prob >= CONFIG.MIN_CONFIDENCE) {
       totalAlerts.push({ line, prob, current: totalCorners, projected: projectedTotal });
     }
   }
