@@ -35,11 +35,11 @@
     "totalShotsBox": 2009
   },
   "Segunda división": {
-    "matches": 325,
-    "totalCorners": "0[object Object][object Object]712121212121313131313881381381385551214121416217162171214162177878787878997897897891781781787777111111111111888881001081001081001081919100108191001081910010819100108191001081910010819100108191001081946101346101381046101381046101381046101381046101381046101381046101381046101381046101381010101010393939393939393916691416691416691416691416691416691416691416691412241512241516691412241516691412241516691412241516691412241516691412241592929292929213921392139213921392139277777715151515",
-    "totalProjected": 3519,
-    "totalCrosses": 17771,
-    "totalShotsBox": 4402
+    "matches": 326,
+    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555121412141621716217121416217787878787899789789789178178178777711111111111188888100108100108100108191910010819100108191001081910010819100108191001081910010819100108194610134610138104610138104610138104610138104610138104610138104610138104610138104610138101010101039393939393939391669141669141669141669141669141669141669141669141224151224151669141224151669141224151669141224151669141224151669141224159292929292921392139213921392139213927777771515151515",
+    "totalProjected": 3535,
+    "totalCrosses": 17819,
+    "totalShotsBox": 4417
   },
   "Superettan": {
     "matches": 132,
@@ -189,7 +189,7 @@
     "totalShotsBox": 0
   },
   "Division 1": {
-    "matches": 320,
+    "matches": 326,
     "totalCorners": 1380,
     "totalProjected": 1619,
     "totalCrosses": 6230,
@@ -217,11 +217,11 @@
     "totalShotsBox": 222
   },
   "Inkasso": {
-    "matches": 147,
-    "totalCorners": 1643,
-    "totalProjected": 1927,
-    "totalCrosses": 5350,
-    "totalShotsBox": 1811
+    "matches": 148,
+    "totalCorners": 1652,
+    "totalProjected": 1937,
+    "totalCrosses": 5386,
+    "totalShotsBox": 1823
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 136,
@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 133,
-    "totalCorners": 1211,
-    "totalProjected": 1459,
-    "totalCrosses": 11611520,
-    "totalShotsBox": 1234
+    "matches": 139,
+    "totalCorners": 1268,
+    "totalProjected": 1520,
+    "totalCrosses": 11611916,
+    "totalShotsBox": 1292
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 5214,
-    "totalCorners": 41618,
-    "totalProjected": 47254,
-    "totalCrosses": 165664,
+    "matches": 5234,
+    "totalCorners": 41773,
+    "totalProjected": 47423,
+    "totalCrosses": 166455,
     "totalShotsBox": 2099
   },
   "National": {
@@ -840,10 +840,10 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 46,
-    "totalCorners": 323,
-    "totalProjected": 358,
-    "totalCrosses": 1855,
+    "matches": 47,
+    "totalCorners": 329,
+    "totalProjected": 365,
+    "totalCrosses": 1890,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -910,11 +910,11 @@
     "totalShotsBox": 0
   },
   "Serie B": {
-    "matches": 32,
-    "totalCorners": 259,
-    "totalProjected": 279,
-    "totalCrosses": 1430,
-    "totalShotsBox": 233
+    "matches": 34,
+    "totalCorners": 276,
+    "totalProjected": 299,
+    "totalCrosses": 1520,
+    "totalShotsBox": 248
   },
   "Copa Estonia - Primera Ronda": {
     "matches": 5,
@@ -973,10 +973,10 @@
     "totalShotsBox": 748
   },
   "Liga Femenina de Fútbol": {
-    "matches": 65,
-    "totalCorners": 196,
-    "totalProjected": 222,
-    "totalCrosses": 1426,
+    "matches": 67,
+    "totalCorners": 211,
+    "totalProjected": 238,
+    "totalCrosses": 1513,
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub17": {
@@ -1022,11 +1022,11 @@
     "totalShotsBox": 1546
   },
   "UEFA Conference League - 1ra ronda de clasificación": {
-    "matches": 201,
-    "totalCorners": 1808,
-    "totalProjected": 2041,
-    "totalCrosses": 11157,
-    "totalShotsBox": 2272
+    "matches": 224,
+    "totalCorners": 2023,
+    "totalProjected": 2277,
+    "totalCrosses": 12512,
+    "totalShotsBox": 2538
   },
   "Euro Sub19 - World Cup U20": {
     "matches": 6,
@@ -1050,11 +1050,11 @@
     "totalShotsBox": 0
   },
   "Brasileirao Sub20 - Cuartos de Final": {
-    "matches": 26,
-    "totalCorners": 320,
-    "totalProjected": 341,
-    "totalCrosses": 535,
-    "totalShotsBox": 63
+    "matches": 27,
+    "totalCorners": 328,
+    "totalProjected": 350,
+    "totalCrosses": 571,
+    "totalShotsBox": 74
   },
   "Campeonato Canadiense - Cuartos de Final": {
     "matches": 5,
@@ -1071,11 +1071,11 @@
     "totalShotsBox": 28
   },
   "UEFA Europa League Clasificatorio - Primera Ronda": {
-    "matches": 38,
-    "totalCorners": 408,
-    "totalProjected": 454,
-    "totalCrosses": 1807,
-    "totalShotsBox": 468
+    "matches": 44,
+    "totalCorners": 476,
+    "totalProjected": 525,
+    "totalCrosses": 2098,
+    "totalShotsBox": 540
   },
   "Copa de la Liga - Octavos de final": {
     "matches": 21,
@@ -1099,11 +1099,11 @@
     "totalShotsBox": 72
   },
   "Eliteserien": {
-    "matches": 65,
-    "totalCorners": 678,
-    "totalProjected": 777,
-    "totalCrosses": 2273,
-    "totalShotsBox": 1204
+    "matches": 66,
+    "totalCorners": 693,
+    "totalProjected": 793,
+    "totalCrosses": 2309,
+    "totalShotsBox": 1225
   },
   "Russian First League - Regular": {
     "matches": 70,
@@ -1134,18 +1134,18 @@
     "totalShotsBox": 84
   },
   "División": {
-    "matches": 15,
-    "totalCorners": 146,
-    "totalProjected": 138,
-    "totalCrosses": 466,
-    "totalShotsBox": 202
+    "matches": 16,
+    "totalCorners": 150,
+    "totalProjected": 143,
+    "totalCrosses": 483,
+    "totalShotsBox": 213
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 31,
-    "totalCorners": 320,
-    "totalProjected": 353,
-    "totalCrosses": 808,
-    "totalShotsBox": 34
+    "matches": 33,
+    "totalCorners": 338,
+    "totalProjected": 372,
+    "totalCrosses": 925,
+    "totalShotsBox": 45
   },
   "Supercopa rumana - Final": {
     "matches": 5,
@@ -1211,10 +1211,10 @@
     "totalShotsBox": 461
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 25,
-    "totalCorners": 198,
-    "totalProjected": 190,
-    "totalCrosses": 660,
+    "matches": 26,
+    "totalCorners": 203,
+    "totalProjected": 196,
+    "totalCrosses": 719,
     "totalShotsBox": 0
   },
   "Mundial -": {
@@ -1232,38 +1232,38 @@
     "totalShotsBox": 21
   },
   "Copa Rio - Octavos de final": {
-    "matches": 32,
-    "totalCorners": 232,
-    "totalProjected": 256,
-    "totalCrosses": 1497,
-    "totalShotsBox": 326
+    "matches": 33,
+    "totalCorners": 244,
+    "totalProjected": 268,
+    "totalCrosses": 1550,
+    "totalShotsBox": 335
   },
   "Super Liga de Uzbekistán": {
-    "matches": 24,
-    "totalCorners": 200,
-    "totalProjected": 222,
-    "totalCrosses": 812,
-    "totalShotsBox": 227
+    "matches": 27,
+    "totalCorners": 225,
+    "totalProjected": 249,
+    "totalCrosses": 936,
+    "totalShotsBox": 261
   },
   "Liga MX Sub21 -": {
-    "matches": 8,
-    "totalCorners": 104,
-    "totalProjected": 123,
-    "totalCrosses": 88,
-    "totalShotsBox": 60
+    "matches": 9,
+    "totalCorners": 117,
+    "totalProjected": 138,
+    "totalCrosses": 102,
+    "totalShotsBox": 69
   },
   "Super Cup - Final": {
-    "matches": 7,
-    "totalCorners": 61,
-    "totalProjected": 68,
-    "totalCrosses": 180,
-    "totalShotsBox": 135
+    "matches": 9,
+    "totalCorners": 78,
+    "totalProjected": 87,
+    "totalCrosses": 232,
+    "totalShotsBox": 172
   },
   "Liga MX Sub19 -": {
-    "matches": 4,
-    "totalCorners": 25,
-    "totalProjected": 29,
-    "totalCrosses": 50,
+    "matches": 6,
+    "totalCorners": 38,
+    "totalProjected": 44,
+    "totalCrosses": 74,
     "totalShotsBox": 0
   }
 }
