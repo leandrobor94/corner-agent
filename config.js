@@ -1,9 +1,9 @@
 const CONFIG = {
   API_PARAMS: 'appTypeId=5&langId=14&timezoneName=America/Bogota&userCountryId=109',
 
-  MIN_MINUTE: 40,
+  MIN_MINUTE: 50,
   MAX_MINUTE: 85,
-  MIN_CONFIDENCE: 66,
+  MIN_CONFIDENCE: 70,
   MAX_LOOPS: 4,
   LOOP_DELAY: 720000,  // 12 min (igual que sistema de goles)
 
@@ -29,6 +29,7 @@ const CONFIG = {
   POS_FACTOR_CAP: 1.25,               // ya no se usa (posesion duplicada en stats)
   POSSESSION_IMBALANCE_THRESHOLD: 1.3, // si ratio > este, usa solo baseRate
   MAX_TEAM_CORNERS: 12,                // techo de seguridad por equipo
+  MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)
 
   NEED_GOAL_BOOST: 1.25,
   WINNING_REDUCTION: 0.80,

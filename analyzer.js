@@ -100,7 +100,7 @@ function analyzeMatch(match, stats, minute) {
 
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
   const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
-  const projectedTotal = homeProjected + awayProjected;
+  const projectedTotal = Math.min(homeProjected + awayProjected, CONFIG.MAX_PROJECTED_TOTAL);
 
   const teamAlerts = [];
   for (const t of [
