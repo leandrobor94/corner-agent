@@ -140,11 +140,11 @@
     "totalShotsBox": 2469
   },
   "Ykkosliiga": {
-    "matches": 133,
-    "totalCorners": 1287,
-    "totalProjected": 1471,
-    "totalCrosses": 5617,
-    "totalShotsBox": 1301
+    "matches": 135,
+    "totalCorners": 1323,
+    "totalProjected": 1499,
+    "totalCrosses": 5724,
+    "totalShotsBox": 1315
   },
   "A Lyga": {
     "matches": 128,
@@ -238,11 +238,11 @@
     "totalShotsBox": 1135
   },
   "League One": {
-    "matches": 318,
-    "totalCorners": 3106,
-    "totalProjected": 3601,
-    "totalCrosses": 9861,
-    "totalShotsBox": 4571
+    "matches": 322,
+    "totalCorners": 3148,
+    "totalProjected": 3648,
+    "totalCrosses": 10021,
+    "totalShotsBox": 4620
   },
   "Meistriliiga": {
     "matches": 155,
@@ -637,17 +637,17 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 5319,
-    "totalCorners": 42332,
-    "totalProjected": 48036,
-    "totalCrosses": 168906,
-    "totalShotsBox": 2129
+    "matches": 5356,
+    "totalCorners": 42590,
+    "totalProjected": 48310,
+    "totalCrosses": 170001,
+    "totalShotsBox": 2139
   },
   "National": {
-    "matches": 121,
-    "totalCorners": 1163,
-    "totalProjected": 1318,
-    "totalCrosses": 5001,
+    "matches": 122,
+    "totalCorners": 1173,
+    "totalProjected": 1329,
+    "totalCrosses": 5040,
     "totalShotsBox": 120
   },
   "Chinese FA Cup - 16avos de final": {
@@ -672,7 +672,7 @@
     "totalShotsBox": 2659
   },
   "Supreme Division Women": {
-    "matches": 136,
+    "matches": 137,
     "totalCorners": 147,
     "totalProjected": 175,
     "totalCrosses": 0,
@@ -777,11 +777,11 @@
     "totalShotsBox": 227
   },
   "Superliga": {
-    "matches": 196,
-    "totalCorners": 2036,
-    "totalProjected": 2281,
-    "totalCrosses": 7838,
-    "totalShotsBox": 3449
+    "matches": 200,
+    "totalCorners": 2071,
+    "totalProjected": 2322,
+    "totalCrosses": 7974,
+    "totalShotsBox": 3521
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -826,7 +826,7 @@
     "totalShotsBox": 218
   },
   "APF Primera C": {
-    "matches": 47,
+    "matches": 48,
     "totalCorners": 308,
     "totalProjected": 350,
     "totalCrosses": 2121,
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 224
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 36,
-    "totalCorners": 364,
-    "totalProjected": 401,
-    "totalCrosses": 1106,
-    "totalShotsBox": 66
+    "matches": 37,
+    "totalCorners": 372,
+    "totalProjected": 411,
+    "totalCrosses": 1170,
+    "totalShotsBox": 76
   },
   "Supercopa rumana - Final": {
     "matches": 5,
@@ -1239,18 +1239,18 @@
     "totalShotsBox": 344
   },
   "Super Liga de Uzbekistán": {
-    "matches": 31,
-    "totalCorners": 262,
-    "totalProjected": 289,
-    "totalCrosses": 1095,
-    "totalShotsBox": 311
+    "matches": 34,
+    "totalCorners": 286,
+    "totalProjected": 316,
+    "totalCrosses": 1248,
+    "totalShotsBox": 346
   },
   "Liga MX Sub21 -": {
-    "matches": 10,
-    "totalCorners": 130,
-    "totalProjected": 152,
-    "totalCrosses": 116,
-    "totalShotsBox": 78
+    "matches": 13,
+    "totalCorners": 148,
+    "totalProjected": 173,
+    "totalCrosses": 220,
+    "totalShotsBox": 102
   },
   "Super Cup - Final": {
     "matches": 11,
@@ -1265,5 +1265,19 @@
     "totalProjected": 59,
     "totalCrosses": 98,
     "totalShotsBox": 0
+  },
+  "Liga1": {
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 5,
+    "totalCrosses": 36,
+    "totalShotsBox": 26
+  },
+  "Liga eslovena - Regular": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 11,
+    "totalCrosses": 38,
+    "totalShotsBox": 14
   }
 }
