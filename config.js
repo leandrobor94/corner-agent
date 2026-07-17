@@ -1,7 +1,7 @@
 const CONFIG = {
   API_PARAMS: 'appTypeId=5&langId=14&timezoneName=America/Bogota&userCountryId=109',
 
-  MIN_MINUTE: 50,
+  MIN_MINUTE: 55,
   MAX_MINUTE: 85,
   MIN_CONFIDENCE: 70,
   MAX_LOOPS: 4,
@@ -13,7 +13,7 @@ const CONFIG = {
   HOUR_END: 22,
 
   TEAM_LINES: [3.5, 4.5, 5.5, 6.5, 7.5],
-  TOTAL_LINES: [8.5, 9.5, 10.5, 11.5, 12.5],
+  TOTAL_LINES: [8.5, 9.5, 10.5, 11.5],
 
   // Pesos basados en correlacion real con corners finales:
   // base rate (r=0.87), shots (r=0.30), crosses (r=0.20), attacks (r=0.17)
@@ -36,9 +36,9 @@ const CONFIG = {
 
   // Factores de correccion basados en datos reales
   HOME_BOOST: 1.05,                    // home teams generan 11% mas corners
-  LATE_GAME_DECAY_MIN: 75,             // a partir de este minuto, reducir proyeccion
+  LATE_GAME_DECAY_MIN: 68,             // a partir de este minuto, reducir proyeccion
   LATE_GAME_DECAY_FACTOR: 0.92,        // factor de reduccion en late game
-  MID_GAME_DECAY_MIN: 65,              // a partir de este minuto, reducir leve
+  MID_GAME_DECAY_MIN: 58,              // a partir de este minuto, reducir leve
   MID_GAME_DECAY_FACTOR: 0.96,         // factor de reduccion leve
   LOW_CORNERS_THRESHOLD: 3,            // si tiene <= corners en este minuto
   LOW_CORNERS_MIN: 45,                 // a partir de este minuto
