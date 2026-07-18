@@ -37,13 +37,13 @@ async function analyzeMatchList(matches) {
     storePrediction(result);
     const sentKeys = getAlertsSent(result.match, result.minute);
 
-    for (const a of result.teamAlerts) {
-      const k = `${a.team}_O${a.line}`;
-      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
-    }
-    for (const a of result.totalAlerts) {
-      const k = `Total_O${a.line}`;
-      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
+    // Solo 1 alerta por partido: la de mayor probabilidad (team o total)
+    const allAlerts = [...result.teamAlerts.map(a => ({ alert: a, result, key: `${a.team}_O${a.line}` })),
+                       ...result.totalAlerts.map(a => ({ alert: a, result, key: `Total_O${a.line}` }))];
+    const newAlerts = allAlerts.filter(a => !sentKeys.includes(a.key));
+    if (newAlerts.length > 0) {
+      const best = newAlerts.sort((a, b) => b.alert.prob - a.alert.prob)[0];
+      allPendingAlerts.push(best);
     }
 
     const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';
