@@ -69,22 +69,11 @@ async function analyzeMatchList(matches) {
     }
   }
 
-  // Si todavía hay demasiadas, excluir ligas sin mercado de corners
-  if (alertsToSend.length > CONFIG.LEAGUE_FILTER_THRESHOLD) {
+  // Tope final: si aún quedan demasiadas, quedarse solo con las top por probabilidad
+  if (alertsToSend.length > CONFIG.MAX_ALERTS_FINAL) {
     const before = alertsToSend.length;
-    alertsToSend = alertsToSend.filter(a => {
-      const league = a.result.league || '';
-      return !CONFIG.EXCLUDED_LEAGUE_PATTERNS.some(re => re.test(league));
-    });
-    if (alertsToSend.length < before) {
-      console.log(`  Filtrado: ${before} -> ${alertsToSend.length} (excluidas ligas sin mercado)`);
-    }
-    if (alertsToSend.length === 0) {
-      // Si todas eran de ligas oscuras, volver a las originales (mejor algo que nada)
-      alertsToSend = allPendingAlerts.filter(a => a.alert.prob >= 80);
-      if (alertsToSend.length === 0) alertsToSend = allPendingAlerts;
-      console.log(`  Sin alertas de ligas conocidas - enviando top ${alertsToSend.length} igual`);
-    }
+    alertsToSend = alertsToSend.slice(0, CONFIG.MAX_ALERTS_FINAL);
+    console.log(`  Tope final: ${before} -> ${alertsToSend.length} (top ${CONFIG.MAX_ALERTS_FINAL} por probabilidad)`);
   }
 
   console.log(`  Alertas pendientes: ${allPendingAlerts.length} | Enviando: ${alertsToSend.length}`);
