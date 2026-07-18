@@ -68,15 +68,8 @@ async function analyzeMatchList(matches) {
   // Mejor prob de cada partido
   const matchGroups = [...byMatch.values()].sort((a, b) => b[0].alert.prob - a[0].alert.prob);
 
-  // Filtrar por # de partidos con alertas
+  // Tope top partidos (todas ya vienen con prob >= MIN_CONFIDENCE)
   let groupsToSend = matchGroups;
-  if (matchGroups.length > 5) {
-    const highConf = matchGroups.filter(g => g[0].alert.prob >= 80);
-    if (highConf.length > 0) {
-      groupsToSend = highConf;
-      console.log(`  Filtrado: ${matchGroups.length} -> ${groupsToSend.length} partidos (solo prob >= 80%)`);
-    }
-  }
   if (groupsToSend.length > CONFIG.MAX_ALERTS_FINAL) {
     const before = groupsToSend.length;
     groupsToSend = groupsToSend.slice(0, CONFIG.MAX_ALERTS_FINAL);
