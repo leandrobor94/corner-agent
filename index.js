@@ -59,18 +59,28 @@ async function analyzeMatchList(matches) {
   // Ordenar de mayor a menor probabilidad
   allPendingAlerts.sort((a, b) => b.alert.prob - a.alert.prob);
 
-  console.log(`  Alertas pendientes: ${allPendingAlerts.length}`);
+  // Si hay más de 5 alertas, filtrar solo las de prob >= 80% (calidad sobre cantidad)
+  let alertsToSend = allPendingAlerts;
+  if (allPendingAlerts.length > 5) {
+    const highConf = allPendingAlerts.filter(a => a.alert.prob >= 80);
+    if (highConf.length > 0) {
+      alertsToSend = highConf;
+      console.log(`  Filtrado: ${allPendingAlerts.length} -> ${alertsToSend.length} (solo prob >= 80%)`);
+    }
+  }
 
-  // Enviar todas las alertas en un solo mensaje, ordenadas por probabilidad
-  const msg = buildCompactBatch(allPendingAlerts);
+  console.log(`  Alertas pendientes: ${allPendingAlerts.length} | Enviando: ${alertsToSend.length}`);
+
+  // Enviar alertas en un solo mensaje, ordenadas por probabilidad
+  const msg = buildCompactBatch(alertsToSend);
   if (msg) {
     await sendTelegram(msg);
-    // Marcar todas como enviadas
-    for (const item of allPendingAlerts) {
+    // Marcar las enviadas como enviadas
+    for (const item of alertsToSend) {
       const alertKey = item.alert.team ? `${item.alert.team}_O${item.alert.line}` : `Total_O${item.alert.line}`;
       markAlertsSent(item.result.match, item.result.minute, [alertKey]);
     }
-    console.log(`  ✅ ${allPendingAlerts.length} alerta(s) enviada(s) — mayor prob: ${allPendingAlerts[0].alert.prob}%`);
+    console.log(`  ✅ ${alertsToSend.length} alerta(s) enviada(s) — mayor prob: ${alertsToSend[0].alert.prob}%`);
   }
 
   return allPendingAlerts.length;
