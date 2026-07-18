@@ -46,6 +46,31 @@ const CONFIG = {
   HIGH_CORNERS_THRESHOLD: 8,           // si tiene >= corners
   HIGH_CORNERS_DECAY: 0.88,            // factor de reduccion
 
+  // Ligas sin mercado de corners (se excluyen si >10 alertas tras filtro 80%)
+  // Patrones regex (case-insensitive) contra el nombre de la liga
+  EXCLUDED_LEAGUE_PATTERNS: [
+    /reserva/i,
+    /sub\s*1[789]/i,
+    /sub\s*20/i,
+    /sub\s*21/i,
+    /femenino/i,
+    /women/i,
+    /karla/i,
+    /damalls/i,
+    /tercera\s*divisi/i,
+    /serie\s*d\b/i,
+    /primera\s*[cd]\b/i,
+    /primera\s*divisi/i,
+    /amistoso/i,
+    /partido/i,
+    /euro\s*sub/i,
+    /copa\s*sim/i,
+    /promocional/i,
+  ],
+
+  // Umbral para activar filtro por liga
+  LEAGUE_FILTER_THRESHOLD: 10,
+
   BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || process.env.BOT_TOKEN || '8607347601:AAGRFH6FCTu9A46qb0Z4inECctY8XE3W-dg',
   CHAT_ID: process.env.TELEGRAM_CHAT_ID || process.env.CHAT_ID || '1226618551',
 };
