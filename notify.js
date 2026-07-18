@@ -50,21 +50,44 @@ function buildMessage(result) {
 }
 
 /**
- * Mensaje compacto: todas las alertas del ciclo en un solo mensaje, formato corto.
+ * Mensaje compacto: alertas agrupadas por partido para revisión rápida.
  */
 function buildCompactBatch(alertList) {
   if (alertList.length === 0) return '';
   if (alertList.length === 1) return buildMessage(alertList[0].result);
 
-  let msg = `<b>🔔 ${alertList.length} ALERTAS</b>\n`;
+  // Agrupar por partido preservando el orden (alertList ya viene ordenado por prob desc)
+  const matchOrder = [];
+  const byMatch = new Map();
+  for (const item of alertList) {
+    const key = item.result.match + '|' + item.result.minute + '|' + item.result.score;
+    if (!byMatch.has(key)) { byMatch.set(key, { result: item.result, alerts: [] }); matchOrder.push(key); }
+    byMatch.get(key).alerts.push(item.alert);
+  }
 
-  alertList.forEach((item, i) => {
-    const r = item.result;
-    const a = item.alert;
-    const lineLabel = a.team ? `${a.team} O${a.line}` : `O${a.line}`;
+  // Contar partidos y alertas para el header
+  const matchCount = matchOrder.length;
+  let msg = `<b>🔔 ${alertList.length} alertas en ${matchCount} partidos</b>\n`;
+
+  for (const key of matchOrder) {
+    const grp = byMatch.get(key);
+    const r = grp.result;
     msg += `\n<b>${r.match}</b>\n`;
-    msg += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | <b>${lineLabel} ${a.prob}%</b>\n`;
-  });
+    msg += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | ${r.league}\n`;
+    // Ordenar alertas: team primero, total después; por prob desc dentro de cada tipo
+    const teams = grp.alerts.filter(a => a.team).sort((a, b) => b.prob - a.prob);
+    const totals = grp.alerts.filter(a => !a.team).sort((a, b) => b.prob - a.prob);
+    if (teams.length > 0) {
+      msg += `🎯 Equipos: `;
+      msg += teams.map(a => `${a.team} O${a.line} (${a.prob}%)`).join(' | ');
+      msg += `\n`;
+    }
+    if (totals.length > 0) {
+      msg += `🎯 Esquinas: `;
+      msg += totals.map(a => `O${a.line} (${a.prob}%)`).join(' | ');
+      msg += `\n`;
+    }
+  }
 
   msg += `<i>🤖 corner-agent</i>`;
   return msg;

@@ -37,13 +37,13 @@ async function analyzeMatchList(matches) {
     storePrediction(result);
     const sentKeys = getAlertsSent(result.match, result.minute);
 
-    // Solo 1 alerta por partido: la de mayor probabilidad (team o total)
-    const allAlerts = [...result.teamAlerts.map(a => ({ alert: a, result, key: `${a.team}_O${a.line}` })),
-                       ...result.totalAlerts.map(a => ({ alert: a, result, key: `Total_O${a.line}` }))];
-    const newAlerts = allAlerts.filter(a => !sentKeys.includes(a.key));
-    if (newAlerts.length > 0) {
-      const best = newAlerts.sort((a, b) => b.alert.prob - a.alert.prob)[0];
-      allPendingAlerts.push(best);
+    for (const a of result.teamAlerts) {
+      const k = `${a.team}_O${a.line}`;
+      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
+    }
+    for (const a of result.totalAlerts) {
+      const k = `Total_O${a.line}`;
+      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
     }
 
     const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';
@@ -59,24 +59,32 @@ async function analyzeMatchList(matches) {
   // Ordenar de mayor a menor probabilidad
   allPendingAlerts.sort((a, b) => b.alert.prob - a.alert.prob);
 
-  // Si hay más de 5 alertas, filtrar solo las de prob >= 80% (calidad sobre cantidad)
-  let alertsToSend = allPendingAlerts;
-  if (allPendingAlerts.length > 5) {
-    const highConf = allPendingAlerts.filter(a => a.alert.prob >= 80);
+  // Agrupar por partido (match) para aplicar filtros por # de partidos, no # de alertas
+  const byMatch = new Map();
+  for (const item of allPendingAlerts) {
+    if (!byMatch.has(item.result.match)) byMatch.set(item.result.match, []);
+    byMatch.get(item.result.match).push(item);
+  }
+  // Mejor prob de cada partido
+  const matchGroups = [...byMatch.values()].sort((a, b) => b[0].alert.prob - a[0].alert.prob);
+
+  // Filtrar por # de partidos con alertas
+  let groupsToSend = matchGroups;
+  if (matchGroups.length > 5) {
+    const highConf = matchGroups.filter(g => g[0].alert.prob >= 80);
     if (highConf.length > 0) {
-      alertsToSend = highConf;
-      console.log(`  Filtrado: ${allPendingAlerts.length} -> ${alertsToSend.length} (solo prob >= 80%)`);
+      groupsToSend = highConf;
+      console.log(`  Filtrado: ${matchGroups.length} -> ${groupsToSend.length} partidos (solo prob >= 80%)`);
     }
   }
-
-  // Tope final: si aún quedan demasiadas, quedarse solo con las top por probabilidad
-  if (alertsToSend.length > CONFIG.MAX_ALERTS_FINAL) {
-    const before = alertsToSend.length;
-    alertsToSend = alertsToSend.slice(0, CONFIG.MAX_ALERTS_FINAL);
-    console.log(`  Tope final: ${before} -> ${alertsToSend.length} (top ${CONFIG.MAX_ALERTS_FINAL} por probabilidad)`);
+  if (groupsToSend.length > CONFIG.MAX_ALERTS_FINAL) {
+    const before = groupsToSend.length;
+    groupsToSend = groupsToSend.slice(0, CONFIG.MAX_ALERTS_FINAL);
+    console.log(`  Tope final: ${before} -> ${groupsToSend.length} partidos (top ${CONFIG.MAX_ALERTS_FINAL})`);
   }
 
-  console.log(`  Alertas pendientes: ${allPendingAlerts.length} | Enviando: ${alertsToSend.length}`);
+  const alertsToSend = groupsToSend.flat();
+  console.log(`  Partidos con alertas: ${matchGroups.length} | Enviando: ${groupsToSend.length} partidos (${alertsToSend.length} alertas)`);
 
   // Enviar alertas en un solo mensaje, ordenadas por probabilidad
   const msg = buildCompactBatch(alertsToSend);
