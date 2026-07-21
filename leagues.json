@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 144,
-    "totalCorners": "0[object Object][object Object]69898986813949868139411511511510101010111181611816731011816731081010101044104104101010910910968101068101058681010586810105868101058444104104104101467146714671467121212777777777746974697469746914",
-    "totalProjected": 1334,
-    "totalCrosses": 5567,
+    "matches": 145,
+    "totalCorners": "0[object Object][object Object]6989898681394986813941151151151010101011118161181673101181673108101010104410410410101091091096810106810105868101058681010586810105844410410410410146714671467146712121277777777774697469746974691414",
+    "totalProjected": 1348,
+    "totalCrosses": 5619,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -140,11 +140,11 @@
     "totalShotsBox": 2469
   },
   "Ykkosliiga": {
-    "matches": 165,
-    "totalCorners": 1703,
-    "totalProjected": 1854,
-    "totalCrosses": 6956,
-    "totalShotsBox": 1627
+    "matches": 166,
+    "totalCorners": 1718,
+    "totalProjected": 1868,
+    "totalCrosses": 7004,
+    "totalShotsBox": 1633
   },
   "A Lyga": {
     "matches": 154,
@@ -154,11 +154,11 @@
     "totalShotsBox": 2184
   },
   "I Lyga": {
-    "matches": 160,
-    "totalCorners": 1574,
-    "totalProjected": 1773,
-    "totalCrosses": 6294,
-    "totalShotsBox": 1519
+    "matches": 161,
+    "totalCorners": 1590,
+    "totalProjected": 1787,
+    "totalCrosses": 6341,
+    "totalShotsBox": 1529
   },
   "Damallsvenskan": {
     "matches": 111,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7290,
-    "totalCorners": 58048,
-    "totalProjected": 64588,
-    "totalCrosses": 237385,
-    "totalShotsBox": 3317
+    "matches": 7302,
+    "totalCorners": 58136,
+    "totalProjected": 64683,
+    "totalCrosses": 237697,
+    "totalShotsBox": 3329
   },
   "National": {
     "matches": 155,
@@ -938,11 +938,11 @@
     "totalShotsBox": 1731
   },
   "Primera división": {
-    "matches": 210,
-    "totalCorners": 1782,
-    "totalProjected": 2020,
-    "totalCrosses": 8627,
-    "totalShotsBox": 2745
+    "matches": 213,
+    "totalCorners": 1803,
+    "totalProjected": 2046,
+    "totalCrosses": 8772,
+    "totalShotsBox": 2783
   },
   "Super Liga": {
     "matches": 96,
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 438
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 51,
-    "totalCorners": 498,
-    "totalProjected": 558,
-    "totalCrosses": 2176,
-    "totalShotsBox": 243
+    "matches": 52,
+    "totalCorners": 504,
+    "totalProjected": 564,
+    "totalCrosses": 2251,
+    "totalShotsBox": 261
   },
   "Supercopa rumana - Final": {
     "matches": 5,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 76
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 40,
-    "totalCorners": 348,
-    "totalProjected": 376,
-    "totalCrosses": 1066,
-    "totalShotsBox": 634
+    "matches": 44,
+    "totalCorners": 391,
+    "totalProjected": 421,
+    "totalCrosses": 1198,
+    "totalShotsBox": 702
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 27,
@@ -1239,18 +1239,18 @@
     "totalShotsBox": 344
   },
   "Super Liga de Uzbekistán": {
-    "matches": 63,
-    "totalCorners": 498,
-    "totalProjected": 550,
-    "totalCrosses": 2762,
-    "totalShotsBox": 640
+    "matches": 66,
+    "totalCorners": 526,
+    "totalProjected": 581,
+    "totalCrosses": 2876,
+    "totalShotsBox": 675
   },
   "Liga MX Sub21 -": {
-    "matches": 42,
-    "totalCorners": 343,
-    "totalProjected": 397,
-    "totalCrosses": 1251,
-    "totalShotsBox": 355
+    "matches": 44,
+    "totalCorners": 359,
+    "totalProjected": 416,
+    "totalCrosses": 1335,
+    "totalShotsBox": 379
   },
   "Super Cup - Final": {
     "matches": 16,
@@ -1386,10 +1386,17 @@
     "totalShotsBox": 24
   },
   "Chinese FA Cup - Octavos de final": {
-    "matches": 9,
-    "totalCorners": 113,
-    "totalProjected": 97,
-    "totalCrosses": 447,
-    "totalShotsBox": 63
+    "matches": 18,
+    "totalCorners": 226,
+    "totalProjected": 194,
+    "totalCrosses": 894,
+    "totalShotsBox": 126
+  },
+  "UEFA Champions League Clasificatorio - Segunda Ronda": {
+    "matches": 4,
+    "totalCorners": 36,
+    "totalProjected": 39,
+    "totalCrosses": 218,
+    "totalShotsBox": 48
   }
 }
