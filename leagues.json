@@ -14,10 +14,10 @@
     "totalShotsBox": 68
   },
   "Tercera División -": {
-    "matches": 143,
-    "totalCorners": "0[object Object][object Object]698989868139498681394115115115101010101111816118167310118167310810101010441041041010109109109681010681010586810105868101058681010584441041041041014671467146714671212127777777777469746974697469",
-    "totalProjected": 1320,
-    "totalCrosses": 5515,
+    "matches": 144,
+    "totalCorners": "0[object Object][object Object]69898986813949868139411511511510101010111181611816731011816731081010101044104104101010910910968101068101058681010586810105868101058444104104104101467146714671467121212777777777746974697469746914",
+    "totalProjected": 1334,
+    "totalCrosses": 5567,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7284,
-    "totalCorners": 58001,
-    "totalProjected": 64541,
-    "totalCrosses": 237251,
+    "matches": 7290,
+    "totalCorners": 58048,
+    "totalProjected": 64588,
+    "totalCrosses": 237385,
     "totalShotsBox": 3317
   },
   "National": {
@@ -938,11 +938,11 @@
     "totalShotsBox": 1731
   },
   "Primera división": {
-    "matches": 207,
-    "totalCorners": 1761,
-    "totalProjected": 1994,
-    "totalCrosses": 8482,
-    "totalShotsBox": 2707
+    "matches": 210,
+    "totalCorners": 1782,
+    "totalProjected": 2020,
+    "totalCrosses": 8627,
+    "totalShotsBox": 2745
   },
   "Super Liga": {
     "matches": 96,
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 438
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 50,
-    "totalCorners": 492,
-    "totalProjected": 552,
-    "totalCrosses": 2101,
-    "totalShotsBox": 225
+    "matches": 51,
+    "totalCorners": 498,
+    "totalProjected": 558,
+    "totalCrosses": 2176,
+    "totalShotsBox": 243
   },
   "Supercopa rumana - Final": {
     "matches": 5,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 76
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 36,
-    "totalCorners": 305,
-    "totalProjected": 331,
-    "totalCrosses": 934,
-    "totalShotsBox": 566
+    "matches": 40,
+    "totalCorners": 348,
+    "totalProjected": 376,
+    "totalCrosses": 1066,
+    "totalShotsBox": 634
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 27,
@@ -1384,5 +1384,12 @@
     "totalProjected": 30,
     "totalCrosses": 135,
     "totalShotsBox": 24
+  },
+  "Chinese FA Cup - Octavos de final": {
+    "matches": 9,
+    "totalCorners": 113,
+    "totalProjected": 97,
+    "totalCrosses": 447,
+    "totalShotsBox": 63
   }
 }
