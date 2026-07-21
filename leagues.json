@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7282,
-    "totalCorners": 57990,
-    "totalProjected": 64528,
-    "totalCrosses": 237214,
+    "matches": 7284,
+    "totalCorners": 58001,
+    "totalProjected": 64541,
+    "totalCrosses": 237251,
     "totalShotsBox": 3317
   },
   "National": {
@@ -938,11 +938,11 @@
     "totalShotsBox": 1731
   },
   "Primera división": {
-    "matches": 204,
-    "totalCorners": 1740,
-    "totalProjected": 1968,
-    "totalCrosses": 8356,
-    "totalShotsBox": 2669
+    "matches": 207,
+    "totalCorners": 1761,
+    "totalProjected": 1994,
+    "totalCrosses": 8482,
+    "totalShotsBox": 2707
   },
   "Super Liga": {
     "matches": 96,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 76
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 30,
-    "totalCorners": 246,
-    "totalProjected": 267,
-    "totalCrosses": 755,
-    "totalShotsBox": 475
+    "matches": 36,
+    "totalCorners": 305,
+    "totalProjected": 331,
+    "totalCrosses": 934,
+    "totalShotsBox": 566
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 27,
