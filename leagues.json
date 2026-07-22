@@ -294,11 +294,11 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 229,
-    "totalCorners": 1718,
-    "totalProjected": 2039,
-    "totalCrosses": 11784,
-    "totalShotsBox": 1850
+    "matches": 230,
+    "totalCorners": 1724,
+    "totalProjected": 2045,
+    "totalCrosses": 11834,
+    "totalShotsBox": 1861
   },
   "Formuladeildin": {
     "matches": 114,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7534,
-    "totalCorners": 60113,
-    "totalProjected": 66803,
-    "totalCrosses": 246520,
-    "totalShotsBox": 3377
+    "matches": 7544,
+    "totalCorners": 60214,
+    "totalProjected": 66901,
+    "totalCrosses": 246989,
+    "totalShotsBox": 3386
   },
   "National": {
     "matches": 161,
@@ -840,10 +840,10 @@
     "totalShotsBox": 85
   },
   "Campeonato Anual FEM": {
-    "matches": 73,
-    "totalCorners": 607,
-    "totalProjected": 644,
-    "totalCrosses": 2990,
+    "matches": 74,
+    "totalCorners": 616,
+    "totalProjected": 653,
+    "totalCrosses": 3040,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -973,7 +973,7 @@
     "totalShotsBox": 748
   },
   "Liga Femenina de Fútbol": {
-    "matches": 109,
+    "matches": 110,
     "totalCorners": 506,
     "totalProjected": 514,
     "totalCrosses": 2477,
@@ -1239,11 +1239,11 @@
     "totalShotsBox": 344
   },
   "Super Liga de Uzbekistán": {
-    "matches": 78,
-    "totalCorners": 641,
-    "totalProjected": 708,
-    "totalCrosses": 3332,
-    "totalShotsBox": 815
+    "matches": 81,
+    "totalCorners": 674,
+    "totalProjected": 741,
+    "totalCrosses": 3480,
+    "totalShotsBox": 851
   },
   "Liga MX Sub21 -": {
     "matches": 52,
@@ -1351,9 +1351,9 @@
     "totalShotsBox": 2
   },
   "Amistosos (F)": {
-    "matches": 11,
-    "totalCorners": 1,
-    "totalProjected": 1,
+    "matches": 12,
+    "totalCorners": 16,
+    "totalProjected": 16,
     "totalCrosses": 7,
     "totalShotsBox": 0
   },
@@ -1386,7 +1386,7 @@
     "totalShotsBox": 42
   },
   "Chinese FA Cup - Octavos de final": {
-    "matches": 54,
+    "matches": 55,
     "totalCorners": 678,
     "totalProjected": 582,
     "totalCrosses": 2682,
@@ -1421,10 +1421,10 @@
     "totalShotsBox": 9
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 3,
-    "totalCorners": 27,
-    "totalProjected": 27,
-    "totalCrosses": 240,
-    "totalShotsBox": 36
+    "matches": 4,
+    "totalCorners": 40,
+    "totalProjected": 40,
+    "totalCrosses": 269,
+    "totalShotsBox": 50
   }
 }
