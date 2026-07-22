@@ -637,17 +637,17 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7522,
-    "totalCorners": 60030,
-    "totalProjected": 66720,
-    "totalCrosses": 246123,
+    "matches": 7524,
+    "totalCorners": 60041,
+    "totalProjected": 66731,
+    "totalCrosses": 246170,
     "totalShotsBox": 3377
   },
   "National": {
-    "matches": 155,
-    "totalCorners": 1447,
-    "totalProjected": 1608,
-    "totalCrosses": 6215,
+    "matches": 157,
+    "totalCorners": 1469,
+    "totalProjected": 1628,
+    "totalCrosses": 6288,
     "totalShotsBox": 120
   },
   "Chinese FA Cup - 16avos de final": {
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 76
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 60,
-    "totalCorners": 563,
-    "totalProjected": 601,
-    "totalCrosses": 1726,
-    "totalShotsBox": 974
+    "matches": 62,
+    "totalCorners": 578,
+    "totalProjected": 616,
+    "totalCrosses": 1791,
+    "totalShotsBox": 999
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 31,
@@ -1419,5 +1419,12 @@
     "totalProjected": 12,
     "totalCrosses": 39,
     "totalShotsBox": 9
+  },
+  "Liga de Campeones Femenina - Clasificación": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 80,
+    "totalShotsBox": 12
   }
 }
