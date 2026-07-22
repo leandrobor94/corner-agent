@@ -67,7 +67,15 @@ function minTotalLine(minute, current) {
     if (current >= 4) return 7.5;
     return 999;
   }
-  if (minute >= 60 && minute <= 85) {
+  if (minute >= 80 && minute <= 85) {
+    if (current >= 7) return 8.5;
+    return 999;
+  }
+  if (minute >= 70 && minute <= 80) {
+    if (current >= 6) return 8.5;
+    return 999;
+  }
+  if (minute >= 60 && minute <= 70) {
     if (current >= 5) return 8.5;
     return 999;
   }
