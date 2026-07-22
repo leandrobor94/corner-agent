@@ -637,17 +637,17 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7527,
-    "totalCorners": 60057,
-    "totalProjected": 66747,
-    "totalCrosses": 246259,
+    "matches": 7532,
+    "totalCorners": 60094,
+    "totalProjected": 66784,
+    "totalCrosses": 246423,
     "totalShotsBox": 3377
   },
   "National": {
-    "matches": 159,
-    "totalCorners": 1491,
-    "totalProjected": 1648,
-    "totalCrosses": 6361,
+    "matches": 161,
+    "totalCorners": 1513,
+    "totalProjected": 1668,
+    "totalCrosses": 6434,
     "totalShotsBox": 120
   },
   "Chinese FA Cup - 16avos de final": {
@@ -938,11 +938,11 @@
     "totalShotsBox": 1731
   },
   "Primera división": {
-    "matches": 228,
-    "totalCorners": 1917,
-    "totalProjected": 2180,
-    "totalCrosses": 9455,
-    "totalShotsBox": 2975
+    "matches": 231,
+    "totalCorners": 1947,
+    "totalProjected": 2210,
+    "totalCrosses": 9558,
+    "totalShotsBox": 3015
   },
   "Super Liga": {
     "matches": 96,
@@ -1204,11 +1204,11 @@
     "totalShotsBox": 76
   },
   "Australia Cup - Tercera Ronda": {
-    "matches": 65,
-    "totalCorners": 600,
-    "totalProjected": 638,
-    "totalCrosses": 1888,
-    "totalShotsBox": 1040
+    "matches": 68,
+    "totalCorners": 622,
+    "totalProjected": 660,
+    "totalCrosses": 1985,
+    "totalShotsBox": 1081
   },
   "Copa Paraguay - Segunda Fase": {
     "matches": 31,
@@ -1351,10 +1351,10 @@
     "totalShotsBox": 2
   },
   "Amistosos (F)": {
-    "matches": 10,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
+    "matches": 11,
+    "totalCorners": 1,
+    "totalProjected": 1,
+    "totalCrosses": 7,
     "totalShotsBox": 0
   },
   "Campeonato Femenino A -": {
@@ -1421,10 +1421,10 @@
     "totalShotsBox": 9
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 2,
-    "totalCorners": 18,
-    "totalProjected": 18,
-    "totalCrosses": 160,
-    "totalShotsBox": 24
+    "matches": 3,
+    "totalCorners": 27,
+    "totalProjected": 27,
+    "totalCrosses": 240,
+    "totalShotsBox": 36
   }
 }
