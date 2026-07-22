@@ -48,8 +48,9 @@ const CONFIG = {
 
   MAX_ALERTS_FINAL: 4,  // tope final: solo enviar las top 4 por probabilidad
 
-  BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || process.env.BOT_TOKEN || '8607347601:AAGRFH6FCTu9A46qb0Z4inECctY8XE3W-dg',
-  CHAT_ID: process.env.TELEGRAM_CHAT_ID || process.env.CHAT_ID || '1226618551',
+  // Seguridad: tokens SOLO por variables de entorno (nunca hardcodeados)
+  BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || process.env.BOT_TOKEN || null,
+  CHAT_ID: process.env.TELEGRAM_CHAT_ID || process.env.CHAT_ID || null,
 };
 
 module.exports = { CONFIG };
