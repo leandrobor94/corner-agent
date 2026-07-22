@@ -25,8 +25,7 @@ function sendTelegram(message) {
 
 function buildMessage(result) {
   let msg = `<b>🔔 ${result.match}</b>\n`;
-  const bracket = result.minute <= 59 ? '45-59' : result.minute <= 74 ? '60-74' : '75-85';
-  msg += `⏱ ${result.minute}' [${bracket}] | ${result.score} | 📊 ${result.corners.total} → ~${result.projected.total}\n`;
+  msg += `⏱ ${result.minute}' | ${result.score} | 📊 ${result.corners.total} → ~${result.projected.total}\n`;
 
   if (result.teamAlerts.length > 0) {
     const a = result.teamAlerts[0];
@@ -74,8 +73,7 @@ function buildCompactBatch(alertList) {
     const grp = byMatch.get(key);
     const r = grp.result;
     msg += `\n<b>${r.match}</b>\n`;
-    const bracket = r.minute <= 59 ? '45-59' : r.minute <= 74 ? '60-74' : '75-85';
-    msg += `${r.minute}' [${bracket}] | ${r.score} | ${r.corners.total}→~${r.projected.total} | ${r.league}\n`;
+    msg += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | ${r.league}\n`;
     // Ordenar alertas: team primero, total después; por prob desc dentro de cada tipo
     const teams = grp.alerts.filter(a => a.team).sort((a, b) => b.prob - a.prob);
     const totals = grp.alerts.filter(a => !a.team).sort((a, b) => b.prob - a.prob);

@@ -3,11 +3,13 @@ const { CONFIG } = require('./config');
 
 const API_BASE = 'https://webws.365scores.com/web';
 
-function fetch(url) {
+function fetch(url, timeoutMs = 15000) {
   return new Promise((ok, fail) => {
-    https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } }, res => {
+    const req = https.get(url, { headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' } }, res => {
       let d = ''; res.on('data', c => d += c); res.on('end', () => ok(d));
-    }).on('error', fail);
+    });
+    req.on('error', fail);
+    req.setTimeout(timeoutMs, () => { req.destroy(); fail(new Error('timeout')); });
   });
 }
 
@@ -25,9 +27,9 @@ async function fetchTodayMatches(onlyLive = true) {
     const liveParam = onlyLive ? '&onlyLiveGames=true' : '';
     body = await fetch(`${API_BASE}/games/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4${liveParam}`);
   } catch { return []; }
-  const j = JSON.parse(body);
-  if (!j.games) return [];
-  return j.games.map(g => ({
+  try { body = JSON.parse(body); } catch { return []; }
+  if (!body.games) return [];
+  return body.games.map(g => ({
     gameId: g.id,
     homeTeam: g.homeCompetitor?.name || '?',
     awayTeam: g.awayCompetitor?.name || '?',
@@ -102,7 +104,8 @@ async function fetchMatchStats(gameId, homeId, awayId) {
   try {
     body = await fetch(`${API_BASE}/game/stats/?${CONFIG.API_PARAMS}&games=${gameId}`);
   } catch { return null; }
-  const j = JSON.parse(body);
+  let j;
+  try { j = JSON.parse(body); } catch { return null; }
   if (!j.statistics || j.statistics.length === 0) return null;
 
   const stats = { home: {}, away: {}, raw: j.statistics };
@@ -168,4 +171,4 @@ async function fetchMatchStats(gameId, homeId, awayId) {
   return stats;
 }
 
-module.exports = { fetchLiveMatches, fetchFinishedToday, fetchFinishedForDate, fetchFinishedLast7Days, fetchMatchStats };
+module.exports = { fetchLiveMatches, fetchFinishedToday, fetchMatchStats };

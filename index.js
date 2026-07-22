@@ -1,7 +1,7 @@
 const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
 const { sendTelegram, buildMessage, buildCompactBatch } = require('./notify');
-const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData } = require('./learn');
+const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData, flushPredictions } = require('./learn');
 const { CONFIG } = require('./config');
 
 let loopCount = 0;
@@ -112,6 +112,7 @@ async function runLoop() {
     return stats ? stats : null;
   });
   if (verified > 0) printReport();
+  await flushPredictions();
 }
 
 async function runCatchup() {
@@ -155,6 +156,7 @@ async function runCatchup() {
     return stats ? stats : null;
   });
   if (verified > 0) printReport();
+  await flushPredictions();
   console.log(`  Catchup completado — aprendizaje y verificación`);
 }
 
@@ -164,6 +166,7 @@ async function main() {
   if (mode === '--catchup' || mode === 'catchup') {
     console.log('=== CORNER-AGENT — CATCHUP ===');
     await runCatchup();
+    await flushPredictions();
     await printReport();
     return;
   }
@@ -172,14 +175,18 @@ async function main() {
     console.log('=== CORNER-AGENT — ONCE ===');
     const live = await fetchLiveMatches();
     await analyzeMatchList(live);
+    await flushPredictions();
     return;
   }
 
   if (mode === '--ci' || mode === 'ci') {
     console.log('=== CORNER-AGENT — CI ===');
-    await runCatchup();
+    // Ejecutar catchup y live en paralelo para no bloquear alertas
+    const catchupPromise = runCatchup();
     const live = await fetchLiveMatches();
     await analyzeMatchList(live);
+    await catchupPromise; // esperar que termine catchup también
+    await flushPredictions();
     await printReport();
     await commitData();
     return;
@@ -216,6 +223,7 @@ async function main() {
   }
 
   console.log('\nCiclos completados. Finalizando.');
+  await flushPredictions();
 }
 
 main().catch(e => console.error('FATAL:', e));

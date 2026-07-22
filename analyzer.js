@@ -85,15 +85,35 @@ function minTotalLine(minute, current) {
 function analyzeMatch(match, stats, minute) {
   const home = stats.home, away = stats.away;
 
-  const hasActualCrosses = (home.crosses > 0 || away.crosses > 0);
-  const hasActualShotsBox = (home.shotsInsideBox > 0 || away.shotsInsideBox > 0);
-  const dataQuality = (hasActualCrosses && hasActualShotsBox) ? 'real' : 'estimated';
-
   enrichStats(stats);
 
   const homeCorners = home.corners || 0;
   const awayCorners = away.corners || 0;
   const totalCorners = homeCorners + awayCorners;
+
+  const hasActualCrosses = (home.crosses > 0 || away.crosses > 0);
+  const hasActualShotsBox = (home.shotsInsideBox > 0 || away.shotsInsideBox > 0);
+  const dataQuality = (hasActualCrosses && hasActualShotsBox) ? 'real' : 'estimated';
+
+  // Catchup/finished match: usar corners finales como proyección, no aplicar decay/boosts
+  if (minute >= 90) {
+    return {
+      match: `${match.homeTeam} vs ${match.awayTeam}`,
+      league: match.league, gameId: match.gameId, homeId: match.homeId, awayId: match.awayId,
+      date: match.date || new Date().toISOString().slice(0, 10), minute,
+      score: `${match.scoreHome}-${match.scoreAway}`, dataQuality,
+      corners: { home: homeCorners, away: awayCorners, total: totalCorners },
+      projected: { home: homeCorners, away: awayCorners, total: totalCorners },
+      stats: {
+        crosses: home.crosses + away.crosses,
+        shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
+        attacks: home.attacks + away.attacks,
+        possession: { home: home.possession, away: away.possession },
+        totalShots: (home.totalShots || 0) + (away.totalShots || 0),
+      },
+      teamAlerts: [], totalAlerts: [],
+    };
+  }
   const remaining = 90 - minute;
   const extraTime = minute >= 45 ? Math.max(1, Math.round(remaining * 0.08)) : 0;
   const minsLeft = (90 + extraTime) - minute;
@@ -117,34 +137,34 @@ function analyzeMatch(match, stats, minute) {
     const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
     const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
-    let blended = Math.round((
+    let blended = (
       baseProj * CONFIG.RATE_WEIGHT +
       (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
       (imbalanced ? baseProj : projFromShots) * CONFIG.SHOTS_BOX_WEIGHT +
       (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT
-    ) * needFactor);
+    ) * needFactor;
 
-    // Home boost: home teams generan ~11% mas corners
-    if (isHome) blended = Math.round(blended * CONFIG.HOME_BOOST);
+    // Home boost
+    if (isHome) blended *= CONFIG.HOME_BOOST;
 
-    // Late game decay: en minutos tardios, la proyeccion tiende a sobrestimar
+    // Decay factors
     if (minute >= CONFIG.LATE_GAME_DECAY_MIN) {
-      blended = Math.round(blended * CONFIG.LATE_GAME_DECAY_FACTOR);
+      blended *= CONFIG.LATE_GAME_DECAY_FACTOR;
     } else if (minute >= CONFIG.MID_GAME_DECAY_MIN) {
-      blended = Math.round(blended * CONFIG.MID_GAME_DECAY_FACTOR);
+      blended *= CONFIG.MID_GAME_DECAY_FACTOR;
     }
 
-    // Low corners penalty: si tiene pocos corners en el segundo tiempo, el partido esta lento
+    // Low corners penalty
     if (teamCurrent <= CONFIG.LOW_CORNERS_THRESHOLD && minute >= CONFIG.LOW_CORNERS_MIN) {
-      blended = Math.round(blended * CONFIG.LOW_CORNERS_PENALTY);
+      blended *= CONFIG.LOW_CORNERS_PENALTY;
     }
 
-    // High corners decay: si ya tiene muchos corners, la proyeccion no puede crecer indefinidamente
+    // High corners decay
     if (teamCurrent >= CONFIG.HIGH_CORNERS_THRESHOLD) {
-      blended = Math.round(blended * CONFIG.HIGH_CORNERS_DECAY);
+      blended *= CONFIG.HIGH_CORNERS_DECAY;
     }
 
-    return Math.min(Math.max(teamCurrent, blended), CONFIG.MAX_TEAM_CORNERS);
+    return Math.min(Math.max(teamCurrent, Math.round(blended)), CONFIG.MAX_TEAM_CORNERS);
   }
 
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);

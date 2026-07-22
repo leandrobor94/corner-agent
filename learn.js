@@ -11,15 +11,28 @@ function loadJSON(file, def) {
 }
 function saveJSON(file, data) { fs.writeFileSync(file, JSON.stringify(data, null, 2)); }
 
-function loadPredictions() { return loadJSON(PREDICTIONS_FILE, []); }
+// Cache en memoria para evitar leer/escribir predictions.json en cada operación
+let _predictionsCache = null;
+let _cacheDirty = false;
+
+function loadPredictions() {
+  if (_predictionsCache === null) _predictionsCache = loadJSON(PREDICTIONS_FILE, []);
+  return _predictionsCache;
+}
 function savePredictions(p) {
+  _predictionsCache = p || _predictionsCache;
+  _cacheDirty = true;
+}
+function flushPredictions() {
+  if (!_cacheDirty || _predictionsCache === null) return;
   const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
-  const filtered = p.filter(pred => {
+  const filtered = _predictionsCache.filter(pred => {
     if (pred.correct === null) return true;
     if (pred.timestamp) { const t = new Date(pred.timestamp).getTime(); if (t > cutoff) return true; }
     return false;
   });
   saveJSON(PREDICTIONS_FILE, filtered);
+  _cacheDirty = false;
 }
 function loadWeights() { return loadJSON(WEIGHTS_FILE, { version: 1, learningRate: 0.05, global: {}, byLeague: {}, stats: { predictionsCount: 0, correctCount: 0 } }); }
 function saveWeights(w) { w.lastUpdated = new Date().toISOString(); saveJSON(WEIGHTS_FILE, w); }
@@ -48,7 +61,13 @@ function storePrediction(result) {
   const key = `${result.match}_${result.minute}`;
   const existing = predictions.find(p => p.key === key);
   if (existing) {
-    Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null });
+    // No resetear correct/finalScore si ya fueron verificados
+    if (existing.correct === null) {
+      Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key });
+    } else {
+      // Solo actualizar datos que no borren la verificación
+      Object.assign(existing, { result, timestamp: new Date().toISOString(), projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts });
+    }
     savePredictions(predictions);
     return;
   }
@@ -171,4 +190,4 @@ function getFileSha(token, repo, file, branch) {
   });
 }
 
-module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData };
+module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData, flushPredictions };
