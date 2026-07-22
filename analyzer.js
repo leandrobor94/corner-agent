@@ -33,6 +33,47 @@ function enrichStats(stats) {
   }
 }
 
+// Línea mínima de equipo según minuto y corners actuales (tabla del usuario)
+function minTeamLine(minute, current) {
+  if (minute >= 55 && minute <= 59) {
+    if (current >= 3) return 5.5;
+    if (current >= 2) return 4.5;
+    return 999; // no alerta
+  }
+  if (minute >= 60 && minute <= 70) {
+    if (current >= 4) return 5.5;
+    if (current >= 3) return 4.5;
+    if (current >= 2) return 3.5;
+    return 999;
+  }
+  if (minute >= 70 && minute <= 80) {
+    if (current >= 5) return 6.5;
+    if (current >= 4) return 5.5;
+    if (current >= 3) return 4.5;
+    return 999;
+  }
+  if (minute >= 80 && minute <= 85) {
+    if (current >= 5) return 5.5;
+    if (current >= 4) return 4.5;
+    if (current >= 3) return 3.5;
+    return 999;
+  }
+  return 999;
+}
+
+// Línea mínima de total según minuto y corners acumulados (tabla del usuario)
+function minTotalLine(minute, current) {
+  if (minute >= 55 && minute <= 59) {
+    if (current >= 4) return 7.5;
+    return 999;
+  }
+  if (minute >= 60 && minute <= 85) {
+    if (current >= 5) return 8.5;
+    return 999;
+  }
+  return 999;
+}
+
 function analyzeMatch(match, stats, minute) {
   const home = stats.home, away = stats.away;
 
@@ -108,7 +149,9 @@ function analyzeMatch(match, stats, minute) {
     { name: match.awayTeam, current: awayCorners, projected: awayProjected, side: 'away', stats: away, oppStats: home },
   ]) {
     if (t.current < 1) continue;
+    const minLine = minTeamLine(minute, t.current);
     for (const line of CONFIG.TEAM_LINES) {
+      if (line < minLine) continue; // filtrar líneas debajo del mínimo de la tabla
       if (line <= t.current || t.projected <= line) continue;
       const prob = poissonOver(t.projected, line);
       if (prob >= CONFIG.MIN_CONFIDENCE) {
@@ -122,7 +165,9 @@ function analyzeMatch(match, stats, minute) {
   }
 
   const totalAlerts = [];
+  const minTotal = minTotalLine(minute, totalCorners);
   for (const line of CONFIG.TOTAL_LINES) {
+    if (line < minTotal) continue; // filtrar líneas debajo del mínimo de la tabla
     if (line <= totalCorners || projectedTotal <= line) continue;
     const prob = poissonOver(projectedTotal, line);
     if (prob >= CONFIG.MIN_CONFIDENCE) {
