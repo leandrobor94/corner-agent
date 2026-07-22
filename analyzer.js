@@ -1,4 +1,38 @@
 const { CONFIG } = require('./config');
+const fs = require('fs');
+const path = require('path');
+
+// Cache para datos de ligas (corrección por bias histórico)
+let _leagueBiasCache = null;
+let _leagueBiasCacheTime = 0;
+
+function getLeagueBias(leagueName) {
+  const now = Date.now();
+  // Refrescar cache cada 5 minutos
+  if (!_leagueBiasCache || now - _leagueBiasCacheTime > 5 * 60 * 1000) {
+    try {
+      const raw = fs.readFileSync(path.join(__dirname, 'leagues.json'), 'utf8');
+      const data = JSON.parse(raw);
+      _leagueBiasCache = new Map();
+      for (const [name, stats] of Object.entries(data)) {
+        if (stats.matches >= 10 && stats.totalProjected > 0) {
+          const bias = (stats.totalCorners - stats.totalProjected) / stats.matches;
+          // Guardar bias (negativo = sobre-proyectamos, positivo = sub-proyectamos)
+          _leagueBiasCache.set(name.toLowerCase(), { bias, matches: stats.matches });
+        }
+      }
+    } catch { _leagueBiasCache = new Map(); }
+    _leagueBiasCacheTime = now;
+  }
+
+  if (!leagueName) return 0;
+  const info = _leagueBiasCache.get(leagueName.toLowerCase());
+  if (!info) return 0;
+  
+  // Aplicar bias, limitado a ±3 y escalado por cantidad de datos
+  const confidence = Math.min(1, info.matches / 50); // más matches = más confianza
+  return Math.max(-3, Math.min(3, info.bias * confidence));
+}
 
 function factorial(n) { let r = 1; for (let i = 2; i <= n; i++) r *= i; return r; }
 
@@ -169,7 +203,8 @@ function analyzeMatch(match, stats, minute) {
 
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
   const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
-  const projectedTotal = Math.min(homeProjected + awayProjected, CONFIG.MAX_PROJECTED_TOTAL);
+  const leagueBias = getLeagueBias(match.league);
+  const projectedTotal = Math.min(Math.max(totalCorners, Math.round(homeProjected + awayProjected + leagueBias)), CONFIG.MAX_PROJECTED_TOTAL);
 
   const teamAlerts = [];
   for (const t of [
