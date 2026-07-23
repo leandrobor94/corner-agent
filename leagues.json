@@ -217,18 +217,18 @@
     "totalShotsBox": 222
   },
   "Inkasso": {
-    "matches": 183,
-    "totalCorners": 2086,
-    "totalProjected": 2376,
-    "totalCrosses": 7030,
-    "totalShotsBox": 2226
+    "matches": 184,
+    "totalCorners": 2101,
+    "totalProjected": 2391,
+    "totalCrosses": 7083,
+    "totalShotsBox": 2234
   },
   "Primera C Metropolitana - Zona A": {
-    "matches": 165,
-    "totalCorners": 1408,
-    "totalProjected": 1686,
-    "totalCrosses": 7709,
-    "totalShotsBox": 1421
+    "matches": 167,
+    "totalCorners": 1422,
+    "totalProjected": 1698,
+    "totalCrosses": 7779,
+    "totalShotsBox": 1436
   },
   "Brasileirão - Série B": {
     "matches": 104,
@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 183,
-    "totalCorners": 1699,
-    "totalProjected": 1954,
-    "totalCrosses": 11614559,
-    "totalShotsBox": 1718
+    "matches": 188,
+    "totalCorners": 1741,
+    "totalProjected": 1996,
+    "totalCrosses": 11615046,
+    "totalShotsBox": 1773
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7802,
-    "totalCorners": 62307,
-    "totalProjected": 68976,
-    "totalCrosses": 257930,
+    "matches": 7805,
+    "totalCorners": 62328,
+    "totalProjected": 68994,
+    "totalCrosses": 258053,
     "totalShotsBox": 3485
   },
   "National": {
@@ -1211,10 +1211,10 @@
     "totalShotsBox": 1081
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 34,
-    "totalCorners": 283,
-    "totalProjected": 277,
-    "totalCrosses": 1077,
+    "matches": 36,
+    "totalCorners": 319,
+    "totalProjected": 309,
+    "totalCrosses": 1158,
     "totalShotsBox": 0
   },
   "Mundial -": {
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 755
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 89,
-    "totalCorners": 776,
-    "totalProjected": 791,
-    "totalCrosses": 4420,
-    "totalShotsBox": 1346
+    "matches": 112,
+    "totalCorners": 965,
+    "totalProjected": 984,
+    "totalCrosses": 5548,
+    "totalShotsBox": 1626
   },
   "Torneo Sub-20 de la": {
     "matches": 4,
@@ -1435,10 +1435,10 @@
     "totalShotsBox": 0
   },
   "Brasileirao Sub20 -": {
-    "matches": 3,
-    "totalCorners": 24,
-    "totalProjected": 24,
-    "totalCrosses": 129,
+    "matches": 4,
+    "totalCorners": 31,
+    "totalProjected": 31,
+    "totalCrosses": 190,
     "totalShotsBox": 0
   },
   "CFU Club Shield - Primera Ronda": {
@@ -1449,10 +1449,10 @@
     "totalShotsBox": 0
   },
   "UEFA Europa League Clasificatorio - Segunda Ronda": {
-    "matches": 9,
-    "totalCorners": 69,
-    "totalProjected": 69,
-    "totalCrosses": 383,
-    "totalShotsBox": 148
+    "matches": 11,
+    "totalCorners": 91,
+    "totalProjected": 91,
+    "totalCrosses": 477,
+    "totalShotsBox": 180
   }
 }
