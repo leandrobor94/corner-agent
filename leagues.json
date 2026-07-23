@@ -427,11 +427,11 @@
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
-    "matches": 45,
-    "totalCorners": 389,
-    "totalProjected": 465,
-    "totalCrosses": 1151,
-    "totalShotsBox": 668
+    "matches": 46,
+    "totalCorners": 396,
+    "totalProjected": 472,
+    "totalCrosses": 1181,
+    "totalShotsBox": 678
   },
   "FA Cup": {
     "matches": 15,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7781,
-    "totalCorners": 62146,
-    "totalProjected": 68818,
-    "totalCrosses": 257147,
-    "totalShotsBox": 3459
+    "matches": 7788,
+    "totalCorners": 62201,
+    "totalProjected": 68873,
+    "totalCrosses": 257422,
+    "totalShotsBox": 3472
   },
   "National": {
     "matches": 161,
@@ -1239,11 +1239,11 @@
     "totalShotsBox": 475
   },
   "Super Liga de Uzbekistán": {
-    "matches": 98,
-    "totalCorners": 856,
-    "totalProjected": 923,
-    "totalCrosses": 4321,
-    "totalShotsBox": 1059
+    "matches": 100,
+    "totalCorners": 873,
+    "totalProjected": 940,
+    "totalCrosses": 4422,
+    "totalShotsBox": 1087
   },
   "Liga MX Sub21 -": {
     "matches": 52,
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 755
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 37,
-    "totalCorners": 302,
-    "totalProjected": 313,
-    "totalCrosses": 1757,
-    "totalShotsBox": 651
+    "matches": 46,
+    "totalCorners": 393,
+    "totalProjected": 404,
+    "totalCrosses": 2248,
+    "totalShotsBox": 768
   },
   "Torneo Sub-20 de la": {
     "matches": 4,
@@ -1442,10 +1442,17 @@
     "totalShotsBox": 0
   },
   "CFU Club Shield - Primera Ronda": {
-    "matches": 1,
-    "totalCorners": 4,
-    "totalProjected": 4,
+    "matches": 2,
+    "totalCorners": 9,
+    "totalProjected": 9,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "UEFA Europa League Clasificatorio - Segunda Ronda": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 48,
+    "totalShotsBox": 16
   }
 }
