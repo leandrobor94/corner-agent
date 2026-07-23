@@ -224,11 +224,11 @@
     "totalShotsBox": 2226
   },
   "Primera C Metropolitana - Zona A": {
-    "matches": 163,
-    "totalCorners": 1394,
-    "totalProjected": 1674,
-    "totalCrosses": 7639,
-    "totalShotsBox": 1406
+    "matches": 165,
+    "totalCorners": 1408,
+    "totalProjected": 1686,
+    "totalCrosses": 7709,
+    "totalShotsBox": 1421
   },
   "Brasileirão - Série B": {
     "matches": 104,
@@ -560,11 +560,11 @@
     "totalShotsBox": 114
   },
   "Liga Profesional - Reserva -": {
-    "matches": 178,
-    "totalCorners": 1657,
-    "totalProjected": 1912,
-    "totalCrosses": 11614072,
-    "totalShotsBox": 1663
+    "matches": 183,
+    "totalCorners": 1699,
+    "totalProjected": 1954,
+    "totalCrosses": 11614559,
+    "totalShotsBox": 1718
   },
   "Mundial - Grupo G": {
     "matches": 5,
@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7800,
-    "totalCorners": 62291,
-    "totalProjected": 68963,
-    "totalCrosses": 257859,
+    "matches": 7802,
+    "totalCorners": 62307,
+    "totalProjected": 68976,
+    "totalCrosses": 257930,
     "totalShotsBox": 3485
   },
   "National": {
@@ -1211,10 +1211,10 @@
     "totalShotsBox": 1081
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 32,
-    "totalCorners": 247,
-    "totalProjected": 245,
-    "totalCrosses": 996,
+    "matches": 34,
+    "totalCorners": 283,
+    "totalProjected": 277,
+    "totalCrosses": 1077,
     "totalShotsBox": 0
   },
   "Mundial -": {
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 755
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 69,
-    "totalCorners": 614,
-    "totalProjected": 625,
-    "totalCrosses": 3419,
-    "totalShotsBox": 1094
+    "matches": 89,
+    "totalCorners": 776,
+    "totalProjected": 791,
+    "totalCrosses": 4420,
+    "totalShotsBox": 1346
   },
   "Torneo Sub-20 de la": {
     "matches": 4,
@@ -1449,10 +1449,10 @@
     "totalShotsBox": 0
   },
   "UEFA Europa League Clasificatorio - Segunda Ronda": {
-    "matches": 8,
-    "totalCorners": 62,
-    "totalProjected": 62,
-    "totalCrosses": 350,
-    "totalShotsBox": 130
+    "matches": 9,
+    "totalCorners": 69,
+    "totalProjected": 69,
+    "totalCrosses": 383,
+    "totalShotsBox": 148
   }
 }
