@@ -637,10 +637,10 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7778,
-    "totalCorners": 62128,
-    "totalProjected": 68800,
-    "totalCrosses": 256993,
+    "matches": 7781,
+    "totalCorners": 62146,
+    "totalProjected": 68818,
+    "totalCrosses": 257147,
     "totalShotsBox": 3459
   },
   "National": {
@@ -1239,11 +1239,11 @@
     "totalShotsBox": 475
   },
   "Super Liga de Uzbekistán": {
-    "matches": 96,
-    "totalCorners": 839,
-    "totalProjected": 906,
-    "totalCrosses": 4220,
-    "totalShotsBox": 1031
+    "matches": 98,
+    "totalCorners": 856,
+    "totalProjected": 923,
+    "totalCrosses": 4321,
+    "totalShotsBox": 1059
   },
   "Liga MX Sub21 -": {
     "matches": 52,
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 755
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 34,
-    "totalCorners": 274,
-    "totalProjected": 285,
-    "totalCrosses": 1558,
-    "totalShotsBox": 602
+    "matches": 37,
+    "totalCorners": 302,
+    "totalProjected": 313,
+    "totalCrosses": 1757,
+    "totalShotsBox": 651
   },
   "Torneo Sub-20 de la": {
     "matches": 4,
@@ -1439,6 +1439,13 @@
     "totalCorners": 24,
     "totalProjected": 24,
     "totalCrosses": 129,
+    "totalShotsBox": 0
+  },
+  "CFU Club Shield - Primera Ronda": {
+    "matches": 1,
+    "totalCorners": 4,
+    "totalProjected": 4,
+    "totalCrosses": 0,
     "totalShotsBox": 0
   }
 }
