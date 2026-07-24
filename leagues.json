@@ -28,18 +28,18 @@
     "totalShotsBox": 8410
   },
   "Ykkonen": {
-    "matches": 188,
-    "totalCorners": "0[object Object][object Object]4141414141616162121162116211621162199999991010101010121212121313131313131313131313131313131313131312121212121215151599159159159159159159141410101410141014101410141014101410999999444171291712941712917129417129417129417129417129417129417129912912912161691216161591216159121615912161591216159121615912161511111111111212121212",
-    "totalProjected": 2750,
-    "totalCrosses": 8201,
-    "totalShotsBox": 2697
+    "matches": 189,
+    "totalCorners": "0[object Object][object Object]41414141416161621211621162116211621999999910101010101212121213131313131313131313131313131313131313121212121212151515991591591591591591591414101014101410141014101410141014109999994441712917129417129171294171294171294171294171294171294171299129129121616912161615912161591216159121615912161591216159121615111111111112121212128",
+    "totalProjected": 2758,
+    "totalCrosses": 8233,
+    "totalShotsBox": 2712
   },
   "Segunda división": {
-    "matches": 457,
-    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555121412141621716217121416217787878787899789789789178178178777711111111111188888100108100108100108191910010819100108191001081910010819100108191001081910010819100108194610134610138104610138104610138104610138104610138104610138104610138104610138104610138101010101039393939393939391669141669141669141669141669141669141669141669141224151224151669141224151669141224151669141224151669141224151669141224159292929292921392139213921392139213927777771515151515152551525515255152551525515255151012141110121411255151012141110121411255151012141110121411255151012141125515101214112551510121411310153310153310153310153310153310153310153310153310153310153310153105105105",
-    "totalProjected": 4683,
-    "totalCrosses": 25436,
-    "totalShotsBox": 6254
+    "matches": 459,
+    "totalCorners": "0[object Object][object Object]71212121212131313131388138138138555121412141621716217121416217787878787899789789789178178178777711111111111188888100108100108100108191910010819100108191001081910010819100108191001081910010819100108194610134610138104610138104610138104610138104610138104610138104610138104610138104610138101010101039393939393939391669141669141669141669141669141669141669141669141224151224151669141224151669141224151669141224151669141224151669141224159292929292921392139213921392139213927777771515151515152551525515255152551525515255151012141110121411255151012141110121411255151012141110121411255151012141125515101214112551510121411310153310153310153310153310153310153310153310153310153310153310153105105105105",
+    "totalProjected": 4698,
+    "totalCrosses": 25546,
+    "totalShotsBox": 6279
   },
   "Superettan": {
     "matches": 195,
@@ -84,10 +84,10 @@
     "totalShotsBox": 118
   },
   "APF Primera B": {
-    "matches": 251,
-    "totalCorners": "0[object Object][object Object]1099999912121212121212121288888151084101510841081510841081510841081510841066666661512815128151281512815128151281512874710747101512874710151287471021213212132121321213147513914751392121314751392121314751392121314751391681681681681686151061510615106151061510126151021261510212615102126151021266666665105105105105105105101285101285101285101281114111411141114111411141114111411149999911",
-    "totalProjected": 2746,
-    "totalCrosses": 10939,
+    "matches": 252,
+    "totalCorners": "0[object Object][object Object]109999991212121212121212128888815108410151084108151084108151084108151084106666666151281512815128151281512815128151287471074710151287471015128747102121321213212132121314751391475139212131475139212131475139212131475139168168168168168615106151061510615106151012615102126151021261510212615102126666666510510510510510510510128510128510128510128111411141114111411141114111411141114999991111",
+    "totalProjected": 2757,
+    "totalCrosses": 10995,
     "totalShotsBox": 0
   },
   "Mundial - Grupo A": {
@@ -147,18 +147,18 @@
     "totalShotsBox": 1657
   },
   "A Lyga": {
-    "matches": 155,
-    "totalCorners": 1554,
-    "totalProjected": 1872,
-    "totalCrosses": 6677,
-    "totalShotsBox": 2194
+    "matches": 156,
+    "totalCorners": 1564,
+    "totalProjected": 1882,
+    "totalCrosses": 6738,
+    "totalShotsBox": 2204
   },
   "I Lyga": {
-    "matches": 166,
-    "totalCorners": 1664,
-    "totalProjected": 1853,
-    "totalCrosses": 6560,
-    "totalShotsBox": 1577
+    "matches": 167,
+    "totalCorners": 1674,
+    "totalProjected": 1863,
+    "totalCrosses": 6591,
+    "totalShotsBox": 1585
   },
   "Damallsvenskan": {
     "matches": 111,
@@ -203,10 +203,10 @@
     "totalShotsBox": 2482
   },
   "Campeonato": {
-    "matches": 137,
-    "totalCorners": 1281,
-    "totalProjected": 1418,
-    "totalCrosses": 5120,
+    "matches": 138,
+    "totalCorners": 1291,
+    "totalProjected": 1428,
+    "totalCrosses": 5196,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
@@ -252,18 +252,18 @@
     "totalShotsBox": 2669
   },
   "Pershaya Liga": {
-    "matches": 298,
+    "matches": 299,
     "totalCorners": 550,
     "totalProjected": 648,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 251,
-    "totalCorners": 2663,
-    "totalProjected": 3103,
-    "totalCrosses": 8405,
-    "totalShotsBox": 4349
+    "matches": 252,
+    "totalCorners": 2672,
+    "totalProjected": 3112,
+    "totalCrosses": 8460,
+    "totalShotsBox": 4367
   },
   "Erovnuli Liga 2": {
     "matches": 71,
@@ -637,11 +637,11 @@
     "totalShotsBox": 87
   },
   "Partido": {
-    "matches": 7855,
-    "totalCorners": 62657,
-    "totalProjected": 69320,
-    "totalCrosses": 259804,
-    "totalShotsBox": 3497
+    "matches": 7885,
+    "totalCorners": 62857,
+    "totalProjected": 69520,
+    "totalCrosses": 260950,
+    "totalShotsBox": 3516
   },
   "National": {
     "matches": 161,
@@ -777,11 +777,11 @@
     "totalShotsBox": 295
   },
   "Superliga": {
-    "matches": 260,
-    "totalCorners": 2636,
-    "totalProjected": 2940,
-    "totalCrosses": 9915,
-    "totalShotsBox": 4780
+    "matches": 261,
+    "totalCorners": 2653,
+    "totalProjected": 2957,
+    "totalCrosses": 9954,
+    "totalShotsBox": 4801
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 32,
@@ -924,11 +924,11 @@
     "totalShotsBox": 0
   },
   "Allsvenskan": {
-    "matches": 208,
-    "totalCorners": 2166,
-    "totalProjected": 2418,
-    "totalCrosses": 6548,
-    "totalShotsBox": 3541
+    "matches": 209,
+    "totalCorners": 2173,
+    "totalProjected": 2425,
+    "totalCrosses": 6571,
+    "totalShotsBox": 3562
   },
   "FA Cup - 32avos de final": {
     "matches": 184,
@@ -973,10 +973,10 @@
     "totalShotsBox": 748
   },
   "Liga Femenina de Fútbol": {
-    "matches": 122,
-    "totalCorners": 554,
-    "totalProjected": 562,
-    "totalCrosses": 2690,
+    "matches": 123,
+    "totalCorners": 560,
+    "totalProjected": 568,
+    "totalCrosses": 2720,
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub17": {
@@ -1267,11 +1267,11 @@
     "totalShotsBox": 0
   },
   "Liga1": {
-    "matches": 54,
-    "totalCorners": 413,
-    "totalProjected": 418,
-    "totalCrosses": 1677,
-    "totalShotsBox": 819
+    "matches": 55,
+    "totalCorners": 424,
+    "totalProjected": 429,
+    "totalCrosses": 1728,
+    "totalShotsBox": 835
   },
   "Liga eslovena - Regular": {
     "matches": 28,
@@ -1456,80 +1456,115 @@
     "totalShotsBox": 212
   },
   "División Reserva -": {
-    "matches": 3,
-    "totalCorners": 27,
-    "totalProjected": 27,
-    "totalCrosses": 108,
+    "matches": 4,
+    "totalCorners": 36,
+    "totalProjected": 36,
+    "totalCrosses": 144,
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 4,
-    "totalCorners": 24,
-    "totalProjected": 24,
-    "totalCrosses": 209,
-    "totalShotsBox": 14
+    "matches": 6,
+    "totalCorners": 40,
+    "totalProjected": 40,
+    "totalCrosses": 328,
+    "totalShotsBox": 25
   },
   "ASEAN": {
-    "matches": 3,
-    "totalCorners": 28,
-    "totalProjected": 28,
-    "totalCrosses": 88,
-    "totalShotsBox": 44
+    "matches": 5,
+    "totalCorners": 46,
+    "totalProjected": 46,
+    "totalCrosses": 145,
+    "totalShotsBox": 76
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
-    "matches": 1,
-    "totalCorners": 11,
-    "totalProjected": 11,
-    "totalCrosses": 47,
+    "matches": 2,
+    "totalCorners": 22,
+    "totalProjected": 22,
+    "totalCrosses": 94,
     "totalShotsBox": 0
   },
   "First League - Regular": {
-    "matches": 1,
-    "totalCorners": 4,
-    "totalProjected": 4,
-    "totalCrosses": 58,
-    "totalShotsBox": 14
+    "matches": 2,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 116,
+    "totalShotsBox": 28
   },
   "David Kipiani Cup - Octavos de final": {
-    "matches": 1,
-    "totalCorners": 8,
-    "totalProjected": 8,
-    "totalCrosses": 49,
-    "totalShotsBox": 10
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 98,
+    "totalShotsBox": 20
   },
   "Vtora Liga": {
-    "matches": 1,
-    "totalCorners": 8,
-    "totalProjected": 8,
-    "totalCrosses": 71,
-    "totalShotsBox": 7
-  },
-  "1st": {
-    "matches": 1,
-    "totalCorners": 9,
-    "totalProjected": 9,
-    "totalCrosses": 33,
-    "totalShotsBox": 22
-  },
-  "Ekstraklasa - Regular": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
-    "totalCrosses": 32,
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 142,
     "totalShotsBox": 14
   },
+  "1st": {
+    "matches": 3,
+    "totalCorners": 28,
+    "totalProjected": 28,
+    "totalCrosses": 99,
+    "totalShotsBox": 60
+  },
+  "Ekstraklasa - Regular": {
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 14,
+    "totalCrosses": 64,
+    "totalShotsBox": 28
+  },
   "Division 2": {
-    "matches": 5,
-    "totalCorners": 54,
-    "totalProjected": 54,
-    "totalCrosses": 176,
-    "totalShotsBox": 52
+    "matches": 10,
+    "totalCorners": 108,
+    "totalProjected": 108,
+    "totalCrosses": 352,
+    "totalShotsBox": 104
   },
   "MOL Cup - Octavos de final": {
+    "matches": 3,
+    "totalCorners": 27,
+    "totalProjected": 27,
+    "totalCrosses": 176,
+    "totalShotsBox": 35
+  },
+  "I Liga": {
     "matches": 1,
     "totalCorners": 11,
     "totalProjected": 11,
-    "totalCrosses": 52,
-    "totalShotsBox": 12
+    "totalCrosses": 38,
+    "totalShotsBox": 18
+  },
+  "Copa de Austria - 32avos de final": {
+    "matches": 5,
+    "totalCorners": 32,
+    "totalProjected": 32,
+    "totalCrosses": 200,
+    "totalShotsBox": 52
+  },
+  "Premier Liga": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 29,
+    "totalShotsBox": 17
+  },
+  "Regionalliga": {
+    "matches": 2,
+    "totalCorners": 0,
+    "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "CECAFA Club Cup": {
+    "matches": 1,
+    "totalCorners": 5,
+    "totalProjected": 5,
+    "totalCrosses": 57,
+    "totalShotsBox": 10
   }
 }
