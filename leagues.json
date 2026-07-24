@@ -1288,11 +1288,11 @@
     "totalShotsBox": 44
   },
   "Liga 1 -": {
-    "matches": 25,
-    "totalCorners": 195,
-    "totalProjected": 213,
-    "totalCrosses": 802,
-    "totalShotsBox": 397
+    "matches": 26,
+    "totalCorners": 203,
+    "totalProjected": 221,
+    "totalCrosses": 842,
+    "totalShotsBox": 414
   },
   "FAI Cup": {
     "matches": 71,
@@ -1323,7 +1323,7 @@
     "totalShotsBox": 44
   },
   "Liga 2": {
-    "matches": 27,
+    "matches": 29,
     "totalCorners": 233,
     "totalProjected": 252,
     "totalCrosses": 1194,
@@ -1582,11 +1582,11 @@
     "totalShotsBox": 24
   },
   "Copa de Primera -": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
-    "totalCrosses": 47,
-    "totalShotsBox": 9
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 18,
+    "totalCrosses": 80,
+    "totalShotsBox": 16
   },
   "Liga Profesional Argentina -": {
     "matches": 1,
@@ -1594,5 +1594,26 @@
     "totalProjected": 6,
     "totalCrosses": 45,
     "totalShotsBox": 16
+  },
+  "Liga Femenina BetPlay": {
+    "matches": 2,
+    "totalCorners": 10,
+    "totalProjected": 9,
+    "totalCrosses": 73,
+    "totalShotsBox": 18
+  },
+  "CONCACAF Campeonato Sub20 - Grupo B": {
+    "matches": 1,
+    "totalCorners": 15,
+    "totalProjected": 15,
+    "totalCrosses": 37,
+    "totalShotsBox": 15
+  },
+  "Liga Prom - Apertura - Conferencia Este - Zona Sur": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 60,
+    "totalShotsBox": 0
   }
 }
