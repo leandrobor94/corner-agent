@@ -13,7 +13,7 @@ const CONFIG = {
   HOUR_END: 22,
 
   TEAM_LINES: [3.5, 4.5, 5.5, 6.5, 7.5],
-  TOTAL_LINES: [11.5, 12.5, 13.5],
+  TOTAL_LINES: [10.5, 11.5, 12.5, 13.5],
 
   // Pesos basados en correlacion real con corners finales:
   // base rate (r=0.87), shots (r=0.30), crosses (r=0.20), attacks (r=0.17)

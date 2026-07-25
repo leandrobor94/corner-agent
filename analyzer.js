@@ -72,7 +72,7 @@ function minTeamLine(minute, current) {
   if (minute >= 55 && minute <= 59) {
     if (current >= 3) return 5.5;
     if (current >= 2) return 4.5;
-    return 999; // no alerta
+    return 999;
   }
   if (minute >= 60 && minute <= 70) {
     if (current >= 4) return 5.5;
@@ -96,28 +96,20 @@ function minTeamLine(minute, current) {
 }
 
 // Línea mínima de total según minuto y corners acumulados
-// Mercado empieza en 11.5, solo subir a 12.5 en casos extremos
+// Mercado empieza en 10.5, la línea debe ser al menos 1.5 esquinas más que los actuales
 function minTotalLine(minute, current) {
-  if (minute >= 55 && minute <= 59) {
-    if (current >= 5) return 11.5;
-    return 999;
+  // Línea mínima = max(corners actuales + 1.5, 10.5)
+  // Esto asegura que la línea no esté ya cumplida y sea del mercado real
+  const minLine = Math.max(current + 1.5, 10.5);
+  
+  // Solo generar alerta si hay tiempo suficiente para alcanzar la línea
+  // Si faltan menos de 15 minutos y la línea es muy alta, no alertar
+  const remaining = 90 - minute;
+  if (remaining < 15 && minLine > 12.5) {
+    return 999; // muy ambicioso para tan poco tiempo
   }
-  if (minute >= 80 && minute <= 85) {
-    if (current >= 10) return 12.5;
-    if (current >= 8) return 11.5;
-    return 999;
-  }
-  if (minute >= 70 && minute <= 80) {
-    if (current >= 9) return 12.5;
-    if (current >= 7) return 11.5;
-    return 999;
-  }
-  if (minute >= 60 && minute <= 70) {
-    if (current >= 9) return 12.5;
-    if (current >= 6) return 11.5;
-    return 999;
-  }
-  return 999;
+  
+  return minLine;
 }
 
 function analyzeMatch(match, stats, minute) {
