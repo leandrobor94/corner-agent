@@ -96,18 +96,25 @@ function minTeamLine(minute, current) {
 }
 
 // Línea mínima de total según minuto y corners acumulados
-// Mercado empieza en 10.5, la línea debe ser al menos 1.5 esquinas más que los actuales
+// La línea debe ser mayor a la proyección total (corners + restante según tiempo)
 function minTotalLine(minute, current) {
-  // Línea mínima = max(corners actuales + 1.5, 10.5)
-  // Esto asegura que la línea no esté ya cumplida y sea del mercado real
-  const minLine = Math.max(current + 1.5, 10.5);
-  
-  // Solo generar alerta si hay tiempo suficiente para alcanzar la línea
-  // Si faltan menos de 15 minutos y la línea es muy alta, no alertar
-  const remaining = 90 - minute;
-  if (remaining < 15 && minLine > 12.5) {
-    return 999; // muy ambicioso para tan poco tiempo
+  // Proyección de corners restantes según el tiempo
+  let remaining;
+  if (minute >= 55 && minute <= 59) {
+    remaining = 3.4;
+  } else if (minute >= 60 && minute <= 70) {
+    remaining = 2.4;
+  } else if (minute >= 70 && minute <= 80) {
+    remaining = 1.4;
+  } else if (minute >= 80 && minute <= 85) {
+    remaining = 0.7;
+  } else {
+    return 999;
   }
+  
+  // La línea debe ser mayor a corners actuales + proyección restante
+  // Y al menos 10.5 (mínimo del mercado)
+  const minLine = Math.max(current + remaining + 0.5, 10.5);
   
   return minLine;
 }
