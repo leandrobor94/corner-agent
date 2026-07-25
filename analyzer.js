@@ -95,22 +95,26 @@ function minTeamLine(minute, current) {
   return 999;
 }
 
-// Línea mínima de total según minuto y corners acumulados (tabla del usuario)
+// Línea mínima de total según minuto y corners acumulados
+// Mercado empieza en 11.5, solo subir a 12.5 en casos extremos
 function minTotalLine(minute, current) {
   if (minute >= 55 && minute <= 59) {
-    if (current >= 4) return 7.5;
+    if (current >= 5) return 11.5;
     return 999;
   }
   if (minute >= 80 && minute <= 85) {
-    if (current >= 7) return 8.5;
+    if (current >= 10) return 12.5;
+    if (current >= 8) return 11.5;
     return 999;
   }
   if (minute >= 70 && minute <= 80) {
-    if (current >= 6) return 8.5;
+    if (current >= 9) return 12.5;
+    if (current >= 7) return 11.5;
     return 999;
   }
   if (minute >= 60 && minute <= 70) {
-    if (current >= 5) return 8.5;
+    if (current >= 9) return 12.5;
+    if (current >= 6) return 11.5;
     return 999;
   }
   return 999;

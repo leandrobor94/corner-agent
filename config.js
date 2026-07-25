@@ -3,7 +3,7 @@ const CONFIG = {
 
   MIN_MINUTE: 55,
   MAX_MINUTE: 85,
-  MIN_CONFIDENCE: 75,
+  MIN_CONFIDENCE: 65,
   MAX_LOOPS: 4,
   LOOP_DELAY: 720000,  // 12 min (igual que sistema de goles)
 
@@ -13,7 +13,7 @@ const CONFIG = {
   HOUR_END: 22,
 
   TEAM_LINES: [3.5, 4.5, 5.5, 6.5, 7.5],
-  TOTAL_LINES: [8.5, 9.5, 10.5, 11.5],
+  TOTAL_LINES: [11.5, 12.5, 13.5],
 
   // Pesos basados en correlacion real con corners finales:
   // base rate (r=0.87), shots (r=0.30), crosses (r=0.20), attacks (r=0.17)
@@ -29,22 +29,22 @@ const CONFIG = {
   POS_FACTOR_CAP: 1.25,               // ya no se usa (posesion duplicada en stats)
   POSSESSION_IMBALANCE_THRESHOLD: 1.3, // si ratio > este, usa solo baseRate
   MAX_TEAM_CORNERS: 12,                // techo de seguridad por equipo
-  MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)
+  MAX_PROJECTED_TOTAL: 16,             // techo de proyección total (evita sobre-proyecciones erróneas)
 
   NEED_GOAL_BOOST: 1.25,
   WINNING_REDUCTION: 0.80,
 
   // Factores de correccion basados en datos reales
   HOME_BOOST: 1.05,                    // home teams generan 11% mas corners
-  LATE_GAME_DECAY_MIN: 68,             // a partir de este minuto, reducir proyeccion
-  LATE_GAME_DECAY_FACTOR: 0.92,        // factor de reduccion en late game
-  MID_GAME_DECAY_MIN: 58,              // a partir de este minuto, reducir leve
-  MID_GAME_DECAY_FACTOR: 0.96,         // factor de reduccion leve
+  LATE_GAME_DECAY_MIN: 80,             // a partir de este minuto, reducir proyeccion
+  LATE_GAME_DECAY_FACTOR: 0.97,        // factor de reduccion en late game
+  MID_GAME_DECAY_MIN: 70,              // a partir de este minuto, reducir leve
+  MID_GAME_DECAY_FACTOR: 0.99,         // factor de reduccion leve
   LOW_CORNERS_THRESHOLD: 3,            // si tiene <= corners en este minuto
   LOW_CORNERS_MIN: 45,                 // a partir de este minuto
-  LOW_CORNERS_PENALTY: 0.85,           // factor de reduccion
-  HIGH_CORNERS_THRESHOLD: 8,           // si tiene >= corners
-  HIGH_CORNERS_DECAY: 0.88,            // factor de reduccion
+  LOW_CORNERS_PENALTY: 0.90,           // factor de reduccion
+  HIGH_CORNERS_THRESHOLD: 12,          // si tiene >= corners (desactivado)
+  HIGH_CORNERS_DECAY: 1.0,            // sin penalización por corners altos
 
   MAX_ALERTS_FINAL: 4,  // tope final: solo enviar las top 4 por probabilidad
 
