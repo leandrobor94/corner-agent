@@ -95,30 +95,6 @@ function minTeamLine(minute, current) {
   return 999;
 }
 
-// Línea mínima de total según minuto y corners acumulados
-// La línea debe ser mayor a la proyección total (corners + restante según tiempo)
-function minTotalLine(minute, current) {
-  // Proyección de corners restantes según el tiempo
-  let remaining;
-  if (minute >= 55 && minute <= 59) {
-    remaining = 3.4;
-  } else if (minute >= 60 && minute <= 70) {
-    remaining = 2.4;
-  } else if (minute >= 70 && minute <= 80) {
-    remaining = 1.4;
-  } else if (minute >= 80 && minute <= 85) {
-    remaining = 0.7;
-  } else {
-    return 999;
-  }
-  
-  // La línea debe ser mayor a corners actuales + proyección restante
-  // Y al menos 10.5 (mínimo del mercado)
-  const minLine = Math.max(current + remaining + 0.5, 10.5);
-  
-  return minLine;
-}
-
 function analyzeMatch(match, stats, minute) {
   const home = stats.home, away = stats.away;
 
@@ -231,9 +207,7 @@ function analyzeMatch(match, stats, minute) {
   }
 
   const totalAlerts = [];
-  const minTotal = minTotalLine(minute, totalCorners);
   for (const line of CONFIG.TOTAL_LINES) {
-    if (line < minTotal) continue; // filtrar líneas debajo del mínimo de la tabla
     if (line <= totalCorners || projectedTotal <= line) continue;
     const prob = poissonOver(projectedTotal, line);
     if (prob >= CONFIG.MIN_CONFIDENCE) {
