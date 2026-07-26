@@ -1,1 +1,11 @@
-{"version":1,"learningRate":0.05,"global":{},"byLeague":{},"stats":{"predictionsCount":0,"correctCount":0},"lastUpdated":"2026-07-26T18:23:02.947Z"}
+{
+  "version": 1,
+  "learningRate": 0.05,
+  "global": {},
+  "byLeague": {},
+  "stats": {
+    "predictionsCount": 135,
+    "correctCount": 133
+  },
+  "lastUpdated": "2026-07-26T18:51:45.066Z"
+}
