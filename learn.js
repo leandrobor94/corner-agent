@@ -84,12 +84,19 @@ async function verifyPredictions(liveMatches, verifyFn) {
   for (const pred of predictions) {
     if (pred.correct !== null) continue;
 
-    const match = liveMatches.find(m => {
-      const n = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
-      const [home, away] = pred.match.split(' vs ');
-      return (n(m.homeTeam).includes(n(home)) || n(home).includes(n(m.homeTeam))) &&
-             (n(m.awayTeam).includes(n(away)) || n(away).includes(n(m.awayTeam)));
-    });
+    // Buscar por gameId (preciso) o por nombre (fallback para predicciones viejas)
+    let match = null;
+    if (pred.gameId) {
+      match = liveMatches.find(m => m.gameId === pred.gameId);
+    }
+    if (!match) {
+      match = liveMatches.find(m => {
+        const n = s => s.toLowerCase().replace(/[^a-z0-9]/g, '');
+        const [home, away] = pred.match.split(' vs ');
+        return (n(m.homeTeam).includes(n(home)) || n(home).includes(n(m.homeTeam))) &&
+               (n(m.awayTeam).includes(n(away)) || n(away).includes(n(m.awayTeam)));
+      });
+    }
 
     if (match && match.minute >= 90) {
       const finalCorners = await verifyFn(match.gameId, match.homeId, match.awayId);
