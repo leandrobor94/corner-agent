@@ -17,6 +17,7 @@ function getLeagueBias(leagueName) {
       for (const [name, stats] of Object.entries(data)) {
         if (stats.matches >= 10 && stats.totalProjected > 0) {
           const bias = (stats.totalCorners - stats.totalProjected) / stats.matches;
+          if (isNaN(bias) || !isFinite(bias)) continue; // ignorar datos corruptos
           // Guardar bias (negativo = sobre-proyectamos, positivo = sub-proyectamos)
           _leagueBiasCache.set(name.toLowerCase(), { bias, matches: stats.matches });
         }
@@ -27,7 +28,7 @@ function getLeagueBias(leagueName) {
 
   if (!leagueName) return 0;
   const info = _leagueBiasCache.get(leagueName.toLowerCase());
-  if (!info) return 0;
+  if (!info || isNaN(info.bias)) return 0;
   
   // Aplicar bias, limitado a ±3 y escalado por cantidad de datos
   const confidence = Math.min(1, info.matches / 50); // más matches = más confianza
@@ -170,7 +171,10 @@ function analyzeMatch(match, stats, minute) {
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
   const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
   const leagueBias = getLeagueBias(match.league);
-  const projectedTotal = Math.min(Math.max(totalCorners, Math.round(homeProjected + awayProjected + leagueBias)), CONFIG.MAX_PROJECTED_TOTAL);
+  const rawTotal = homeProjected + awayProjected + leagueBias;
+  const projectedTotal = isNaN(rawTotal) || !isFinite(rawTotal)
+    ? Math.min(Math.max(totalCorners, homeProjected + awayProjected), CONFIG.MAX_PROJECTED_TOTAL)
+    : Math.min(Math.max(totalCorners, Math.round(rawTotal)), CONFIG.MAX_PROJECTED_TOTAL);
 
   const teamAlerts = [];
   for (const t of [

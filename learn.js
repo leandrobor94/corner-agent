@@ -116,9 +116,12 @@ async function verifyPredictions(liveMatches, verifyFn) {
       const lp = leagues[pred.league];
       lp.matches++;
       lp.totalCorners += totalActual;
-      lp.totalProjected += totalPredicted;
-      lp.totalCrosses += pred.stats.crosses;
-      lp.totalShotsBox += pred.stats.shotsInsideBox;
+      // Protección NaN: no acumular datos corruptos
+      if (!isNaN(totalPredicted) && isFinite(totalPredicted)) {
+        lp.totalProjected += totalPredicted;
+      }
+      lp.totalCrosses += pred.stats.crosses || 0;
+      lp.totalShotsBox += pred.stats.shotsInsideBox || 0;
 
       console.log(`  VERIFIED: ${pred.match} — Actual: ${totalActual} vs Proy: ${totalPredicted} (${pred.correct ? '✓' : '✗'})`);
     }
