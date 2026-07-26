@@ -3,7 +3,7 @@ const CONFIG = {
 
   MIN_MINUTE: 55,
   MAX_MINUTE: 85,
-  MIN_CONFIDENCE: 65,
+  MIN_CONFIDENCE: 70,
   MAX_LOOPS: 4,
   LOOP_DELAY: 720000,  // 12 min (igual que sistema de goles)
 
@@ -17,14 +17,17 @@ const CONFIG = {
 
   // Pesos basados en correlacion real con corners finales:
   // base rate (r=0.87), shots (r=0.30), crosses (r=0.20), attacks (r=0.17)
-  RATE_WEIGHT: 0.65,
+  RATE_WEIGHT: 0.60,
   CROSS_WEIGHT: 0.05,
-  SHOTS_BOX_WEIGHT: 0.25,
+  SHOTS_BOX_WEIGHT: 0.20,
   ATTACK_WEIGHT: 0.05,
+  KEYPASS_WEIGHT: 0.10,
 
   CORNER_CONVERSION_CROSS: 0.18,
   CORNER_CONVERSION_SHOTS: 0.12,
   CORNER_CONVERSION_ATTACKS: 0.02,
+  CORNER_CONVERSION_KEYPASS: 0.15,     // pases clave → corners
+  BIG_CHANCE_BOOST: 0.35,              // cada gran chance añade ~0.35 corners
 
   POS_FACTOR_CAP: 1.25,               // ya no se usa (posesion duplicada en stats)
   POSSESSION_IMBALANCE_THRESHOLD: 1.3, // si ratio > este, usa solo baseRate

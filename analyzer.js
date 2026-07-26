@@ -116,17 +116,32 @@ function analyzeMatch(match, stats, minute) {
     const projFromCrosses = teamCurrent + crossRate * minsLeft * CONFIG.CORNER_CONVERSION_CROSS;
     const projFromShots = teamCurrent + shotRate * minsLeft * CONFIG.CORNER_CONVERSION_SHOTS;
     const projFromAttacks = teamCurrent + attackRate * minsLeft * CONFIG.CORNER_CONVERSION_ATTACKS;
+    
+    // Pases clave: buen predictor de peligro ofensivo
+    const keyPassRate = (teamStats.keyPasses || 0) / minute;
+    const projFromKeyPasses = teamCurrent + keyPassRate * minsLeft * CONFIG.CORNER_CONVERSION_KEYPASS;
+    
+    // Grandes chances: cada una suele generar peligro que resulta en corners
+    const bigChanceBonus = (teamStats.bigChances || 0) * CONFIG.BIG_CHANCE_BOOST;
 
     const needFactor = needsGoal ? CONFIG.NEED_GOAL_BOOST : (Math.abs(goalDiff) >= 2 ? CONFIG.WINNING_REDUCTION : 1.0);
 
     const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
     const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
+    // Pesos dinámicos: si no hay keyPasses, redistribuir a baseRate y shots
+    const hasKeyPasses = (teamStats.keyPasses || 0) > 0;
+    const effRateW = hasKeyPasses ? CONFIG.RATE_WEIGHT : CONFIG.RATE_WEIGHT + CONFIG.KEYPASS_WEIGHT * 0.6;
+    const effShotsW = hasKeyPasses ? CONFIG.SHOTS_BOX_WEIGHT : CONFIG.SHOTS_BOX_WEIGHT + CONFIG.KEYPASS_WEIGHT * 0.4;
+    const effKeyPassW = hasKeyPasses ? CONFIG.KEYPASS_WEIGHT : 0;
+
     let blended = (
-      baseProj * CONFIG.RATE_WEIGHT +
+      baseProj * effRateW +
       (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
-      (imbalanced ? baseProj : projFromShots) * CONFIG.SHOTS_BOX_WEIGHT +
-      (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT
+      (imbalanced ? baseProj : projFromShots) * effShotsW +
+      (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT +
+      (imbalanced ? baseProj : projFromKeyPasses) * effKeyPassW +
+      bigChanceBonus
     ) * needFactor;
 
     // Home boost
@@ -200,6 +215,9 @@ function analyzeMatch(match, stats, minute) {
     stats: {
       crosses: home.crosses + away.crosses,
       shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
+      shotsOnTarget: (home.shotsOnTarget || 0) + (away.shotsOnTarget || 0),
+      keyPasses: (home.keyPasses || 0) + (away.keyPasses || 0),
+      bigChances: (home.bigChances || 0) + (away.bigChances || 0),
       attacks: home.attacks + away.attacks,
       possession: { home: home.possession, away: away.possession },
       totalShots: (home.totalShots || 0) + (away.totalShots || 0),

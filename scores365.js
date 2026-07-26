@@ -166,6 +166,8 @@ async function fetchMatchStats(gameId, homeId, awayId) {
     if (stats[side].shotsInsideBox === undefined) stats[side].shotsInsideBox = 0;
     if (stats[side].totalShots === undefined) stats[side].totalShots = 0;
     if (stats[side].shotsOnTarget === undefined) stats[side].shotsOnTarget = 0;
+    if (stats[side].keyPasses === undefined) stats[side].keyPasses = 0;
+    if (stats[side].bigChances === undefined) stats[side].bigChances = 0;
   }
 
   return stats;
