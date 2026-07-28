@@ -42,11 +42,11 @@
     "totalShotsBox": 48
   },
   "Superettan": {
-    "matches": 26,
-    "totalCorners": 237,
-    "totalProjected": 197,
-    "totalCrosses": 938,
-    "totalShotsBox": 318
+    "matches": 28,
+    "totalCorners": 257,
+    "totalProjected": 217,
+    "totalCrosses": 1025,
+    "totalShotsBox": 349
   },
   "Copa de Suecia - Clasificación": {
     "matches": 0,
@@ -154,11 +154,11 @@
     "totalShotsBox": 110
   },
   "I Lyga": {
-    "matches": 5,
-    "totalCorners": 70,
-    "totalProjected": 70,
-    "totalCrosses": 105,
-    "totalShotsBox": 25
+    "matches": 6,
+    "totalCorners": 86,
+    "totalProjected": 86,
+    "totalCrosses": 162,
+    "totalShotsBox": 38
   },
   "Damallsvenskan": {
     "matches": 3,
@@ -182,10 +182,10 @@
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 3,
-    "totalCorners": 30,
-    "totalProjected": 30,
-    "totalCrosses": 0,
+    "matches": 4,
+    "totalCorners": 34,
+    "totalProjected": 34,
+    "totalCrosses": 39,
     "totalShotsBox": 0
   },
   "Division 1": {
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 134,
-    "totalCorners": 904,
-    "totalProjected": 916,
-    "totalCrosses": 4024,
+    "matches": 145,
+    "totalCorners": 968,
+    "totalProjected": 982,
+    "totalCrosses": 4338,
     "totalShotsBox": 494
   },
   "National": {
@@ -1393,18 +1393,18 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Segunda Ronda": {
-    "matches": 2,
-    "totalCorners": 28,
-    "totalProjected": 28,
-    "totalCrosses": 80,
-    "totalShotsBox": 23
+    "matches": 3,
+    "totalCorners": 41,
+    "totalProjected": 41,
+    "totalCrosses": 137,
+    "totalShotsBox": 42
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 12,
+    "totalProjected": 12,
+    "totalCrosses": 54,
+    "totalShotsBox": 14
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1680,11 +1680,11 @@
     "totalShotsBox": 0
   },
   "Toto League Cup": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 2,
+    "totalCorners": 21,
+    "totalProjected": 21,
+    "totalCrosses": 93,
+    "totalShotsBox": 29
   },
   "Goiano 2": {
     "matches": 0,
@@ -1790,5 +1790,12 @@
     "totalProjected": 79,
     "totalCrosses": 300,
     "totalShotsBox": 74
+  },
+  "Copa de Rusia - Regions Path -": {
+    "matches": 1,
+    "totalCorners": 12,
+    "totalProjected": 12,
+    "totalCrosses": 33,
+    "totalShotsBox": 11
   }
 }
