@@ -203,10 +203,10 @@
     "totalShotsBox": 472
   },
   "Campeonato": {
-    "matches": 5,
-    "totalCorners": 50,
-    "totalProjected": 50,
-    "totalCrosses": 290,
+    "matches": 6,
+    "totalCorners": 63,
+    "totalProjected": 63,
+    "totalCrosses": 354,
     "totalShotsBox": 0
   },
   "Mundial - Grupo B": {
@@ -1757,11 +1757,11 @@
     "totalShotsBox": 84
   },
   "Africa Cup of Nations Women": {
-    "matches": 14,
-    "totalCorners": 88,
-    "totalProjected": 88,
-    "totalCrosses": 689,
-    "totalShotsBox": 177
+    "matches": 15,
+    "totalCorners": 97,
+    "totalProjected": 97,
+    "totalCrosses": 757,
+    "totalShotsBox": 194
   },
   "Liga de Segunda -": {
     "matches": 2,
@@ -1799,10 +1799,10 @@
     "totalShotsBox": 11
   },
   "CFU Club Shield - Cuartos de Final": {
-    "matches": 4,
-    "totalCorners": 28,
-    "totalProjected": 26,
-    "totalCrosses": 63,
-    "totalShotsBox": 2
+    "matches": 6,
+    "totalCorners": 42,
+    "totalProjected": 40,
+    "totalCrosses": 102,
+    "totalShotsBox": 4
   }
 }
