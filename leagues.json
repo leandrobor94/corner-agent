@@ -693,10 +693,10 @@
     "totalShotsBox": 0
   },
   "Liga Femenina -": {
-    "matches": 4,
-    "totalCorners": 36,
-    "totalProjected": 36,
-    "totalCrosses": 384,
+    "matches": 5,
+    "totalCorners": 47,
+    "totalProjected": 47,
+    "totalCrosses": 433,
     "totalShotsBox": 48
   },
   "Copa Simón Bolívar -": {
@@ -1582,11 +1582,11 @@
     "totalShotsBox": 330
   },
   "Copa de Primera -": {
-    "matches": 6,
-    "totalCorners": 73,
-    "totalProjected": 73,
-    "totalCrosses": 273,
-    "totalShotsBox": 92
+    "matches": 8,
+    "totalCorners": 85,
+    "totalProjected": 86,
+    "totalCrosses": 354,
+    "totalShotsBox": 117
   },
   "Liga Profesional Argentina -": {
     "matches": 6,
@@ -1715,18 +1715,18 @@
     "totalShotsBox": 24
   },
   "CONCACAF Campeonato Sub20 - Grupo A": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 22,
+    "totalShotsBox": 15
   },
   "Primera Division -": {
-    "matches": 23,
-    "totalCorners": 160,
-    "totalProjected": 170,
-    "totalCrosses": 746,
-    "totalShotsBox": 14
+    "matches": 24,
+    "totalCorners": 170,
+    "totalProjected": 180,
+    "totalCrosses": 803,
+    "totalShotsBox": 23
   },
   "Liga Primera -": {
     "matches": 0,
