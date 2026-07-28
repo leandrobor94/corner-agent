@@ -14,10 +14,10 @@
     "totalShotsBox": 0
   },
   "Tercera División -": {
-    "matches": 15,
-    "totalCorners": 122,
-    "totalProjected": 122,
-    "totalCrosses": 765,
+    "matches": 18,
+    "totalCorners": 164,
+    "totalProjected": 163,
+    "totalCrosses": 909,
     "totalShotsBox": 0
   },
   "Premier": {
@@ -301,11 +301,11 @@
     "totalShotsBox": 165
   },
   "Formuladeildin": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 3,
+    "totalProjected": 3,
+    "totalCrosses": 77,
+    "totalShotsBox": 10
   },
   "Serie C": {
     "matches": 6,
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 145,
-    "totalCorners": 968,
-    "totalProjected": 982,
-    "totalCrosses": 4338,
-    "totalShotsBox": 494
+    "matches": 191,
+    "totalCorners": 1397,
+    "totalProjected": 1411,
+    "totalCrosses": 6122,
+    "totalShotsBox": 519
   },
   "National": {
     "matches": 0,
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 75
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 43,
+    "totalShotsBox": 11
   },
   "Supercopa rumana - Final": {
     "matches": 0,
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 42
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 1,
-    "totalCorners": 12,
-    "totalProjected": 12,
-    "totalCrosses": 54,
-    "totalShotsBox": 14
+    "matches": 5,
+    "totalCorners": 54,
+    "totalProjected": 52,
+    "totalCrosses": 349,
+    "totalShotsBox": 70
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1757,11 +1757,11 @@
     "totalShotsBox": 84
   },
   "Africa Cup of Nations Women": {
-    "matches": 13,
-    "totalCorners": 80,
-    "totalProjected": 80,
-    "totalCrosses": 635,
-    "totalShotsBox": 157
+    "matches": 14,
+    "totalCorners": 88,
+    "totalProjected": 88,
+    "totalCrosses": 689,
+    "totalShotsBox": 177
   },
   "Liga de Segunda -": {
     "matches": 2,
@@ -1797,5 +1797,12 @@
     "totalProjected": 12,
     "totalCrosses": 33,
     "totalShotsBox": 11
+  },
+  "CFU Club Shield - Cuartos de Final": {
+    "matches": 4,
+    "totalCorners": 28,
+    "totalProjected": 26,
+    "totalCrosses": 63,
+    "totalShotsBox": 2
   }
 }
