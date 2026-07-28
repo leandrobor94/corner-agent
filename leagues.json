@@ -217,11 +217,11 @@
     "totalShotsBox": 0
   },
   "Inkasso": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 12,
+    "totalCrosses": 75,
+    "totalShotsBox": 16
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 6,
@@ -560,11 +560,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 3,
-    "totalCorners": 36,
-    "totalProjected": 36,
-    "totalCrosses": 81,
-    "totalShotsBox": 27
+    "matches": 4,
+    "totalCorners": 45,
+    "totalProjected": 45,
+    "totalCrosses": 272,
+    "totalShotsBox": 39
   },
   "Mundial - Grupo G": {
     "matches": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 191,
-    "totalCorners": 1397,
-    "totalProjected": 1411,
-    "totalCrosses": 6122,
+    "matches": 200,
+    "totalCorners": 1471,
+    "totalProjected": 1486,
+    "totalCrosses": 6517,
     "totalShotsBox": 519
   },
   "National": {
@@ -798,11 +798,11 @@
     "totalShotsBox": 105
   },
   "Division": {
-    "matches": 13,
-    "totalCorners": 74,
-    "totalProjected": 74,
-    "totalCrosses": 689,
-    "totalShotsBox": 108
+    "matches": 14,
+    "totalCorners": 80,
+    "totalProjected": 80,
+    "totalCrosses": 742,
+    "totalShotsBox": 119
   },
   "Super Liga - Fase de": {
     "matches": 0,
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 75
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 1,
+    "matches": 2,
     "totalCorners": 8,
     "totalProjected": 8,
-    "totalCrosses": 43,
-    "totalShotsBox": 11
+    "totalCrosses": 128,
+    "totalShotsBox": 24
   },
   "Supercopa rumana - Final": {
     "matches": 0,
@@ -1393,11 +1393,11 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Segunda Ronda": {
-    "matches": 3,
-    "totalCorners": 41,
-    "totalProjected": 41,
-    "totalCrosses": 137,
-    "totalShotsBox": 42
+    "matches": 8,
+    "totalCorners": 92,
+    "totalProjected": 89,
+    "totalCrosses": 368,
+    "totalShotsBox": 124
   },
   "UEFA Conference League - 2da ronda de clasificación": {
     "matches": 5,
@@ -1582,11 +1582,11 @@
     "totalShotsBox": 330
   },
   "Copa de Primera -": {
-    "matches": 4,
-    "totalCorners": 47,
-    "totalProjected": 47,
-    "totalCrosses": 207,
-    "totalShotsBox": 67
+    "matches": 6,
+    "totalCorners": 73,
+    "totalProjected": 73,
+    "totalCrosses": 273,
+    "totalShotsBox": 92
   },
   "Liga Profesional Argentina -": {
     "matches": 6,
