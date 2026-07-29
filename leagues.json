@@ -217,11 +217,11 @@
     "totalShotsBox": 0
   },
   "Inkasso": {
-    "matches": 3,
-    "totalCorners": 15,
-    "totalProjected": 15,
-    "totalCrosses": 121,
-    "totalShotsBox": 28
+    "matches": 4,
+    "totalCorners": 30,
+    "totalProjected": 30,
+    "totalCrosses": 153,
+    "totalShotsBox": 38
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 6,
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 256,
-    "totalCorners": 1881,
-    "totalProjected": 1908,
-    "totalCrosses": 8436,
-    "totalShotsBox": 581
+    "matches": 274,
+    "totalCorners": 2067,
+    "totalProjected": 2097,
+    "totalCrosses": 9146,
+    "totalShotsBox": 606
   },
   "National": {
     "matches": 3,
@@ -840,9 +840,9 @@
     "totalShotsBox": 0
   },
   "Campeonato Anual FEM": {
-    "matches": 6,
-    "totalCorners": 60,
-    "totalProjected": 60,
+    "matches": 7,
+    "totalCorners": 70,
+    "totalProjected": 70,
     "totalCrosses": 284,
     "totalShotsBox": 0
   },
@@ -973,9 +973,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina de Fútbol": {
-    "matches": 14,
-    "totalCorners": 94,
-    "totalProjected": 94,
+    "matches": 15,
+    "totalCorners": 107,
+    "totalProjected": 107,
     "totalCrosses": 475,
     "totalShotsBox": 0
   },
@@ -1211,10 +1211,10 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - Segunda Fase": {
-    "matches": 1,
-    "totalCorners": 9,
-    "totalProjected": 9,
-    "totalCrosses": 40,
+    "matches": 3,
+    "totalCorners": 29,
+    "totalProjected": 30,
+    "totalCrosses": 127,
     "totalShotsBox": 0
   },
   "Mundial -": {
@@ -1393,18 +1393,18 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Segunda Ronda": {
-    "matches": 17,
-    "totalCorners": 197,
-    "totalProjected": 194,
-    "totalCrosses": 820,
-    "totalShotsBox": 239
+    "matches": 18,
+    "totalCorners": 203,
+    "totalProjected": 200,
+    "totalCrosses": 866,
+    "totalShotsBox": 253
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 8,
-    "totalCorners": 82,
-    "totalProjected": 80,
-    "totalCrosses": 440,
-    "totalShotsBox": 115
+    "matches": 10,
+    "totalCorners": 92,
+    "totalProjected": 92,
+    "totalCrosses": 478,
+    "totalShotsBox": 138
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1582,11 +1582,11 @@
     "totalShotsBox": 330
   },
   "Copa de Primera -": {
-    "matches": 8,
-    "totalCorners": 85,
-    "totalProjected": 86,
-    "totalCrosses": 354,
-    "totalShotsBox": 117
+    "matches": 9,
+    "totalCorners": 91,
+    "totalProjected": 92,
+    "totalCrosses": 407,
+    "totalShotsBox": 134
   },
   "Liga Profesional Argentina -": {
     "matches": 8,
@@ -1701,10 +1701,10 @@
     "totalShotsBox": 0
   },
   "Liga FUTVE 2": {
-    "matches": 7,
-    "totalCorners": 64,
-    "totalProjected": 64,
-    "totalCrosses": 350,
+    "matches": 8,
+    "totalCorners": 74,
+    "totalProjected": 74,
+    "totalCrosses": 409,
     "totalShotsBox": 0
   },
   "CFU Club Shield - Octavos de final": {
