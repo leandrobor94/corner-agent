@@ -140,11 +140,11 @@
     "totalShotsBox": 0
   },
   "Ykkosliiga": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 41,
+    "totalShotsBox": 12
   },
   "A Lyga": {
     "matches": 9,
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 217,
-    "totalCorners": 1570,
-    "totalProjected": 1588,
-    "totalCrosses": 6937,
+    "matches": 225,
+    "totalCorners": 1623,
+    "totalProjected": 1644,
+    "totalCrosses": 7203,
     "totalShotsBox": 568
   },
   "National": {
@@ -1225,11 +1225,11 @@
     "totalShotsBox": 0
   },
   "Kazakhstan Cup": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 34,
+    "totalShotsBox": 14
   },
   "Copa Rio - Octavos de final": {
     "matches": 0,
@@ -1239,11 +1239,11 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 35,
-    "totalCorners": 370,
-    "totalProjected": 365,
-    "totalCrosses": 1253,
-    "totalShotsBox": 354
+    "matches": 36,
+    "totalCorners": 378,
+    "totalProjected": 373,
+    "totalCrosses": 1291,
+    "totalShotsBox": 371
   },
   "Liga MX Sub21 -": {
     "matches": 10,
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 124
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 5,
-    "totalCorners": 54,
-    "totalProjected": 52,
-    "totalCrosses": 349,
-    "totalShotsBox": 70
+    "matches": 6,
+    "totalCorners": 60,
+    "totalProjected": 58,
+    "totalCrosses": 370,
+    "totalShotsBox": 87
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1792,11 +1792,11 @@
     "totalShotsBox": 93
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 2,
-    "totalCorners": 22,
-    "totalProjected": 22,
-    "totalCrosses": 67,
-    "totalShotsBox": 22
+    "matches": 4,
+    "totalCorners": 50,
+    "totalProjected": 50,
+    "totalCrosses": 117,
+    "totalShotsBox": 39
   },
   "CFU Club Shield - Cuartos de Final": {
     "matches": 6,
@@ -1817,6 +1817,13 @@
     "totalCorners": 6,
     "totalProjected": 6,
     "totalCrosses": 55,
+    "totalShotsBox": 0
+  },
+  "Copa rumana - Clasificación": {
+    "matches": 4,
+    "totalCorners": 32,
+    "totalProjected": 29,
+    "totalCrosses": 205,
     "totalShotsBox": 0
   }
 }
