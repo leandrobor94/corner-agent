@@ -637,16 +637,16 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 201,
-    "totalCorners": 1473,
-    "totalProjected": 1488,
-    "totalCrosses": 6574,
-    "totalShotsBox": 519
+    "matches": 206,
+    "totalCorners": 1502,
+    "totalProjected": 1517,
+    "totalCrosses": 6720,
+    "totalShotsBox": 542
   },
   "National": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1804,5 +1804,12 @@
     "totalProjected": 40,
     "totalCrosses": 102,
     "totalShotsBox": 4
+  },
+  "FA Cup - 16avos de final": {
+    "matches": 9,
+    "totalCorners": 82,
+    "totalProjected": 82,
+    "totalCrosses": 443,
+    "totalShotsBox": 84
   }
 }
