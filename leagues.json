@@ -217,11 +217,11 @@
     "totalShotsBox": 0
   },
   "Inkasso": {
-    "matches": 2,
-    "totalCorners": 12,
-    "totalProjected": 12,
-    "totalCrosses": 75,
-    "totalShotsBox": 16
+    "matches": 3,
+    "totalCorners": 15,
+    "totalProjected": 15,
+    "totalCrosses": 121,
+    "totalShotsBox": 28
   },
   "Primera C Metropolitana - Zona A": {
     "matches": 6,
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 240,
-    "totalCorners": 1730,
-    "totalProjected": 1754,
-    "totalCrosses": 7640,
-    "totalShotsBox": 578
+    "matches": 256,
+    "totalCorners": 1881,
+    "totalProjected": 1908,
+    "totalCrosses": 8436,
+    "totalShotsBox": 581
   },
   "National": {
     "matches": 3,
@@ -973,9 +973,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina de Fútbol": {
-    "matches": 13,
-    "totalCorners": 87,
-    "totalProjected": 87,
+    "matches": 14,
+    "totalCorners": 94,
+    "totalProjected": 94,
     "totalCrosses": 475,
     "totalShotsBox": 0
   },
@@ -1393,18 +1393,18 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Segunda Ronda": {
-    "matches": 10,
-    "totalCorners": 106,
-    "totalProjected": 103,
-    "totalCrosses": 496,
-    "totalShotsBox": 156
+    "matches": 17,
+    "totalCorners": 197,
+    "totalProjected": 194,
+    "totalCrosses": 820,
+    "totalShotsBox": 239
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 7,
-    "totalCorners": 66,
-    "totalProjected": 64,
-    "totalCrosses": 391,
-    "totalShotsBox": 104
+    "matches": 8,
+    "totalCorners": 82,
+    "totalProjected": 80,
+    "totalCrosses": 440,
+    "totalShotsBox": 115
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1589,11 +1589,11 @@
     "totalShotsBox": 117
   },
   "Liga Profesional Argentina -": {
-    "matches": 6,
-    "totalCorners": 60,
-    "totalProjected": 60,
-    "totalCrosses": 264,
-    "totalShotsBox": 84
+    "matches": 8,
+    "totalCorners": 78,
+    "totalProjected": 75,
+    "totalCrosses": 318,
+    "totalShotsBox": 98
   },
   "Liga Femenina BetPlay": {
     "matches": 7,
@@ -1673,18 +1673,18 @@
     "totalShotsBox": 265
   },
   "Torneo Reservas -": {
-    "matches": 9,
-    "totalCorners": 71,
-    "totalProjected": 71,
+    "matches": 11,
+    "totalCorners": 83,
+    "totalProjected": 82,
     "totalCrosses": 365,
     "totalShotsBox": 0
   },
   "Toto League Cup": {
-    "matches": 3,
-    "totalCorners": 32,
-    "totalProjected": 32,
-    "totalCrosses": 193,
-    "totalShotsBox": 42
+    "matches": 4,
+    "totalCorners": 44,
+    "totalProjected": 44,
+    "totalCrosses": 241,
+    "totalShotsBox": 54
   },
   "Goiano 2": {
     "matches": 0,
@@ -1757,11 +1757,11 @@
     "totalShotsBox": 84
   },
   "Africa Cup of Nations Women": {
-    "matches": 15,
-    "totalCorners": 97,
-    "totalProjected": 97,
-    "totalCrosses": 757,
-    "totalShotsBox": 194
+    "matches": 16,
+    "totalCorners": 105,
+    "totalProjected": 105,
+    "totalCrosses": 808,
+    "totalShotsBox": 209
   },
   "Liga de Segunda -": {
     "matches": 2,
@@ -1792,11 +1792,11 @@
     "totalShotsBox": 102
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 6,
-    "totalCorners": 78,
-    "totalProjected": 78,
-    "totalCrosses": 167,
-    "totalShotsBox": 56
+    "matches": 7,
+    "totalCorners": 86,
+    "totalProjected": 86,
+    "totalCrosses": 196,
+    "totalShotsBox": 66
   },
   "CFU Club Shield - Cuartos de Final": {
     "matches": 6,
