@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 211,
-    "totalCorners": 1538,
-    "totalProjected": 1553,
-    "totalCrosses": 6866,
-    "totalShotsBox": 565
+    "matches": 217,
+    "totalCorners": 1570,
+    "totalProjected": 1588,
+    "totalCrosses": 6937,
+    "totalShotsBox": 568
   },
   "National": {
     "matches": 3,
@@ -1141,10 +1141,10 @@
     "totalShotsBox": 75
   },
   "Premier League - PlayOffs - Fase de": {
-    "matches": 2,
-    "totalCorners": 8,
-    "totalProjected": 8,
-    "totalCrosses": 128,
+    "matches": 3,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 161,
     "totalShotsBox": 24
   },
   "Supercopa rumana - Final": {
@@ -1785,18 +1785,18 @@
     "totalShotsBox": 7
   },
   "CECAFA Kagame Cup": {
-    "matches": 7,
-    "totalCorners": 79,
-    "totalProjected": 79,
-    "totalCrosses": 300,
-    "totalShotsBox": 74
+    "matches": 9,
+    "totalCorners": 93,
+    "totalProjected": 91,
+    "totalCrosses": 396,
+    "totalShotsBox": 93
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 1,
-    "totalCorners": 12,
-    "totalProjected": 12,
-    "totalCrosses": 33,
-    "totalShotsBox": 11
+    "matches": 2,
+    "totalCorners": 22,
+    "totalProjected": 22,
+    "totalCrosses": 67,
+    "totalShotsBox": 22
   },
   "CFU Club Shield - Cuartos de Final": {
     "matches": 6,
@@ -1811,5 +1811,12 @@
     "totalProjected": 208,
     "totalCrosses": 1048,
     "totalShotsBox": 202
+  },
+  "Africa U20 Cup of Nations - Clasificación": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 55,
+    "totalShotsBox": 0
   }
 }
