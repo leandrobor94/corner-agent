@@ -406,11 +406,11 @@
     "totalShotsBox": 0
   },
   "Primera C Metropolitana - Zona B": {
-    "matches": 13,
-    "totalCorners": 92,
-    "totalProjected": 92,
-    "totalCrosses": 515,
-    "totalShotsBox": 116
+    "matches": 14,
+    "totalCorners": 106,
+    "totalProjected": 106,
+    "totalCrosses": 557,
+    "totalShotsBox": 130
   },
   "Serie D - Grupo 7": {
     "matches": 0,
@@ -560,11 +560,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 5,
-    "totalCorners": 52,
-    "totalProjected": 52,
-    "totalCrosses": 321,
-    "totalShotsBox": 41
+    "matches": 6,
+    "totalCorners": 59,
+    "totalProjected": 59,
+    "totalCrosses": 370,
+    "totalShotsBox": 43
   },
   "Mundial - Grupo G": {
     "matches": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 309,
-    "totalCorners": 2367,
-    "totalProjected": 2401,
-    "totalCrosses": 10372,
+    "matches": 311,
+    "totalCorners": 2382,
+    "totalProjected": 2416,
+    "totalCrosses": 10474,
     "totalShotsBox": 639
   },
   "National": {
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 273
   },
   "UEFA Conference League - 2da ronda de clasificación": {
-    "matches": 37,
-    "totalCorners": 327,
-    "totalProjected": 326,
-    "totalCrosses": 1851,
-    "totalShotsBox": 515
+    "matches": 69,
+    "totalCorners": 622,
+    "totalProjected": 618,
+    "totalCrosses": 3590,
+    "totalShotsBox": 954
   },
   "Torneo Sub-20 de la": {
     "matches": 3,
@@ -1435,10 +1435,10 @@
     "totalShotsBox": 0
   },
   "Brasileirao Sub20 -": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
+    "matches": 1,
+    "totalCorners": 11,
+    "totalProjected": 11,
+    "totalCrosses": 42,
     "totalShotsBox": 0
   },
   "CFU Club Shield - Primera Ronda": {
@@ -1449,17 +1449,17 @@
     "totalShotsBox": 0
   },
   "UEFA Europa League Clasificatorio - Segunda Ronda": {
-    "matches": 5,
-    "totalCorners": 53,
-    "totalProjected": 53,
-    "totalCrosses": 219,
-    "totalShotsBox": 64
+    "matches": 13,
+    "totalCorners": 130,
+    "totalProjected": 130,
+    "totalCrosses": 574,
+    "totalShotsBox": 191
   },
   "División Reserva -": {
-    "matches": 14,
-    "totalCorners": 141,
-    "totalProjected": 141,
-    "totalCrosses": 631,
+    "matches": 15,
+    "totalCorners": 145,
+    "totalProjected": 145,
+    "totalCrosses": 677,
     "totalShotsBox": 0
   },
   "Persha Liga": {
@@ -1582,11 +1582,11 @@
     "totalShotsBox": 330
   },
   "Copa de Primera -": {
-    "matches": 11,
-    "totalCorners": 110,
-    "totalProjected": 111,
-    "totalCrosses": 515,
-    "totalShotsBox": 165
+    "matches": 12,
+    "totalCorners": 117,
+    "totalProjected": 118,
+    "totalCrosses": 568,
+    "totalShotsBox": 177
   },
   "Liga Profesional Argentina -": {
     "matches": 9,
@@ -1757,11 +1757,11 @@
     "totalShotsBox": 84
   },
   "Africa Cup of Nations Women": {
-    "matches": 18,
-    "totalCorners": 122,
-    "totalProjected": 122,
-    "totalCrosses": 945,
-    "totalShotsBox": 248
+    "matches": 19,
+    "totalCorners": 133,
+    "totalProjected": 133,
+    "totalCrosses": 1027,
+    "totalShotsBox": 273
   },
   "Liga de Segunda -": {
     "matches": 2,
@@ -1785,11 +1785,11 @@
     "totalShotsBox": 7
   },
   "CECAFA Kagame Cup": {
-    "matches": 11,
-    "totalCorners": 111,
-    "totalProjected": 109,
-    "totalCrosses": 465,
-    "totalShotsBox": 108
+    "matches": 12,
+    "totalCorners": 120,
+    "totalProjected": 118,
+    "totalCrosses": 483,
+    "totalShotsBox": 114
   },
   "Copa de Rusia - Regions Path -": {
     "matches": 9,
@@ -1813,10 +1813,10 @@
     "totalShotsBox": 202
   },
   "Africa U20 Cup of Nations - Clasificación": {
-    "matches": 3,
-    "totalCorners": 14,
-    "totalProjected": 14,
-    "totalCrosses": 146,
+    "matches": 4,
+    "totalCorners": 19,
+    "totalProjected": 19,
+    "totalCrosses": 195,
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
@@ -1841,10 +1841,10 @@
     "totalShotsBox": 28
   },
   "Toto Cup National": {
-    "matches": 5,
-    "totalCorners": 35,
-    "totalProjected": 35,
-    "totalCrosses": 169,
+    "matches": 10,
+    "totalCorners": 70,
+    "totalProjected": 70,
+    "totalCrosses": 338,
     "totalShotsBox": 0
   }
 }
