@@ -224,11 +224,11 @@
     "totalShotsBox": 57
   },
   "Primera C Metropolitana - Zona A": {
-    "matches": 12,
-    "totalCorners": 114,
-    "totalProjected": 115,
-    "totalCrosses": 638,
-    "totalShotsBox": 136
+    "matches": 16,
+    "totalCorners": 168,
+    "totalProjected": 166,
+    "totalCrosses": 855,
+    "totalShotsBox": 170
   },
   "Brasileirão - Série B": {
     "matches": 6,
@@ -637,7 +637,7 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 384,
+    "matches": 385,
     "totalCorners": 2910,
     "totalProjected": 2953,
     "totalCrosses": 12969,
@@ -1134,11 +1134,11 @@
     "totalShotsBox": 0
   },
   "División": {
-    "matches": 7,
-    "totalCorners": 80,
-    "totalProjected": 80,
-    "totalCrosses": 218,
-    "totalShotsBox": 92
+    "matches": 8,
+    "totalCorners": 89,
+    "totalProjected": 89,
+    "totalCrosses": 262,
+    "totalShotsBox": 112
   },
   "Premier League - PlayOffs - Fase de": {
     "matches": 3,
@@ -1617,11 +1617,11 @@
     "totalShotsBox": 0
   },
   "Torneo BetPlay Dimayor - Finalización": {
-    "matches": 3,
-    "totalCorners": 40,
-    "totalProjected": 40,
-    "totalCrosses": 146,
-    "totalShotsBox": 39
+    "matches": 5,
+    "totalCorners": 54,
+    "totalProjected": 56,
+    "totalCrosses": 223,
+    "totalShotsBox": 61
   },
   "Liga BetPlay Dimayor -": {
     "matches": 4,
@@ -1715,11 +1715,11 @@
     "totalShotsBox": 24
   },
   "CONCACAF Campeonato Sub20 - Grupo A": {
-    "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 10,
-    "totalCrosses": 22,
-    "totalShotsBox": 15
+    "matches": 3,
+    "totalCorners": 20,
+    "totalProjected": 18,
+    "totalCrosses": 124,
+    "totalShotsBox": 36
   },
   "Primera Division -": {
     "matches": 24,
@@ -1888,5 +1888,19 @@
     "totalProjected": 7,
     "totalCrosses": 50,
     "totalShotsBox": 11
+  },
+  "Liga de Ascenso -": {
+    "matches": 2,
+    "totalCorners": 24,
+    "totalProjected": 24,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Liga FUTVE -": {
+    "matches": 2,
+    "totalCorners": 24,
+    "totalProjected": 24,
+    "totalCrosses": 80,
+    "totalShotsBox": 27
   }
 }
