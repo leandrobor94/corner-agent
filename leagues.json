@@ -427,11 +427,11 @@
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
-    "matches": 7,
-    "totalCorners": 46,
-    "totalProjected": 46,
-    "totalCrosses": 196,
-    "totalShotsBox": 117
+    "matches": 8,
+    "totalCorners": 57,
+    "totalProjected": 57,
+    "totalCrosses": 252,
+    "totalShotsBox": 121
   },
   "FA Cup": {
     "matches": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 381,
-    "totalCorners": 2892,
-    "totalProjected": 2934,
-    "totalCrosses": 12894,
+    "matches": 384,
+    "totalCorners": 2910,
+    "totalProjected": 2953,
+    "totalCrosses": 12969,
     "totalShotsBox": 663
   },
   "National": {
@@ -798,11 +798,11 @@
     "totalShotsBox": 105
   },
   "Division": {
-    "matches": 14,
-    "totalCorners": 80,
-    "totalProjected": 80,
-    "totalCrosses": 742,
-    "totalShotsBox": 119
+    "matches": 15,
+    "totalCorners": 92,
+    "totalProjected": 92,
+    "totalCrosses": 775,
+    "totalShotsBox": 132
   },
   "Super Liga - Fase de": {
     "matches": 0,
@@ -910,11 +910,11 @@
     "totalShotsBox": 0
   },
   "Serie B": {
-    "matches": 3,
-    "totalCorners": 29,
-    "totalProjected": 29,
-    "totalCrosses": 119,
-    "totalShotsBox": 23
+    "matches": 4,
+    "totalCorners": 38,
+    "totalProjected": 38,
+    "totalCrosses": 173,
+    "totalShotsBox": 33
   },
   "Copa Estonia - Primera Ronda": {
     "matches": 0,
@@ -1288,11 +1288,11 @@
     "totalShotsBox": 137
   },
   "Liga 1 -": {
-    "matches": 5,
-    "totalCorners": 35,
-    "totalProjected": 35,
-    "totalCrosses": 152,
-    "totalShotsBox": 79
+    "matches": 6,
+    "totalCorners": 47,
+    "totalProjected": 47,
+    "totalCrosses": 189,
+    "totalShotsBox": 96
   },
   "FAI Cup": {
     "matches": 0,
@@ -1323,11 +1323,11 @@
     "totalShotsBox": 0
   },
   "Liga 2": {
-    "matches": 9,
-    "totalCorners": 115,
-    "totalProjected": 115,
-    "totalCrosses": 499,
-    "totalShotsBox": 115
+    "matches": 10,
+    "totalCorners": 120,
+    "totalProjected": 120,
+    "totalCrosses": 557,
+    "totalShotsBox": 127
   },
   "Serie D - Octavos de final": {
     "matches": 12,
@@ -1596,11 +1596,11 @@
     "totalShotsBox": 115
   },
   "Liga Femenina BetPlay": {
-    "matches": 7,
-    "totalCorners": 43,
-    "totalProjected": 43,
-    "totalCrosses": 347,
-    "totalShotsBox": 99
+    "matches": 8,
+    "totalCorners": 50,
+    "totalProjected": 50,
+    "totalCrosses": 404,
+    "totalShotsBox": 123
   },
   "CONCACAF Campeonato Sub20 - Grupo B": {
     "matches": 0,
@@ -1834,11 +1834,11 @@
     "totalShotsBox": 16
   },
   "Juegos Centroamericanos y del Caribe (F)": {
-    "matches": 2,
-    "totalCorners": 19,
-    "totalProjected": 19,
-    "totalCrosses": 73,
-    "totalShotsBox": 28
+    "matches": 4,
+    "totalCorners": 32,
+    "totalProjected": 32,
+    "totalCrosses": 154,
+    "totalShotsBox": 50
   },
   "Toto Cup National": {
     "matches": 10,
@@ -1848,11 +1848,11 @@
     "totalShotsBox": 0
   },
   "2º División de": {
-    "matches": 10,
-    "totalCorners": 99,
-    "totalProjected": 96,
-    "totalCrosses": 412,
-    "totalShotsBox": 109
+    "matches": 11,
+    "totalCorners": 109,
+    "totalProjected": 106,
+    "totalCrosses": 460,
+    "totalShotsBox": 121
   },
   "Regionalliga -": {
     "matches": 3,
@@ -1869,17 +1869,24 @@
     "totalShotsBox": 12
   },
   "CFU Club Shield -": {
-    "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 10,
-    "totalCrosses": 35,
-    "totalShotsBox": 10
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 20,
+    "totalCrosses": 69,
+    "totalShotsBox": 17
   },
   "Cymru": {
-    "matches": 3,
-    "totalCorners": 24,
-    "totalProjected": 24,
-    "totalCrosses": 158,
-    "totalShotsBox": 38
+    "matches": 4,
+    "totalCorners": 31,
+    "totalProjected": 31,
+    "totalCrosses": 191,
+    "totalShotsBox": 48
+  },
+  "Copa Africana de Naciones (F)": {
+    "matches": 1,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 50,
+    "totalShotsBox": 11
   }
 }
