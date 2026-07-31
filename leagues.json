@@ -84,9 +84,9 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 13,
-    "totalCorners": 140,
-    "totalProjected": 140,
+    "matches": 15,
+    "totalCorners": 154,
+    "totalProjected": 152,
     "totalCrosses": 419,
     "totalShotsBox": 0
   },
@@ -112,11 +112,11 @@
     "totalShotsBox": 0
   },
   "Vysshaya Liga": {
-    "matches": 0,
+    "matches": 1,
     "totalCorners": 0,
     "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "totalCrosses": 23,
+    "totalShotsBox": 2
   },
   "Erovnuli Liga": {
     "matches": 0,
@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 329,
-    "totalCorners": 2504,
-    "totalProjected": 2544,
-    "totalCrosses": 10913,
+    "matches": 332,
+    "totalCorners": 2520,
+    "totalProjected": 2560,
+    "totalCrosses": 10962,
     "totalShotsBox": 639
   },
   "National": {
@@ -1463,18 +1463,18 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 12,
-    "totalCorners": 116,
-    "totalProjected": 136,
-    "totalCrosses": 535,
-    "totalShotsBox": 141
+    "matches": 14,
+    "totalCorners": 140,
+    "totalProjected": 159,
+    "totalCrosses": 592,
+    "totalShotsBox": 155
   },
   "ASEAN": {
-    "matches": 7,
-    "totalCorners": 60,
-    "totalProjected": 60,
-    "totalCrosses": 318,
-    "totalShotsBox": 90
+    "matches": 8,
+    "totalCorners": 70,
+    "totalProjected": 70,
+    "totalCrosses": 354,
+    "totalShotsBox": 110
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
     "matches": 6,
@@ -1610,10 +1610,10 @@
     "totalShotsBox": 0
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Sur": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 32,
     "totalShotsBox": 0
   },
   "Torneo BetPlay Dimayor - Finalización": {
