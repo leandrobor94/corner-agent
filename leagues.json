@@ -637,10 +637,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 312,
-    "totalCorners": 2390,
-    "totalProjected": 2424,
-    "totalCrosses": 10511,
+    "matches": 320,
+    "totalCorners": 2447,
+    "totalProjected": 2484,
+    "totalCrosses": 10712,
     "totalShotsBox": 639
   },
   "National": {
@@ -1463,18 +1463,18 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 10,
-    "totalCorners": 100,
-    "totalProjected": 120,
-    "totalCrosses": 435,
-    "totalShotsBox": 115
+    "matches": 11,
+    "totalCorners": 108,
+    "totalProjected": 128,
+    "totalCrosses": 485,
+    "totalShotsBox": 128
   },
   "ASEAN": {
-    "matches": 5,
-    "totalCorners": 44,
-    "totalProjected": 44,
-    "totalCrosses": 158,
-    "totalShotsBox": 62
+    "matches": 6,
+    "totalCorners": 52,
+    "totalProjected": 52,
+    "totalCrosses": 238,
+    "totalShotsBox": 76
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
     "matches": 6,
