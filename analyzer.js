@@ -97,6 +97,10 @@ function analyzeMatch(match, stats, minute) {
         possession: { home: home.possession, away: away.possession },
         totalShots: (home.totalShots || 0) + (away.totalShots || 0),
       },
+      teams: {
+        home: { corners: homeCorners, crosses: home.crosses, shotsInsideBox: home.shotsInsideBox, attacks: home.attacks, totalShots: home.totalShots || 0 },
+        away: { corners: awayCorners, crosses: away.crosses, shotsInsideBox: away.shotsInsideBox, attacks: away.attacks, totalShots: away.totalShots || 0 },
+      },
       teamAlerts: [], totalAlerts: [],
     };
   }
@@ -130,18 +134,18 @@ function analyzeMatch(match, stats, minute) {
     const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
     const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
-    // Pesos dinámicos: si no hay keyPasses, redistribuir a baseRate y shots
+    // Dos modos: con keyPasses (usa el 10% extra) o sin (pesos originales calibrados)
     const hasKeyPasses = (teamStats.keyPasses || 0) > 0;
-    const effRateW = hasKeyPasses ? CONFIG.RATE_WEIGHT : CONFIG.RATE_WEIGHT + CONFIG.KEYPASS_WEIGHT * 0.6;
-    const effShotsW = hasKeyPasses ? CONFIG.SHOTS_BOX_WEIGHT : CONFIG.SHOTS_BOX_WEIGHT + CONFIG.KEYPASS_WEIGHT * 0.4;
-    const effKeyPassW = hasKeyPasses ? CONFIG.KEYPASS_WEIGHT : 0;
+    const rateW = hasKeyPasses ? 0.60 : 0.65;
+    const shotsW = hasKeyPasses ? 0.20 : 0.25;
+    const keyW  = hasKeyPasses ? 0.10 : 0;
 
     let blended = (
-      baseProj * effRateW +
+      baseProj * rateW +
       (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
-      (imbalanced ? baseProj : projFromShots) * effShotsW +
+      (imbalanced ? baseProj : projFromShots) * shotsW +
       (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT +
-      (imbalanced ? baseProj : projFromKeyPasses) * effKeyPassW +
+      (imbalanced ? baseProj : projFromKeyPasses) * keyW +
       bigChanceBonus
     ) * needFactor;
 
@@ -217,18 +221,22 @@ function analyzeMatch(match, stats, minute) {
     corners: { home: homeCorners, away: awayCorners, total: totalCorners },
     projected: { home: homeProjected, away: awayProjected, total: projectedTotal },
     stats: {
-      crosses: home.crosses + away.crosses,
-      shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
-      shotsOnTarget: (home.shotsOnTarget || 0) + (away.shotsOnTarget || 0),
-      keyPasses: (home.keyPasses || 0) + (away.keyPasses || 0),
-      bigChances: (home.bigChances || 0) + (away.bigChances || 0),
-      attacks: home.attacks + away.attacks,
-      possession: { home: home.possession, away: away.possession },
-      totalShots: (home.totalShots || 0) + (away.totalShots || 0),
-    },
-    teamAlerts, totalAlerts,
-  };
-}
+        crosses: home.crosses + away.crosses,
+        shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
+        shotsOnTarget: (home.shotsOnTarget || 0) + (away.shotsOnTarget || 0),
+        keyPasses: (home.keyPasses || 0) + (away.keyPasses || 0),
+        bigChances: (home.bigChances || 0) + (away.bigChances || 0),
+        attacks: home.attacks + away.attacks,
+        possession: { home: home.possession, away: away.possession },
+        totalShots: (home.totalShots || 0) + (away.totalShots || 0),
+      },
+      teams: {
+        home: { corners: homeCorners, crosses: home.crosses, shotsInsideBox: home.shotsInsideBox, shotsOnTarget: home.shotsOnTarget || 0, keyPasses: home.keyPasses || 0, bigChances: home.bigChances || 0, attacks: home.attacks, totalShots: home.totalShots || 0 },
+        away: { corners: awayCorners, crosses: away.crosses, shotsInsideBox: away.shotsInsideBox, shotsOnTarget: away.shotsOnTarget || 0, keyPasses: away.keyPasses || 0, bigChances: away.bigChances || 0, attacks: away.attacks, totalShots: away.totalShots || 0 },
+      },
+      teamAlerts, totalAlerts,
+    };
+  }
 
 function buildReasoning(name, side, match, stats, goalDiff) {
   const isHome = side === 'home';
