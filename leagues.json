@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 387,
-    "totalCorners": 2925,
-    "totalProjected": 2968,
-    "totalCrosses": 13040,
-    "totalShotsBox": 663
+    "matches": 402,
+    "totalCorners": 3051,
+    "totalProjected": 3095,
+    "totalCrosses": 13340,
+    "totalShotsBox": 665
   },
   "National": {
     "matches": 8,
@@ -672,7 +672,7 @@
     "totalShotsBox": 0
   },
   "Supreme Division Women": {
-    "matches": 0,
+    "matches": 2,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -1526,11 +1526,11 @@
     "totalShotsBox": 147
   },
   "MOL Cup - Octavos de final": {
-    "matches": 22,
-    "totalCorners": 188,
-    "totalProjected": 188,
-    "totalCrosses": 843,
-    "totalShotsBox": 222
+    "matches": 27,
+    "totalCorners": 238,
+    "totalProjected": 240,
+    "totalCrosses": 1035,
+    "totalShotsBox": 267
   },
   "I Liga": {
     "matches": 20,
@@ -1902,5 +1902,19 @@
     "totalProjected": 24,
     "totalCrosses": 80,
     "totalShotsBox": 27
+  },
+  "Liga 2 rumana - Regular": {
+    "matches": 10,
+    "totalCorners": 80,
+    "totalProjected": 87,
+    "totalCrosses": 489,
+    "totalShotsBox": 91
+  },
+  "Hungarian Cup - Primera Ronda": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 40,
+    "totalShotsBox": 0
   }
 }
