@@ -140,36 +140,36 @@ function analyzeMatch(match, stats, minute) {
     const shotsW = hasKeyPasses ? 0.20 : 0.25;
     const keyW  = hasKeyPasses ? 0.10 : 0;
 
-    let blended = (
+    let blended = Math.round((
       baseProj * rateW +
       (imbalanced ? baseProj : projFromCrosses) * CONFIG.CROSS_WEIGHT +
       (imbalanced ? baseProj : projFromShots) * shotsW +
       (imbalanced ? baseProj : projFromAttacks) * CONFIG.ATTACK_WEIGHT +
       (imbalanced ? baseProj : projFromKeyPasses) * keyW +
       bigChanceBonus
-    ) * needFactor;
+    ) * needFactor);
 
     // Home boost
-    if (isHome) blended *= CONFIG.HOME_BOOST;
+    if (isHome) blended = Math.round(blended * CONFIG.HOME_BOOST);
 
     // Decay factors
     if (minute >= CONFIG.LATE_GAME_DECAY_MIN) {
-      blended *= CONFIG.LATE_GAME_DECAY_FACTOR;
+      blended = Math.round(blended * CONFIG.LATE_GAME_DECAY_FACTOR);
     } else if (minute >= CONFIG.MID_GAME_DECAY_MIN) {
-      blended *= CONFIG.MID_GAME_DECAY_FACTOR;
+      blended = Math.round(blended * CONFIG.MID_GAME_DECAY_FACTOR);
     }
 
     // Low corners penalty
     if (teamCurrent <= CONFIG.LOW_CORNERS_THRESHOLD && minute >= CONFIG.LOW_CORNERS_MIN) {
-      blended *= CONFIG.LOW_CORNERS_PENALTY;
+      blended = Math.round(blended * CONFIG.LOW_CORNERS_PENALTY);
     }
 
     // High corners decay
     if (teamCurrent >= CONFIG.HIGH_CORNERS_THRESHOLD) {
-      blended *= CONFIG.HIGH_CORNERS_DECAY;
+      blended = Math.round(blended * CONFIG.HIGH_CORNERS_DECAY);
     }
 
-    return Math.min(Math.max(teamCurrent, Math.round(blended)), CONFIG.MAX_TEAM_CORNERS);
+    return Math.min(Math.max(teamCurrent, blended), CONFIG.MAX_TEAM_CORNERS);
   }
 
   const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
