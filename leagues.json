@@ -21,11 +21,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 51,
-    "totalCorners": 410,
-    "totalProjected": 410,
-    "totalCrosses": 2091,
-    "totalShotsBox": 634
+    "matches": 53,
+    "totalCorners": 432,
+    "totalProjected": 432,
+    "totalCrosses": 2176,
+    "totalShotsBox": 664
   },
   "Ykkonen": {
     "matches": 17,
@@ -35,11 +35,11 @@
     "totalShotsBox": 245
   },
   "Segunda división": {
-    "matches": 27,
-    "totalCorners": 246,
-    "totalProjected": 240,
-    "totalCrosses": 1512,
-    "totalShotsBox": 268
+    "matches": 35,
+    "totalCorners": 312,
+    "totalProjected": 306,
+    "totalCrosses": 1916,
+    "totalShotsBox": 327
   },
   "Superettan": {
     "matches": 37,
@@ -238,11 +238,11 @@
     "totalShotsBox": 117
   },
   "League One": {
-    "matches": 31,
-    "totalCorners": 237,
-    "totalProjected": 243,
-    "totalCrosses": 918,
-    "totalShotsBox": 356
+    "matches": 34,
+    "totalCorners": 264,
+    "totalProjected": 270,
+    "totalCrosses": 1021,
+    "totalShotsBox": 400
   },
   "Meistriliiga": {
     "matches": 1,
@@ -252,18 +252,18 @@
     "totalShotsBox": 12
   },
   "Pershaya Liga": {
-    "matches": 22,
-    "totalCorners": 92,
-    "totalProjected": 78,
+    "matches": 23,
+    "totalCorners": 94,
+    "totalProjected": 80,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 20,
-    "totalCorners": 191,
-    "totalProjected": 191,
-    "totalCrosses": 694,
-    "totalShotsBox": 341
+    "matches": 21,
+    "totalCorners": 198,
+    "totalProjected": 198,
+    "totalCrosses": 729,
+    "totalShotsBox": 363
   },
   "Erovnuli Liga 2": {
     "matches": 0,
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 726,
-    "totalCorners": 5640,
-    "totalProjected": 5703,
-    "totalCrosses": 24205,
-    "totalShotsBox": 952
+    "matches": 731,
+    "totalCorners": 5683,
+    "totalProjected": 5746,
+    "totalCrosses": 24403,
+    "totalShotsBox": 971
   },
   "National": {
     "matches": 8,
@@ -777,11 +777,11 @@
     "totalShotsBox": 58
   },
   "Superliga": {
-    "matches": 75,
-    "totalCorners": 701,
-    "totalProjected": 708,
-    "totalCrosses": 2668,
-    "totalShotsBox": 1297
+    "matches": 81,
+    "totalCorners": 758,
+    "totalProjected": 765,
+    "totalCrosses": 2856,
+    "totalShotsBox": 1386
   },
   "David Kipiani Cup - 16avos de final": {
     "matches": 0,
@@ -924,11 +924,11 @@
     "totalShotsBox": 0
   },
   "Allsvenskan": {
-    "matches": 25,
-    "totalCorners": 260,
-    "totalProjected": 263,
-    "totalCrosses": 773,
-    "totalShotsBox": 439
+    "matches": 27,
+    "totalCorners": 283,
+    "totalProjected": 286,
+    "totalCrosses": 833,
+    "totalShotsBox": 477
   },
   "FA Cup - 32avos de final": {
     "matches": 0,
@@ -938,11 +938,11 @@
     "totalShotsBox": 0
   },
   "Primera división": {
-    "matches": 17,
-    "totalCorners": 166,
-    "totalProjected": 175,
-    "totalCrosses": 636,
-    "totalShotsBox": 195
+    "matches": 23,
+    "totalCorners": 208,
+    "totalProjected": 226,
+    "totalCrosses": 845,
+    "totalShotsBox": 254
   },
   "Super Liga": {
     "matches": 31,
@@ -1106,11 +1106,11 @@
     "totalShotsBox": 637
   },
   "Russian First League - Regular": {
-    "matches": 32,
-    "totalCorners": 286,
-    "totalProjected": 287,
-    "totalCrosses": 848,
-    "totalShotsBox": 286
+    "matches": 33,
+    "totalCorners": 299,
+    "totalProjected": 300,
+    "totalCrosses": 873,
+    "totalShotsBox": 295
   },
   "Divisional C - Final": {
     "matches": 0,
@@ -1456,10 +1456,10 @@
     "totalShotsBox": 191
   },
   "División Reserva -": {
-    "matches": 19,
-    "totalCorners": 178,
-    "totalProjected": 178,
-    "totalCrosses": 866,
+    "matches": 20,
+    "totalCorners": 196,
+    "totalProjected": 196,
+    "totalCrosses": 922,
     "totalShotsBox": 0
   },
   "Persha Liga": {
@@ -1505,11 +1505,11 @@
     "totalShotsBox": 73
   },
   "1st": {
-    "matches": 11,
-    "totalCorners": 136,
-    "totalProjected": 136,
-    "totalCrosses": 377,
-    "totalShotsBox": 166
+    "matches": 12,
+    "totalCorners": 144,
+    "totalProjected": 144,
+    "totalCrosses": 424,
+    "totalShotsBox": 181
   },
   "Ekstraklasa - Regular": {
     "matches": 0,
@@ -1855,7 +1855,7 @@
     "totalShotsBox": 185
   },
   "Regionalliga -": {
-    "matches": 4,
+    "matches": 6,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
