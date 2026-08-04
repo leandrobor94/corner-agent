@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 875,
-    "totalCorners": 6911,
-    "totalProjected": 6934,
-    "totalCrosses": 29240,
-    "totalShotsBox": 1413
+    "matches": 880,
+    "totalCorners": 6946,
+    "totalProjected": 6969,
+    "totalCrosses": 29418,
+    "totalShotsBox": 1430
   },
   "National": {
     "matches": 8,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 9
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 0,
-    "totalCorners": 0,
-    "totalProjected": 0,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 90,
+    "totalShotsBox": 16
   },
   "Copa Estonia - Segunda Ronda": {
     "matches": 5,
@@ -1456,10 +1456,10 @@
     "totalShotsBox": 191
   },
   "División Reserva -": {
-    "matches": 24,
-    "totalCorners": 246,
-    "totalProjected": 246,
-    "totalCrosses": 1130,
+    "matches": 25,
+    "totalCorners": 259,
+    "totalProjected": 259,
+    "totalCrosses": 1183,
     "totalShotsBox": 0
   },
   "Persha Liga": {
@@ -1470,11 +1470,11 @@
     "totalShotsBox": 187
   },
   "ASEAN": {
-    "matches": 19,
-    "totalCorners": 180,
-    "totalProjected": 179,
-    "totalCrosses": 720,
-    "totalShotsBox": 268
+    "matches": 21,
+    "totalCorners": 203,
+    "totalProjected": 202,
+    "totalCrosses": 796,
+    "totalShotsBox": 303
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
     "matches": 6,
@@ -1498,11 +1498,11 @@
     "totalShotsBox": 590
   },
   "Vtora Liga": {
-    "matches": 22,
-    "totalCorners": 185,
-    "totalProjected": 185,
-    "totalCrosses": 1104,
-    "totalShotsBox": 205
+    "matches": 23,
+    "totalCorners": 198,
+    "totalProjected": 198,
+    "totalCrosses": 1159,
+    "totalShotsBox": 215
   },
   "1st": {
     "matches": 12,
@@ -1785,11 +1785,11 @@
     "totalShotsBox": 14
   },
   "CECAFA Kagame Cup": {
-    "matches": 16,
-    "totalCorners": 146,
-    "totalProjected": 144,
-    "totalCrosses": 624,
-    "totalShotsBox": 140
+    "matches": 17,
+    "totalCorners": 154,
+    "totalProjected": 152,
+    "totalCrosses": 670,
+    "totalShotsBox": 145
   },
   "Copa de Rusia - Regions Path -": {
     "matches": 9,
@@ -1904,11 +1904,11 @@
     "totalShotsBox": 75
   },
   "Liga 2 rumana - Regular": {
-    "matches": 26,
-    "totalCorners": 224,
-    "totalProjected": 223,
-    "totalCrosses": 1233,
-    "totalShotsBox": 283
+    "matches": 27,
+    "totalCorners": 238,
+    "totalProjected": 237,
+    "totalCrosses": 1279,
+    "totalShotsBox": 293
   },
   "Hungarian Cup - Primera Ronda": {
     "matches": 1,
@@ -2058,10 +2058,45 @@
     "totalShotsBox": 8
   },
   "Copa de Rusia - Grupo D": {
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 20,
+    "totalCrosses": 88,
+    "totalShotsBox": 28
+  },
+  "Slovakia Cup - Preliminary Round": {
+    "matches": 2,
+    "totalCorners": 28,
+    "totalProjected": 28,
+    "totalCrosses": 86,
+    "totalShotsBox": 0
+  },
+  "Copa de Rusia - Grupo A": {
     "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 10,
-    "totalCrosses": 44,
-    "totalShotsBox": 14
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 32,
+    "totalShotsBox": 11
+  },
+  "DBU Pokalen - Primera Ronda": {
+    "matches": 2,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 38,
+    "totalShotsBox": 0
+  },
+  "UEFA Champions League Clasificatorio - Tercera Ronda": {
+    "matches": 2,
+    "totalCorners": 13,
+    "totalProjected": 13,
+    "totalCrosses": 99,
+    "totalShotsBox": 30
+  },
+  "UEFA Conference League - 3ra ronda de clasificación": {
+    "matches": 1,
+    "totalCorners": 19,
+    "totalProjected": 19,
+    "totalCrosses": 43,
+    "totalShotsBox": 19
   }
 }
