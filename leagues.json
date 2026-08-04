@@ -560,9 +560,9 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 16,
-    "totalCorners": 163,
-    "totalProjected": 163,
+    "matches": 17,
+    "totalCorners": 166,
+    "totalProjected": 166,
     "totalCrosses": 896,
     "totalShotsBox": 143
   },
@@ -1883,11 +1883,11 @@
     "totalShotsBox": 219
   },
   "Copa Africana de Naciones (F)": {
-    "matches": 14,
-    "totalCorners": 114,
-    "totalProjected": 108,
-    "totalCrosses": 799,
-    "totalShotsBox": 176
+    "matches": 17,
+    "totalCorners": 132,
+    "totalProjected": 126,
+    "totalCrosses": 967,
+    "totalShotsBox": 212
   },
   "Liga de Ascenso -": {
     "matches": 15,
@@ -2105,5 +2105,12 @@
     "totalProjected": 17,
     "totalCrosses": 99,
     "totalShotsBox": 27
+  },
+  "Juegos Centroamericanos y del Caribe (F) -": {
+    "matches": 1,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 45,
+    "totalShotsBox": 12
   }
 }
