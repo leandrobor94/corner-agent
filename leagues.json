@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 873,
-    "totalCorners": 6892,
-    "totalProjected": 6915,
-    "totalCrosses": 29140,
-    "totalShotsBox": 1396
+    "matches": 875,
+    "totalCorners": 6911,
+    "totalProjected": 6934,
+    "totalCrosses": 29240,
+    "totalShotsBox": 1413
   },
   "National": {
     "matches": 8,
@@ -1456,10 +1456,10 @@
     "totalShotsBox": 191
   },
   "División Reserva -": {
-    "matches": 23,
-    "totalCorners": 233,
-    "totalProjected": 233,
-    "totalCrosses": 1077,
+    "matches": 24,
+    "totalCorners": 246,
+    "totalProjected": 246,
+    "totalCrosses": 1130,
     "totalShotsBox": 0
   },
   "Persha Liga": {
@@ -1470,11 +1470,11 @@
     "totalShotsBox": 187
   },
   "ASEAN": {
-    "matches": 17,
-    "totalCorners": 157,
-    "totalProjected": 156,
-    "totalCrosses": 646,
-    "totalShotsBox": 234
+    "matches": 19,
+    "totalCorners": 180,
+    "totalProjected": 179,
+    "totalCrosses": 720,
+    "totalShotsBox": 268
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
     "matches": 6,
@@ -1785,11 +1785,11 @@
     "totalShotsBox": 14
   },
   "CECAFA Kagame Cup": {
-    "matches": 15,
-    "totalCorners": 138,
-    "totalProjected": 136,
-    "totalCrosses": 578,
-    "totalShotsBox": 135
+    "matches": 16,
+    "totalCorners": 146,
+    "totalProjected": 144,
+    "totalCrosses": 624,
+    "totalShotsBox": 140
   },
   "Copa de Rusia - Regions Path -": {
     "matches": 9,
@@ -2056,5 +2056,12 @@
     "totalProjected": 7,
     "totalCrosses": 35,
     "totalShotsBox": 8
+  },
+  "Copa de Rusia - Grupo D": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 44,
+    "totalShotsBox": 14
   }
 }
