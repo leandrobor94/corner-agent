@@ -1624,11 +1624,11 @@
     "totalShotsBox": 92
   },
   "Liga BetPlay Dimayor -": {
-    "matches": 9,
-    "totalCorners": 69,
-    "totalProjected": 69,
-    "totalCrosses": 210,
-    "totalShotsBox": 118
+    "matches": 10,
+    "totalCorners": 79,
+    "totalProjected": 80,
+    "totalCrosses": 242,
+    "totalShotsBox": 130
   },
   "Ekstraklasa": {
     "matches": 51,
@@ -1897,11 +1897,11 @@
     "totalShotsBox": 0
   },
   "Liga FUTVE -": {
-    "matches": 5,
-    "totalCorners": 55,
-    "totalProjected": 55,
-    "totalCrosses": 206,
-    "totalShotsBox": 75
+    "matches": 6,
+    "totalCorners": 68,
+    "totalProjected": 68,
+    "totalCrosses": 244,
+    "totalShotsBox": 96
   },
   "Liga 2 rumana - Regular": {
     "matches": 29,
@@ -2112,5 +2112,12 @@
     "totalProjected": 7,
     "totalCrosses": 45,
     "totalShotsBox": 12
+  },
+  "CONCACAF Campeonato Sub20 - Cuartos de Final": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 18,
+    "totalCrosses": 65,
+    "totalShotsBox": 23
   }
 }
