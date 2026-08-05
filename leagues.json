@@ -252,9 +252,9 @@
     "totalShotsBox": 325
   },
   "Pershaya Liga": {
-    "matches": 29,
-    "totalCorners": 184,
-    "totalProjected": 170,
+    "matches": 30,
+    "totalCorners": 197,
+    "totalProjected": 183,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 930,
-    "totalCorners": 7318,
-    "totalProjected": 7340,
-    "totalCrosses": 31259,
-    "totalShotsBox": 1539
+    "matches": 934,
+    "totalCorners": 7344,
+    "totalProjected": 7364,
+    "totalCrosses": 31317,
+    "totalShotsBox": 1564
   },
   "National": {
     "matches": 8,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 9
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 8,
-    "totalCorners": 71,
-    "totalProjected": 66,
-    "totalCrosses": 474,
-    "totalShotsBox": 107
+    "matches": 12,
+    "totalCorners": 103,
+    "totalProjected": 94,
+    "totalCrosses": 650,
+    "totalShotsBox": 155
   },
   "Copa Estonia - Segunda Ronda": {
     "matches": 5,
@@ -1820,10 +1820,10 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 8,
-    "totalCorners": 64,
-    "totalProjected": 58,
-    "totalCrosses": 410,
+    "matches": 11,
+    "totalCorners": 85,
+    "totalProjected": 79,
+    "totalCrosses": 497,
     "totalShotsBox": 0
   },
   "Copa Ecuador - Octavos de final": {
@@ -2119,5 +2119,12 @@
     "totalProjected": 18,
     "totalCrosses": 65,
     "totalShotsBox": 23
+  },
+  "Polish Cup - 32avos de final": {
+    "matches": 2,
+    "totalCorners": 21,
+    "totalProjected": 21,
+    "totalCrosses": 89,
+    "totalShotsBox": 26
   }
 }
