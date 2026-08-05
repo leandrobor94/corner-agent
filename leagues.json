@@ -28,11 +28,11 @@
     "totalShotsBox": 1668
   },
   "Ykkonen": {
-    "matches": 22,
-    "totalCorners": 237,
-    "totalProjected": 237,
-    "totalCrosses": 926,
-    "totalShotsBox": 316
+    "matches": 27,
+    "totalCorners": 288,
+    "totalProjected": 288,
+    "totalCrosses": 1196,
+    "totalShotsBox": 387
   },
   "Segunda división": {
     "matches": 36,
@@ -252,9 +252,9 @@
     "totalShotsBox": 325
   },
   "Pershaya Liga": {
-    "matches": 34,
-    "totalCorners": 231,
-    "totalProjected": 217,
+    "matches": 39,
+    "totalCorners": 271,
+    "totalProjected": 257,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -637,11 +637,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 950,
-    "totalCorners": 7479,
-    "totalProjected": 7497,
-    "totalCrosses": 31744,
-    "totalShotsBox": 1589
+    "matches": 978,
+    "totalCorners": 7714,
+    "totalProjected": 7730,
+    "totalCrosses": 32736,
+    "totalShotsBox": 1614
   },
   "National": {
     "matches": 8,
@@ -693,11 +693,11 @@
     "totalShotsBox": 0
   },
   "Liga Femenina -": {
-    "matches": 12,
+    "matches": 13,
     "totalCorners": 63,
     "totalProjected": 63,
-    "totalCrosses": 823,
-    "totalShotsBox": 88
+    "totalCrosses": 850,
+    "totalShotsBox": 95
   },
   "Copa Simón Bolívar -": {
     "matches": 5,
@@ -840,10 +840,10 @@
     "totalShotsBox": 0
   },
   "Campeonato Anual FEM": {
-    "matches": 21,
-    "totalCorners": 182,
-    "totalProjected": 182,
-    "totalCrosses": 1008,
+    "matches": 22,
+    "totalCorners": 193,
+    "totalProjected": 193,
+    "totalCrosses": 1052,
     "totalShotsBox": 0
   },
   "Icelandic Cup - Mjólkurbikarinn -": {
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 9
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 20,
-    "totalCorners": 181,
-    "totalProjected": 167,
-    "totalCrosses": 1031,
-    "totalShotsBox": 264
+    "matches": 31,
+    "totalCorners": 300,
+    "totalProjected": 281,
+    "totalCrosses": 1561,
+    "totalShotsBox": 415
   },
   "Copa Estonia - Segunda Ronda": {
     "matches": 5,
@@ -1680,11 +1680,11 @@
     "totalShotsBox": 0
   },
   "Toto League Cup": {
-    "matches": 19,
-    "totalCorners": 159,
-    "totalProjected": 159,
-    "totalCrosses": 1338,
-    "totalShotsBox": 296
+    "matches": 21,
+    "totalCorners": 174,
+    "totalProjected": 174,
+    "totalCrosses": 1477,
+    "totalShotsBox": 320
   },
   "Goiano 2": {
     "matches": 13,
@@ -1820,10 +1820,10 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 19,
-    "totalCorners": 161,
-    "totalProjected": 155,
-    "totalCrosses": 851,
+    "matches": 27,
+    "totalCorners": 237,
+    "totalProjected": 231,
+    "totalCrosses": 1205,
     "totalShotsBox": 0
   },
   "Copa Ecuador - Octavos de final": {
@@ -1855,7 +1855,7 @@
     "totalShotsBox": 185
   },
   "Regionalliga -": {
-    "matches": 14,
+    "matches": 16,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -1904,11 +1904,11 @@
     "totalShotsBox": 96
   },
   "Liga 2 rumana - Regular": {
-    "matches": 30,
-    "totalCorners": 279,
-    "totalProjected": 278,
-    "totalCrosses": 1421,
-    "totalShotsBox": 323
+    "matches": 31,
+    "totalCorners": 292,
+    "totalProjected": 291,
+    "totalCrosses": 1471,
+    "totalShotsBox": 333
   },
   "Hungarian Cup - Primera Ronda": {
     "matches": 1,
@@ -2072,32 +2072,32 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo A": {
-    "matches": 4,
-    "totalCorners": 38,
-    "totalProjected": 38,
-    "totalCrosses": 150,
-    "totalShotsBox": 51
+    "matches": 5,
+    "totalCorners": 55,
+    "totalProjected": 55,
+    "totalCrosses": 204,
+    "totalShotsBox": 69
   },
   "DBU Pokalen - Primera Ronda": {
-    "matches": 21,
-    "totalCorners": 132,
-    "totalProjected": 132,
-    "totalCrosses": 498,
+    "matches": 25,
+    "totalCorners": 165,
+    "totalProjected": 165,
+    "totalCrosses": 546,
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Tercera Ronda": {
-    "matches": 18,
-    "totalCorners": 149,
-    "totalProjected": 149,
-    "totalCrosses": 808,
-    "totalShotsBox": 233
+    "matches": 19,
+    "totalCorners": 160,
+    "totalProjected": 160,
+    "totalCrosses": 846,
+    "totalShotsBox": 242
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 3,
-    "totalCorners": 57,
-    "totalProjected": 57,
-    "totalCrosses": 129,
-    "totalShotsBox": 57
+    "matches": 4,
+    "totalCorners": 68,
+    "totalProjected": 68,
+    "totalCrosses": 177,
+    "totalShotsBox": 71
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
     "matches": 2,
@@ -2121,17 +2121,17 @@
     "totalShotsBox": 23
   },
   "Polish Cup - 32avos de final": {
-    "matches": 8,
-    "totalCorners": 93,
-    "totalProjected": 93,
-    "totalCrosses": 383,
-    "totalShotsBox": 84
+    "matches": 15,
+    "totalCorners": 174,
+    "totalProjected": 174,
+    "totalCrosses": 726,
+    "totalShotsBox": 152
   },
   "Copa de Rusia - Grupo B": {
-    "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 10,
-    "totalCrosses": 30,
-    "totalShotsBox": 10
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 20,
+    "totalCrosses": 60,
+    "totalShotsBox": 20
   }
 }
