@@ -57,6 +57,7 @@ function markAlertsSent(match, minute, alertKeys) {
   if (existing) {
     existing._sentAlerts = [...new Set([...(existing._sentAlerts || []), ...alertKeys])];
     savePredictions(predictions);
+    flushPredictions(); // persistir inmediatamente para no perder marcas en crash
   }
 }
 

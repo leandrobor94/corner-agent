@@ -87,18 +87,6 @@ async function fetchFinishedForDate(dateStr) {
     }));
 }
 
-async function fetchFinishedLast7Days() {
-  const all = [];
-  for (let i = 0; i <= 6; i++) {
-    const d = new Date();
-    d.setDate(d.getDate() - i);
-    const dateStr = `${String(d.getDate()).padStart(2, '0')}/${String(d.getMonth() + 1).padStart(2, '0')}/${d.getFullYear()}`;
-    const matches = await fetchFinishedForDate(dateStr);
-    all.push(...matches);
-  }
-  return all;
-}
-
 async function fetchMatchStats(gameId, homeId, awayId) {
   let body;
   try {

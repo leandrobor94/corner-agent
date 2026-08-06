@@ -172,6 +172,13 @@ async function main() {
     console.log('=== CORNER-AGENT — ONCE ===');
     const live = await fetchLiveMatches();
     await analyzeMatchList(live);
+    const finished = await fetchFinishedToday();
+    if (finished.length > 0) {
+      await verifyPredictions([...finished.map(m => ({ ...m, minute: 90 }))], async (gameId, homeId, awayId) => {
+        const stats = await fetchMatchStats(gameId, homeId, awayId);
+        return stats ? stats : null;
+      });
+    }
     await flushPredictions();
     return;
   }
