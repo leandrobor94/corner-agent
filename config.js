@@ -55,6 +55,11 @@ const CONFIG = {
   POISSON_MIN_PROB: 5,
   POISSON_MAX_PROB: 95,
 
+  // Estimación de stats faltantes del API
+  ENRICH_SHOTS_RATIO: 0.60,       // shotsInsideBox = totalShots * ratio
+  ENRICH_CROSSES_ATK_RATIO: 0.25,  // crosses = attacks * ratio
+  ENRICH_CROSSES_SHOTS_RATIO: 1.8, // crosses = totalShots * ratio (fallback)
+
   // Seguridad: tokens SOLO por variables de entorno (nunca hardcodeados)
   BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || process.env.BOT_TOKEN || null,
   CHAT_ID: process.env.TELEGRAM_CHAT_ID || process.env.CHAT_ID || null,

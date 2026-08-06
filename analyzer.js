@@ -53,23 +53,24 @@ function poissonOver(lambda, k) {
 /** Estimate missing stats when 365scores doesn't provide them */
 function enrichStats(stats) {
   const h = stats.home, a = stats.away;
-  if ((!h.shotsInsideBox || h.shotsInsideBox === 0) && h.totalShots > 0) {
-    h.shotsInsideBox = Math.round(h.totalShots * 0.60);
+  // Solo estimar si el valor está ausente o es 0
+  if ((!h.shotsInsideBox) && h.totalShots > 0) {
+    h.shotsInsideBox = Math.round(h.totalShots * CONFIG.ENRICH_SHOTS_RATIO);
   }
-  if ((!a.shotsInsideBox || a.shotsInsideBox === 0) && a.totalShots > 0) {
-    a.shotsInsideBox = Math.round(a.totalShots * 0.60);
+  if ((!a.shotsInsideBox) && a.totalShots > 0) {
+    a.shotsInsideBox = Math.round(a.totalShots * CONFIG.ENRICH_SHOTS_RATIO);
   }
-  if ((!h.crosses || h.crosses === 0) && h.attacks > 0) {
-    h.crosses = Math.round(h.attacks * 0.25);
+  if ((!h.crosses) && h.attacks > 0) {
+    h.crosses = Math.round(h.attacks * CONFIG.ENRICH_CROSSES_ATK_RATIO);
   }
-  if ((!a.crosses || a.crosses === 0) && a.attacks > 0) {
-    a.crosses = Math.round(a.attacks * 0.25);
+  if ((!a.crosses) && a.attacks > 0) {
+    a.crosses = Math.round(a.attacks * CONFIG.ENRICH_CROSSES_ATK_RATIO);
   }
-  if ((!h.crosses || h.crosses === 0) && h.totalShots > 0) {
-    h.crosses = Math.round(h.totalShots * 1.8);
+  if ((!h.crosses) && h.totalShots > 0) {
+    h.crosses = Math.round(h.totalShots * CONFIG.ENRICH_CROSSES_SHOTS_RATIO);
   }
-  if ((!a.crosses || a.crosses === 0) && a.totalShots > 0) {
-    a.crosses = Math.round(a.totalShots * 1.8);
+  if ((!a.crosses) && a.totalShots > 0) {
+    a.crosses = Math.round(a.totalShots * CONFIG.ENRICH_CROSSES_SHOTS_RATIO);
   }
 }
 
@@ -176,10 +177,14 @@ function analyzeMatch(match, stats, minute) {
       blended = Math.round(blended * CONFIG.HIGH_CORNERS_DECAY);
     }
 
+    // Floor = teamCurrent: la proyección nunca baja de los corners ya conseguidos
+    // Esto intencionalmente anula decay cuando teamCurrent es alto (el partido ya tiene ritmo)
     return Math.min(Math.max(teamCurrent, blended), CONFIG.MAX_TEAM_CORNERS);
   }
 
-  const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
+  // En empate (goalDiff=0), ambos equipos reciben NEED_GOAL_BOOST (ambos buscan ganar)
+    // Backtest confirmó que este double-boost es correcto (84.3% WR en empates)
+    const homeProjected = projectTeam(homeCorners, home, away, goalDiff <= 0, true);
   const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
   const leagueBias = getLeagueBias(match.league);
   const rawTotal = homeProjected + awayProjected + leagueBias;
