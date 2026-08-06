@@ -36,12 +36,12 @@ const CONFIG = {
   MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)
 
   NEED_GOAL_BOOST: 1.25,
-  WINNING_REDUCTION: 0.90,
+  WINNING_REDUCTION: 0.95,
 
   // Factores de correccion basados en datos reales
   HOME_BOOST: 1.05,                    // home teams generan 11% mas corners
   LATE_GAME_DECAY_MIN: 75,             // a partir de este minuto, reducir proyeccion
-  LATE_GAME_DECAY_FACTOR: 0.92,        // factor de reduccion en late game
+  LATE_GAME_DECAY_FACTOR: 0.95,        // factor de reduccion en late game
   MID_GAME_DECAY_MIN: 65,              // a partir de este minuto, reducir leve
   MID_GAME_DECAY_FACTOR: 0.96,         // factor de reduccion leve
   LOW_CORNERS_THRESHOLD: 3,            // si tiene <= corners en este minuto
