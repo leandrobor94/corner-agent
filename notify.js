@@ -90,7 +90,6 @@ function buildCompactBatch(alertList) {
 
   for (const key of matchOrder) {
     const grp = byMatch.get(key);
-    const r = grp.result;
     const block = buildMatchBlock(grp);
     // Si agregar este bloque excede 3900 chars, parar (deja margen para el footer)
     if ((msg + block).length > 3900) {
@@ -99,6 +98,7 @@ function buildCompactBatch(alertList) {
       break;
     }
     msg += block;
+  }
 
   msg += `<i>🤖 corner-agent</i>`;
   return msg;

@@ -112,6 +112,7 @@ function analyzeMatch(match, stats, minute) {
   const goalDiff = match.scoreHome - match.scoreAway;
 
   function projectTeam(teamCurrent, teamStats, oppStats, needsGoal, isHome) {
+    if (minute <= 0) return teamCurrent;
     const rate = teamCurrent / minute;
     const baseProj = teamCurrent + rate * minsLeft;
 

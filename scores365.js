@@ -37,7 +37,7 @@ async function fetchTodayMatches(onlyLive = true) {
     awayId: g.awayCompetitor?.id,
     scoreHome: g.homeCompetitor?.score ?? 0,
     scoreAway: g.awayCompetitor?.score ?? 0,
-    minute: g.gameTime || 0,
+    minute: g.gameTime ?? 0,
     league: sanitizeLeague(g.competitionDisplayName || ''),
     competitionId: g.competitionId,
     hasStats: g.hasStats,
