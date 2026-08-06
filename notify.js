@@ -17,7 +17,7 @@ function sendTelegram(message) {
           const j = JSON.parse(data);
           if (j.ok) { console.log('  TELEGRAM OK'); resolve(true); }
           else { console.log('  TELEGRAM ERR:', j.description); resolve(false); }
-        } catch { resolve(false); }
+        } catch (e) { console.error('TELEGRAM JSON parse error:', e.message); resolve(false); }
       });
     }).on('error', e => { console.log('  TELEGRAM FAIL:', e.message); resolve(false); });
   });

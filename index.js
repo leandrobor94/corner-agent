@@ -106,6 +106,7 @@ async function runLoop() {
   const finished = await fetchFinishedToday();
   const allEnded = [...live.filter(m => m.minute >= 90), ...finished.map(m => ({ ...m, minute: 90 }))];
   const verified = await verifyPredictions(allEnded, async (gameId, homeId, awayId) => {
+    await new Promise(r => setTimeout(r, 200)); // rate limit entre requests
     const stats = await fetchMatchStats(gameId, homeId, awayId);
     return stats ? stats : null;
   });
@@ -150,6 +151,7 @@ async function runCatchup() {
 
   // Verify pending predictions against today's finished matches
   const verified = await verifyPredictions([...finished.map(m => ({ ...m, minute: 90 }))], async (gameId, homeId, awayId) => {
+    await new Promise(r => setTimeout(r, 200));
     const stats = await fetchMatchStats(gameId, homeId, awayId);
     return stats ? stats : null;
   });
