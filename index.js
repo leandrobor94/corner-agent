@@ -4,8 +4,6 @@ const { sendTelegram, buildMessage, buildCompactBatch } = require('./notify');
 const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData, flushPredictions } = require('./learn');
 const { CONFIG } = require('./config');
 
-let loopCount = 0;
-
 async function analyzeMatchList(matches) {
   const targets = matches.filter(m => {
     if (m.minute < CONFIG.MIN_MINUTE || m.minute > CONFIG.MAX_MINUTE) return false;
@@ -132,22 +130,22 @@ async function runCatchup() {
   console.log(`  Candidatos con stats: ${candidates.length}`);
 
   for (const m of candidates) {
-    const stats = await fetchMatchStats(m.gameId, m.homeId, m.awayId);
-    if (!stats) {
-      console.log(`  ⚠️ ${m.homeTeam} vs ${m.awayTeam}: sin stats post-partido`);
-      continue;
+    try {
+      const stats = await fetchMatchStats(m.gameId, m.homeId, m.awayId);
+      if (!stats) {
+        console.log(`  ⚠️ ${m.homeTeam} vs ${m.awayTeam}: sin stats post-partido`);
+        continue;
+      }
+
+      console.log(`  ${m.homeTeam} vs ${m.awayTeam} (${m.scoreHome}-${m.scoreAway}) — stats disponibles`);
+      m.minute = 90;
+      const result = analyzeMatch(m, stats, 90);
+      if (!result) continue;
+      storePrediction(result);
+      console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
+    } catch (e) {
+      console.error(`  ERROR ${m.homeTeam} vs ${m.awayTeam}:`, e.message);
     }
-
-    console.log(`  ${m.homeTeam} vs ${m.awayTeam} (${m.scoreHome}-${m.scoreAway}) — stats disponibles`);
-    // Use match minute = 90 for finished matches (treat as full time analysis)
-    const finalMinute = 90;
-    m.minute = finalMinute;
-
-    const result = analyzeMatch(m, stats, finalMinute);
-    if (!result) continue;
-
-    storePrediction(result);
-    console.log(`  ${result.match} — Proy: ${result.projected.total} (${result.dataQuality}) — ${result.teamAlerts.length + result.totalAlerts.length} alerta(s)`);
   }
 
   // Verify pending predictions against today's finished matches
@@ -166,8 +164,7 @@ async function main() {
   if (mode === '--catchup' || mode === 'catchup') {
     console.log('=== CORNER-AGENT — CATCHUP ===');
     await runCatchup();
-    await flushPredictions();
-    await printReport();
+    // runCatchup ya llama a flushPredictions y printReport internamente
     return;
   }
 
@@ -202,9 +199,9 @@ async function main() {
     console.log(`\n  CICLO ${loop + 1}/${CONFIG.MAX_LOOPS} - ${new Date().toLocaleString('es-CO', { timeZone: 'America/Bogota' })}`);
     console.log('='.repeat(60));
 
-    // Validar horario Colombia (7am-10pm) igual que sistema de goles
-    const coHour = new Date().toLocaleString('en-US', { timeZone: CONFIG.TIMEZONE });
-    const hour = new Date(coHour).getHours();
+    // Validar horario Colombia (7am-10pm)
+    const formatter = new Intl.DateTimeFormat('en-US', { hour: 'numeric', hour12: false, timeZone: CONFIG.TIMEZONE });
+    const hour = parseInt(formatter.format(new Date()), 10);
     if (hour < CONFIG.HOUR_START || hour >= CONFIG.HOUR_END) {
       console.log(`  Fuera de horario Colombia (${hour}:00).`);
       if (loop < CONFIG.MAX_LOOPS - 1) {

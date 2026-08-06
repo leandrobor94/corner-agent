@@ -15,13 +15,15 @@ const CONFIG = {
   TEAM_LINES: [3.5, 4.5, 5.5, 6.5, 7.5],
   TOTAL_LINES: [10.5, 11.5, 12.5, 13.5],
 
-  // Pesos basados en correlacion real con corners finales:
-  // base rate (r=0.87), shots (r=0.30), crosses (r=0.20), attacks (r=0.17)
+  // Pesos: con keyPasses (60/5/20/5/10) y sin keyPasses (65/5/25/5/0)
   RATE_WEIGHT: 0.60,
   CROSS_WEIGHT: 0.05,
   SHOTS_BOX_WEIGHT: 0.20,
   ATTACK_WEIGHT: 0.05,
   KEYPASS_WEIGHT: 0.10,
+  // Fallback cuando no hay keyPasses del API
+  RATE_WEIGHT_NO_KP: 0.65,
+  SHOTS_BOX_WEIGHT_NO_KP: 0.25,
 
   CORNER_CONVERSION_CROSS: 0.18,
   CORNER_CONVERSION_SHOTS: 0.12,
@@ -29,7 +31,6 @@ const CONFIG = {
   CORNER_CONVERSION_KEYPASS: 0.15,     // pases clave → corners
   BIG_CHANCE_BOOST: 0.35,              // cada gran chance añade ~0.35 corners
 
-  POS_FACTOR_CAP: 1.25,               // ya no se usa (posesion duplicada en stats)
   POSSESSION_IMBALANCE_THRESHOLD: 1.3, // si ratio > este, usa solo baseRate
   MAX_TEAM_CORNERS: 12,                // techo de seguridad por equipo
   MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)

@@ -134,11 +134,11 @@ function analyzeMatch(match, stats, minute) {
     const pf = (teamStats.possession > 0 && oppStats.possession > 0) ? Math.max(teamStats.possession, oppStats.possession) / Math.min(teamStats.possession, oppStats.possession) : 1;
     const imbalanced = pf > CONFIG.POSSESSION_IMBALANCE_THRESHOLD;
 
-    // Dos modos: con keyPasses (usa el 10% extra) o sin (pesos originales calibrados)
+    // Dos modos: con keyPasses (pesos de CONFIG) o sin (fallback calibrado)
     const hasKeyPasses = (teamStats.keyPasses || 0) > 0;
-    const rateW = hasKeyPasses ? 0.60 : 0.65;
-    const shotsW = hasKeyPasses ? 0.20 : 0.25;
-    const keyW  = hasKeyPasses ? 0.10 : 0;
+    const rateW = hasKeyPasses ? CONFIG.RATE_WEIGHT : CONFIG.RATE_WEIGHT_NO_KP;
+    const shotsW = hasKeyPasses ? CONFIG.SHOTS_BOX_WEIGHT : CONFIG.SHOTS_BOX_WEIGHT_NO_KP;
+    const keyW  = hasKeyPasses ? CONFIG.KEYPASS_WEIGHT : 0;
 
     let blended = Math.round((
       baseProj * rateW +

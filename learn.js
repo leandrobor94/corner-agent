@@ -63,15 +63,14 @@ function storePrediction(result) {
   if (existing) {
     // No resetear correct/finalScore si ya fueron verificados
     if (existing.correct === null) {
-      Object.assign(existing, { result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key });
+      Object.assign(existing, { timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key });
     } else {
-      // Solo actualizar datos que no borren la verificación
-      Object.assign(existing, { result, timestamp: new Date().toISOString(), projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts });
+      Object.assign(existing, { timestamp: new Date().toISOString(), projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts });
     }
     savePredictions(predictions);
     return;
   }
-  predictions.push({ result, timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
+  predictions.push({ timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
   savePredictions(predictions);
 }
 
@@ -104,12 +103,15 @@ async function verifyPredictions(liveMatches, verifyFn) {
       pred.finalScore = { home: match.scoreHome, away: match.scoreAway };
       pred.finalCorners = finalCorners;
 
-      const totalPredicted = pred.projected.total;
+      const totalPredicted = pred.projected?.total ?? 0;
       const totalActual = (finalCorners.home.corners || 0) + (finalCorners.away.corners || 0);
       const diff = Math.abs(totalActual - totalPredicted);
       pred.correct = diff <= 3;
-      if (pred.correct) weights.stats.correctCount++;
-      weights.stats.predictionsCount++;
+      // Solo contar predicciones en vivo (no catchup min 90) para métricas reales
+      if (pred.minute < 90) {
+        if (pred.correct) weights.stats.correctCount++;
+        weights.stats.predictionsCount++;
+      }
       verified++;
 
       if (!leagues[pred.league]) leagues[pred.league] = { matches: 0, totalCorners: 0, totalProjected: 0, totalCrosses: 0, totalShotsBox: 0 };

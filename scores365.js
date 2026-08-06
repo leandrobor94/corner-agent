@@ -26,7 +26,7 @@ async function fetchTodayMatches(onlyLive = true) {
   try {
     const liveParam = onlyLive ? '&onlyLiveGames=true' : '';
     body = await fetch(`${API_BASE}/games/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4${liveParam}`);
-  } catch { return []; }
+  } catch (e) { console.error('fetchTodayMatches failed:', e.message); return []; }
   try { body = JSON.parse(body); } catch { return []; }
   if (!body.games) return [];
   return body.games.map(g => ({
@@ -63,7 +63,7 @@ async function fetchFinishedForDate(dateStr) {
   let body;
   try {
     body = await fetch(`${API_BASE}/game/allscores/?${CONFIG.API_PARAMS}&sports=1&startDate=${dateStr}&endDate=${dateStr}&showOdds=true&withTop=true&topBookmaker=4`);
-  } catch { return []; }
+  } catch (e) { console.error('fetchFinishedForDate failed:', e.message); return []; }
   let j;
   try { j = JSON.parse(body); } catch { return []; }
   if (!j.games) return [];
