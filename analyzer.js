@@ -42,12 +42,37 @@ function factorial(n) {
   return _fact[n];
 }
 
+// Poisson: eventos independientes. Subestima colas (sobredispersión 1.71x).
 function poissonOver(lambda, k) {
   let cum = 0;
   for (let i = 0; i <= Math.floor(k); i++) {
     cum += Math.exp(-lambda) * Math.pow(lambda, i) / factorial(i);
   }
-  return Math.min(CONFIG.POISSON_MAX_PROB, Math.max(CONFIG.POISSON_MIN_PROB, Math.round((1 - cum) * 100)));
+  return clampProb(Math.round((1 - cum) * 100));
+}
+
+// Binomial Negativa: modela corners en ráfagas (mejor para líneas altas).
+// r = 2*lambda (sobredispersión ~1.5x), p = 0.667
+function negBinOver(lambda, k) {
+  const r = 2 * lambda;
+  const p = 0.667;
+  if (r <= 0 || p <= 0 || p >= 1) return poissonOver(lambda, k);
+  let cum = 0;
+  for (let i = 0; i <= Math.floor(k); i++) {
+    // P(X=i) = C(i+r-1, i) * p^r * (1-p)^i
+    // Usar log para estabilidad numérica
+    let logP = r * Math.log(p) + i * Math.log(1 - p);
+    // log(C(i+r-1, i)) = logGamma(i+r) - logGamma(i+1) - logGamma(r)
+    // Aproximación iterativa del coeficiente binomial
+    let combLog = 0;
+    for (let j = 1; j <= i; j++) combLog += Math.log((r + j - 1) / j);
+    cum += Math.exp(combLog + logP);
+  }
+  return clampProb(Math.round((1 - Math.min(1, cum)) * 100));
+}
+
+function clampProb(p) {
+  return Math.min(CONFIG.POISSON_MAX_PROB, Math.max(CONFIG.POISSON_MIN_PROB, p));
 }
 
 /** Estimate missing stats when 365scores doesn't provide them */
@@ -200,7 +225,7 @@ function analyzeMatch(match, stats, minute) {
     if (t.current < 1) continue;
     for (const line of CONFIG.TEAM_LINES) {
       if (line <= t.current || t.projected <= line) continue;
-      const prob = poissonOver(t.projected, line);
+      const prob = negBinOver(t.projected, line);
       if (prob >= CONFIG.MIN_CONFIDENCE) {
         teamAlerts.push({
           team: t.name, line, prob,
@@ -214,7 +239,7 @@ function analyzeMatch(match, stats, minute) {
   const totalAlerts = [];
   for (const line of CONFIG.TOTAL_LINES) {
     if (line <= totalCorners || projectedTotal <= line) continue;
-    const prob = poissonOver(projectedTotal, line);
+    const prob = negBinOver(projectedTotal, line);
     if (prob >= CONFIG.MIN_CONFIDENCE) {
       totalAlerts.push({ line, prob, current: totalCorners, projected: projectedTotal });
     }
