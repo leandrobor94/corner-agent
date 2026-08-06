@@ -50,6 +50,18 @@ function getAlertsSent(match, minute) {
   return existing ? (existing._sentAlerts || []) : [];
 }
 
+// Verificar si una alerta ya se envió para este partido (sin importar minuto)
+function wasAlertSentForMatch(match, alertKey) {
+  const predictions = loadPredictions();
+  // Buscar en todas las predicciones de este partido
+  for (const pred of predictions) {
+    if (pred.match === match && pred._sentAlerts && pred._sentAlerts.includes(alertKey)) {
+      return true;
+    }
+  }
+  return false;
+}
+
 function markAlertsSent(match, minute, alertKeys) {
   const predictions = loadPredictions();
   const key = `${match}_${minute}`;
@@ -176,23 +188,24 @@ function printReport() {
 }
 
 async function commitData() {
-  const token = process.env.GITHUB_TOKEN || process.env.ghp_GITHUB_TOKEN || '';
+  const token = process.env.GITHUB_TOKEN || '';
   if (!token) { console.log('  COMMIT SKIP: no GITHUB_TOKEN'); return; }
   const https = require('https');
   const repo = process.env.GITHUB_REPOSITORY || 'leandrobor94/corner-agent';
   const branch = process.env.GITHUB_REF_NAME || 'master';
-  const files = ['predictions.json', 'leagues.json', 'weights.json'].filter(f => { try { return require('fs').existsSync(require('path').join(__dirname, f)); } catch { return false; } });
+  const files = ['predictions.json', 'leagues.json', 'weights.json'].filter(f => fs.existsSync(path.join(__dirname, f)));
   if (files.length === 0) { console.log('  COMMIT SKIP: no hay archivos para committear'); return; }
 
   for (const file of files) {
-    const content = require('fs').readFileSync(require('path').join(__dirname, file), 'utf8');
+    const content = fs.readFileSync(path.join(__dirname, file), 'utf8');
     const sha = await getFileSha(token, repo, file, branch);
     const body = JSON.stringify({ message: `auto: update ${file} [skip ci]`, content: Buffer.from(content).toString('base64'), sha, branch });
     await new Promise(ok => {
       const req = https.request(`https://api.github.com/repos/${repo}/contents/${file}`, {
         method: 'PUT',
         headers: { 'Authorization': 'Bearer ' + token, 'Accept': 'application/vnd.github.v3+json', 'User-Agent': 'corner-agent', 'Content-Type': 'application/json', 'Content-Length': Buffer.byteLength(body) }
-      }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>{ const j=JSON.parse(d); console.log(`  COMMIT ${file}: ${j.content ? 'OK' : (j.message || 'error')}`); ok(); }); });
+      }, r => { let d=''; r.on('data',c=>d+=c); r.on('end',()=>{ try { const j=JSON.parse(d); console.log(`  COMMIT ${file}: ${j.content ? 'OK' : (j.message || 'error')}`); ok(); } catch { console.error(`  COMMIT ${file}: failed to parse response`); ok(); } }); });
+      req.on('error', e => { console.error(`  COMMIT ${file}: request failed - ${e.message}`); ok(); });
       req.write(body); req.end();
     });
   }
@@ -207,4 +220,4 @@ function getFileSha(token, repo, file, branch) {
   });
 }
 
-module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData, flushPredictions };
+module.exports = { storePrediction, verifyPredictions, printReport, getAlertsSent, wasAlertSentForMatch, markAlertsSent, commitData, flushPredictions };

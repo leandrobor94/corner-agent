@@ -52,6 +52,9 @@ const CONFIG = {
 
   MAX_ALERTS_FINAL: 4,  // tope final: solo enviar las top 4 por probabilidad
 
+  POISSON_MIN_PROB: 5,
+  POISSON_MAX_PROB: 95,
+
   // Seguridad: tokens SOLO por variables de entorno (nunca hardcodeados)
   BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || process.env.BOT_TOKEN || null,
   CHAT_ID: process.env.TELEGRAM_CHAT_ID || process.env.CHAT_ID || null,

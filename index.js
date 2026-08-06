@@ -1,7 +1,7 @@
 const { fetchLiveMatches, fetchFinishedToday, fetchMatchStats } = require('./scores365');
 const { analyzeMatch } = require('./analyzer');
 const { sendTelegram, buildMessage, buildCompactBatch } = require('./notify');
-const { storePrediction, verifyPredictions, printReport, getAlertsSent, markAlertsSent, commitData, flushPredictions } = require('./learn');
+const { storePrediction, verifyPredictions, printReport, getAlertsSent, wasAlertSentForMatch, markAlertsSent, commitData, flushPredictions } = require('./learn');
 const { CONFIG } = require('./config');
 
 async function analyzeMatchList(matches) {
@@ -37,11 +37,11 @@ async function analyzeMatchList(matches) {
 
     for (const a of result.teamAlerts) {
       const k = `${a.team}_O${a.line}`;
-      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
+      if (!sentKeys.includes(k) && !wasAlertSentForMatch(result.match, k)) allPendingAlerts.push({ alert: a, result, key: k });
     }
     for (const a of result.totalAlerts) {
       const k = `Total_O${a.line}`;
-      if (!sentKeys.includes(k)) allPendingAlerts.push({ alert: a, result, key: k });
+      if (!sentKeys.includes(k) && !wasAlertSentForMatch(result.match, k)) allPendingAlerts.push({ alert: a, result, key: k });
     }
 
     const top = result.teamAlerts.length > 0 ? `team:${result.teamAlerts[0].prob}%` : 'team bajo';

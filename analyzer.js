@@ -35,14 +35,19 @@ function getLeagueBias(leagueName) {
   return Math.max(-3, Math.min(3, info.bias * confidence));
 }
 
-function factorial(n) { let r = 1; for (let i = 2; i <= n; i++) r *= i; return r; }
+// Factorial memoizado (n <= 15 es suficiente para Poisson con lambda <= 16)
+const _fact = [1];
+function factorial(n) {
+  while (_fact.length <= n) _fact.push(_fact[_fact.length - 1] * _fact.length);
+  return _fact[n];
+}
 
 function poissonOver(lambda, k) {
   let cum = 0;
   for (let i = 0; i <= Math.floor(k); i++) {
     cum += Math.exp(-lambda) * Math.pow(lambda, i) / factorial(i);
   }
-  return Math.min(95, Math.max(5, Math.round((1 - cum) * 100)));
+  return Math.min(CONFIG.POISSON_MAX_PROB, Math.max(CONFIG.POISSON_MIN_PROB, Math.round((1 - cum) * 100)));
 }
 
 /** Estimate missing stats when 365scores doesn't provide them */
@@ -161,13 +166,13 @@ function analyzeMatch(match, stats, minute) {
       blended = Math.round(blended * CONFIG.MID_GAME_DECAY_FACTOR);
     }
 
-    // Low corners penalty
-    if (teamCurrent <= CONFIG.LOW_CORNERS_THRESHOLD && minute >= CONFIG.LOW_CORNERS_MIN) {
+    // Low corners penalty (solo si está activo)
+    if (teamCurrent <= CONFIG.LOW_CORNERS_THRESHOLD && minute >= CONFIG.LOW_CORNERS_MIN && CONFIG.LOW_CORNERS_PENALTY !== 1.0) {
       blended = Math.round(blended * CONFIG.LOW_CORNERS_PENALTY);
     }
 
-    // High corners decay
-    if (teamCurrent >= CONFIG.HIGH_CORNERS_THRESHOLD) {
+    // High corners decay (solo si está activo)
+    if (teamCurrent >= CONFIG.HIGH_CORNERS_THRESHOLD && CONFIG.HIGH_CORNERS_DECAY !== 1.0) {
       blended = Math.round(blended * CONFIG.HIGH_CORNERS_DECAY);
     }
 
