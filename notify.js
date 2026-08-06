@@ -49,6 +49,25 @@ function buildMessage(result) {
   return msg;
 }
 
+function buildMatchBlock(grp) {
+  const r = grp.result;
+  let block = `\n<b>${r.match}</b>\n`;
+  block += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | ${r.league}\n`;
+  const teams = grp.alerts.filter(a => a.team).sort((a, b) => b.prob - a.prob);
+  const totals = grp.alerts.filter(a => !a.team).sort((a, b) => b.prob - a.prob);
+  if (teams.length > 0) {
+    block += `🎯 Equipos: `;
+    block += teams.map(a => `${a.team} O${a.line} (${a.prob}%)`).join(' | ');
+    block += `\n`;
+  }
+  if (totals.length > 0) {
+    block += `🎯 Esquinas: `;
+    block += totals.map(a => `O${a.line} (${a.prob}%)`).join(' | ');
+    block += `\n`;
+  }
+  return block;
+}
+
 /**
  * Mensaje compacto: alertas agrupadas por partido para revisión rápida.
  */
@@ -72,22 +91,14 @@ function buildCompactBatch(alertList) {
   for (const key of matchOrder) {
     const grp = byMatch.get(key);
     const r = grp.result;
-    msg += `\n<b>${r.match}</b>\n`;
-    msg += `${r.minute}' | ${r.score} | ${r.corners.total}→~${r.projected.total} | ${r.league}\n`;
-    // Ordenar alertas: team primero, total después; por prob desc dentro de cada tipo
-    const teams = grp.alerts.filter(a => a.team).sort((a, b) => b.prob - a.prob);
-    const totals = grp.alerts.filter(a => !a.team).sort((a, b) => b.prob - a.prob);
-    if (teams.length > 0) {
-      msg += `🎯 Equipos: `;
-      msg += teams.map(a => `${a.team} O${a.line} (${a.prob}%)`).join(' | ');
-      msg += `\n`;
+    const block = buildMatchBlock(grp);
+    // Si agregar este bloque excede 3900 chars, parar (deja margen para el footer)
+    if ((msg + block).length > 3900) {
+      const remaining = matchOrder.length - matchOrder.indexOf(key);
+      if (remaining > 0) msg += `\n<i>... y ${remaining} partido(s) más</i>\n`;
+      break;
     }
-    if (totals.length > 0) {
-      msg += `🎯 Esquinas: `;
-      msg += totals.map(a => `O${a.line} (${a.prob}%)`).join(' | ');
-      msg += `\n`;
-    }
-  }
+    msg += block;
 
   msg += `<i>🤖 corner-agent</i>`;
   return msg;

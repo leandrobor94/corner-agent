@@ -71,39 +71,40 @@ function enrichStats(stats) {
 function analyzeMatch(match, stats, minute) {
   const home = stats.home, away = stats.away;
 
+  // Catchup/finished match: no necesita análisis
+  if (minute >= 90) {
+    const hc = home.corners || 0, ac = away.corners || 0;
+    return {
+      match: `${match.homeTeam} vs ${match.awayTeam}`,
+      league: match.league, gameId: match.gameId, homeId: match.homeId, awayId: match.awayId,
+      date: match.date || new Date().toISOString().slice(0, 10), minute,
+      score: `${match.scoreHome}-${match.scoreAway}`,
+      dataQuality: 'finished',
+      corners: { home: hc, away: ac, total: hc + ac },
+      projected: { home: hc, away: ac, total: hc + ac },
+      stats: {
+        crosses: (home.crosses||0) + (away.crosses||0),
+        shotsInsideBox: (home.shotsInsideBox||0) + (away.shotsInsideBox||0),
+        attacks: (home.attacks||0) + (away.attacks||0),
+        possession: { home: home.possession||50, away: away.possession||50 },
+        totalShots: (home.totalShots||0) + (away.totalShots||0),
+      },
+      teams: {
+        home: { corners: hc, crosses: home.crosses||0, shotsInsideBox: home.shotsInsideBox||0, attacks: home.attacks||0, totalShots: home.totalShots||0 },
+        away: { corners: ac, crosses: away.crosses||0, shotsInsideBox: away.shotsInsideBox||0, attacks: away.attacks||0, totalShots: away.totalShots||0 },
+      },
+      teamAlerts: [], totalAlerts: [],
+    };
+  }
+
   enrichStats(stats);
 
   const homeCorners = home.corners || 0;
   const awayCorners = away.corners || 0;
   const totalCorners = homeCorners + awayCorners;
-
   const hasActualCrosses = (home.crosses > 0 || away.crosses > 0);
   const hasActualShotsBox = (home.shotsInsideBox > 0 || away.shotsInsideBox > 0);
   const dataQuality = (hasActualCrosses && hasActualShotsBox) ? 'real' : 'estimated';
-
-  // Catchup/finished match: usar corners finales como proyección, no aplicar decay/boosts
-  if (minute >= 90) {
-    return {
-      match: `${match.homeTeam} vs ${match.awayTeam}`,
-      league: match.league, gameId: match.gameId, homeId: match.homeId, awayId: match.awayId,
-      date: match.date || new Date().toISOString().slice(0, 10), minute,
-      score: `${match.scoreHome}-${match.scoreAway}`, dataQuality,
-      corners: { home: homeCorners, away: awayCorners, total: totalCorners },
-      projected: { home: homeCorners, away: awayCorners, total: totalCorners },
-      stats: {
-        crosses: home.crosses + away.crosses,
-        shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
-        attacks: home.attacks + away.attacks,
-        possession: { home: home.possession, away: away.possession },
-        totalShots: (home.totalShots || 0) + (away.totalShots || 0),
-      },
-      teams: {
-        home: { corners: homeCorners, crosses: home.crosses, shotsInsideBox: home.shotsInsideBox, attacks: home.attacks, totalShots: home.totalShots || 0 },
-        away: { corners: awayCorners, crosses: away.crosses, shotsInsideBox: away.shotsInsideBox, attacks: away.attacks, totalShots: away.totalShots || 0 },
-      },
-      teamAlerts: [], totalAlerts: [],
-    };
-  }
   const remaining = 90 - minute;
   const extraTime = minute >= 45 ? Math.max(1, Math.round(remaining * 0.08)) : 0;
   const minsLeft = (90 + extraTime) - minute;

@@ -26,8 +26,12 @@ function savePredictions(p) {
 function flushPredictions() {
   if (!_cacheDirty || _predictionsCache === null) return;
   const cutoff = Date.now() - 30 * 24 * 60 * 60 * 1000;
+  const unverifiedCutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
   const filtered = _predictionsCache.filter(pred => {
-    if (pred.correct === null) return true;
+    if (pred.correct === null) {
+      if (!pred.timestamp) return true;
+      return new Date(pred.timestamp).getTime() > unverifiedCutoff;
+    }
     if (pred.timestamp) { const t = new Date(pred.timestamp).getTime(); if (t > cutoff) return true; }
     return false;
   });
