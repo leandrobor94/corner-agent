@@ -121,6 +121,8 @@ async function fetchMatchStats(gameId, homeId, awayId) {
     'Regates': 'dribbles',
     'Duelos ganados': 'duelsWon',
     'Duelos aéreos (ganados)': 'aerialDuelsWon',
+    'Tarjetas Amarillas': 'yellowCards',
+    'Tarjetas Rojas': 'redCards',
   };
 
   function parseStatValue(val) {

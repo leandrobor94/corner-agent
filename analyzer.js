@@ -2,14 +2,57 @@ const { CONFIG } = require('./config');
 const fs = require('fs');
 const path = require('path');
 
-// Cache para datos de ligas (corrección por bias histórico)
+// Cache para promedios históricos de corners por equipo (pre-match prior)
+let _teamAvgCache = null;
+let _teamAvgCacheTime = 0;
+
+function getTeamAvgCorners(teamName) {
+  if (!teamName) return 0;
+  const now = Date.now();
+  if (!_teamAvgCache || now - _teamAvgCacheTime > 10 * 60 * 1000) {
+    try {
+      const p = JSON.parse(fs.readFileSync(path.join(__dirname, 'predictions.json'), 'utf8'));
+      _teamAvgCache = new Map();
+      const byTeam = {};
+      for (const pred of p) {
+        if (pred.correct === null) continue;
+        const actual = (pred.finalCorners?.home?.corners || 0) + (pred.finalCorners?.away?.corners || 0);
+        const parts = pred.match.split(' vs ');
+        for (const t of parts) {
+          if (!t) continue;
+          if (!byTeam[t]) byTeam[t] = { c: 0, t: 0 };
+          byTeam[t].c += actual;
+          byTeam[t].t++;
+        }
+      }
+      for (const [name, data] of Object.entries(byTeam)) {
+        if (data.t >= 3) _teamAvgCache.set(name.toLowerCase(), data.c / data.t);
+      }
+    } catch { _teamAvgCache = new Map(); }
+    _teamAvgCacheTime = now;
+  }
+  return _teamAvgCache.get(teamName.toLowerCase()) || 0;
+}
+
+// Cache para promedios de corners por liga (pre-match prior)
+function getLeagueAvgCorners(leagueName) {
+  if (!leagueName) return 0;
+  try {
+    const raw = fs.readFileSync(path.join(__dirname, 'leagues.json'), 'utf8');
+    const data = JSON.parse(raw);
+    const l = data[leagueName];
+    if (l && l.matches >= 5) return l.totalCorners / l.matches;
+  } catch { return 0; }
+  return 0;
+}
+
+// Cache para corrección por bias histórico de liga
 let _leagueBiasCache = null;
-let _leagueBiasCacheTime = 0;
+let _leagueBiasTime = 0;
 
 function getLeagueBias(leagueName) {
   const now = Date.now();
-  // Refrescar cache cada 5 minutos
-  if (!_leagueBiasCache || now - _leagueBiasCacheTime > 5 * 60 * 1000) {
+  if (!_leagueBiasCache || now - _leagueBiasTime > 5 * 60 * 1000) {
     try {
       const raw = fs.readFileSync(path.join(__dirname, 'leagues.json'), 'utf8');
       const data = JSON.parse(raw);
@@ -23,7 +66,7 @@ function getLeagueBias(leagueName) {
         }
       }
     } catch { _leagueBiasCache = new Map(); }
-    _leagueBiasCacheTime = now;
+    _leagueBiasTime = now;
   }
 
   if (!leagueName) return 0;
@@ -213,9 +256,26 @@ function analyzeMatch(match, stats, minute) {
   const awayProjected = projectTeam(awayCorners, away, home, goalDiff >= 0, false);
   const leagueBias = getLeagueBias(match.league);
   const rawTotal = homeProjected + awayProjected + leagueBias;
-  const projectedTotal = isNaN(rawTotal) || !isFinite(rawTotal)
+  let projectedTotal = isNaN(rawTotal) || !isFinite(rawTotal)
     ? Math.min(Math.max(totalCorners, homeProjected + awayProjected), CONFIG.MAX_PROJECTED_TOTAL)
     : Math.min(Math.max(totalCorners, Math.round(rawTotal)), CONFIG.MAX_PROJECTED_TOTAL);
+
+  // Bayesian prior: combinar proyección live con promedio histórico del equipo/liga
+  const teamPrior = (getTeamAvgCorners(match.homeTeam) + getTeamAvgCorners(match.awayTeam)) / 2;
+  const leaguePrior = getLeagueAvgCorners(match.league);
+  const prior = teamPrior > 0 ? teamPrior : leaguePrior > 0 ? leaguePrior : 0;
+  if (prior > 0) {
+    const liveWeight = Math.min(1, Math.max(0, (minute - 45) / 45)); // 0 en min 45, 1 en min 90
+    const priorWeight = 1 - liveWeight;
+    projectedTotal = Math.round(projectedTotal * liveWeight + prior * priorWeight);
+    projectedTotal = Math.min(Math.max(totalCorners, projectedTotal), CONFIG.MAX_PROJECTED_TOTAL);
+  }
+
+  // Tarjeta roja: el equipo con 11 ataca más, más corners totales
+  const totalRedCards = (home.redCards || 0) + (away.redCards || 0);
+  if (totalRedCards > 0) {
+    projectedTotal = Math.min(projectedTotal + 1, CONFIG.MAX_PROJECTED_TOTAL);
+  }
 
   const teamAlerts = [];
   for (const t of [
