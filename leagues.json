@@ -252,9 +252,9 @@
     "totalShotsBox": 0
   },
   "Division": {
-    "matches": 25,
-    "totalCorners": 226,
-    "totalProjected": 235,
+    "matches": 26,
+    "totalCorners": 238,
+    "totalProjected": 247,
     "totalCrosses": 44,
     "totalShotsBox": 13
   },
@@ -532,11 +532,11 @@
     "totalShotsBox": 0
   },
   "División": {
-    "matches": 10,
-    "totalCorners": 91,
-    "totalProjected": 87,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 11,
+    "totalCorners": 102,
+    "totalProjected": 98,
+    "totalCrosses": 42,
+    "totalShotsBox": 12
   },
   "Liga1": {
     "matches": 18,
@@ -560,11 +560,11 @@
     "totalShotsBox": 0
   },
   "Liga 1 -": {
-    "matches": 9,
-    "totalCorners": 59,
-    "totalProjected": 61,
-    "totalCrosses": 20,
-    "totalShotsBox": 10
+    "matches": 10,
+    "totalCorners": 61,
+    "totalProjected": 63,
+    "totalCrosses": 40,
+    "totalShotsBox": 20
   },
   "FAI Cup": {
     "matches": 17,
@@ -665,11 +665,11 @@
     "totalShotsBox": 0
   },
   "Liga 2": {
-    "matches": 10,
-    "totalCorners": 83,
-    "totalProjected": 83,
-    "totalCrosses": 31,
-    "totalShotsBox": 17
+    "matches": 12,
+    "totalCorners": 93,
+    "totalProjected": 93,
+    "totalCrosses": 62,
+    "totalShotsBox": 34
   },
   "NWSL": {
     "matches": 2,
@@ -910,9 +910,9 @@
     "totalShotsBox": 47
   },
   "Copa de Primera -": {
-    "matches": 10,
-    "totalCorners": 73,
-    "totalProjected": 72,
+    "matches": 11,
+    "totalCorners": 83,
+    "totalProjected": 82,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -966,9 +966,9 @@
     "totalShotsBox": 84
   },
   "Liga Femenina -": {
-    "matches": 9,
-    "totalCorners": 54,
-    "totalProjected": 54,
+    "matches": 10,
+    "totalCorners": 63,
+    "totalProjected": 63,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1218,9 +1218,9 @@
     "totalShotsBox": 0
   },
   "Liga Prom - Apertura - Conferencia Oeste - Zona Sur": {
-    "matches": 2,
-    "totalCorners": 10,
-    "totalProjected": 10,
+    "matches": 3,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1498,10 +1498,10 @@
     "totalShotsBox": 14
   },
   "CONCACAF Campeonato Sub20 -": {
-    "matches": 1,
-    "totalCorners": 9,
-    "totalProjected": 9,
-    "totalCrosses": 23,
-    "totalShotsBox": 12
+    "matches": 2,
+    "totalCorners": 18,
+    "totalProjected": 18,
+    "totalCrosses": 46,
+    "totalShotsBox": 24
   }
 }
