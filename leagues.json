@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1460,
-    "totalCorners": 11596,
-    "totalProjected": 12006,
+    "matches": 1461,
+    "totalCorners": 11603,
+    "totalProjected": 12013,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -161,18 +161,18 @@
     "totalShotsBox": 0
   },
   "Segunda división": {
-    "matches": 67,
-    "totalCorners": 668,
-    "totalProjected": 662,
+    "matches": 73,
+    "totalCorners": 722,
+    "totalProjected": 716,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Superliga": {
-    "matches": 36,
-    "totalCorners": 379,
-    "totalProjected": 394,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 37,
+    "totalCorners": 389,
+    "totalProjected": 404,
+    "totalCrosses": 41,
+    "totalShotsBox": 21
   },
   "Tercera División -": {
     "matches": 21,
@@ -1419,5 +1419,12 @@
     "totalProjected": 28,
     "totalCrosses": 60,
     "totalShotsBox": 36
+  },
+  "J": {
+    "matches": 4,
+    "totalCorners": 40,
+    "totalProjected": 43,
+    "totalCrosses": 126,
+    "totalShotsBox": 78
   }
 }
