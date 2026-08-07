@@ -560,11 +560,11 @@
     "totalShotsBox": 0
   },
   "Liga 1 -": {
-    "matches": 8,
-    "totalCorners": 57,
-    "totalProjected": 59,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 9,
+    "totalCorners": 59,
+    "totalProjected": 61,
+    "totalCrosses": 20,
+    "totalShotsBox": 10
   },
   "FAI Cup": {
     "matches": 17,
@@ -665,11 +665,11 @@
     "totalShotsBox": 0
   },
   "Liga 2": {
-    "matches": 8,
-    "totalCorners": 73,
-    "totalProjected": 73,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 10,
+    "totalCorners": 83,
+    "totalProjected": 83,
+    "totalCrosses": 31,
+    "totalShotsBox": 17
   },
   "NWSL": {
     "matches": 2,
@@ -966,9 +966,9 @@
     "totalShotsBox": 84
   },
   "Liga Femenina -": {
-    "matches": 8,
-    "totalCorners": 45,
-    "totalProjected": 45,
+    "matches": 9,
+    "totalCorners": 54,
+    "totalProjected": 54,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1218,9 +1218,9 @@
     "totalShotsBox": 0
   },
   "Liga Prom - Apertura - Conferencia Oeste - Zona Sur": {
-    "matches": 1,
-    "totalCorners": 6,
-    "totalProjected": 6,
+    "matches": 2,
+    "totalCorners": 10,
+    "totalProjected": 10,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1496,5 +1496,12 @@
     "totalProjected": 13,
     "totalCrosses": 28,
     "totalShotsBox": 14
+  },
+  "CONCACAF Campeonato Sub20 -": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 23,
+    "totalShotsBox": 12
   }
 }
