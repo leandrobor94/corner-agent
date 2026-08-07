@@ -1,8 +1,8 @@
 {
   "Meistriliiga": {
-    "matches": 8,
-    "totalCorners": 84,
-    "totalProjected": 89,
+    "matches": 9,
+    "totalCorners": 97,
+    "totalProjected": 102,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1464,
-    "totalCorners": 11627,
-    "totalProjected": 12034,
+    "matches": 1469,
+    "totalCorners": 11668,
+    "totalProjected": 12075,
     "totalCrosses": 40,
     "totalShotsBox": 24
   },
@@ -70,9 +70,9 @@
     "totalShotsBox": 0
   },
   "Campeonato": {
-    "matches": 13,
-    "totalCorners": 119,
-    "totalProjected": 122,
+    "matches": 14,
+    "totalCorners": 124,
+    "totalProjected": 127,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 42,
-    "totalCorners": 383,
-    "totalProjected": 398,
+    "matches": 44,
+    "totalCorners": 410,
+    "totalProjected": 425,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -210,32 +210,32 @@
     "totalShotsBox": 0
   },
   "Ykkosliiga": {
-    "matches": 27,
-    "totalCorners": 294,
-    "totalProjected": 293,
+    "matches": 29,
+    "totalCorners": 312,
+    "totalProjected": 311,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Vysshaya Liga": {
-    "matches": 15,
-    "totalCorners": 121,
-    "totalProjected": 126,
+    "matches": 17,
+    "totalCorners": 146,
+    "totalProjected": 151,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Ykkonen": {
-    "matches": 31,
-    "totalCorners": 350,
-    "totalProjected": 358,
+    "matches": 32,
+    "totalCorners": 362,
+    "totalProjected": 370,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 22,
-    "totalCorners": 238,
-    "totalProjected": 248,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 23,
+    "totalCorners": 245,
+    "totalProjected": 255,
+    "totalCrosses": 47,
+    "totalShotsBox": 22
   },
   "Primera B": {
     "matches": 31,
@@ -490,11 +490,11 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 35,
-    "totalCorners": 292,
-    "totalProjected": 306,
-    "totalCrosses": 112,
-    "totalShotsBox": 10
+    "matches": 39,
+    "totalCorners": 326,
+    "totalProjected": 339,
+    "totalCrosses": 168,
+    "totalShotsBox": 15
   },
   "Liga MX Sub21 -": {
     "matches": 16,
@@ -616,9 +616,9 @@
     "totalShotsBox": 0
   },
   "I Lyga": {
-    "matches": 13,
-    "totalCorners": 128,
-    "totalProjected": 125,
+    "matches": 15,
+    "totalCorners": 144,
+    "totalProjected": 141,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -735,11 +735,11 @@
     "totalShotsBox": 0
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 26,
-    "totalCorners": 227,
-    "totalProjected": 217,
-    "totalCrosses": 104,
-    "totalShotsBox": 16
+    "matches": 28,
+    "totalCorners": 237,
+    "totalProjected": 226,
+    "totalCrosses": 156,
+    "totalShotsBox": 24
   },
   "CFU Club Shield - Primera Ronda": {
     "matches": 3,
@@ -826,9 +826,9 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 14,
-    "totalCorners": 132,
-    "totalProjected": 132,
+    "matches": 15,
+    "totalCorners": 136,
+    "totalProjected": 136,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -847,16 +847,16 @@
     "totalShotsBox": 0
   },
   "I Liga": {
-    "matches": 13,
-    "totalCorners": 154,
-    "totalProjected": 152,
+    "matches": 14,
+    "totalCorners": 167,
+    "totalProjected": 165,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Division 2": {
-    "matches": 16,
-    "totalCorners": 154,
-    "totalProjected": 154,
+    "matches": 23,
+    "totalCorners": 222,
+    "totalProjected": 222,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -903,11 +903,11 @@
     "totalShotsBox": 0
   },
   "OTP Bank Liga": {
-    "matches": 5,
-    "totalCorners": 50,
-    "totalProjected": 50,
-    "totalCrosses": 36,
-    "totalShotsBox": 23
+    "matches": 6,
+    "totalCorners": 62,
+    "totalProjected": 62,
+    "totalCrosses": 72,
+    "totalShotsBox": 47
   },
   "Copa de Primera -": {
     "matches": 10,
@@ -980,9 +980,9 @@
     "totalShotsBox": 0
   },
   "CECAFA Kagame Cup": {
-    "matches": 10,
-    "totalCorners": 70,
-    "totalProjected": 68,
+    "matches": 11,
+    "totalCorners": 79,
+    "totalProjected": 77,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1120,16 +1120,16 @@
     "totalShotsBox": 0
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Sur": {
-    "matches": 6,
-    "totalCorners": 64,
-    "totalProjected": 66,
-    "totalCrosses": 80,
+    "matches": 8,
+    "totalCorners": 86,
+    "totalProjected": 89,
+    "totalCrosses": 120,
     "totalShotsBox": 0
   },
   "2º División de": {
-    "matches": 14,
-    "totalCorners": 133,
-    "totalProjected": 138,
+    "matches": 16,
+    "totalCorners": 159,
+    "totalProjected": 164,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1183,9 +1183,9 @@
     "totalShotsBox": 0
   },
   "Liga 2 rumana - Regular": {
-    "matches": 13,
-    "totalCorners": 115,
-    "totalProjected": 122,
+    "matches": 14,
+    "totalCorners": 123,
+    "totalProjected": 130,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1426,5 +1426,12 @@
     "totalProjected": 43,
     "totalCrosses": 126,
     "totalShotsBox": 78
+  },
+  "Erovnuli Liga": {
+    "matches": 1,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
