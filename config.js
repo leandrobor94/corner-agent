@@ -34,7 +34,7 @@ const CONFIG = {
   MAX_TEAM_CORNERS: 12,                // techo de seguridad por equipo
   MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)
 
-  NEED_GOAL_BOOST: 1.25,
+  NEED_GOAL_BOOST: 1.05,
   WINNING_REDUCTION: 0.95,
 
   // Factores de correccion basados en datos reales
@@ -42,7 +42,7 @@ const CONFIG = {
   LATE_GAME_DECAY_MIN: 75,             // a partir de este minuto, reducir proyeccion
   LATE_GAME_DECAY_FACTOR: 0.95,        // factor de reduccion en late game
   MID_GAME_DECAY_MIN: 65,              // a partir de este minuto, reducir leve
-  MID_GAME_DECAY_FACTOR: 0.96,         // factor de reduccion leve
+  MID_GAME_DECAY_FACTOR: 0.94,         // factor de reduccion leve
   LOW_CORNERS_THRESHOLD: 3,            // si tiene <= corners en este minuto
   LOW_CORNERS_MIN: 45,                 // a partir de este minuto
   LOW_CORNERS_PENALTY: 1.0,           // sin penalización (backtest: +20 aciertos)
