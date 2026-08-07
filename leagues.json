@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1461,
-    "totalCorners": 11603,
-    "totalProjected": 12013,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 1463,
+    "totalCorners": 11623,
+    "totalProjected": 12030,
+    "totalCrosses": 40,
+    "totalShotsBox": 24
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -133,9 +133,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina de Fútbol": {
-    "matches": 22,
-    "totalCorners": 121,
-    "totalProjected": 128,
+    "matches": 24,
+    "totalCorners": 135,
+    "totalProjected": 139,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
