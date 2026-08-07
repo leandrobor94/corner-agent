@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1456,
-    "totalCorners": 11573,
-    "totalProjected": 11983,
+    "matches": 1458,
+    "totalCorners": 11584,
+    "totalProjected": 11994,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1414,10 +1414,10 @@
     "totalShotsBox": 0
   },
   "X": {
-    "matches": 3,
-    "totalCorners": 15,
-    "totalProjected": 14,
-    "totalCrosses": 30,
-    "totalShotsBox": 18
+    "matches": 6,
+    "totalCorners": 30,
+    "totalProjected": 28,
+    "totalCrosses": 60,
+    "totalShotsBox": 36
   }
 }
