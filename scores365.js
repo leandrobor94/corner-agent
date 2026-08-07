@@ -44,7 +44,6 @@ async function fetchTodayMatches(onlyLive = true) {
     statusGroup: g.statusGroup,
     statusText: g.statusText,
     date: isoDate,
-    odds: g.odds || null,  // cuotas del bookmaker (over/under corners)
   }));
 }
 
@@ -85,7 +84,6 @@ async function fetchFinishedForDate(dateStr) {
       statusGroup: g.statusGroup,
       statusText: g.statusText,
       date: isoDate,
-      odds: g.odds || null,
     }));
 }
 

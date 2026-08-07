@@ -156,7 +156,6 @@ function analyzeMatch(match, stats, minute) {
       dataQuality: 'finished',
       corners: { home: hc, away: ac, total: hc + ac },
       projected: { home: hc, away: ac, total: hc + ac },
-      odds: match.odds || null,
       stats: {
         crosses: (home.crosses||0) + (away.crosses||0),
         shotsInsideBox: (home.shotsInsideBox||0) + (away.shotsInsideBox||0),
@@ -318,7 +317,6 @@ function analyzeMatch(match, stats, minute) {
     dataQuality,
     corners: { home: homeCorners, away: awayCorners, total: totalCorners },
     projected: { home: homeProjected, away: awayProjected, total: projectedTotal },
-    odds: match.odds || null,  // cuotas del bookmaker para análisis futuro
     stats: {
         crosses: home.crosses + away.crosses,
         shotsInsideBox: home.shotsInsideBox + away.shotsInsideBox,
