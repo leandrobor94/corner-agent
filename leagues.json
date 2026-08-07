@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1469,
-    "totalCorners": 11668,
-    "totalProjected": 12075,
-    "totalCrosses": 40,
+    "matches": 1482,
+    "totalCorners": 11750,
+    "totalProjected": 12162,
+    "totalCrosses": 176,
     "totalShotsBox": 24
   },
   "Catarinense - Serie B": {
@@ -168,11 +168,11 @@
     "totalShotsBox": 0
   },
   "Superliga": {
-    "matches": 37,
-    "totalCorners": 389,
-    "totalProjected": 404,
-    "totalCrosses": 41,
-    "totalShotsBox": 21
+    "matches": 39,
+    "totalCorners": 411,
+    "totalProjected": 424,
+    "totalCrosses": 101,
+    "totalShotsBox": 54
   },
   "Tercera División -": {
     "matches": 21,
@@ -322,11 +322,11 @@
     "totalShotsBox": 0
   },
   "Eliteserien": {
-    "matches": 24,
-    "totalCorners": 242,
-    "totalProjected": 244,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 26,
+    "totalCorners": 264,
+    "totalProjected": 267,
+    "totalCrosses": 52,
+    "totalShotsBox": 40
   },
   "Russian First League - Regular": {
     "matches": 24,
@@ -588,11 +588,11 @@
     "totalShotsBox": 0
   },
   "Superettan": {
-    "matches": 20,
-    "totalCorners": 192,
-    "totalProjected": 188,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 22,
+    "totalCorners": 204,
+    "totalProjected": 202,
+    "totalCrosses": 38,
+    "totalShotsBox": 9
   },
   "Amistoso": {
     "matches": 1,
@@ -700,10 +700,10 @@
     "totalShotsBox": 0
   },
   "Amistosos (F)": {
-    "matches": 5,
-    "totalCorners": 35,
-    "totalProjected": 35,
-    "totalCrosses": 0,
+    "matches": 7,
+    "totalCorners": 47,
+    "totalProjected": 47,
+    "totalCrosses": 26,
     "totalShotsBox": 0
   },
   "Campeonato Femenino A -": {
@@ -896,11 +896,11 @@
     "totalShotsBox": 0
   },
   "Challenge": {
-    "matches": 10,
-    "totalCorners": 79,
-    "totalProjected": 79,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 13,
+    "totalCorners": 107,
+    "totalProjected": 107,
+    "totalCrosses": 103,
+    "totalShotsBox": 64
   },
   "OTP Bank Liga": {
     "matches": 6,
@@ -931,11 +931,11 @@
     "totalShotsBox": 0
   },
   "Damallsvenskan": {
-    "matches": 10,
-    "totalCorners": 95,
-    "totalProjected": 94,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 14,
+    "totalCorners": 151,
+    "totalProjected": 146,
+    "totalCrosses": 85,
+    "totalShotsBox": 24
   },
   "2. Liga": {
     "matches": 15,
@@ -959,11 +959,11 @@
     "totalShotsBox": 0
   },
   "Liga checa": {
-    "matches": 8,
-    "totalCorners": 90,
-    "totalProjected": 90,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 10,
+    "totalCorners": 106,
+    "totalProjected": 107,
+    "totalCrosses": 57,
+    "totalShotsBox": 28
   },
   "Liga Femenina -": {
     "matches": 8,
@@ -1022,9 +1022,9 @@
     "totalShotsBox": 0
   },
   "Formuladeildin": {
-    "matches": 2,
-    "totalCorners": 15,
-    "totalProjected": 15,
+    "matches": 3,
+    "totalCorners": 31,
+    "totalProjected": 31,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1141,11 +1141,11 @@
     "totalShotsBox": 0
   },
   "Bundesliga": {
-    "matches": 3,
-    "totalCorners": 36,
-    "totalProjected": 36,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 4,
+    "totalCorners": 44,
+    "totalProjected": 44,
+    "totalCrosses": 20,
+    "totalShotsBox": 13
   },
   "CFU Club Shield -": {
     "matches": 2,
@@ -1433,5 +1433,12 @@
     "totalProjected": 7,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "3. Liga - Regular": {
+    "matches": 2,
+    "totalCorners": 18,
+    "totalProjected": 17,
+    "totalCrosses": 28,
+    "totalShotsBox": 13
   }
 }
