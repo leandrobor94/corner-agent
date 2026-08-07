@@ -252,16 +252,16 @@
     "totalShotsBox": 0
   },
   "Division": {
-    "matches": 23,
-    "totalCorners": 210,
-    "totalProjected": 221,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 25,
+    "totalCorners": 226,
+    "totalProjected": 235,
+    "totalCrosses": 44,
+    "totalShotsBox": 13
   },
   "Division 1": {
-    "matches": 42,
-    "totalCorners": 232,
-    "totalProjected": 237,
+    "matches": 43,
+    "totalCorners": 237,
+    "totalProjected": 242,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -280,9 +280,9 @@
     "totalShotsBox": 0
   },
   "Inkasso": {
-    "matches": 27,
-    "totalCorners": 304,
-    "totalProjected": 307,
+    "matches": 29,
+    "totalCorners": 319,
+    "totalProjected": 322,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1489,5 +1489,12 @@
     "totalProjected": 11,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Primeira Liga": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
+    "totalCrosses": 28,
+    "totalShotsBox": 14
   }
 }
