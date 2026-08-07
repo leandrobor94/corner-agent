@@ -15,20 +15,19 @@ const CONFIG = {
   TEAM_LINES: [3.5, 4.5, 5.5, 6.5, 7.5],
   TOTAL_LINES: [10.5, 11.5, 12.5, 13.5],
 
-  // Pesos: con keyPasses (60/5/20/5/10) y sin keyPasses (65/5/25/5/0)
-  RATE_WEIGHT: 0.60,
-  CROSS_WEIGHT: 0.05,
-  SHOTS_BOX_WEIGHT: 0.20,
+  // Pesos recalibrados con stats reales (464 muestras, +15.9% WR)
+  RATE_WEIGHT: 0.40,
+  CROSS_WEIGHT: 0.20,
+  SHOTS_BOX_WEIGHT: 0.25,
   ATTACK_WEIGHT: 0.05,
   KEYPASS_WEIGHT: 0.10,
-  // Fallback cuando no hay keyPasses del API
-  RATE_WEIGHT_NO_KP: 0.65,
-  SHOTS_BOX_WEIGHT_NO_KP: 0.25,
+  RATE_WEIGHT_NO_KP: 0.50,
+  SHOTS_BOX_WEIGHT_NO_KP: 0.30,
 
-  CORNER_CONVERSION_CROSS: 0.18,
-  CORNER_CONVERSION_SHOTS: 0.12,
-  CORNER_CONVERSION_ATTACKS: 0.02,
-  CORNER_CONVERSION_KEYPASS: 0.15,     // pases clave → corners
+  CORNER_CONVERSION_CROSS: 0.12,
+  CORNER_CONVERSION_SHOTS: 0.08,
+  CORNER_CONVERSION_ATTACKS: 0.01,
+  CORNER_CONVERSION_KEYPASS: 0.10,
   BIG_CHANCE_BOOST: 0.35,              // cada gran chance añade ~0.35 corners
 
   POSSESSION_IMBALANCE_THRESHOLD: 1.3, // si ratio > este, usa solo baseRate
