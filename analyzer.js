@@ -26,7 +26,7 @@ function getTeamAvgCorners(teamName) {
         }
       }
       for (const [name, data] of Object.entries(byTeam)) {
-        if (data.t >= 3) _teamAvgCache.set(name.toLowerCase(), data.c / data.t);
+        if (data.t >= 5) _teamAvgCache.set(name.toLowerCase(), data.c / data.t);
       }
     } catch { _teamAvgCache = new Map(); }
     _teamAvgCacheTime = now;
@@ -266,8 +266,8 @@ function analyzeMatch(match, stats, minute) {
   const prior = teamPrior > 0 ? teamPrior : leaguePrior > 0 ? leaguePrior : 0;
   if (prior > 0) {
     const liveWeight = Math.min(1, Math.max(0, (minute - 45) / 45)); // 0 en min 45, 1 en min 90
-    const priorWeight = 1 - liveWeight;
-    projectedTotal = Math.round(projectedTotal * liveWeight + prior * priorWeight);
+    const priorWeight = Math.min(0.3, 1 - liveWeight); // máximo 30% de peso al prior histórico
+    projectedTotal = Math.round(projectedTotal * (1 - priorWeight) + prior * priorWeight);
     projectedTotal = Math.min(Math.max(totalCorners, projectedTotal), CONFIG.MAX_PROJECTED_TOTAL);
   }
 
