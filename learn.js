@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const { CONFIG } = require('./config');
 
 const PREDICTIONS_FILE = path.join(__dirname, 'predictions.json');
 const WEIGHTS_FILE = path.join(__dirname, 'weights.json');
@@ -80,14 +81,14 @@ function storePrediction(result) {
   if (existing) {
     // No resetear correct/finalScore si ya fueron verificados
     if (existing.correct === null) {
-      Object.assign(existing, { timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key });
+      Object.assign(existing, { timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, modelVersion: CONFIG.MODEL_VERSION });
     } else {
-      Object.assign(existing, { timestamp: new Date().toISOString(), projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts });
+      Object.assign(existing, { timestamp: new Date().toISOString(), projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, modelVersion: CONFIG.MODEL_VERSION });
     }
     savePredictions(predictions);
     return;
   }
-  predictions.push({ timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [] });
+  predictions.push({ timestamp: new Date().toISOString(), match: result.match, league: result.league, gameId: result.gameId, homeId: result.homeId, awayId: result.awayId, date: result.date, minute: result.minute, score: result.score, corners: result.corners, projected: result.projected, stats: result.stats, teams: result.teams, teamAlerts: result.teamAlerts, totalAlerts: result.totalAlerts, key, correct: null, finalScore: null, finalCorners: null, _sentAlerts: [], modelVersion: CONFIG.MODEL_VERSION });
   savePredictions(predictions);
 }
 
