@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1544,
-    "totalCorners": 12226,
-    "totalProjected": 12621,
-    "totalCrosses": 611,
-    "totalShotsBox": 24
+    "matches": 1549,
+    "totalCorners": 12264,
+    "totalProjected": 12660,
+    "totalCrosses": 677,
+    "totalShotsBox": 36
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -161,18 +161,18 @@
     "totalShotsBox": 0
   },
   "Segunda división": {
-    "matches": 73,
-    "totalCorners": 722,
-    "totalProjected": 716,
+    "matches": 75,
+    "totalCorners": 735,
+    "totalProjected": 729,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Superliga": {
-    "matches": 43,
-    "totalCorners": 455,
-    "totalProjected": 464,
-    "totalCrosses": 221,
-    "totalShotsBox": 120
+    "matches": 44,
+    "totalCorners": 467,
+    "totalProjected": 476,
+    "totalCrosses": 256,
+    "totalShotsBox": 136
   },
   "Tercera División -": {
     "matches": 21,
@@ -294,23 +294,23 @@
     "totalShotsBox": 0
   },
   "Supreme Division Women": {
-    "matches": 28,
+    "matches": 30,
     "totalCorners": 28,
     "totalProjected": 42,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 40,
-    "totalCorners": 410,
-    "totalProjected": 411,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 41,
+    "totalCorners": 416,
+    "totalProjected": 417,
+    "totalCrosses": 29,
+    "totalShotsBox": 10
   },
   "Primera división": {
-    "matches": 41,
-    "totalCorners": 381,
-    "totalProjected": 421,
+    "matches": 45,
+    "totalCorners": 409,
+    "totalProjected": 449,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -588,9 +588,9 @@
     "totalShotsBox": 0
   },
   "Superettan": {
-    "matches": 26,
-    "totalCorners": 228,
-    "totalProjected": 230,
+    "matches": 28,
+    "totalCorners": 249,
+    "totalProjected": 251,
     "totalCrosses": 114,
     "totalShotsBox": 27
   },
@@ -616,9 +616,9 @@
     "totalShotsBox": 0
   },
   "I Lyga": {
-    "matches": 15,
-    "totalCorners": 144,
-    "totalProjected": 141,
+    "matches": 16,
+    "totalCorners": 154,
+    "totalProjected": 151,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -735,11 +735,11 @@
     "totalShotsBox": 0
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 34,
-    "totalCorners": 327,
-    "totalProjected": 310,
-    "totalCrosses": 200,
-    "totalShotsBox": 42
+    "matches": 37,
+    "totalCorners": 368,
+    "totalProjected": 348,
+    "totalCrosses": 222,
+    "totalShotsBox": 51
   },
   "CFU Club Shield - Primera Ronda": {
     "matches": 3,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 13,
-    "totalCorners": 123,
-    "totalProjected": 116,
-    "totalCrosses": 428,
-    "totalShotsBox": 218
+    "matches": 21,
+    "totalCorners": 186,
+    "totalProjected": 175,
+    "totalCrosses": 698,
+    "totalShotsBox": 341
   },
   "Erovnuli Liga": {
     "matches": 1,
@@ -1456,11 +1456,11 @@
     "totalShotsBox": 38
   },
   "2.": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
-    "totalCrosses": 35,
-    "totalShotsBox": 16
+    "matches": 4,
+    "totalCorners": 39,
+    "totalProjected": 39,
+    "totalCrosses": 143,
+    "totalShotsBox": 84
   },
   "1. Lig": {
     "matches": 1,
@@ -1505,23 +1505,30 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 13,
-    "totalCorners": 134,
-    "totalProjected": 134,
-    "totalCrosses": 120,
-    "totalShotsBox": 37
+    "matches": 23,
+    "totalCorners": 238,
+    "totalProjected": 237,
+    "totalCrosses": 192,
+    "totalShotsBox": 67
   },
   "Segunda división de": {
-    "matches": 1,
-    "totalCorners": 10,
-    "totalProjected": 10,
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 20,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Liga 3 - Grupo B": {
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 14,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Australia Cup - Octavos de final": {
     "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
+    "totalCorners": 12,
+    "totalProjected": 12,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
