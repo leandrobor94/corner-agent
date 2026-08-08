@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1539,
-    "totalCorners": 12182,
-    "totalProjected": 12575,
-    "totalCrosses": 537,
+    "matches": 1541,
+    "totalCorners": 12200,
+    "totalProjected": 12594,
+    "totalCrosses": 574,
     "totalShotsBox": 24
   },
   "Catarinense - Serie B": {
@@ -735,11 +735,11 @@
     "totalShotsBox": 0
   },
   "Liga de Campeones Femenina - Clasificación": {
-    "matches": 30,
-    "totalCorners": 259,
-    "totalProjected": 248,
-    "totalCrosses": 156,
-    "totalShotsBox": 24
+    "matches": 32,
+    "totalCorners": 293,
+    "totalProjected": 279,
+    "totalCrosses": 178,
+    "totalShotsBox": 33
   },
   "CFU Club Shield - Primera Ronda": {
     "matches": 3,
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 2,
-    "totalCorners": 22,
-    "totalProjected": 23,
+    "matches": 4,
+    "totalCorners": 42,
+    "totalProjected": 43,
     "totalCrosses": 48,
     "totalShotsBox": 7
   }
