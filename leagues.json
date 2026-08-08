@@ -294,7 +294,7 @@
     "totalShotsBox": 0
   },
   "Supreme Division Women": {
-    "matches": 22,
+    "matches": 24,
     "totalCorners": 28,
     "totalProjected": 42,
     "totalCrosses": 0,
@@ -1503,5 +1503,12 @@
     "totalProjected": 18,
     "totalCrosses": 46,
     "totalShotsBox": 24
+  },
+  "J2": {
+    "matches": 2,
+    "totalCorners": 22,
+    "totalProjected": 23,
+    "totalCrosses": 48,
+    "totalShotsBox": 7
   }
 }
