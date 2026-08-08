@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 1566,
-    "totalCorners": 12389,
-    "totalProjected": 12787,
-    "totalCrosses": 829,
+    "matches": 1569,
+    "totalCorners": 12418,
+    "totalProjected": 12817,
+    "totalCrosses": 859,
     "totalShotsBox": 75
   },
   "Catarinense - Serie B": {
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 49,
-    "totalCorners": 454,
-    "totalProjected": 469,
+    "matches": 52,
+    "totalCorners": 461,
+    "totalProjected": 476,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -217,9 +217,9 @@
     "totalShotsBox": 0
   },
   "Vysshaya Liga": {
-    "matches": 17,
-    "totalCorners": 146,
-    "totalProjected": 151,
+    "matches": 18,
+    "totalCorners": 157,
+    "totalProjected": 162,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -252,9 +252,9 @@
     "totalShotsBox": 0
   },
   "Division": {
-    "matches": 27,
-    "totalCorners": 244,
-    "totalProjected": 253,
+    "matches": 28,
+    "totalCorners": 253,
+    "totalProjected": 262,
     "totalCrosses": 44,
     "totalShotsBox": 13
   },
@@ -336,11 +336,11 @@
     "totalShotsBox": 9
   },
   "Allsvenskan": {
-    "matches": 21,
-    "totalCorners": 228,
-    "totalProjected": 236,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 22,
+    "totalCorners": 235,
+    "totalProjected": 243,
+    "totalCrosses": 21,
+    "totalShotsBox": 18
   },
   "Liga AUF Uruguaya -": {
     "matches": 12,
@@ -399,9 +399,9 @@
     "totalShotsBox": 0
   },
   "Segunda Division - Temporada": {
-    "matches": 12,
-    "totalCorners": 100,
-    "totalProjected": 107,
+    "matches": 13,
+    "totalCorners": 107,
+    "totalProjected": 114,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -588,9 +588,9 @@
     "totalShotsBox": 0
   },
   "Superettan": {
-    "matches": 32,
-    "totalCorners": 291,
-    "totalProjected": 293,
+    "matches": 33,
+    "totalCorners": 302,
+    "totalProjected": 304,
     "totalCrosses": 114,
     "totalShotsBox": 27
   },
@@ -798,11 +798,11 @@
     "totalShotsBox": 0
   },
   "ASEAN": {
-    "matches": 22,
-    "totalCorners": 198,
-    "totalProjected": 199,
-    "totalCrosses": 153,
-    "totalShotsBox": 54
+    "matches": 23,
+    "totalCorners": 210,
+    "totalProjected": 211,
+    "totalCrosses": 197,
+    "totalShotsBox": 67
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Norte": {
     "matches": 2,
@@ -1400,11 +1400,11 @@
     "totalShotsBox": 0
   },
   "Copa de la liga - Primera Ronda": {
-    "matches": 6,
-    "totalCorners": 65,
-    "totalProjected": 65,
-    "totalCrosses": 178,
-    "totalShotsBox": 86
+    "matches": 7,
+    "totalCorners": 72,
+    "totalProjected": 72,
+    "totalCrosses": 209,
+    "totalShotsBox": 97
   },
   "Liga Femenina de Fútbol -": {
     "matches": 1,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 38,
-    "totalCorners": 339,
-    "totalProjected": 308,
-    "totalCrosses": 1257,
-    "totalShotsBox": 605
+    "matches": 39,
+    "totalCorners": 352,
+    "totalProjected": 321,
+    "totalCrosses": 1302,
+    "totalShotsBox": 621
   },
   "Erovnuli Liga": {
     "matches": 1,
@@ -1512,9 +1512,9 @@
     "totalShotsBox": 127
   },
   "Segunda división de": {
-    "matches": 4,
-    "totalCorners": 40,
-    "totalProjected": 40,
+    "matches": 5,
+    "totalCorners": 47,
+    "totalProjected": 47,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1529,6 +1529,13 @@
     "matches": 3,
     "totalCorners": 36,
     "totalProjected": 36,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Erovnuli Liga 2": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
