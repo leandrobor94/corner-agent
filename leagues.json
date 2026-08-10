@@ -189,16 +189,16 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 168,
-    "totalCorners": 1578,
-    "totalProjected": 1594,
+    "matches": 169,
+    "totalCorners": 1588,
+    "totalProjected": 1604,
     "totalCrosses": 29,
     "totalShotsBox": 10
   },
   "Pershaya Liga": {
-    "matches": 75,
-    "totalCorners": 613,
-    "totalProjected": 479,
+    "matches": 84,
+    "totalCorners": 679,
+    "totalProjected": 527,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -826,11 +826,11 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 52,
-    "totalCorners": 485,
-    "totalProjected": 485,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 54,
+    "totalCorners": 507,
+    "totalProjected": 505,
+    "totalCrosses": 24,
+    "totalShotsBox": 6
   },
   "1st": {
     "matches": 90,
@@ -938,11 +938,11 @@
     "totalShotsBox": 252
   },
   "2. Liga": {
-    "matches": 56,
-    "totalCorners": 535,
-    "totalProjected": 533,
-    "totalCrosses": 320,
-    "totalShotsBox": 54
+    "matches": 58,
+    "totalCorners": 553,
+    "totalProjected": 549,
+    "totalCrosses": 358,
+    "totalShotsBox": 64
   },
   "Ekstraklasa": {
     "matches": 49,
@@ -966,9 +966,9 @@
     "totalShotsBox": 1085
   },
   "Liga Femenina -": {
-    "matches": 23,
-    "totalCorners": 121,
-    "totalProjected": 121,
+    "matches": 24,
+    "totalCorners": 128,
+    "totalProjected": 128,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
