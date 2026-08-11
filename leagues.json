@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2025,
-    "totalCorners": 15600,
-    "totalProjected": 16006,
-    "totalCrosses": 3775,
-    "totalShotsBox": 1562
+    "matches": 2026,
+    "totalCorners": 15615,
+    "totalProjected": 16021,
+    "totalCrosses": 3802,
+    "totalShotsBox": 1581
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -1526,9 +1526,9 @@
     "totalShotsBox": 0
   },
   "Australia Cup - Octavos de final": {
-    "matches": 6,
-    "totalCorners": 94,
-    "totalProjected": 79,
+    "matches": 7,
+    "totalCorners": 110,
+    "totalProjected": 95,
     "totalCrosses": 32,
     "totalShotsBox": 13
   },
@@ -1708,10 +1708,17 @@
     "totalShotsBox": 0
   },
   "AFC Challenge League - Clasificación": {
-    "matches": 4,
-    "totalCorners": 38,
-    "totalProjected": 41,
-    "totalCrosses": 59,
-    "totalShotsBox": 16
+    "matches": 6,
+    "totalCorners": 62,
+    "totalProjected": 67,
+    "totalCrosses": 80,
+    "totalShotsBox": 24
+  },
+  "AFC Liga de Campeones Élite - Fase": {
+    "matches": 1,
+    "totalCorners": 4,
+    "totalProjected": 4,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
