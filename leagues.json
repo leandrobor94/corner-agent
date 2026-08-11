@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2032,
-    "totalCorners": 15659,
-    "totalProjected": 16049,
-    "totalCrosses": 3895,
+    "matches": 2040,
+    "totalCorners": 15703,
+    "totalProjected": 16077,
+    "totalCrosses": 3988,
     "totalShotsBox": 1581
   },
   "Catarinense - Serie B": {
@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 176,
-    "totalCorners": 1656,
-    "totalProjected": 1672,
-    "totalCrosses": 206,
-    "totalShotsBox": 67
+    "matches": 181,
+    "totalCorners": 1703,
+    "totalProjected": 1719,
+    "totalCrosses": 383,
+    "totalShotsBox": 125
   },
   "Pershaya Liga": {
     "matches": 93,
@@ -588,11 +588,11 @@
     "totalShotsBox": 0
   },
   "Superettan": {
-    "matches": 60,
-    "totalCorners": 685,
-    "totalProjected": 688,
-    "totalCrosses": 178,
-    "totalShotsBox": 39
+    "matches": 62,
+    "totalCorners": 705,
+    "totalProjected": 709,
+    "totalCrosses": 242,
+    "totalShotsBox": 51
   },
   "Amistoso": {
     "matches": 1,
@@ -826,11 +826,11 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 64,
-    "totalCorners": 593,
-    "totalProjected": 590,
-    "totalCrosses": 104,
-    "totalShotsBox": 23
+    "matches": 66,
+    "totalCorners": 613,
+    "totalProjected": 611,
+    "totalCrosses": 160,
+    "totalShotsBox": 34
   },
   "1st": {
     "matches": 90,
@@ -1134,7 +1134,7 @@
     "totalShotsBox": 86
   },
   "Regionalliga -": {
-    "matches": 77,
+    "matches": 79,
     "totalCorners": 5,
     "totalProjected": 5,
     "totalCrosses": 0,
@@ -1337,18 +1337,18 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio - Tercera Ronda": {
-    "matches": 16,
-    "totalCorners": 151,
-    "totalProjected": 154,
-    "totalCrosses": 249,
-    "totalShotsBox": 122
+    "matches": 23,
+    "totalCorners": 222,
+    "totalProjected": 228,
+    "totalCrosses": 431,
+    "totalShotsBox": 170
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 31,
-    "totalCorners": 316,
-    "totalProjected": 316,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 34,
+    "totalCorners": 344,
+    "totalProjected": 343,
+    "totalCrosses": 73,
+    "totalShotsBox": 29
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
     "matches": 14,
@@ -1708,11 +1708,11 @@
     "totalShotsBox": 0
   },
   "AFC Challenge League - Clasificación": {
-    "matches": 11,
-    "totalCorners": 106,
-    "totalProjected": 112,
-    "totalCrosses": 111,
-    "totalShotsBox": 32
+    "matches": 13,
+    "totalCorners": 122,
+    "totalProjected": 129,
+    "totalCrosses": 142,
+    "totalShotsBox": 40
   },
   "AFC Liga de Campeones Élite - Fase": {
     "matches": 8,
@@ -1736,9 +1736,9 @@
     "totalShotsBox": 0
   },
   "Toto Cup National League - Puesto de": {
-    "matches": 5,
-    "totalCorners": 33,
-    "totalProjected": 33,
+    "matches": 6,
+    "totalCorners": 46,
+    "totalProjected": 46,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1750,16 +1750,16 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 2,
-    "totalCorners": 12,
-    "totalProjected": 14,
-    "totalCrosses": 38,
-    "totalShotsBox": 12
+    "matches": 4,
+    "totalCorners": 24,
+    "totalProjected": 28,
+    "totalCrosses": 76,
+    "totalShotsBox": 24
   },
   "Liga Profesional -": {
-    "matches": 3,
-    "totalCorners": 30,
-    "totalProjected": 30,
+    "matches": 8,
+    "totalCorners": 78,
+    "totalProjected": 78,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
