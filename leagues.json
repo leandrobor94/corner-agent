@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2104,
-    "totalCorners": 15974,
-    "totalProjected": 16332,
-    "totalCrosses": 4081,
-    "totalShotsBox": 1581
+    "matches": 2125,
+    "totalCorners": 16088,
+    "totalProjected": 16446,
+    "totalCrosses": 4128,
+    "totalShotsBox": 1612
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -70,9 +70,9 @@
     "totalShotsBox": 0
   },
   "Campeonato": {
-    "matches": 45,
-    "totalCorners": 231,
-    "totalProjected": 234,
+    "matches": 49,
+    "totalCorners": 240,
+    "totalProjected": 243,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -119,9 +119,9 @@
     "totalShotsBox": 0
   },
   "Torneo Promocional": {
-    "matches": 28,
-    "totalCorners": 136,
-    "totalProjected": 142,
+    "matches": 29,
+    "totalCorners": 145,
+    "totalProjected": 151,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 189,
-    "totalCorners": 1784,
-    "totalProjected": 1800,
-    "totalCrosses": 660,
-    "totalShotsBox": 222
+    "matches": 193,
+    "totalCorners": 1831,
+    "totalProjected": 1847,
+    "totalCrosses": 798,
+    "totalShotsBox": 276
   },
   "Pershaya Liga": {
     "matches": 93,
@@ -700,9 +700,9 @@
     "totalShotsBox": 0
   },
   "Amistosos (F)": {
-    "matches": 56,
-    "totalCorners": 311,
-    "totalProjected": 311,
+    "matches": 58,
+    "totalCorners": 331,
+    "totalProjected": 331,
     "totalCrosses": 78,
     "totalShotsBox": 0
   },
@@ -861,9 +861,9 @@
     "totalShotsBox": 0
   },
   "MOL Cup - Octavos de final": {
-    "matches": 81,
-    "totalCorners": 765,
-    "totalProjected": 767,
+    "matches": 100,
+    "totalCorners": 948,
+    "totalProjected": 950,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1001,9 +1001,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 82,
-    "totalCorners": 801,
-    "totalProjected": 801,
+    "matches": 100,
+    "totalCorners": 976,
+    "totalProjected": 976,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1050,9 +1050,9 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 42,
-    "totalCorners": 435,
-    "totalProjected": 432,
+    "matches": 52,
+    "totalCorners": 544,
+    "totalProjected": 541,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1281,16 +1281,16 @@
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona B": {
-    "matches": 10,
-    "totalCorners": 80,
-    "totalProjected": 80,
+    "matches": 11,
+    "totalCorners": 87,
+    "totalProjected": 87,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Federal A - Reválida - Zona A": {
-    "matches": 13,
-    "totalCorners": 102,
-    "totalProjected": 102,
+    "matches": 15,
+    "totalCorners": 120,
+    "totalProjected": 120,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1344,11 +1344,11 @@
     "totalShotsBox": 232
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 43,
-    "totalCorners": 422,
-    "totalProjected": 420,
-    "totalCrosses": 252,
-    "totalShotsBox": 140
+    "matches": 46,
+    "totalCorners": 447,
+    "totalProjected": 445,
+    "totalCrosses": 305,
+    "totalShotsBox": 181
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
     "matches": 14,
@@ -1393,9 +1393,9 @@
     "totalShotsBox": 0
   },
   "Copa Rio - Cuartos de Final": {
-    "matches": 3,
-    "totalCorners": 23,
-    "totalProjected": 23,
+    "matches": 6,
+    "totalCorners": 38,
+    "totalProjected": 38,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1526,9 +1526,9 @@
     "totalShotsBox": 0
   },
   "Australia Cup - Octavos de final": {
-    "matches": 23,
-    "totalCorners": 281,
-    "totalProjected": 266,
+    "matches": 25,
+    "totalCorners": 305,
+    "totalProjected": 290,
     "totalCrosses": 32,
     "totalShotsBox": 13
   },
@@ -1596,16 +1596,16 @@
     "totalShotsBox": 0
   },
   "Federal A - Reválida - Zona B": {
-    "matches": 18,
-    "totalCorners": 168,
-    "totalProjected": 168,
+    "matches": 22,
+    "totalCorners": 178,
+    "totalProjected": 178,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona A": {
-    "matches": 6,
-    "totalCorners": 63,
-    "totalProjected": 63,
+    "matches": 7,
+    "totalCorners": 74,
+    "totalProjected": 74,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1708,7 +1708,7 @@
     "totalShotsBox": 0
   },
   "AFC Challenge League - Clasificación": {
-    "matches": 22,
+    "matches": 23,
     "totalCorners": 138,
     "totalProjected": 146,
     "totalCrosses": 173,
@@ -1736,30 +1736,30 @@
     "totalShotsBox": 0
   },
   "Toto Cup National League - Puesto de": {
-    "matches": 8,
-    "totalCorners": 77,
-    "totalProjected": 77,
+    "matches": 9,
+    "totalCorners": 95,
+    "totalProjected": 95,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Toto Cup National League -": {
-    "matches": 2,
-    "totalCorners": 11,
-    "totalProjected": 11,
+    "matches": 3,
+    "totalCorners": 17,
+    "totalProjected": 17,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 8,
-    "totalCorners": 48,
-    "totalProjected": 54,
+    "matches": 9,
+    "totalCorners": 53,
+    "totalProjected": 59,
     "totalCrosses": 114,
     "totalShotsBox": 36
   },
   "Liga Profesional -": {
-    "matches": 14,
-    "totalCorners": 134,
-    "totalProjected": 134,
+    "matches": 20,
+    "totalCorners": 207,
+    "totalProjected": 207,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1778,23 +1778,23 @@
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones 2 - Preliminary Round": {
-    "matches": 7,
-    "totalCorners": 45,
-    "totalProjected": 45,
+    "matches": 9,
+    "totalCorners": 55,
+    "totalProjected": 55,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Supercopa griega - Final": {
-    "matches": 1,
-    "totalCorners": 6,
-    "totalProjected": 6,
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 12,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa Africana de Naciones (F) -": {
-    "matches": 1,
-    "totalCorners": 6,
-    "totalProjected": 6,
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 12,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
