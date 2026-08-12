@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2063,
-    "totalCorners": 15797,
-    "totalProjected": 16155,
+    "matches": 2066,
+    "totalCorners": 15807,
+    "totalProjected": 16165,
     "totalCrosses": 4081,
     "totalShotsBox": 1581
   },
@@ -700,9 +700,9 @@
     "totalShotsBox": 0
   },
   "Amistosos (F)": {
-    "matches": 51,
-    "totalCorners": 270,
-    "totalProjected": 270,
+    "matches": 52,
+    "totalCorners": 277,
+    "totalProjected": 277,
     "totalCrosses": 78,
     "totalShotsBox": 0
   },
@@ -1001,9 +1001,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 24,
-    "totalCorners": 223,
-    "totalProjected": 223,
+    "matches": 34,
+    "totalCorners": 326,
+    "totalProjected": 326,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1526,9 +1526,9 @@
     "totalShotsBox": 0
   },
   "Australia Cup - Octavos de final": {
-    "matches": 15,
-    "totalCorners": 185,
-    "totalProjected": 170,
+    "matches": 17,
+    "totalCorners": 209,
+    "totalProjected": 194,
     "totalCrosses": 32,
     "totalShotsBox": 13
   },
@@ -1708,7 +1708,7 @@
     "totalShotsBox": 0
   },
   "AFC Challenge League - Clasificación": {
-    "matches": 18,
+    "matches": 19,
     "totalCorners": 138,
     "totalProjected": 146,
     "totalCrosses": 173,
@@ -1774,6 +1774,13 @@
     "matches": 1,
     "totalCorners": 7,
     "totalProjected": 7,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "AFC Liga de Campeones 2 - Preliminary Round": {
+    "matches": 1,
+    "totalCorners": 15,
+    "totalProjected": 15,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
