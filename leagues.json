@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2135,
-    "totalCorners": 16162,
-    "totalProjected": 16504,
-    "totalCrosses": 4305,
-    "totalShotsBox": 1636
+    "matches": 2146,
+    "totalCorners": 16236,
+    "totalProjected": 16562,
+    "totalCrosses": 4482,
+    "totalShotsBox": 1660
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -266,11 +266,11 @@
     "totalShotsBox": 0
   },
   "Liga de": {
-    "matches": 133,
-    "totalCorners": 1210,
-    "totalProjected": 1223,
-    "totalCrosses": 2520,
-    "totalShotsBox": 1104
+    "matches": 135,
+    "totalCorners": 1214,
+    "totalProjected": 1230,
+    "totalCrosses": 2543,
+    "totalShotsBox": 1111
   },
   "Mundial - Cuartos de Final": {
     "matches": 1,
@@ -609,9 +609,9 @@
     "totalShotsBox": 0
   },
   "Paulista": {
-    "matches": 2,
-    "totalCorners": 23,
-    "totalProjected": 24,
+    "matches": 3,
+    "totalCorners": 31,
+    "totalProjected": 32,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1036,9 +1036,9 @@
     "totalShotsBox": 0
   },
   "Primera Division -": {
-    "matches": 31,
-    "totalCorners": 152,
-    "totalProjected": 152,
+    "matches": 32,
+    "totalCorners": 160,
+    "totalProjected": 160,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1120,9 +1120,9 @@
     "totalShotsBox": 0
   },
   "Liga Prom - Apertura - Conferencia Este - Zona Sur": {
-    "matches": 8,
-    "totalCorners": 86,
-    "totalProjected": 89,
+    "matches": 9,
+    "totalCorners": 87,
+    "totalProjected": 90,
     "totalCrosses": 120,
     "totalShotsBox": 0
   },
@@ -1281,16 +1281,16 @@
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona B": {
-    "matches": 12,
-    "totalCorners": 96,
-    "totalProjected": 96,
+    "matches": 13,
+    "totalCorners": 105,
+    "totalProjected": 105,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Federal A - Reválida - Zona A": {
-    "matches": 16,
-    "totalCorners": 125,
-    "totalProjected": 125,
+    "matches": 17,
+    "totalCorners": 130,
+    "totalProjected": 130,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1393,11 +1393,11 @@
     "totalShotsBox": 0
   },
   "Copa Rio - Cuartos de Final": {
-    "matches": 8,
-    "totalCorners": 58,
-    "totalProjected": 56,
-    "totalCrosses": 35,
-    "totalShotsBox": 8
+    "matches": 10,
+    "totalCorners": 78,
+    "totalProjected": 74,
+    "totalCrosses": 70,
+    "totalShotsBox": 16
   },
   "Copa de la liga - Primera Ronda": {
     "matches": 391,
@@ -1554,7 +1554,7 @@
     "totalShotsBox": 518
   },
   "7ª División": {
-    "matches": 590,
+    "matches": 591,
     "totalCorners": 2482,
     "totalProjected": 2349,
     "totalCrosses": 2446,
@@ -1603,11 +1603,11 @@
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona A": {
-    "matches": 9,
-    "totalCorners": 76,
-    "totalProjected": 79,
-    "totalCrosses": 27,
-    "totalShotsBox": 2
+    "matches": 11,
+    "totalCorners": 78,
+    "totalProjected": 84,
+    "totalCrosses": 54,
+    "totalShotsBox": 4
   },
   "Ligue 2": {
     "matches": 27,
@@ -1750,9 +1750,9 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 9,
-    "totalCorners": 53,
-    "totalProjected": 59,
+    "matches": 10,
+    "totalCorners": 58,
+    "totalProjected": 64,
     "totalCrosses": 114,
     "totalShotsBox": 36
   },
@@ -1764,17 +1764,17 @@
     "totalShotsBox": 0
   },
   "Challenge Cup": {
-    "matches": 19,
-    "totalCorners": 190,
-    "totalProjected": 190,
+    "matches": 20,
+    "totalCorners": 201,
+    "totalProjected": 201,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa de Inglaterra - Preliminar - Extra Preliminary Round": {
-    "matches": 3,
+    "matches": 5,
     "totalCorners": 7,
     "totalProjected": 7,
-    "totalCrosses": 37,
+    "totalCrosses": 74,
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones 2 - Preliminary Round": {
@@ -1799,10 +1799,10 @@
     "totalShotsBox": 0
   },
   "Supercopa Europa - Final": {
-    "matches": 2,
-    "totalCorners": 4,
-    "totalProjected": 7,
-    "totalCrosses": 36,
-    "totalShotsBox": 38
+    "matches": 4,
+    "totalCorners": 8,
+    "totalProjected": 14,
+    "totalCrosses": 72,
+    "totalShotsBox": 76
   }
 }
