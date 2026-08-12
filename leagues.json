@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2125,
-    "totalCorners": 16088,
-    "totalProjected": 16446,
-    "totalCrosses": 4128,
-    "totalShotsBox": 1612
+    "matches": 2135,
+    "totalCorners": 16162,
+    "totalProjected": 16504,
+    "totalCrosses": 4305,
+    "totalShotsBox": 1636
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -266,11 +266,11 @@
     "totalShotsBox": 0
   },
   "Liga de": {
-    "matches": 131,
-    "totalCorners": 1206,
-    "totalProjected": 1216,
-    "totalCrosses": 2497,
-    "totalShotsBox": 1097
+    "matches": 133,
+    "totalCorners": 1210,
+    "totalProjected": 1223,
+    "totalCrosses": 2520,
+    "totalShotsBox": 1104
   },
   "Mundial - Cuartos de Final": {
     "matches": 1,
@@ -1281,16 +1281,16 @@
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona B": {
-    "matches": 11,
-    "totalCorners": 87,
-    "totalProjected": 87,
+    "matches": 12,
+    "totalCorners": 96,
+    "totalProjected": 96,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Federal A - Reválida - Zona A": {
-    "matches": 15,
-    "totalCorners": 120,
-    "totalProjected": 120,
+    "matches": 16,
+    "totalCorners": 125,
+    "totalProjected": 125,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1393,11 +1393,11 @@
     "totalShotsBox": 0
   },
   "Copa Rio - Cuartos de Final": {
-    "matches": 6,
-    "totalCorners": 38,
-    "totalProjected": 38,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 8,
+    "totalCorners": 58,
+    "totalProjected": 56,
+    "totalCrosses": 35,
+    "totalShotsBox": 8
   },
   "Copa de la liga - Primera Ronda": {
     "matches": 391,
@@ -1554,7 +1554,7 @@
     "totalShotsBox": 518
   },
   "7ª División": {
-    "matches": 589,
+    "matches": 590,
     "totalCorners": 2482,
     "totalProjected": 2349,
     "totalCrosses": 2446,
@@ -1603,11 +1603,11 @@
     "totalShotsBox": 0
   },
   "Federal A - Segunda Fase - Zona A": {
-    "matches": 7,
-    "totalCorners": 74,
-    "totalProjected": 74,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 9,
+    "totalCorners": 76,
+    "totalProjected": 79,
+    "totalCrosses": 27,
+    "totalShotsBox": 2
   },
   "Ligue 2": {
     "matches": 27,
@@ -1764,17 +1764,17 @@
     "totalShotsBox": 0
   },
   "Challenge Cup": {
-    "matches": 18,
-    "totalCorners": 179,
-    "totalProjected": 179,
+    "matches": 19,
+    "totalCorners": 190,
+    "totalProjected": 190,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa de Inglaterra - Preliminar - Extra Preliminary Round": {
-    "matches": 1,
+    "matches": 3,
     "totalCorners": 7,
     "totalProjected": 7,
-    "totalCrosses": 0,
+    "totalCrosses": 37,
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones 2 - Preliminary Round": {
@@ -1797,5 +1797,12 @@
     "totalProjected": 12,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Supercopa Europa - Final": {
+    "matches": 2,
+    "totalCorners": 4,
+    "totalProjected": 7,
+    "totalCrosses": 36,
+    "totalShotsBox": 38
   }
 }
