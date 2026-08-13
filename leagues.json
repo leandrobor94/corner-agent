@@ -1001,11 +1001,11 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 102,
-    "totalCorners": 994,
-    "totalProjected": 991,
-    "totalCrosses": 23,
-    "totalShotsBox": 8
+    "matches": 104,
+    "totalCorners": 1006,
+    "totalProjected": 1004,
+    "totalCrosses": 63,
+    "totalShotsBox": 22
   },
   "Toto League Cup": {
     "matches": 30,
@@ -1344,18 +1344,18 @@
     "totalShotsBox": 232
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 50,
-    "totalCorners": 502,
-    "totalProjected": 492,
-    "totalCrosses": 332,
-    "totalShotsBox": 193
+    "matches": 64,
+    "totalCorners": 650,
+    "totalProjected": 634,
+    "totalCrosses": 594,
+    "totalShotsBox": 350
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
-    "matches": 14,
-    "totalCorners": 124,
-    "totalProjected": 124,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 24,
+    "totalCorners": 212,
+    "totalProjected": 204,
+    "totalCrosses": 227,
+    "totalShotsBox": 121
   },
   "Juegos Centroamericanos y del Caribe (F) -": {
     "matches": 1,
@@ -1811,5 +1811,12 @@
     "totalProjected": 6,
     "totalCrosses": 35,
     "totalShotsBox": 10
+  },
+  "Copa Africana de Naciones (F) - Play-in": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
