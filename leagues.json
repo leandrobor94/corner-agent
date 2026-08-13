@@ -28,7 +28,7 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2148,
+    "matches": 2150,
     "totalCorners": 16236,
     "totalProjected": 16562,
     "totalCrosses": 4482,
@@ -175,9 +175,9 @@
     "totalShotsBox": 2401
   },
   "Tercera División -": {
-    "matches": 48,
-    "totalCorners": 301,
-    "totalProjected": 306,
+    "matches": 49,
+    "totalCorners": 311,
+    "totalProjected": 316,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
@@ -280,9 +280,9 @@
     "totalShotsBox": 0
   },
   "Inkasso": {
-    "matches": 77,
-    "totalCorners": 733,
-    "totalProjected": 720,
+    "matches": 83,
+    "totalCorners": 792,
+    "totalProjected": 779,
     "totalCrosses": 416,
     "totalShotsBox": 120
   },
@@ -1001,11 +1001,11 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 108,
-    "totalCorners": 1030,
-    "totalProjected": 1030,
-    "totalCrosses": 143,
-    "totalShotsBox": 50
+    "matches": 110,
+    "totalCorners": 1042,
+    "totalProjected": 1043,
+    "totalCrosses": 183,
+    "totalShotsBox": 64
   },
   "Toto League Cup": {
     "matches": 30,
@@ -1092,9 +1092,9 @@
     "totalShotsBox": 0
   },
   "Copa Ecuador - Octavos de final": {
-    "matches": 4,
-    "totalCorners": 39,
-    "totalProjected": 39,
+    "matches": 5,
+    "totalCorners": 45,
+    "totalProjected": 45,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1344,18 +1344,18 @@
     "totalShotsBox": 232
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 111,
-    "totalCorners": 1116,
-    "totalProjected": 1084,
-    "totalCrosses": 1385,
-    "totalShotsBox": 791
+    "matches": 138,
+    "totalCorners": 1388,
+    "totalProjected": 1348,
+    "totalCrosses": 1858,
+    "totalShotsBox": 1044
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
-    "matches": 52,
-    "totalCorners": 464,
-    "totalProjected": 440,
-    "totalCrosses": 767,
-    "totalShotsBox": 422
+    "matches": 67,
+    "totalCorners": 602,
+    "totalProjected": 570,
+    "totalCrosses": 1052,
+    "totalShotsBox": 581
   },
   "Juegos Centroamericanos y del Caribe (F) -": {
     "matches": 1,
@@ -1645,7 +1645,7 @@
     "totalShotsBox": 0
   },
   "Liga de Ascenso -": {
-    "matches": 19,
+    "matches": 20,
     "totalCorners": 93,
     "totalProjected": 93,
     "totalCrosses": 0,
@@ -1750,16 +1750,16 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 10,
-    "totalCorners": 58,
-    "totalProjected": 64,
+    "matches": 11,
+    "totalCorners": 69,
+    "totalProjected": 75,
     "totalCrosses": 114,
     "totalShotsBox": 36
   },
   "Liga Profesional -": {
-    "matches": 30,
-    "totalCorners": 313,
-    "totalProjected": 313,
+    "matches": 36,
+    "totalCorners": 382,
+    "totalProjected": 382,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1806,16 +1806,16 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 5,
-    "totalCorners": 60,
-    "totalProjected": 60,
-    "totalCrosses": 209,
-    "totalShotsBox": 92
+    "matches": 7,
+    "totalCorners": 87,
+    "totalProjected": 87,
+    "totalCrosses": 296,
+    "totalShotsBox": 133
   },
   "Copa Africana de Naciones (F) - Play-in": {
-    "matches": 3,
-    "totalCorners": 18,
-    "totalProjected": 18,
+    "matches": 5,
+    "totalCorners": 33,
+    "totalProjected": 33,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
