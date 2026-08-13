@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 193,
-    "totalCorners": 1831,
-    "totalProjected": 1847,
-    "totalCrosses": 798,
-    "totalShotsBox": 276
+    "matches": 195,
+    "totalCorners": 1841,
+    "totalProjected": 1857,
+    "totalCrosses": 819,
+    "totalShotsBox": 282
   },
   "Pershaya Liga": {
     "matches": 93,
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 71,
-    "totalCorners": 594,
-    "totalProjected": 598,
+    "matches": 72,
+    "totalCorners": 609,
+    "totalProjected": 613,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -1344,11 +1344,11 @@
     "totalShotsBox": 232
   },
   "UEFA Conference League - 3ra ronda de clasificación": {
-    "matches": 46,
-    "totalCorners": 447,
-    "totalProjected": 445,
-    "totalCrosses": 305,
-    "totalShotsBox": 181
+    "matches": 50,
+    "totalCorners": 502,
+    "totalProjected": 492,
+    "totalCrosses": 332,
+    "totalShotsBox": 193
   },
   "UEFA Europa League Clasificatorio - Tercera Ronda": {
     "matches": 14,
@@ -1804,5 +1804,12 @@
     "totalProjected": 14,
     "totalCrosses": 72,
     "totalShotsBox": 76
+  },
+  "Liga Profesional Saudí": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 35,
+    "totalShotsBox": 10
   }
 }
