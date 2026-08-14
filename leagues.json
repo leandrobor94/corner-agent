@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2161,
-    "totalCorners": 16315,
-    "totalProjected": 16641,
+    "matches": 2163,
+    "totalCorners": 16331,
+    "totalProjected": 16657,
     "totalCrosses": 4482,
     "totalShotsBox": 1660
   },
@@ -49,9 +49,9 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 73,
-    "totalCorners": 654,
-    "totalProjected": 680,
+    "matches": 74,
+    "totalCorners": 655,
+    "totalProjected": 681,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -168,11 +168,11 @@
     "totalShotsBox": 0
   },
   "Superliga": {
-    "matches": 207,
-    "totalCorners": 1915,
-    "totalProjected": 1914,
-    "totalCrosses": 5828,
-    "totalShotsBox": 2513
+    "matches": 210,
+    "totalCorners": 1933,
+    "totalProjected": 1932,
+    "totalCrosses": 5929,
+    "totalShotsBox": 2569
   },
   "Tercera División -": {
     "matches": 50,
@@ -217,9 +217,9 @@
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 45,
-    "totalCorners": 400,
-    "totalProjected": 405,
+    "matches": 46,
+    "totalCorners": 406,
+    "totalProjected": 411,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 138,
-    "totalCorners": 1372,
-    "totalProjected": 1286,
-    "totalCrosses": 1581,
-    "totalShotsBox": 505
+    "matches": 139,
+    "totalCorners": 1382,
+    "totalProjected": 1296,
+    "totalCrosses": 1611,
+    "totalShotsBox": 521
   },
   "Primera división": {
     "matches": 55,
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 72,
-    "totalCorners": 609,
-    "totalProjected": 613,
+    "matches": 73,
+    "totalCorners": 616,
+    "totalProjected": 620,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 25,
-    "totalCorners": 179,
-    "totalProjected": 182,
+    "matches": 26,
+    "totalCorners": 190,
+    "totalProjected": 193,
     "totalCrosses": 27,
     "totalShotsBox": 14
   },
@@ -875,11 +875,11 @@
     "totalShotsBox": 0
   },
   "Premier Liga": {
-    "matches": 47,
-    "totalCorners": 523,
-    "totalProjected": 504,
-    "totalCrosses": 1409,
-    "totalShotsBox": 541
+    "matches": 48,
+    "totalCorners": 531,
+    "totalProjected": 512,
+    "totalCrosses": 1451,
+    "totalShotsBox": 568
   },
   "Regionalliga": {
     "matches": 6,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 46,
-    "totalCorners": 417,
-    "totalProjected": 390,
-    "totalCrosses": 1512,
-    "totalShotsBox": 730
+    "matches": 47,
+    "totalCorners": 425,
+    "totalProjected": 398,
+    "totalCrosses": 1535,
+    "totalShotsBox": 745
   },
   "Erovnuli Liga": {
     "matches": 26,
@@ -1820,10 +1820,17 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 3,
-    "totalCorners": 40,
-    "totalProjected": 40,
+    "matches": 5,
+    "totalCorners": 67,
+    "totalProjected": 67,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "UAE Pro": {
+    "matches": 1,
+    "totalCorners": 11,
+    "totalProjected": 11,
+    "totalCrosses": 34,
+    "totalShotsBox": 21
   }
 }
