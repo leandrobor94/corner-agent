@@ -1,10 +1,10 @@
 {
   "Meistriliiga": {
-    "matches": 23,
-    "totalCorners": 260,
-    "totalProjected": 265,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 25,
+    "totalCorners": 276,
+    "totalProjected": 283,
+    "totalCrosses": 28,
+    "totalShotsBox": 12
   },
   "Premier League - PlayOffs - Fase de": {
     "matches": 16,
@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2165,
-    "totalCorners": 16332,
-    "totalProjected": 16658,
-    "totalCrosses": 4482,
-    "totalShotsBox": 1660
+    "matches": 2167,
+    "totalCorners": 16342,
+    "totalProjected": 16668,
+    "totalCrosses": 4503,
+    "totalShotsBox": 1669
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 196,
-    "totalCorners": 1851,
-    "totalProjected": 1867,
-    "totalCrosses": 819,
-    "totalShotsBox": 282
+    "matches": 200,
+    "totalCorners": 1895,
+    "totalProjected": 1913,
+    "totalCrosses": 842,
+    "totalShotsBox": 290
   },
   "Pershaya Liga": {
     "matches": 93,
@@ -210,18 +210,18 @@
     "totalShotsBox": 0
   },
   "Ykkosliiga": {
-    "matches": 73,
-    "totalCorners": 736,
-    "totalProjected": 750,
+    "matches": 74,
+    "totalCorners": 750,
+    "totalProjected": 764,
     "totalCrosses": 615,
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 46,
-    "totalCorners": 406,
-    "totalProjected": 411,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 48,
+    "totalCorners": 430,
+    "totalProjected": 436,
+    "totalCrosses": 25,
+    "totalShotsBox": 9
   },
   "Ykkonen": {
     "matches": 63,
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 74,
-    "totalCorners": 630,
-    "totalProjected": 634,
+    "matches": 75,
+    "totalCorners": 638,
+    "totalProjected": 642,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -539,11 +539,11 @@
     "totalShotsBox": 184
   },
   "Liga1": {
-    "matches": 43,
-    "totalCorners": 379,
-    "totalProjected": 378,
-    "totalCrosses": 963,
-    "totalShotsBox": 369
+    "matches": 44,
+    "totalCorners": 385,
+    "totalProjected": 384,
+    "totalCrosses": 1004,
+    "totalShotsBox": 385
   },
   "Liga eslovena - Regular": {
     "matches": 31,
@@ -616,11 +616,11 @@
     "totalShotsBox": 0
   },
   "I Lyga": {
-    "matches": 35,
-    "totalCorners": 287,
-    "totalProjected": 284,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 42,
+    "totalCorners": 372,
+    "totalProjected": 366,
+    "totalCrosses": 104,
+    "totalShotsBox": 25
   },
   "USL": {
     "matches": 6,
@@ -826,11 +826,11 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 68,
-    "totalCorners": 633,
-    "totalProjected": 632,
-    "totalCrosses": 216,
-    "totalShotsBox": 45
+    "matches": 70,
+    "totalCorners": 649,
+    "totalProjected": 646,
+    "totalCrosses": 262,
+    "totalShotsBox": 52
   },
   "1st": {
     "matches": 90,
@@ -847,18 +847,18 @@
     "totalShotsBox": 0
   },
   "I Liga": {
-    "matches": 109,
-    "totalCorners": 1258,
-    "totalProjected": 1238,
-    "totalCrosses": 900,
-    "totalShotsBox": 450
+    "matches": 111,
+    "totalCorners": 1286,
+    "totalProjected": 1266,
+    "totalCrosses": 944,
+    "totalShotsBox": 462
   },
   "Division 2": {
-    "matches": 37,
-    "totalCorners": 306,
-    "totalProjected": 306,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 41,
+    "totalCorners": 352,
+    "totalProjected": 352,
+    "totalCrosses": 58,
+    "totalShotsBox": 18
   },
   "MOL Cup - Octavos de final": {
     "matches": 100,
@@ -903,11 +903,11 @@
     "totalShotsBox": 272
   },
   "OTP Bank Liga": {
-    "matches": 51,
-    "totalCorners": 531,
-    "totalProjected": 513,
-    "totalCrosses": 1460,
-    "totalShotsBox": 811
+    "matches": 52,
+    "totalCorners": 536,
+    "totalProjected": 518,
+    "totalCrosses": 1491,
+    "totalShotsBox": 832
   },
   "Copa de Primera -": {
     "matches": 21,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 5,
+    "matches": 7,
     "totalCorners": 67,
-    "totalProjected": 67,
+    "totalProjected": 68,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1841,9 +1841,30 @@
     "totalShotsBox": 7
   },
   "Persian Gulf Pro": {
-    "matches": 2,
+    "matches": 3,
     "totalCorners": 0,
     "totalProjected": 1,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Italia - 32avos de final": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 44,
+    "totalShotsBox": 22
+  },
+  "Copa Italia - Lega Pro - 32avos de final": {
+    "matches": 2,
+    "totalCorners": 18,
+    "totalProjected": 9,
+    "totalCrosses": 37,
+    "totalShotsBox": 0
+  },
+  "Liga Iraquí": {
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
