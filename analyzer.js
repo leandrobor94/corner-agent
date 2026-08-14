@@ -266,7 +266,7 @@ function analyzeMatch(match, stats, minute) {
   const prior = teamPrior > 0 ? teamPrior : leaguePrior > 0 ? leaguePrior : 0;
   if (prior > 0) {
     const liveWeight = Math.min(1, Math.max(0, (minute - 45) / 45)); // 0 en min 45, 1 en min 90
-    const priorWeight = Math.min(0.3, 1 - liveWeight); // máximo 30% de peso al prior histórico
+    const priorWeight = Math.min(0.1, 1 - liveWeight); // máximo 10% de peso al prior histórico
     projectedTotal = Math.round(projectedTotal * (1 - priorWeight) + prior * priorWeight);
     projectedTotal = Math.min(Math.max(totalCorners, projectedTotal), CONFIG.MAX_PROJECTED_TOTAL);
   }

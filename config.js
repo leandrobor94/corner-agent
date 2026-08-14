@@ -24,9 +24,9 @@ const CONFIG = {
   RATE_WEIGHT_NO_KP: 0.50,
   SHOTS_BOX_WEIGHT_NO_KP: 0.30,
 
-  CORNER_CONVERSION_CROSS: 0.12,
-  CORNER_CONVERSION_SHOTS: 0.08,
-  CORNER_CONVERSION_ATTACKS: 0.01,
+  CORNER_CONVERSION_CROSS: 0.15,
+  CORNER_CONVERSION_SHOTS: 0.10,
+  CORNER_CONVERSION_ATTACKS: 0.015,
   CORNER_CONVERSION_KEYPASS: 0.10,
   BIG_CHANCE_BOOST: 0.35,              // cada gran chance añade ~0.35 corners
 
@@ -34,7 +34,7 @@ const CONFIG = {
   MAX_TEAM_CORNERS: 12,                // techo de seguridad por equipo
   MAX_PROJECTED_TOTAL: 14,             // techo de proyección total (evita sobre-proyecciones erróneas)
 
-  NEED_GOAL_BOOST: 1.05,
+  NEED_GOAL_BOOST: 1.25,
   WINNING_REDUCTION: 0.95,
 
   // Factores de correccion basados en datos reales
