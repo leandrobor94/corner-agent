@@ -54,7 +54,7 @@ const CONFIG = {
   POISSON_MIN_PROB: 5,
   POISSON_MAX_PROB: 95,
 
-  MODEL_VERSION: 4,  // incremental: comparar rendimiento entre versiones
+  MODEL_VERSION: 5,  // v5: NGB=1.25, prior 10%, conv 15/10/1.5 (calibrado con analyzer real)
 
   // Estimación de stats faltantes del API
   ENRICH_SHOTS_RATIO: 0.60,       // shotsInsideBox = totalShots * ratio
