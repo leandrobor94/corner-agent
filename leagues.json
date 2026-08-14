@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2163,
-    "totalCorners": 16331,
-    "totalProjected": 16657,
+    "matches": 2165,
+    "totalCorners": 16332,
+    "totalProjected": 16658,
     "totalCrosses": 4482,
     "totalShotsBox": 1660
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 195,
-    "totalCorners": 1841,
-    "totalProjected": 1857,
+    "matches": 196,
+    "totalCorners": 1851,
+    "totalProjected": 1867,
     "totalCrosses": 819,
     "totalShotsBox": 282
   },
@@ -231,11 +231,11 @@
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 86,
-    "totalCorners": 947,
-    "totalProjected": 972,
-    "totalCrosses": 2472,
-    "totalShotsBox": 1053
+    "matches": 87,
+    "totalCorners": 958,
+    "totalProjected": 983,
+    "totalCrosses": 2504,
+    "totalShotsBox": 1070
   },
   "Primera B": {
     "matches": 61,
@@ -329,9 +329,9 @@
     "totalShotsBox": 1336
   },
   "Russian First League - Regular": {
-    "matches": 113,
-    "totalCorners": 1022,
-    "totalProjected": 939,
+    "matches": 114,
+    "totalCorners": 1029,
+    "totalProjected": 946,
     "totalCrosses": 243,
     "totalShotsBox": 81
   },
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 73,
-    "totalCorners": 616,
-    "totalProjected": 620,
+    "matches": 74,
+    "totalCorners": 630,
+    "totalProjected": 634,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -812,11 +812,11 @@
     "totalShotsBox": 0
   },
   "First League - Regular": {
-    "matches": 32,
-    "totalCorners": 319,
-    "totalProjected": 319,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 34,
+    "totalCorners": 347,
+    "totalProjected": 347,
+    "totalCrosses": 22,
+    "totalShotsBox": 8
   },
   "David Kipiani Cup - Octavos de final": {
     "matches": 9,
@@ -1832,5 +1832,19 @@
     "totalProjected": 11,
     "totalCrosses": 34,
     "totalShotsBox": 21
+  },
+  "Superliga de Kosovo - Regular": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 17,
+    "totalCrosses": 69,
+    "totalShotsBox": 7
+  },
+  "Persian Gulf Pro": {
+    "matches": 2,
+    "totalCorners": 0,
+    "totalProjected": 1,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
