@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2157,
-    "totalCorners": 16283,
-    "totalProjected": 16609,
+    "matches": 2159,
+    "totalCorners": 16299,
+    "totalProjected": 16625,
     "totalCrosses": 4482,
     "totalShotsBox": 1660
   },
@@ -168,11 +168,11 @@
     "totalShotsBox": 0
   },
   "Superliga": {
-    "matches": 201,
-    "totalCorners": 1879,
-    "totalProjected": 1878,
-    "totalCrosses": 5626,
-    "totalShotsBox": 2401
+    "matches": 204,
+    "totalCorners": 1897,
+    "totalProjected": 1896,
+    "totalCrosses": 5727,
+    "totalShotsBox": 2457
   },
   "Tercera División -": {
     "matches": 50,
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 136,
-    "totalCorners": 1352,
-    "totalProjected": 1266,
-    "totalCrosses": 1521,
-    "totalShotsBox": 473
+    "matches": 137,
+    "totalCorners": 1362,
+    "totalProjected": 1276,
+    "totalCrosses": 1551,
+    "totalShotsBox": 489
   },
   "Primera división": {
     "matches": 55,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 44,
-    "totalCorners": 401,
-    "totalProjected": 374,
-    "totalCrosses": 1466,
-    "totalShotsBox": 700
+    "matches": 45,
+    "totalCorners": 409,
+    "totalProjected": 382,
+    "totalCrosses": 1489,
+    "totalShotsBox": 715
   },
   "Erovnuli Liga": {
     "matches": 26,
@@ -1816,6 +1816,13 @@
     "matches": 7,
     "totalCorners": 48,
     "totalProjected": 48,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Ligi Kuu Bara": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
