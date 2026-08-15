@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2315,
-    "totalCorners": 16938,
-    "totalProjected": 17264,
-    "totalCrosses": 4909,
-    "totalShotsBox": 1750
+    "matches": 2318,
+    "totalCorners": 16973,
+    "totalProjected": 17296,
+    "totalCrosses": 4911,
+    "totalShotsBox": 1751
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -168,11 +168,11 @@
     "totalShotsBox": 40
   },
   "Superliga": {
-    "matches": 231,
-    "totalCorners": 2168,
-    "totalProjected": 2171,
-    "totalCrosses": 6752,
-    "totalShotsBox": 3011
+    "matches": 233,
+    "totalCorners": 2186,
+    "totalProjected": 2189,
+    "totalCrosses": 6830,
+    "totalShotsBox": 3060
   },
   "Tercera División -": {
     "matches": 50,
@@ -217,11 +217,11 @@
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 66,
-    "totalCorners": 646,
-    "totalProjected": 661,
-    "totalCrosses": 250,
-    "totalShotsBox": 90
+    "matches": 68,
+    "totalCorners": 658,
+    "totalProjected": 672,
+    "totalCrosses": 284,
+    "totalShotsBox": 102
   },
   "Ykkonen": {
     "matches": 63,
@@ -833,11 +833,11 @@
     "totalShotsBox": 115
   },
   "1st": {
-    "matches": 109,
-    "totalCorners": 1098,
-    "totalProjected": 1099,
-    "totalCrosses": 2998,
-    "totalShotsBox": 1611
+    "matches": 110,
+    "totalCorners": 1117,
+    "totalProjected": 1118,
+    "totalCrosses": 3046,
+    "totalShotsBox": 1631
   },
   "Ekstraklasa - Regular": {
     "matches": 2,
@@ -931,9 +931,9 @@
     "totalShotsBox": 53
   },
   "Damallsvenskan": {
-    "matches": 66,
-    "totalCorners": 618,
-    "totalProjected": 645,
+    "matches": 67,
+    "totalCorners": 627,
+    "totalProjected": 654,
     "totalCrosses": 938,
     "totalShotsBox": 263
   },
@@ -1134,10 +1134,10 @@
     "totalShotsBox": 86
   },
   "Regionalliga -": {
-    "matches": 116,
-    "totalCorners": 5,
-    "totalProjected": 5,
-    "totalCrosses": 0,
+    "matches": 119,
+    "totalCorners": 31,
+    "totalProjected": 30,
+    "totalCrosses": 44,
     "totalShotsBox": 0
   },
   "Bundesliga": {
@@ -1435,11 +1435,11 @@
     "totalShotsBox": 0
   },
   "3. Liga - Regular": {
-    "matches": 49,
-    "totalCorners": 378,
-    "totalProjected": 375,
-    "totalCrosses": 84,
-    "totalShotsBox": 39
+    "matches": 55,
+    "totalCorners": 434,
+    "totalProjected": 434,
+    "totalCrosses": 120,
+    "totalShotsBox": 53
   },
   "Eerste": {
     "matches": 81,
@@ -1907,6 +1907,13 @@
     "matches": 6,
     "totalCorners": 90,
     "totalProjected": 90,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Toppserien": {
+    "matches": 3,
+    "totalCorners": 30,
+    "totalProjected": 30,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
