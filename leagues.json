@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2301,
-    "totalCorners": 16919,
-    "totalProjected": 17245,
+    "matches": 2302,
+    "totalCorners": 16922,
+    "totalProjected": 17248,
     "totalCrosses": 4692,
     "totalShotsBox": 1750
   },
@@ -287,9 +287,9 @@
     "totalShotsBox": 120
   },
   "National": {
-    "matches": 23,
-    "totalCorners": 212,
-    "totalProjected": 200,
+    "matches": 25,
+    "totalCorners": 224,
+    "totalProjected": 207,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
