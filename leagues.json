@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2318,
-    "totalCorners": 16973,
-    "totalProjected": 17296,
-    "totalCrosses": 4911,
+    "matches": 2320,
+    "totalCorners": 16983,
+    "totalProjected": 17302,
+    "totalCrosses": 4946,
     "totalShotsBox": 1751
   },
   "Catarinense - Serie B": {
@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 262,
-    "totalCorners": 2530,
-    "totalProjected": 2566,
-    "totalCrosses": 1337,
-    "totalShotsBox": 467
+    "matches": 265,
+    "totalCorners": 2557,
+    "totalProjected": 2602,
+    "totalCrosses": 1387,
+    "totalShotsBox": 475
   },
   "Pershaya Liga": {
     "matches": 93,
@@ -1916,5 +1916,12 @@
     "totalProjected": 30,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Tweede": {
+    "matches": 2,
+    "totalCorners": 22,
+    "totalProjected": 21,
+    "totalCrosses": 33,
+    "totalShotsBox": 8
   }
 }
