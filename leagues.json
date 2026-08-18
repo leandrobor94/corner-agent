@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2628,
-    "totalCorners": 18841,
-    "totalProjected": 19086,
+    "matches": 2629,
+    "totalCorners": 18853,
+    "totalProjected": 19098,
     "totalCrosses": 7073,
     "totalShotsBox": 2933
   },
@@ -168,11 +168,11 @@
     "totalShotsBox": 40
   },
   "Superliga": {
-    "matches": 306,
-    "totalCorners": 2887,
-    "totalProjected": 2892,
-    "totalCrosses": 9293,
-    "totalShotsBox": 4064
+    "matches": 307,
+    "totalCorners": 2900,
+    "totalProjected": 2905,
+    "totalCrosses": 9325,
+    "totalShotsBox": 4087
   },
   "Tercera División -": {
     "matches": 67,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 82,
-    "totalCorners": 348,
-    "totalProjected": 378,
+    "matches": 83,
+    "totalCorners": 364,
+    "totalProjected": 394,
     "totalCrosses": 232,
     "totalShotsBox": 88
   },
@@ -1925,11 +1925,11 @@
     "totalShotsBox": 64
   },
   "ASEAN Championship -": {
-    "matches": 39,
-    "totalCorners": 188,
-    "totalProjected": 172,
-    "totalCrosses": 780,
-    "totalShotsBox": 517
+    "matches": 40,
+    "totalCorners": 195,
+    "totalProjected": 179,
+    "totalCrosses": 805,
+    "totalShotsBox": 538
   },
   "Youth": {
     "matches": 33,
@@ -2037,9 +2037,9 @@
     "totalShotsBox": 45
   },
   "Australia Cup - Cuartos de Final": {
-    "matches": 4,
-    "totalCorners": 28,
-    "totalProjected": 28,
+    "matches": 5,
+    "totalCorners": 35,
+    "totalProjected": 35,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
