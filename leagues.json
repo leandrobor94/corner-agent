@@ -1757,9 +1757,9 @@
     "totalShotsBox": 36
   },
   "Liga Profesional -": {
-    "matches": 46,
-    "totalCorners": 478,
-    "totalProjected": 478,
+    "matches": 47,
+    "totalCorners": 485,
+    "totalProjected": 485,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2068,6 +2068,20 @@
     "matches": 10,
     "totalCorners": 119,
     "totalProjected": 119,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "UEFA Champions League Clasificatorio -": {
+    "matches": 4,
+    "totalCorners": 30,
+    "totalProjected": 29,
+    "totalCrosses": 125,
+    "totalShotsBox": 64
+  },
+  "Copa Paceña": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
