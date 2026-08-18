@@ -49,9 +49,9 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 118,
-    "totalCorners": 874,
-    "totalProjected": 900,
+    "matches": 119,
+    "totalCorners": 881,
+    "totalProjected": 907,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -658,11 +658,11 @@
     "totalShotsBox": 0
   },
   "Copa": {
-    "matches": 48,
-    "totalCorners": 326,
-    "totalProjected": 327,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 51,
+    "totalCorners": 353,
+    "totalProjected": 355,
+    "totalCrosses": 42,
+    "totalShotsBox": 9
   },
   "Liga 2": {
     "matches": 62,
@@ -1757,11 +1757,11 @@
     "totalShotsBox": 36
   },
   "Liga Profesional -": {
-    "matches": 48,
-    "totalCorners": 492,
-    "totalProjected": 492,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 50,
+    "totalCorners": 504,
+    "totalProjected": 504,
+    "totalCrosses": 20,
+    "totalShotsBox": 9
   },
   "Challenge Cup": {
     "matches": 20,
