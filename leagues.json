@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2631,
-    "totalCorners": 18877,
-    "totalProjected": 19122,
-    "totalCrosses": 7073,
-    "totalShotsBox": 2933
+    "matches": 2633,
+    "totalCorners": 18891,
+    "totalProjected": 19139,
+    "totalCrosses": 7108,
+    "totalShotsBox": 2956
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -826,11 +826,11 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 135,
-    "totalCorners": 1205,
-    "totalProjected": 1184,
-    "totalCrosses": 676,
-    "totalShotsBox": 115
+    "matches": 137,
+    "totalCorners": 1233,
+    "totalProjected": 1212,
+    "totalCrosses": 702,
+    "totalShotsBox": 121
   },
   "1st": {
     "matches": 117,
@@ -1050,11 +1050,11 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 52,
-    "totalCorners": 544,
-    "totalProjected": 541,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 54,
+    "totalCorners": 564,
+    "totalProjected": 555,
+    "totalCrosses": 30,
+    "totalShotsBox": 9
   },
   "Africa U20 Cup of Nations - Clasificación": {
     "matches": 3,
@@ -1309,11 +1309,11 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo D": {
-    "matches": 2,
-    "totalCorners": 19,
-    "totalProjected": 19,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 4,
+    "totalCorners": 37,
+    "totalProjected": 40,
+    "totalCrosses": 25,
+    "totalShotsBox": 8
   },
   "Slovakia Cup - Preliminary Round": {
     "matches": 10,
@@ -1323,11 +1323,11 @@
     "totalShotsBox": 27
   },
   "Copa de Rusia - Grupo A": {
-    "matches": 2,
-    "totalCorners": 24,
-    "totalProjected": 24,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 4,
+    "totalCorners": 52,
+    "totalProjected": 50,
+    "totalCrosses": 31,
+    "totalShotsBox": 10
   },
   "DBU Pokalen - Primera Ronda": {
     "matches": 14,
@@ -1841,7 +1841,7 @@
     "totalShotsBox": 7
   },
   "Persian Gulf Pro": {
-    "matches": 60,
+    "matches": 62,
     "totalCorners": 0,
     "totalProjected": 1,
     "totalCrosses": 0,
@@ -2040,6 +2040,13 @@
     "matches": 7,
     "totalCorners": 49,
     "totalProjected": 49,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Hervis Pokal - Primera Ronda": {
+    "matches": 2,
+    "totalCorners": 4,
+    "totalProjected": 4,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
