@@ -28,11 +28,11 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2642,
-    "totalCorners": 18949,
-    "totalProjected": 19203,
-    "totalCrosses": 7178,
-    "totalShotsBox": 3006
+    "matches": 2649,
+    "totalCorners": 18987,
+    "totalProjected": 19244,
+    "totalCrosses": 7213,
+    "totalShotsBox": 3031
   },
   "Catarinense - Serie B": {
     "matches": 2,
@@ -175,9 +175,9 @@
     "totalShotsBox": 4133
   },
   "Tercera División -": {
-    "matches": 68,
-    "totalCorners": 501,
-    "totalProjected": 506,
+    "matches": 69,
+    "totalCorners": 506,
+    "totalProjected": 511,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
@@ -287,9 +287,9 @@
     "totalShotsBox": 180
   },
   "National": {
-    "matches": 32,
-    "totalCorners": 284,
-    "totalProjected": 267,
+    "matches": 39,
+    "totalCorners": 344,
+    "totalProjected": 327,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -700,9 +700,9 @@
     "totalShotsBox": 0
   },
   "Amistosos (F)": {
-    "matches": 67,
-    "totalCorners": 394,
-    "totalProjected": 394,
+    "matches": 68,
+    "totalCorners": 409,
+    "totalProjected": 409,
     "totalCrosses": 78,
     "totalShotsBox": 0
   },
@@ -826,11 +826,11 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 142,
-    "totalCorners": 1297,
-    "totalProjected": 1276,
-    "totalCrosses": 754,
-    "totalShotsBox": 133
+    "matches": 145,
+    "totalCorners": 1333,
+    "totalProjected": 1312,
+    "totalCrosses": 780,
+    "totalShotsBox": 139
   },
   "1st": {
     "matches": 117,
@@ -1050,11 +1050,11 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 58,
-    "totalCorners": 604,
-    "totalProjected": 583,
-    "totalCrosses": 90,
-    "totalShotsBox": 27
+    "matches": 60,
+    "totalCorners": 624,
+    "totalProjected": 597,
+    "totalCrosses": 120,
+    "totalShotsBox": 36
   },
   "Africa U20 Cup of Nations - Clasificación": {
     "matches": 3,
@@ -1309,11 +1309,11 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo D": {
-    "matches": 8,
-    "totalCorners": 73,
-    "totalProjected": 82,
-    "totalCrosses": 75,
-    "totalShotsBox": 24
+    "matches": 10,
+    "totalCorners": 91,
+    "totalProjected": 103,
+    "totalCrosses": 100,
+    "totalShotsBox": 32
   },
   "Slovakia Cup - Preliminary Round": {
     "matches": 10,
@@ -1323,11 +1323,11 @@
     "totalShotsBox": 27
   },
   "Copa de Rusia - Grupo A": {
-    "matches": 8,
-    "totalCorners": 108,
-    "totalProjected": 102,
-    "totalCrosses": 93,
-    "totalShotsBox": 30
+    "matches": 10,
+    "totalCorners": 136,
+    "totalProjected": 128,
+    "totalCrosses": 124,
+    "totalShotsBox": 40
   },
   "DBU Pokalen - Primera Ronda": {
     "matches": 14,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 87,
-    "totalCorners": 410,
-    "totalProjected": 440,
+    "matches": 88,
+    "totalCorners": 417,
+    "totalProjected": 447,
     "totalCrosses": 232,
     "totalShotsBox": 88
   },
@@ -1841,7 +1841,7 @@
     "totalShotsBox": 7
   },
   "Persian Gulf Pro": {
-    "matches": 73,
+    "matches": 79,
     "totalCorners": 0,
     "totalProjected": 1,
     "totalCrosses": 0,
@@ -1988,11 +1988,11 @@
     "totalShotsBox": 0
   },
   "King's Cup - 16avos de final": {
-    "matches": 38,
-    "totalCorners": 362,
-    "totalProjected": 362,
-    "totalCrosses": 1200,
-    "totalShotsBox": 625
+    "matches": 41,
+    "totalCorners": 394,
+    "totalProjected": 394,
+    "totalCrosses": 1312,
+    "totalShotsBox": 677
   },
   "Toto League Cup -": {
     "matches": 18,
@@ -2044,16 +2044,23 @@
     "totalShotsBox": 0
   },
   "Hervis Pokal - Primera Ronda": {
-    "matches": 6,
-    "totalCorners": 12,
-    "totalProjected": 12,
+    "matches": 8,
+    "totalCorners": 16,
+    "totalProjected": 16,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa de Suecia - Clasificación": {
-    "matches": 5,
-    "totalCorners": 58,
-    "totalProjected": 58,
+    "matches": 10,
+    "totalCorners": 122,
+    "totalProjected": 122,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "DBU Pokalen - 32avos de final": {
+    "matches": 1,
+    "totalCorners": 11,
+    "totalProjected": 11,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
