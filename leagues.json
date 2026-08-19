@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2665,
-    "totalCorners": 19071,
-    "totalProjected": 19334,
+    "matches": 2668,
+    "totalCorners": 19081,
+    "totalProjected": 19344,
     "totalCrosses": 7283,
     "totalShotsBox": 3081
   },
@@ -287,9 +287,9 @@
     "totalShotsBox": 180
   },
   "National": {
-    "matches": 53,
-    "totalCorners": 464,
-    "totalProjected": 447,
+    "matches": 54,
+    "totalCorners": 471,
+    "totalProjected": 454,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2091,5 +2091,12 @@
     "totalProjected": 17,
     "totalCrosses": 94,
     "totalShotsBox": 30
+  },
+  "Emperors Cup - Primera Ronda": {
+    "matches": 1,
+    "totalCorners": 4,
+    "totalProjected": 4,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
