@@ -581,10 +581,10 @@
     "totalShotsBox": 0
   },
   "Liga 3": {
-    "matches": 27,
-    "totalCorners": 218,
-    "totalProjected": 216,
-    "totalCrosses": 48,
+    "matches": 29,
+    "totalCorners": 230,
+    "totalProjected": 226,
+    "totalCrosses": 96,
     "totalShotsBox": 0
   },
   "Superettan": {
@@ -756,11 +756,11 @@
     "totalShotsBox": 0
   },
   "MLS Next Pro": {
-    "matches": 11,
-    "totalCorners": 112,
-    "totalProjected": 112,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 13,
+    "totalCorners": 132,
+    "totalProjected": 136,
+    "totalCrosses": 50,
+    "totalShotsBox": 20
   },
   "UEFA Europa League Clasificatorio - Segunda Ronda": {
     "matches": 18,
@@ -924,11 +924,11 @@
     "totalShotsBox": 642
   },
   "Liga BetPlay Dimayor -": {
-    "matches": 28,
-    "totalCorners": 25,
-    "totalProjected": 26,
-    "totalCrosses": 148,
-    "totalShotsBox": 53
+    "matches": 29,
+    "totalCorners": 33,
+    "totalProjected": 37,
+    "totalCrosses": 174,
+    "totalShotsBox": 67
   },
   "Damallsvenskan": {
     "matches": 99,
@@ -1036,10 +1036,10 @@
     "totalShotsBox": 0
   },
   "Primera Division -": {
-    "matches": 72,
-    "totalCorners": 298,
-    "totalProjected": 298,
-    "totalCrosses": 80,
+    "matches": 76,
+    "totalCorners": 335,
+    "totalProjected": 325,
+    "totalCrosses": 123,
     "totalShotsBox": 0
   },
   "FA Cup - 16avos de final": {
@@ -1575,11 +1575,11 @@
     "totalShotsBox": 800
   },
   "Liga Nacional -": {
-    "matches": 11,
-    "totalCorners": 94,
-    "totalProjected": 94,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 13,
+    "totalCorners": 100,
+    "totalProjected": 102,
+    "totalCrosses": 30,
+    "totalShotsBox": 9
   },
   "Copa Africana de Naciones (F) - Cuartos de Final": {
     "matches": 18,
@@ -2126,5 +2126,12 @@
     "totalProjected": 38,
     "totalCrosses": 48,
     "totalShotsBox": 62
+  },
+  "Copa Peru": {
+    "matches": 2,
+    "totalCorners": 20,
+    "totalProjected": 23,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
