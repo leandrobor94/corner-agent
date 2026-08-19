@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2698,
-    "totalCorners": 19147,
-    "totalProjected": 19413,
-    "totalCrosses": 7591,
+    "matches": 2710,
+    "totalCorners": 19191,
+    "totalProjected": 19462,
+    "totalCrosses": 7720,
     "totalShotsBox": 3081
   },
   "Catarinense - Serie B": {
@@ -49,9 +49,9 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 142,
-    "totalCorners": 1056,
-    "totalProjected": 1082,
+    "matches": 146,
+    "totalCorners": 1068,
+    "totalProjected": 1094,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -434,11 +434,11 @@
     "totalShotsBox": 938
   },
   "Primera": {
-    "matches": 150,
-    "totalCorners": 1198,
-    "totalProjected": 1225,
-    "totalCrosses": 5,
-    "totalShotsBox": 3
+    "matches": 151,
+    "totalCorners": 1208,
+    "totalProjected": 1236,
+    "totalCrosses": 10,
+    "totalShotsBox": 6
   },
   "Federal A": {
     "matches": 7,
@@ -1036,10 +1036,10 @@
     "totalShotsBox": 0
   },
   "Primera Division -": {
-    "matches": 70,
+    "matches": 72,
     "totalCorners": 298,
     "totalProjected": 298,
-    "totalCrosses": 40,
+    "totalCrosses": 80,
     "totalShotsBox": 0
   },
   "FA Cup - 16avos de final": {
@@ -1239,9 +1239,9 @@
     "totalShotsBox": 0
   },
   "Prva Liga": {
-    "matches": 79,
-    "totalCorners": 847,
-    "totalProjected": 847,
+    "matches": 81,
+    "totalCorners": 870,
+    "totalProjected": 870,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1267,11 +1267,11 @@
     "totalShotsBox": 0
   },
   "Gaucho A2": {
-    "matches": 69,
-    "totalCorners": 536,
-    "totalProjected": 534,
-    "totalCrosses": 40,
-    "totalShotsBox": 8
+    "matches": 71,
+    "totalCorners": 568,
+    "totalProjected": 564,
+    "totalCrosses": 80,
+    "totalShotsBox": 16
   },
   "Liga Femenil BBVA -": {
     "matches": 8,
@@ -1554,9 +1554,9 @@
     "totalShotsBox": 518
   },
   "7ª División": {
-    "matches": 860,
-    "totalCorners": 2696,
-    "totalProjected": 2563,
+    "matches": 862,
+    "totalCorners": 2708,
+    "totalProjected": 2575,
     "totalCrosses": 2446,
     "totalShotsBox": 0
   },
@@ -1568,9 +1568,9 @@
     "totalShotsBox": 0
   },
   "National League N/S - Temporada": {
-    "matches": 496,
-    "totalCorners": 4930,
-    "totalProjected": 4562,
+    "matches": 497,
+    "totalCorners": 4942,
+    "totalProjected": 4574,
     "totalCrosses": 4752,
     "totalShotsBox": 800
   },
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 36
   },
   "Liga Profesional -": {
-    "matches": 59,
-    "totalCorners": 591,
-    "totalProjected": 591,
+    "matches": 65,
+    "totalCorners": 654,
+    "totalProjected": 654,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1988,11 +1988,11 @@
     "totalShotsBox": 0
   },
   "King's Cup - 16avos de final": {
-    "matches": 56,
-    "totalCorners": 527,
-    "totalProjected": 529,
-    "totalCrosses": 1776,
-    "totalShotsBox": 906
+    "matches": 58,
+    "totalCorners": 537,
+    "totalProjected": 541,
+    "totalCrosses": 1825,
+    "totalShotsBox": 936
   },
   "Toto League Cup -": {
     "matches": 18,
@@ -2065,9 +2065,9 @@
     "totalShotsBox": 0
   },
   "EFL": {
-    "matches": 11,
-    "totalCorners": 132,
-    "totalProjected": 132,
+    "matches": 12,
+    "totalCorners": 145,
+    "totalProjected": 145,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2121,10 +2121,10 @@
     "totalShotsBox": 0
   },
   "Trofeo Joan Gamper - Final": {
-    "matches": 2,
-    "totalCorners": 16,
-    "totalProjected": 19,
-    "totalCrosses": 24,
-    "totalShotsBox": 31
+    "matches": 4,
+    "totalCorners": 32,
+    "totalProjected": 38,
+    "totalCrosses": 48,
+    "totalShotsBox": 62
   }
 }
