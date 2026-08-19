@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2711,
-    "totalCorners": 19197,
-    "totalProjected": 19468,
+    "matches": 2712,
+    "totalCorners": 19203,
+    "totalProjected": 19474,
     "totalCrosses": 7720,
     "totalShotsBox": 3081
   },
@@ -658,11 +658,11 @@
     "totalShotsBox": 0
   },
   "Copa": {
-    "matches": 54,
-    "totalCorners": 380,
-    "totalProjected": 383,
-    "totalCrosses": 84,
-    "totalShotsBox": 18
+    "matches": 59,
+    "totalCorners": 432,
+    "totalProjected": 431,
+    "totalCrosses": 159,
+    "totalShotsBox": 48
   },
   "Liga 2": {
     "matches": 62,
@@ -1239,9 +1239,9 @@
     "totalShotsBox": 0
   },
   "Prva Liga": {
-    "matches": 82,
-    "totalCorners": 881,
-    "totalProjected": 881,
+    "matches": 83,
+    "totalCorners": 892,
+    "totalProjected": 892,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1295,9 +1295,9 @@
     "totalShotsBox": 0
   },
   "Torneo BetPlay Dimayor - Finalización": {
-    "matches": 4,
-    "totalCorners": 47,
-    "totalProjected": 47,
+    "matches": 5,
+    "totalCorners": 57,
+    "totalProjected": 57,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1750,11 +1750,11 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 14,
-    "totalCorners": 94,
-    "totalProjected": 100,
-    "totalCrosses": 114,
-    "totalShotsBox": 36
+    "matches": 16,
+    "totalCorners": 126,
+    "totalProjected": 129,
+    "totalCrosses": 148,
+    "totalShotsBox": 44
   },
   "Liga Profesional -": {
     "matches": 65,
@@ -1960,11 +1960,11 @@
     "totalShotsBox": 0
   },
   "LaLiga": {
-    "matches": 29,
-    "totalCorners": 258,
-    "totalProjected": 258,
-    "totalCrosses": 810,
-    "totalShotsBox": 398
+    "matches": 31,
+    "totalCorners": 272,
+    "totalProjected": 272,
+    "totalCrosses": 841,
+    "totalShotsBox": 422
   },
   "Liga de Expansión MX -": {
     "matches": 10,
@@ -2072,16 +2072,16 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio -": {
-    "matches": 12,
-    "totalCorners": 89,
-    "totalProjected": 87,
-    "totalCrosses": 393,
-    "totalShotsBox": 200
+    "matches": 16,
+    "totalCorners": 118,
+    "totalProjected": 116,
+    "totalCrosses": 536,
+    "totalShotsBox": 272
   },
   "Copa Paceña": {
-    "matches": 3,
-    "totalCorners": 26,
-    "totalProjected": 26,
+    "matches": 4,
+    "totalCorners": 36,
+    "totalProjected": 36,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
