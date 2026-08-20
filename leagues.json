@@ -833,11 +833,11 @@
     "totalShotsBox": 151
   },
   "1st": {
-    "matches": 117,
-    "totalCorners": 1155,
-    "totalProjected": 1156,
-    "totalCrosses": 3336,
-    "totalShotsBox": 1740
+    "matches": 118,
+    "totalCorners": 1166,
+    "totalProjected": 1167,
+    "totalCrosses": 3378,
+    "totalShotsBox": 1766
   },
   "Ekstraklasa - Regular": {
     "matches": 2,
@@ -1750,16 +1750,16 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 16,
-    "totalCorners": 126,
-    "totalProjected": 129,
+    "matches": 17,
+    "totalCorners": 135,
+    "totalProjected": 138,
     "totalCrosses": 148,
     "totalShotsBox": 44
   },
   "Liga Profesional -": {
-    "matches": 65,
-    "totalCorners": 654,
-    "totalProjected": 654,
+    "matches": 66,
+    "totalCorners": 663,
+    "totalProjected": 663,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -2051,11 +2051,11 @@
     "totalShotsBox": 0
   },
   "Copa de Suecia - Clasificación": {
-    "matches": 26,
-    "totalCorners": 315,
-    "totalProjected": 315,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 34,
+    "totalCorners": 399,
+    "totalProjected": 399,
+    "totalCrosses": 99,
+    "totalShotsBox": 25
   },
   "DBU Pokalen - 32avos de final": {
     "matches": 5,
@@ -2149,31 +2149,31 @@
     "totalShotsBox": 0
   },
   "Liga de Catar": {
-    "matches": 8,
-    "totalCorners": 64,
-    "totalProjected": 64,
-    "totalCrosses": 208,
-    "totalShotsBox": 151
+    "matches": 10,
+    "totalCorners": 80,
+    "totalProjected": 78,
+    "totalCrosses": 268,
+    "totalShotsBox": 181
   },
   "UEFA Europa League Clasificatorio -": {
-    "matches": 5,
-    "totalCorners": 48,
-    "totalProjected": 48,
-    "totalCrosses": 35,
-    "totalShotsBox": 27
+    "matches": 11,
+    "totalCorners": 117,
+    "totalProjected": 117,
+    "totalCrosses": 154,
+    "totalShotsBox": 89
   },
   "Russian First": {
-    "matches": 2,
-    "totalCorners": 15,
-    "totalProjected": 15,
+    "matches": 3,
+    "totalCorners": 22,
+    "totalProjected": 22,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 2,
-    "totalCorners": 29,
-    "totalProjected": 29,
-    "totalCrosses": 40,
-    "totalShotsBox": 15
+    "matches": 6,
+    "totalCorners": 74,
+    "totalProjected": 74,
+    "totalCrosses": 148,
+    "totalShotsBox": 77
   }
 }
