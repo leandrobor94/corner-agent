@@ -161,9 +161,9 @@
     "totalShotsBox": 0
   },
   "Segunda división": {
-    "matches": 135,
-    "totalCorners": 1337,
-    "totalProjected": 1335,
+    "matches": 139,
+    "totalCorners": 1381,
+    "totalProjected": 1379,
     "totalCrosses": 161,
     "totalShotsBox": 40
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 549,
-    "totalCorners": 4886,
-    "totalProjected": 5029,
+    "matches": 550,
+    "totalCorners": 4900,
+    "totalProjected": 5043,
     "totalCrosses": 4414,
     "totalShotsBox": 1586
   },
@@ -2131,6 +2131,13 @@
     "matches": 2,
     "totalCorners": 20,
     "totalProjected": 23,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Ucrania - 32avos de final": {
+    "matches": 1,
+    "totalCorners": 4,
+    "totalProjected": 4,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
