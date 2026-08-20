@@ -210,16 +210,16 @@
     "totalShotsBox": 0
   },
   "Ykkosliiga": {
-    "matches": 117,
-    "totalCorners": 1275,
-    "totalProjected": 1289,
+    "matches": 118,
+    "totalCorners": 1282,
+    "totalProjected": 1296,
     "totalCrosses": 615,
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 90,
-    "totalCorners": 882,
-    "totalProjected": 896,
+    "matches": 91,
+    "totalCorners": 893,
+    "totalProjected": 907,
     "totalCrosses": 284,
     "totalShotsBox": 102
   },
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 117,
-    "totalCorners": 936,
-    "totalProjected": 940,
+    "matches": 119,
+    "totalCorners": 953,
+    "totalProjected": 957,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -1050,9 +1050,9 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 87,
-    "totalCorners": 887,
-    "totalProjected": 849,
+    "matches": 89,
+    "totalCorners": 906,
+    "totalProjected": 868,
     "totalCrosses": 220,
     "totalShotsBox": 63
   },
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 112,
-    "totalCorners": 589,
-    "totalProjected": 647,
+    "matches": 113,
+    "totalCorners": 599,
+    "totalProjected": 657,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -1862,9 +1862,9 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 68,
-    "totalCorners": 419,
-    "totalProjected": 419,
+    "matches": 69,
+    "totalCorners": 427,
+    "totalProjected": 427,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2149,17 +2149,31 @@
     "totalShotsBox": 0
   },
   "Liga de Catar": {
-    "matches": 6,
-    "totalCorners": 48,
-    "totalProjected": 48,
-    "totalCrosses": 156,
-    "totalShotsBox": 113
+    "matches": 8,
+    "totalCorners": 64,
+    "totalProjected": 64,
+    "totalCrosses": 208,
+    "totalShotsBox": 151
   },
   "UEFA Europa League Clasificatorio -": {
-    "matches": 2,
-    "totalCorners": 20,
-    "totalProjected": 20,
+    "matches": 4,
+    "totalCorners": 38,
+    "totalProjected": 38,
+    "totalCrosses": 35,
+    "totalShotsBox": 27
+  },
+  "Russian First": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "UEFA Conference League - Clasificación -": {
+    "matches": 1,
+    "totalCorners": 17,
+    "totalProjected": 17,
+    "totalCrosses": 40,
+    "totalShotsBox": 15
   }
 }
