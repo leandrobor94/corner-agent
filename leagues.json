@@ -1092,9 +1092,9 @@
     "totalShotsBox": 0
   },
   "Copa Ecuador - Octavos de final": {
-    "matches": 6,
-    "totalCorners": 51,
-    "totalProjected": 51,
+    "matches": 7,
+    "totalCorners": 57,
+    "totalProjected": 57,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1176,9 +1176,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina BetPlay": {
-    "matches": 2,
-    "totalCorners": 19,
-    "totalProjected": 19,
+    "matches": 5,
+    "totalCorners": 37,
+    "totalProjected": 37,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1386,7 +1386,7 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo C": {
-    "matches": 5,
+    "matches": 6,
     "totalCorners": 58,
     "totalProjected": 58,
     "totalCrosses": 0,
@@ -1750,16 +1750,16 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 19,
-    "totalCorners": 147,
-    "totalProjected": 154,
-    "totalCrosses": 199,
-    "totalShotsBox": 51
+    "matches": 21,
+    "totalCorners": 159,
+    "totalProjected": 170,
+    "totalCrosses": 250,
+    "totalShotsBox": 58
   },
   "Liga Profesional -": {
-    "matches": 78,
-    "totalCorners": 798,
-    "totalProjected": 798,
+    "matches": 79,
+    "totalCorners": 805,
+    "totalProjected": 805,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -2170,10 +2170,10 @@
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 58,
-    "totalCorners": 572,
-    "totalProjected": 556,
-    "totalCrosses": 1331,
-    "totalShotsBox": 578
+    "matches": 59,
+    "totalCorners": 581,
+    "totalProjected": 565,
+    "totalCrosses": 1357,
+    "totalShotsBox": 592
   }
 }
