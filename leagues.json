@@ -406,9 +406,9 @@
     "totalShotsBox": 0
   },
   "Serie B": {
-    "matches": 24,
-    "totalCorners": 181,
-    "totalProjected": 189,
+    "matches": 26,
+    "totalCorners": 194,
+    "totalProjected": 202,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1092,9 +1092,9 @@
     "totalShotsBox": 0
   },
   "Copa Ecuador - Octavos de final": {
-    "matches": 7,
-    "totalCorners": 57,
-    "totalProjected": 57,
+    "matches": 8,
+    "totalCorners": 63,
+    "totalProjected": 63,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1176,9 +1176,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina BetPlay": {
-    "matches": 5,
-    "totalCorners": 37,
-    "totalProjected": 37,
+    "matches": 8,
+    "totalCorners": 55,
+    "totalProjected": 55,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1295,9 +1295,9 @@
     "totalShotsBox": 0
   },
   "Torneo BetPlay Dimayor - Finalización": {
-    "matches": 5,
-    "totalCorners": 57,
-    "totalProjected": 57,
+    "matches": 6,
+    "totalCorners": 66,
+    "totalProjected": 66,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1750,16 +1750,16 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - 16avos de final": {
-    "matches": 21,
-    "totalCorners": 159,
-    "totalProjected": 170,
-    "totalCrosses": 250,
-    "totalShotsBox": 58
+    "matches": 23,
+    "totalCorners": 171,
+    "totalProjected": 186,
+    "totalCrosses": 301,
+    "totalShotsBox": 65
   },
   "Liga Profesional -": {
-    "matches": 79,
-    "totalCorners": 805,
-    "totalProjected": 805,
+    "matches": 80,
+    "totalCorners": 812,
+    "totalProjected": 812,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1862,7 +1862,7 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 76,
+    "matches": 77,
     "totalCorners": 448,
     "totalProjected": 448,
     "totalCrosses": 0,
@@ -2170,10 +2170,10 @@
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 59,
-    "totalCorners": 581,
-    "totalProjected": 565,
-    "totalCrosses": 1357,
-    "totalShotsBox": 592
+    "matches": 60,
+    "totalCorners": 590,
+    "totalProjected": 574,
+    "totalCrosses": 1383,
+    "totalShotsBox": 606
   }
 }
