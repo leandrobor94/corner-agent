@@ -175,9 +175,9 @@
     "totalShotsBox": 4205
   },
   "Tercera División -": {
-    "matches": 71,
-    "totalCorners": 516,
-    "totalProjected": 521,
+    "matches": 72,
+    "totalCorners": 527,
+    "totalProjected": 532,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
@@ -1267,9 +1267,9 @@
     "totalShotsBox": 0
   },
   "Gaucho A2": {
-    "matches": 72,
-    "totalCorners": 580,
-    "totalProjected": 576,
+    "matches": 73,
+    "totalCorners": 593,
+    "totalProjected": 589,
     "totalCrosses": 80,
     "totalShotsBox": 16
   },
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 44
   },
   "Liga Profesional -": {
-    "matches": 66,
-    "totalCorners": 663,
-    "totalProjected": 663,
+    "matches": 70,
+    "totalCorners": 708,
+    "totalProjected": 708,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1806,11 +1806,11 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 43,
-    "totalCorners": 389,
-    "totalProjected": 389,
-    "totalCrosses": 1649,
-    "totalShotsBox": 782
+    "matches": 44,
+    "totalCorners": 395,
+    "totalProjected": 395,
+    "totalCrosses": 1680,
+    "totalShotsBox": 804
   },
   "Copa Africana de Naciones (F) - Play-in": {
     "matches": 7,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 113,
-    "totalCorners": 599,
-    "totalProjected": 657,
+    "matches": 114,
+    "totalCorners": 611,
+    "totalProjected": 669,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -1862,9 +1862,9 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 69,
-    "totalCorners": 427,
-    "totalProjected": 427,
+    "matches": 71,
+    "totalCorners": 434,
+    "totalProjected": 434,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2156,11 +2156,11 @@
     "totalShotsBox": 181
   },
   "UEFA Europa League Clasificatorio -": {
-    "matches": 11,
-    "totalCorners": 117,
-    "totalProjected": 117,
-    "totalCrosses": 154,
-    "totalShotsBox": 89
+    "matches": 14,
+    "totalCorners": 132,
+    "totalProjected": 132,
+    "totalCrosses": 192,
+    "totalShotsBox": 102
   },
   "Russian First": {
     "matches": 3,
@@ -2170,10 +2170,10 @@
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 11,
-    "totalCorners": 130,
-    "totalProjected": 126,
-    "totalCrosses": 271,
-    "totalShotsBox": 120
+    "matches": 20,
+    "totalCorners": 229,
+    "totalProjected": 221,
+    "totalCrosses": 507,
+    "totalShotsBox": 219
   }
 }
