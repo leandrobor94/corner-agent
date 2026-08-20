@@ -210,9 +210,9 @@
     "totalShotsBox": 0
   },
   "Ykkosliiga": {
-    "matches": 115,
-    "totalCorners": 1261,
-    "totalProjected": 1275,
+    "matches": 116,
+    "totalCorners": 1268,
+    "totalProjected": 1282,
     "totalCrosses": 615,
     "totalShotsBox": 225
   },
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 113,
-    "totalCorners": 902,
-    "totalProjected": 906,
+    "matches": 115,
+    "totalCorners": 919,
+    "totalProjected": 923,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -1050,9 +1050,9 @@
     "totalShotsBox": 0
   },
   "Copa rumana - Clasificación": {
-    "matches": 83,
-    "totalCorners": 849,
-    "totalProjected": 811,
+    "matches": 85,
+    "totalCorners": 868,
+    "totalProjected": 830,
     "totalCrosses": 220,
     "totalShotsBox": 63
   },
@@ -2149,10 +2149,17 @@
     "totalShotsBox": 0
   },
   "Liga de Catar": {
-    "matches": 2,
-    "totalCorners": 16,
-    "totalProjected": 16,
-    "totalCrosses": 52,
-    "totalShotsBox": 37
+    "matches": 4,
+    "totalCorners": 32,
+    "totalProjected": 32,
+    "totalCrosses": 104,
+    "totalShotsBox": 75
+  },
+  "UEFA Europa League Clasificatorio -": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
