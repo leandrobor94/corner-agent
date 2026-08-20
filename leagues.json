@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 112,
-    "totalCorners": 892,
-    "totalProjected": 896,
+    "matches": 113,
+    "totalCorners": 902,
+    "totalProjected": 906,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -2147,5 +2147,12 @@
     "totalProjected": 35,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Liga de Catar": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 52,
+    "totalShotsBox": 37
   }
 }
