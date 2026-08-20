@@ -28,7 +28,7 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2713,
+    "matches": 2714,
     "totalCorners": 19203,
     "totalProjected": 19474,
     "totalCrosses": 7720,
@@ -175,9 +175,9 @@
     "totalShotsBox": 4205
   },
   "Tercera División -": {
-    "matches": 73,
-    "totalCorners": 538,
-    "totalProjected": 543,
+    "matches": 74,
+    "totalCorners": 549,
+    "totalProjected": 554,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 244,
-    "totalCorners": 2374,
-    "totalProjected": 2287,
-    "totalCrosses": 4641,
-    "totalShotsBox": 1819
+    "matches": 245,
+    "totalCorners": 2391,
+    "totalProjected": 2304,
+    "totalCrosses": 4688,
+    "totalShotsBox": 1833
   },
   "Primera división": {
     "matches": 64,
@@ -406,9 +406,9 @@
     "totalShotsBox": 0
   },
   "Serie B": {
-    "matches": 23,
-    "totalCorners": 175,
-    "totalProjected": 183,
+    "matches": 24,
+    "totalCorners": 181,
+    "totalProjected": 189,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1267,9 +1267,9 @@
     "totalShotsBox": 0
   },
   "Gaucho A2": {
-    "matches": 74,
-    "totalCorners": 606,
-    "totalProjected": 602,
+    "matches": 75,
+    "totalCorners": 619,
+    "totalProjected": 615,
     "totalCrosses": 80,
     "totalShotsBox": 16
   },
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 44
   },
   "Liga Profesional -": {
-    "matches": 74,
-    "totalCorners": 753,
-    "totalProjected": 753,
+    "matches": 78,
+    "totalCorners": 798,
+    "totalProjected": 798,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1806,11 +1806,11 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 45,
-    "totalCorners": 401,
-    "totalProjected": 401,
-    "totalCrosses": 1711,
-    "totalShotsBox": 826
+    "matches": 46,
+    "totalCorners": 407,
+    "totalProjected": 407,
+    "totalCrosses": 1742,
+    "totalShotsBox": 848
   },
   "Copa Africana de Naciones (F) - Play-in": {
     "matches": 7,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 115,
-    "totalCorners": 623,
-    "totalProjected": 681,
+    "matches": 116,
+    "totalCorners": 635,
+    "totalProjected": 693,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -1862,16 +1862,16 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 73,
-    "totalCorners": 441,
-    "totalProjected": 441,
+    "matches": 75,
+    "totalCorners": 448,
+    "totalProjected": 448,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Ligue 3": {
-    "matches": 71,
-    "totalCorners": 564,
-    "totalProjected": 564,
+    "matches": 79,
+    "totalCorners": 633,
+    "totalProjected": 633,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1960,11 +1960,11 @@
     "totalShotsBox": 0
   },
   "LaLiga": {
-    "matches": 31,
-    "totalCorners": 272,
-    "totalProjected": 272,
-    "totalCrosses": 841,
-    "totalShotsBox": 422
+    "matches": 32,
+    "totalCorners": 288,
+    "totalProjected": 288,
+    "totalCrosses": 890,
+    "totalShotsBox": 437
   },
   "Liga de Expansión MX -": {
     "matches": 10,
@@ -2079,9 +2079,9 @@
     "totalShotsBox": 272
   },
   "Copa Paceña": {
-    "matches": 4,
-    "totalCorners": 36,
-    "totalProjected": 36,
+    "matches": 5,
+    "totalCorners": 46,
+    "totalProjected": 46,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2156,11 +2156,11 @@
     "totalShotsBox": 181
   },
   "UEFA Europa League Clasificatorio -": {
-    "matches": 17,
-    "totalCorners": 147,
-    "totalProjected": 147,
-    "totalCrosses": 230,
-    "totalShotsBox": 115
+    "matches": 21,
+    "totalCorners": 174,
+    "totalProjected": 174,
+    "totalCrosses": 300,
+    "totalShotsBox": 159
   },
   "Russian First": {
     "matches": 3,
@@ -2170,10 +2170,10 @@
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 37,
-    "totalCorners": 386,
-    "totalProjected": 374,
-    "totalCrosses": 893,
-    "totalShotsBox": 384
+    "matches": 57,
+    "totalCorners": 563,
+    "totalProjected": 547,
+    "totalCrosses": 1305,
+    "totalShotsBox": 564
   }
 }
