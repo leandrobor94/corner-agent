@@ -161,9 +161,9 @@
     "totalShotsBox": 0
   },
   "Segunda división": {
-    "matches": 143,
-    "totalCorners": 1425,
-    "totalProjected": 1423,
+    "matches": 147,
+    "totalCorners": 1469,
+    "totalProjected": 1467,
     "totalCrosses": 161,
     "totalShotsBox": 40
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 551,
-    "totalCorners": 4915,
-    "totalProjected": 5058,
+    "matches": 552,
+    "totalCorners": 4930,
+    "totalProjected": 5073,
     "totalCrosses": 4414,
     "totalShotsBox": 1586
   },
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 111,
-    "totalCorners": 577,
-    "totalProjected": 635,
+    "matches": 112,
+    "totalCorners": 589,
+    "totalProjected": 647,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -2135,9 +2135,16 @@
     "totalShotsBox": 0
   },
   "Copa Ucrania - 32avos de final": {
-    "matches": 2,
-    "totalCorners": 8,
-    "totalProjected": 8,
+    "matches": 3,
+    "totalCorners": 12,
+    "totalProjected": 12,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Segunda División de": {
+    "matches": 4,
+    "totalCorners": 35,
+    "totalProjected": 35,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
