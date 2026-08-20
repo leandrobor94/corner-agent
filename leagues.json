@@ -28,7 +28,7 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2712,
+    "matches": 2713,
     "totalCorners": 19203,
     "totalProjected": 19474,
     "totalCrosses": 7720,
@@ -175,9 +175,9 @@
     "totalShotsBox": 4205
   },
   "Tercera División -": {
-    "matches": 72,
-    "totalCorners": 527,
-    "totalProjected": 532,
+    "matches": 73,
+    "totalCorners": 538,
+    "totalProjected": 543,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 243,
-    "totalCorners": 2357,
-    "totalProjected": 2270,
-    "totalCrosses": 4594,
-    "totalShotsBox": 1805
+    "matches": 244,
+    "totalCorners": 2374,
+    "totalProjected": 2287,
+    "totalCrosses": 4641,
+    "totalShotsBox": 1819
   },
   "Primera división": {
     "matches": 64,
@@ -1267,9 +1267,9 @@
     "totalShotsBox": 0
   },
   "Gaucho A2": {
-    "matches": 73,
-    "totalCorners": 593,
-    "totalProjected": 589,
+    "matches": 74,
+    "totalCorners": 606,
+    "totalProjected": 602,
     "totalCrosses": 80,
     "totalShotsBox": 16
   },
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 44
   },
   "Liga Profesional -": {
-    "matches": 70,
-    "totalCorners": 708,
-    "totalProjected": 708,
+    "matches": 74,
+    "totalCorners": 753,
+    "totalProjected": 753,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1806,11 +1806,11 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 44,
-    "totalCorners": 395,
-    "totalProjected": 395,
-    "totalCrosses": 1680,
-    "totalShotsBox": 804
+    "matches": 45,
+    "totalCorners": 401,
+    "totalProjected": 401,
+    "totalCrosses": 1711,
+    "totalShotsBox": 826
   },
   "Copa Africana de Naciones (F) - Play-in": {
     "matches": 7,
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 114,
-    "totalCorners": 611,
-    "totalProjected": 669,
+    "matches": 115,
+    "totalCorners": 623,
+    "totalProjected": 681,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -1862,16 +1862,16 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 71,
-    "totalCorners": 434,
-    "totalProjected": 434,
+    "matches": 73,
+    "totalCorners": 441,
+    "totalProjected": 441,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Ligue 3": {
-    "matches": 63,
-    "totalCorners": 495,
-    "totalProjected": 495,
+    "matches": 71,
+    "totalCorners": 564,
+    "totalProjected": 564,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2156,11 +2156,11 @@
     "totalShotsBox": 181
   },
   "UEFA Europa League Clasificatorio -": {
-    "matches": 14,
-    "totalCorners": 132,
-    "totalProjected": 132,
-    "totalCrosses": 192,
-    "totalShotsBox": 102
+    "matches": 17,
+    "totalCorners": 147,
+    "totalProjected": 147,
+    "totalCrosses": 230,
+    "totalShotsBox": 115
   },
   "Russian First": {
     "matches": 3,
@@ -2170,10 +2170,10 @@
     "totalShotsBox": 0
   },
   "UEFA Conference League - Clasificación -": {
-    "matches": 20,
-    "totalCorners": 229,
-    "totalProjected": 221,
-    "totalCrosses": 507,
-    "totalShotsBox": 219
+    "matches": 37,
+    "totalCorners": 386,
+    "totalProjected": 374,
+    "totalCrosses": 893,
+    "totalShotsBox": 384
   }
 }
