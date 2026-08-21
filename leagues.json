@@ -70,7 +70,7 @@
     "totalShotsBox": 0
   },
   "Campeonato": {
-    "matches": 90,
+    "matches": 91,
     "totalCorners": 602,
     "totalProjected": 605,
     "totalCrosses": 0,
@@ -196,9 +196,9 @@
     "totalShotsBox": 1586
   },
   "Pershaya Liga": {
-    "matches": 155,
+    "matches": 159,
     "totalCorners": 1406,
-    "totalProjected": 1232,
+    "totalProjected": 1236,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -217,9 +217,9 @@
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 91,
-    "totalCorners": 893,
-    "totalProjected": 907,
+    "matches": 92,
+    "totalCorners": 908,
+    "totalProjected": 922,
     "totalCrosses": 284,
     "totalShotsBox": 102
   },
@@ -497,9 +497,9 @@
     "totalShotsBox": 80
   },
   "Liga MX Sub21 -": {
-    "matches": 61,
-    "totalCorners": 662,
-    "totalProjected": 667,
+    "matches": 62,
+    "totalCorners": 669,
+    "totalProjected": 674,
     "totalCrosses": 462,
     "totalShotsBox": 162
   },
@@ -616,9 +616,9 @@
     "totalShotsBox": 0
   },
   "I Lyga": {
-    "matches": 119,
-    "totalCorners": 1273,
-    "totalProjected": 1243,
+    "matches": 120,
+    "totalCorners": 1284,
+    "totalProjected": 1254,
     "totalCrosses": 1085,
     "totalShotsBox": 258
   },
@@ -637,11 +637,11 @@
     "totalShotsBox": 1351
   },
   "Virsliga": {
-    "matches": 52,
-    "totalCorners": 463,
-    "totalProjected": 474,
-    "totalCrosses": 1517,
-    "totalShotsBox": 738
+    "matches": 54,
+    "totalCorners": 479,
+    "totalProjected": 490,
+    "totalCrosses": 1567,
+    "totalShotsBox": 764
   },
   "Copa Simón Bolívar - La Paz": {
     "matches": 1,
@@ -812,9 +812,9 @@
     "totalShotsBox": 0
   },
   "First League - Regular": {
-    "matches": 68,
-    "totalCorners": 607,
-    "totalProjected": 607,
+    "matches": 69,
+    "totalCorners": 614,
+    "totalProjected": 614,
     "totalCrosses": 22,
     "totalShotsBox": 8
   },
@@ -1834,11 +1834,11 @@
     "totalShotsBox": 974
   },
   "Superliga de Kosovo - Regular": {
-    "matches": 38,
-    "totalCorners": 356,
-    "totalProjected": 355,
-    "totalCrosses": 108,
-    "totalShotsBox": 11
+    "matches": 40,
+    "totalCorners": 370,
+    "totalProjected": 367,
+    "totalCrosses": 147,
+    "totalShotsBox": 15
   },
   "Persian Gulf Pro": {
     "matches": 101,
@@ -1862,11 +1862,11 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 79,
-    "totalCorners": 472,
-    "totalProjected": 470,
-    "totalCrosses": 38,
-    "totalShotsBox": 10
+    "matches": 81,
+    "totalCorners": 496,
+    "totalProjected": 492,
+    "totalCrosses": 76,
+    "totalShotsBox": 20
   },
   "Ligue 3": {
     "matches": 79,
@@ -1932,9 +1932,9 @@
     "totalShotsBox": 690
   },
   "Youth": {
-    "matches": 34,
-    "totalCorners": 292,
-    "totalProjected": 292,
+    "matches": 35,
+    "totalCorners": 299,
+    "totalProjected": 299,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2149,11 +2149,11 @@
     "totalShotsBox": 0
   },
   "Liga de Catar": {
-    "matches": 12,
-    "totalCorners": 96,
-    "totalProjected": 97,
-    "totalCrosses": 305,
-    "totalShotsBox": 224
+    "matches": 14,
+    "totalCorners": 112,
+    "totalProjected": 116,
+    "totalCrosses": 342,
+    "totalShotsBox": 267
   },
   "UEFA Europa League Clasificatorio -": {
     "matches": 21,
@@ -2191,17 +2191,17 @@
     "totalShotsBox": 0
   },
   "Hungarian Cup - Segunda Ronda": {
-    "matches": 4,
-    "totalCorners": 30,
-    "totalProjected": 31,
-    "totalCrosses": 55,
-    "totalShotsBox": 20
+    "matches": 8,
+    "totalCorners": 60,
+    "totalProjected": 62,
+    "totalCrosses": 110,
+    "totalShotsBox": 40
   },
   "Primera División de": {
-    "matches": 1,
-    "totalCorners": 3,
-    "totalProjected": 3,
-    "totalCrosses": 26,
-    "totalShotsBox": 7
+    "matches": 2,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 52,
+    "totalShotsBox": 14
   }
 }
