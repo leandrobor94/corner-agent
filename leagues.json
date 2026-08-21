@@ -28,10 +28,10 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2724,
-    "totalCorners": 19237,
-    "totalProjected": 19511,
-    "totalCrosses": 7875,
+    "matches": 2726,
+    "totalCorners": 19245,
+    "totalProjected": 19519,
+    "totalCrosses": 7906,
     "totalShotsBox": 3081
   },
   "Catarinense - Serie B": {
@@ -1421,16 +1421,16 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 72,
-    "totalCorners": 661,
-    "totalProjected": 637,
-    "totalCrosses": 2362,
-    "totalShotsBox": 1138
+    "matches": 74,
+    "totalCorners": 677,
+    "totalProjected": 653,
+    "totalCrosses": 2410,
+    "totalShotsBox": 1167
   },
   "Erovnuli Liga": {
-    "matches": 62,
-    "totalCorners": 557,
-    "totalProjected": 557,
+    "matches": 63,
+    "totalCorners": 565,
+    "totalProjected": 565,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2177,16 +2177,16 @@
     "totalShotsBox": 606
   },
   "Liga Super - Regular": {
-    "matches": 1,
-    "totalCorners": 12,
-    "totalProjected": 12,
+    "matches": 2,
+    "totalCorners": 23,
+    "totalProjected": 23,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Championship - Regular": {
-    "matches": 1,
-    "totalCorners": 1,
-    "totalProjected": 1,
+    "matches": 2,
+    "totalCorners": 2,
+    "totalProjected": 2,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
