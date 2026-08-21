@@ -196,9 +196,9 @@
     "totalShotsBox": 1586
   },
   "Pershaya Liga": {
-    "matches": 153,
+    "matches": 155,
     "totalCorners": 1406,
-    "totalProjected": 1230,
+    "totalProjected": 1232,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1834,11 +1834,11 @@
     "totalShotsBox": 974
   },
   "Superliga de Kosovo - Regular": {
-    "matches": 36,
-    "totalCorners": 342,
-    "totalProjected": 343,
-    "totalCrosses": 69,
-    "totalShotsBox": 7
+    "matches": 38,
+    "totalCorners": 356,
+    "totalProjected": 355,
+    "totalCrosses": 108,
+    "totalShotsBox": 11
   },
   "Persian Gulf Pro": {
     "matches": 101,
@@ -1862,11 +1862,11 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 77,
-    "totalCorners": 448,
-    "totalProjected": 448,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 79,
+    "totalCorners": 472,
+    "totalProjected": 470,
+    "totalCrosses": 38,
+    "totalShotsBox": 10
   },
   "Ligue 3": {
     "matches": 79,
@@ -1932,9 +1932,9 @@
     "totalShotsBox": 690
   },
   "Youth": {
-    "matches": 33,
-    "totalCorners": 285,
-    "totalProjected": 285,
+    "matches": 34,
+    "totalCorners": 292,
+    "totalProjected": 292,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2149,11 +2149,11 @@
     "totalShotsBox": 0
   },
   "Liga de Catar": {
-    "matches": 10,
-    "totalCorners": 80,
-    "totalProjected": 78,
-    "totalCrosses": 268,
-    "totalShotsBox": 181
+    "matches": 12,
+    "totalCorners": 96,
+    "totalProjected": 97,
+    "totalCrosses": 305,
+    "totalShotsBox": 224
   },
   "UEFA Europa League Clasificatorio -": {
     "matches": 21,
@@ -2189,5 +2189,19 @@
     "totalProjected": 3,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Hungarian Cup - Segunda Ronda": {
+    "matches": 4,
+    "totalCorners": 30,
+    "totalProjected": 31,
+    "totalCrosses": 55,
+    "totalShotsBox": 20
+  },
+  "Primera División de": {
+    "matches": 1,
+    "totalCorners": 3,
+    "totalProjected": 3,
+    "totalCrosses": 26,
+    "totalShotsBox": 7
   }
 }
