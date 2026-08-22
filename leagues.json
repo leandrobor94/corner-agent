@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2863,
-    "totalCorners": 19537,
-    "totalProjected": 19801,
+    "matches": 2865,
+    "totalCorners": 19545,
+    "totalProjected": 19809,
     "totalCrosses": 8137,
     "totalShotsBox": 3081
   },
@@ -154,11 +154,11 @@
     "totalShotsBox": 0
   },
   "Tercera división": {
-    "matches": 20,
-    "totalCorners": 186,
-    "totalProjected": 196,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 25,
+    "totalCorners": 230,
+    "totalProjected": 243,
+    "totalCrosses": 51,
+    "totalShotsBox": 20
   },
   "Segunda división": {
     "matches": 148,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 76,
-    "totalCorners": 693,
-    "totalProjected": 669,
-    "totalCrosses": 2458,
-    "totalShotsBox": 1196
+    "matches": 78,
+    "totalCorners": 713,
+    "totalProjected": 693,
+    "totalCrosses": 2522,
+    "totalShotsBox": 1231
   },
   "Erovnuli Liga": {
     "matches": 64,
@@ -1505,11 +1505,11 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 89,
-    "totalCorners": 914,
-    "totalProjected": 921,
-    "totalCrosses": 750,
-    "totalShotsBox": 243
+    "matches": 91,
+    "totalCorners": 934,
+    "totalProjected": 941,
+    "totalCrosses": 785,
+    "totalShotsBox": 253
   },
   "Segunda división de": {
     "matches": 164,
@@ -2264,6 +2264,13 @@
     "matches": 36,
     "totalCorners": 426,
     "totalProjected": 426,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Campeonato Italiano Sub-19": {
+    "matches": 2,
+    "totalCorners": 11,
+    "totalProjected": 11,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
