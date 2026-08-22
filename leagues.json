@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2871,
-    "totalCorners": 19555,
-    "totalProjected": 19822,
+    "matches": 2876,
+    "totalCorners": 19559,
+    "totalProjected": 19826,
     "totalCrosses": 8244,
     "totalShotsBox": 3081
   },
@@ -154,9 +154,9 @@
     "totalShotsBox": 0
   },
   "Tercera división": {
-    "matches": 30,
-    "totalCorners": 274,
-    "totalProjected": 290,
+    "matches": 31,
+    "totalCorners": 281,
+    "totalProjected": 297,
     "totalCrosses": 102,
     "totalShotsBox": 40
   },
@@ -168,11 +168,11 @@
     "totalShotsBox": 40
   },
   "Superliga": {
-    "matches": 322,
-    "totalCorners": 3032,
-    "totalProjected": 3037,
-    "totalCrosses": 9909,
-    "totalShotsBox": 4303
+    "matches": 323,
+    "totalCorners": 3039,
+    "totalProjected": 3044,
+    "totalCrosses": 9922,
+    "totalShotsBox": 4308
   },
   "Tercera División -": {
     "matches": 74,
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 83,
-    "totalCorners": 754,
-    "totalProjected": 741,
-    "totalCrosses": 2667,
-    "totalShotsBox": 1293
+    "matches": 86,
+    "totalCorners": 782,
+    "totalProjected": 769,
+    "totalCrosses": 2774,
+    "totalShotsBox": 1345
   },
   "Erovnuli Liga": {
     "matches": 64,
@@ -1505,23 +1505,23 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 96,
-    "totalCorners": 978,
-    "totalProjected": 984,
+    "matches": 102,
+    "totalCorners": 1030,
+    "totalProjected": 1036,
     "totalCrosses": 887,
     "totalShotsBox": 287
   },
   "Segunda división de": {
-    "matches": 164,
-    "totalCorners": 1423,
-    "totalProjected": 1415,
+    "matches": 165,
+    "totalCorners": 1436,
+    "totalProjected": 1428,
     "totalCrosses": 954,
     "totalShotsBox": 381
   },
   "Liga 3 - Grupo B": {
-    "matches": 50,
-    "totalCorners": 501,
-    "totalProjected": 501,
+    "matches": 51,
+    "totalCorners": 509,
+    "totalProjected": 509,
     "totalCrosses": 44,
     "totalShotsBox": 6
   },
@@ -2212,7 +2212,7 @@
     "totalShotsBox": 0
   },
   "Frauen": {
-    "matches": 22,
+    "matches": 23,
     "totalCorners": 264,
     "totalProjected": 286,
     "totalCrosses": 297,
