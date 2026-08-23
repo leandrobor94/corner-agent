@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 2954,
+    "matches": 2956,
     "totalCorners": 19894,
-    "totalProjected": 20171,
+    "totalProjected": 20172,
     "totalCrosses": 8244,
     "totalShotsBox": 3081
   },
@@ -2177,11 +2177,11 @@
     "totalShotsBox": 606
   },
   "Liga Super - Regular": {
-    "matches": 13,
-    "totalCorners": 126,
-    "totalProjected": 129,
-    "totalCrosses": 42,
-    "totalShotsBox": 13
+    "matches": 15,
+    "totalCorners": 146,
+    "totalProjected": 152,
+    "totalCrosses": 84,
+    "totalShotsBox": 26
   },
   "Championship - Regular": {
     "matches": 3,
@@ -2268,7 +2268,7 @@
     "totalShotsBox": 0
   },
   "Campeonato Italiano Sub-19": {
-    "matches": 9,
+    "matches": 10,
     "totalCorners": 22,
     "totalProjected": 22,
     "totalCrosses": 0,
