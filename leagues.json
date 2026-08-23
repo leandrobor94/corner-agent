@@ -1,8 +1,8 @@
 {
   "Meistriliiga": {
-    "matches": 101,
-    "totalCorners": 995,
-    "totalProjected": 1020,
+    "matches": 102,
+    "totalCorners": 1005,
+    "totalProjected": 1030,
     "totalCrosses": 280,
     "totalShotsBox": 120
   },
@@ -161,18 +161,18 @@
     "totalShotsBox": 60
   },
   "Segunda división": {
-    "matches": 203,
-    "totalCorners": 1967,
-    "totalProjected": 1982,
+    "matches": 204,
+    "totalCorners": 1983,
+    "totalProjected": 1998,
     "totalCrosses": 1023,
     "totalShotsBox": 290
   },
   "Superliga": {
-    "matches": 423,
-    "totalCorners": 4128,
-    "totalProjected": 4120,
-    "totalCrosses": 13727,
-    "totalShotsBox": 6116
+    "matches": 430,
+    "totalCorners": 4201,
+    "totalProjected": 4190,
+    "totalCrosses": 14007,
+    "totalShotsBox": 6233
   },
   "Tercera División -": {
     "matches": 74,
@@ -189,14 +189,14 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 696,
-    "totalCorners": 6378,
-    "totalProjected": 6519,
-    "totalCrosses": 6361,
-    "totalShotsBox": 2444
+    "matches": 700,
+    "totalCorners": 6414,
+    "totalProjected": 6555,
+    "totalCrosses": 6420,
+    "totalShotsBox": 2476
   },
   "Pershaya Liga": {
-    "matches": 194,
+    "matches": 196,
     "totalCorners": 1406,
     "totalProjected": 1252,
     "totalCrosses": 0,
@@ -224,18 +224,18 @@
     "totalShotsBox": 171
   },
   "Ykkonen": {
-    "matches": 147,
-    "totalCorners": 1795,
-    "totalProjected": 1803,
+    "matches": 148,
+    "totalCorners": 1805,
+    "totalProjected": 1813,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 169,
-    "totalCorners": 1626,
-    "totalProjected": 1651,
-    "totalCrosses": 5286,
-    "totalShotsBox": 2310
+    "matches": 171,
+    "totalCorners": 1648,
+    "totalProjected": 1673,
+    "totalCrosses": 5368,
+    "totalShotsBox": 2346
   },
   "Primera B": {
     "matches": 144,
@@ -252,9 +252,9 @@
     "totalShotsBox": 0
   },
   "Division": {
-    "matches": 157,
-    "totalCorners": 1606,
-    "totalProjected": 1609,
+    "matches": 160,
+    "totalCorners": 1635,
+    "totalProjected": 1638,
     "totalCrosses": 835,
     "totalShotsBox": 175
   },
@@ -336,16 +336,16 @@
     "totalShotsBox": 87
   },
   "Allsvenskan": {
-    "matches": 195,
-    "totalCorners": 2236,
-    "totalProjected": 2229,
-    "totalCrosses": 6316,
-    "totalShotsBox": 2860
+    "matches": 199,
+    "totalCorners": 2271,
+    "totalProjected": 2264,
+    "totalCrosses": 6430,
+    "totalShotsBox": 2931
   },
   "Liga AUF Uruguaya -": {
-    "matches": 91,
-    "totalCorners": 856,
-    "totalProjected": 869,
+    "matches": 92,
+    "totalCorners": 867,
+    "totalProjected": 880,
     "totalCrosses": 264,
     "totalShotsBox": 80
   },
@@ -399,9 +399,9 @@
     "totalShotsBox": 0
   },
   "Segunda Division - Temporada": {
-    "matches": 108,
-    "totalCorners": 1041,
-    "totalProjected": 1048,
+    "matches": 109,
+    "totalCorners": 1052,
+    "totalProjected": 1059,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -539,11 +539,11 @@
     "totalShotsBox": 469
   },
   "Liga1": {
-    "matches": 118,
-    "totalCorners": 989,
-    "totalProjected": 1002,
-    "totalCrosses": 3724,
-    "totalShotsBox": 1563
+    "matches": 119,
+    "totalCorners": 1004,
+    "totalProjected": 1017,
+    "totalCrosses": 3763,
+    "totalShotsBox": 1579
   },
   "Liga eslovena - Regular": {
     "matches": 80,
@@ -588,9 +588,9 @@
     "totalShotsBox": 0
   },
   "Superettan": {
-    "matches": 115,
-    "totalCorners": 1281,
-    "totalProjected": 1282,
+    "matches": 116,
+    "totalCorners": 1293,
+    "totalProjected": 1294,
     "totalCrosses": 333,
     "totalShotsBox": 71
   },
@@ -700,9 +700,9 @@
     "totalShotsBox": 0
   },
   "Amistosos (F)": {
-    "matches": 75,
-    "totalCorners": 459,
-    "totalProjected": 459,
+    "matches": 76,
+    "totalCorners": 463,
+    "totalProjected": 463,
     "totalCrosses": 78,
     "totalShotsBox": 0
   },
@@ -847,16 +847,16 @@
     "totalShotsBox": 0
   },
   "I Liga": {
-    "matches": 221,
-    "totalCorners": 2535,
-    "totalProjected": 2499,
+    "matches": 222,
+    "totalCorners": 2546,
+    "totalProjected": 2510,
     "totalCrosses": 1588,
     "totalShotsBox": 642
   },
   "Division 2": {
-    "matches": 164,
-    "totalCorners": 1584,
-    "totalProjected": 1584,
+    "matches": 166,
+    "totalCorners": 1602,
+    "totalProjected": 1602,
     "totalCrosses": 720,
     "totalShotsBox": 255
   },
@@ -875,11 +875,11 @@
     "totalShotsBox": 0
   },
   "Premier Liga": {
-    "matches": 111,
-    "totalCorners": 1164,
-    "totalProjected": 1145,
-    "totalCrosses": 3742,
-    "totalShotsBox": 1685
+    "matches": 113,
+    "totalCorners": 1181,
+    "totalProjected": 1162,
+    "totalCrosses": 3812,
+    "totalShotsBox": 1719
   },
   "Regionalliga": {
     "matches": 6,
@@ -896,11 +896,11 @@
     "totalShotsBox": 0
   },
   "Challenge": {
-    "matches": 58,
-    "totalCorners": 605,
-    "totalProjected": 605,
-    "totalCrosses": 1755,
-    "totalShotsBox": 856
+    "matches": 59,
+    "totalCorners": 618,
+    "totalProjected": 618,
+    "totalCrosses": 1788,
+    "totalShotsBox": 867
   },
   "OTP Bank Liga": {
     "matches": 112,
@@ -931,9 +931,9 @@
     "totalShotsBox": 127
   },
   "Damallsvenskan": {
-    "matches": 137,
-    "totalCorners": 1261,
-    "totalProjected": 1288,
+    "matches": 139,
+    "totalCorners": 1284,
+    "totalProjected": 1311,
     "totalCrosses": 938,
     "totalShotsBox": 263
   },
@@ -945,11 +945,11 @@
     "totalShotsBox": 129
   },
   "Ekstraklasa": {
-    "matches": 136,
-    "totalCorners": 1224,
-    "totalProjected": 1254,
-    "totalCrosses": 4708,
-    "totalShotsBox": 2231
+    "matches": 137,
+    "totalCorners": 1236,
+    "totalProjected": 1266,
+    "totalCrosses": 4766,
+    "totalShotsBox": 2243
   },
   "Divisional C - Torneo Final": {
     "matches": 51,
@@ -1022,9 +1022,9 @@
     "totalShotsBox": 0
   },
   "Formuladeildin": {
-    "matches": 91,
-    "totalCorners": 972,
-    "totalProjected": 964,
+    "matches": 94,
+    "totalCorners": 996,
+    "totalProjected": 988,
     "totalCrosses": 296,
     "totalShotsBox": 112
   },
@@ -1253,9 +1253,9 @@
     "totalShotsBox": 1574
   },
   "BGL Ligue - Regular": {
-    "matches": 185,
-    "totalCorners": 573,
-    "totalProjected": 573,
+    "matches": 191,
+    "totalCorners": 593,
+    "totalProjected": 593,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1442,18 +1442,18 @@
     "totalShotsBox": 185
   },
   "Eerste": {
-    "matches": 142,
-    "totalCorners": 1363,
-    "totalProjected": 1359,
+    "matches": 143,
+    "totalCorners": 1372,
+    "totalProjected": 1368,
     "totalCrosses": 40,
     "totalShotsBox": 12
   },
   "Eredivisie": {
-    "matches": 163,
-    "totalCorners": 1742,
-    "totalProjected": 1744,
-    "totalCrosses": 4634,
-    "totalShotsBox": 2445
+    "matches": 165,
+    "totalCorners": 1768,
+    "totalProjected": 1770,
+    "totalCrosses": 4665,
+    "totalShotsBox": 2471
   },
   "2.": {
     "matches": 89,
@@ -1463,18 +1463,18 @@
     "totalShotsBox": 1815
   },
   "1. Lig": {
-    "matches": 148,
-    "totalCorners": 1193,
-    "totalProjected": 1204,
+    "matches": 149,
+    "totalCorners": 1201,
+    "totalProjected": 1212,
     "totalCrosses": 506,
     "totalShotsBox": 132
   },
   "Jupiler Pro": {
-    "matches": 156,
-    "totalCorners": 1644,
-    "totalProjected": 1660,
-    "totalCrosses": 5875,
-    "totalShotsBox": 2821
+    "matches": 157,
+    "totalCorners": 1653,
+    "totalProjected": 1669,
+    "totalCrosses": 5910,
+    "totalShotsBox": 2840
   },
   "Premiership": {
     "matches": 131,
@@ -1491,11 +1491,11 @@
     "totalShotsBox": 21
   },
   "Primeira Liga": {
-    "matches": 94,
-    "totalCorners": 793,
-    "totalProjected": 795,
-    "totalCrosses": 3036,
-    "totalShotsBox": 1453
+    "matches": 95,
+    "totalCorners": 800,
+    "totalProjected": 802,
+    "totalCrosses": 3068,
+    "totalShotsBox": 1469
   },
   "CONCACAF Campeonato Sub20 -": {
     "matches": 2,
@@ -1512,9 +1512,9 @@
     "totalShotsBox": 287
   },
   "Segunda división de": {
-    "matches": 180,
-    "totalCorners": 1560,
-    "totalProjected": 1554,
+    "matches": 181,
+    "totalCorners": 1568,
+    "totalProjected": 1562,
     "totalCrosses": 993,
     "totalShotsBox": 396
   },
@@ -1596,9 +1596,9 @@
     "totalShotsBox": 0
   },
   "Federal A - Reválida - Zona B": {
-    "matches": 57,
-    "totalCorners": 513,
-    "totalProjected": 513,
+    "matches": 58,
+    "totalCorners": 521,
+    "totalProjected": 521,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1820,23 +1820,23 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 123,
-    "totalCorners": 690,
-    "totalProjected": 748,
+    "matches": 124,
+    "totalCorners": 699,
+    "totalProjected": 757,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
   "UAE Pro": {
-    "matches": 85,
-    "totalCorners": 826,
-    "totalProjected": 846,
-    "totalCrosses": 2729,
-    "totalShotsBox": 1372
+    "matches": 86,
+    "totalCorners": 838,
+    "totalProjected": 858,
+    "totalCrosses": 2760,
+    "totalShotsBox": 1390
   },
   "Superliga de Kosovo - Regular": {
-    "matches": 46,
-    "totalCorners": 408,
-    "totalProjected": 403,
+    "matches": 47,
+    "totalCorners": 417,
+    "totalProjected": 412,
     "totalCrosses": 186,
     "totalShotsBox": 19
   },
@@ -1883,9 +1883,9 @@
     "totalShotsBox": 440
   },
   "Challenger Pro": {
-    "matches": 74,
-    "totalCorners": 709,
-    "totalProjected": 709,
+    "matches": 75,
+    "totalCorners": 720,
+    "totalProjected": 720,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1918,9 +1918,9 @@
     "totalShotsBox": 0
   },
   "Tweede": {
-    "matches": 124,
-    "totalCorners": 1409,
-    "totalProjected": 1401,
+    "matches": 125,
+    "totalCorners": 1424,
+    "totalProjected": 1416,
     "totalCrosses": 264,
     "totalShotsBox": 64
   },
@@ -2135,7 +2135,7 @@
     "totalShotsBox": 0
   },
   "Copa Ucrania - 32avos de final": {
-    "matches": 22,
+    "matches": 23,
     "totalCorners": 187,
     "totalProjected": 187,
     "totalCrosses": 0,
@@ -2163,9 +2163,9 @@
     "totalShotsBox": 159
   },
   "Russian First": {
-    "matches": 36,
-    "totalCorners": 329,
-    "totalProjected": 318,
+    "matches": 38,
+    "totalCorners": 349,
+    "totalProjected": 338,
     "totalCrosses": 215,
     "totalShotsBox": 72
   },
@@ -2191,44 +2191,44 @@
     "totalShotsBox": 0
   },
   "Hungarian Cup - Segunda Ronda": {
-    "matches": 12,
-    "totalCorners": 90,
-    "totalProjected": 93,
+    "matches": 14,
+    "totalCorners": 103,
+    "totalProjected": 106,
     "totalCrosses": 165,
     "totalShotsBox": 60
   },
   "Primera División de": {
-    "matches": 40,
-    "totalCorners": 380,
-    "totalProjected": 380,
-    "totalCrosses": 1529,
-    "totalShotsBox": 604
+    "matches": 41,
+    "totalCorners": 391,
+    "totalProjected": 391,
+    "totalCrosses": 1578,
+    "totalShotsBox": 621
   },
   "NM Cupen - Primera Ronda": {
-    "matches": 185,
-    "totalCorners": 885,
-    "totalProjected": 885,
+    "matches": 189,
+    "totalCorners": 906,
+    "totalProjected": 906,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Frauen": {
-    "matches": 33,
-    "totalCorners": 403,
-    "totalProjected": 425,
+    "matches": 35,
+    "totalCorners": 422,
+    "totalProjected": 444,
     "totalCrosses": 297,
     "totalShotsBox": 121
   },
   "DFB-Pokal - Primera Ronda": {
-    "matches": 118,
-    "totalCorners": 1444,
-    "totalProjected": 1419,
-    "totalCrosses": 4236,
-    "totalShotsBox": 2419
+    "matches": 124,
+    "totalCorners": 1509,
+    "totalProjected": 1484,
+    "totalCrosses": 4489,
+    "totalShotsBox": 2537
   },
   "Premier League 2 - Temporada": {
-    "matches": 70,
-    "totalCorners": 654,
-    "totalProjected": 652,
+    "matches": 71,
+    "totalCorners": 674,
+    "totalProjected": 672,
     "totalCrosses": 26,
     "totalShotsBox": 5
   },
@@ -2247,11 +2247,11 @@
     "totalShotsBox": 0
   },
   "Ligue 1": {
-    "matches": 46,
-    "totalCorners": 462,
-    "totalProjected": 466,
-    "totalCrosses": 1435,
-    "totalShotsBox": 720
+    "matches": 47,
+    "totalCorners": 473,
+    "totalProjected": 477,
+    "totalCrosses": 1485,
+    "totalShotsBox": 740
   },
   "Abissnet": {
     "matches": 14,
@@ -2268,16 +2268,16 @@
     "totalShotsBox": 0
   },
   "Campeonato Italiano Sub-19": {
-    "matches": 10,
+    "matches": 11,
     "totalCorners": 22,
     "totalProjected": 22,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "MTN 8 Cup": {
-    "matches": 9,
-    "totalCorners": 72,
-    "totalProjected": 72,
+    "matches": 10,
+    "totalCorners": 84,
+    "totalProjected": 84,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2352,9 +2352,16 @@
     "totalShotsBox": 0
   },
   "Girabola": {
-    "matches": 2,
-    "totalCorners": 2,
-    "totalProjected": 2,
+    "matches": 4,
+    "totalCorners": 4,
+    "totalProjected": 4,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Q": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
