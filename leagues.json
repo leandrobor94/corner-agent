@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 809,
-    "totalCorners": 7463,
-    "totalProjected": 7584,
+    "matches": 810,
+    "totalCorners": 7479,
+    "totalProjected": 7600,
     "totalCrosses": 8069,
     "totalShotsBox": 3319
   },
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 138,
-    "totalCorners": 1305,
-    "totalProjected": 1309,
+    "matches": 141,
+    "totalCorners": 1327,
+    "totalProjected": 1331,
     "totalCrosses": 448,
     "totalShotsBox": 80
   },
@@ -826,9 +826,9 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 195,
-    "totalCorners": 1887,
-    "totalProjected": 1866,
+    "matches": 196,
+    "totalCorners": 1902,
+    "totalProjected": 1881,
     "totalCrosses": 832,
     "totalShotsBox": 151
   },
@@ -861,9 +861,9 @@
     "totalShotsBox": 255
   },
   "MOL Cup - Octavos de final": {
-    "matches": 106,
-    "totalCorners": 1026,
-    "totalProjected": 1025,
+    "matches": 107,
+    "totalCorners": 1039,
+    "totalProjected": 1038,
     "totalCrosses": 108,
     "totalShotsBox": 33
   },
@@ -1001,9 +1001,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 115,
-    "totalCorners": 1072,
-    "totalProjected": 1074,
+    "matches": 117,
+    "totalCorners": 1085,
+    "totalProjected": 1087,
     "totalCrosses": 248,
     "totalShotsBox": 87
   },
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 150,
-    "totalCorners": 910,
-    "totalProjected": 968,
+    "matches": 151,
+    "totalCorners": 917,
+    "totalProjected": 975,
     "totalCrosses": 463,
     "totalShotsBox": 102
   },
@@ -1932,9 +1932,9 @@
     "totalShotsBox": 690
   },
   "Youth": {
-    "matches": 62,
-    "totalCorners": 461,
-    "totalProjected": 461,
+    "matches": 69,
+    "totalCorners": 509,
+    "totalProjected": 509,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2058,7 +2058,7 @@
     "totalShotsBox": 25
   },
   "DBU Pokalen - 32avos de final": {
-    "matches": 5,
+    "matches": 6,
     "totalCorners": 49,
     "totalProjected": 49,
     "totalCrosses": 0,
@@ -2404,6 +2404,20 @@
     "matches": 1,
     "totalCorners": 7,
     "totalProjected": 7,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Croata - 32avos de final": {
+    "matches": 3,
+    "totalCorners": 33,
+    "totalProjected": 33,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "FA Cup - Fase": {
+    "matches": 1,
+    "totalCorners": 1,
+    "totalProjected": 1,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
