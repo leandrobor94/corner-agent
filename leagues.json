@@ -189,11 +189,11 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 815,
-    "totalCorners": 7545,
-    "totalProjected": 7666,
-    "totalCrosses": 8069,
-    "totalShotsBox": 3319
+    "matches": 823,
+    "totalCorners": 7611,
+    "totalProjected": 7737,
+    "totalCrosses": 8326,
+    "totalShotsBox": 3422
   },
   "Pershaya Liga": {
     "matches": 218,
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 65
   },
   "Liga Profesional -": {
-    "matches": 80,
-    "totalCorners": 812,
-    "totalProjected": 812,
+    "matches": 82,
+    "totalCorners": 831,
+    "totalProjected": 831,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1820,11 +1820,11 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 154,
-    "totalCorners": 938,
-    "totalProjected": 996,
-    "totalCrosses": 463,
-    "totalShotsBox": 102
+    "matches": 156,
+    "totalCorners": 954,
+    "totalProjected": 1015,
+    "totalCrosses": 490,
+    "totalShotsBox": 114
   },
   "UAE Pro": {
     "matches": 105,
@@ -2072,11 +2072,11 @@
     "totalShotsBox": 0
   },
   "UEFA Champions League Clasificatorio -": {
-    "matches": 16,
-    "totalCorners": 118,
-    "totalProjected": 116,
-    "totalCrosses": 536,
-    "totalShotsBox": 272
+    "matches": 17,
+    "totalCorners": 132,
+    "totalProjected": 130,
+    "totalCrosses": 582,
+    "totalShotsBox": 310
   },
   "Copa Paceña": {
     "matches": 5,
@@ -2415,10 +2415,10 @@
     "totalShotsBox": 0
   },
   "FA Cup - Fase": {
-    "matches": 4,
-    "totalCorners": 4,
-    "totalProjected": 4,
-    "totalCrosses": 0,
+    "matches": 6,
+    "totalCorners": 20,
+    "totalProjected": 13,
+    "totalCrosses": 31,
     "totalShotsBox": 0
   }
 }
