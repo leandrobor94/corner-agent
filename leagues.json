@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 823,
-    "totalCorners": 7611,
-    "totalProjected": 7737,
+    "matches": 824,
+    "totalCorners": 7621,
+    "totalProjected": 7747,
     "totalCrosses": 8326,
     "totalShotsBox": 3422
   },
@@ -238,11 +238,11 @@
     "totalShotsBox": 2907
   },
   "Primera B": {
-    "matches": 150,
-    "totalCorners": 1295,
-    "totalProjected": 1320,
-    "totalCrosses": 144,
-    "totalShotsBox": 16
+    "matches": 158,
+    "totalCorners": 1388,
+    "totalProjected": 1412,
+    "totalCrosses": 190,
+    "totalShotsBox": 23
   },
   "Copa de la Liga - Octavos de final": {
     "matches": 5,
@@ -378,9 +378,9 @@
     "totalShotsBox": 0
   },
   "Primera C Metropolitana - Zona B": {
-    "matches": 98,
-    "totalCorners": 770,
-    "totalProjected": 794,
+    "matches": 99,
+    "totalCorners": 781,
+    "totalProjected": 805,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1757,9 +1757,9 @@
     "totalShotsBox": 65
   },
   "Liga Profesional -": {
-    "matches": 82,
-    "totalCorners": 831,
-    "totalProjected": 831,
+    "matches": 84,
+    "totalCorners": 847,
+    "totalProjected": 847,
     "totalCrosses": 40,
     "totalShotsBox": 18
   },
@@ -1806,11 +1806,11 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 120,
-    "totalCorners": 1038,
-    "totalProjected": 1075,
-    "totalCrosses": 4020,
-    "totalShotsBox": 1850
+    "matches": 122,
+    "totalCorners": 1060,
+    "totalProjected": 1097,
+    "totalCrosses": 4089,
+    "totalShotsBox": 1881
   },
   "Copa Africana de Naciones (F) - Play-in": {
     "matches": 7,
@@ -1862,9 +1862,9 @@
     "totalShotsBox": 0
   },
   "Liga Iraquí": {
-    "matches": 116,
-    "totalCorners": 816,
-    "totalProjected": 810,
+    "matches": 117,
+    "totalCorners": 823,
+    "totalProjected": 817,
     "totalCrosses": 114,
     "totalShotsBox": 30
   },
@@ -2065,9 +2065,9 @@
     "totalShotsBox": 0
   },
   "EFL": {
-    "matches": 12,
-    "totalCorners": 145,
-    "totalProjected": 145,
+    "matches": 13,
+    "totalCorners": 161,
+    "totalProjected": 161,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2420,5 +2420,12 @@
     "totalProjected": 13,
     "totalCrosses": 31,
     "totalShotsBox": 0
+  },
+  "Copa de la liga - Segunda Ronda": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 25,
+    "totalShotsBox": 12
   }
 }
