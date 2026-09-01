@@ -658,9 +658,9 @@
     "totalShotsBox": 0
   },
   "Copa": {
-    "matches": 89,
-    "totalCorners": 675,
-    "totalProjected": 673,
+    "matches": 90,
+    "totalCorners": 682,
+    "totalProjected": 680,
     "totalCrosses": 209,
     "totalShotsBox": 52
   },
@@ -1309,9 +1309,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo D": {
-    "matches": 16,
-    "totalCorners": 137,
-    "totalProjected": 155,
+    "matches": 17,
+    "totalCorners": 150,
+    "totalProjected": 168,
     "totalCrosses": 150,
     "totalShotsBox": 48
   },
@@ -1463,9 +1463,9 @@
     "totalShotsBox": 2073
   },
   "1. Lig": {
-    "matches": 197,
-    "totalCorners": 1585,
-    "totalProjected": 1603,
+    "matches": 198,
+    "totalCorners": 1593,
+    "totalProjected": 1611,
     "totalCrosses": 654,
     "totalShotsBox": 171
   },
@@ -2415,9 +2415,9 @@
     "totalShotsBox": 33
   },
   "FA Cup - Fase": {
-    "matches": 21,
-    "totalCorners": 114,
-    "totalProjected": 107,
+    "matches": 22,
+    "totalCorners": 122,
+    "totalProjected": 115,
     "totalCrosses": 31,
     "totalShotsBox": 0
   },
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 8,
-    "totalCorners": 50,
-    "totalProjected": 50,
+    "matches": 10,
+    "totalCorners": 71,
+    "totalProjected": 71,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2621,6 +2621,20 @@
     "matches": 1,
     "totalCorners": 9,
     "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Chinese FA Cup - Cuartos de Final": {
+    "matches": 1,
+    "totalCorners": 14,
+    "totalProjected": 14,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "FA Cup": {
+    "matches": 2,
+    "totalCorners": 0,
+    "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
