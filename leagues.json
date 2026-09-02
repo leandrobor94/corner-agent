@@ -287,9 +287,9 @@
     "totalShotsBox": 212
   },
   "National": {
-    "matches": 96,
-    "totalCorners": 838,
-    "totalProjected": 822,
+    "matches": 97,
+    "totalCorners": 852,
+    "totalProjected": 836,
     "totalCrosses": 127,
     "totalShotsBox": 28
   },
@@ -1372,9 +1372,9 @@
     "totalShotsBox": 524
   },
   "Polish Cup - 32avos de final": {
-    "matches": 19,
-    "totalCorners": 208,
-    "totalProjected": 208,
+    "matches": 20,
+    "totalCorners": 216,
+    "totalProjected": 216,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 126,
-    "totalCorners": 1114,
-    "totalProjected": 1116,
-    "totalCrosses": 4157,
-    "totalShotsBox": 1997
+    "matches": 136,
+    "totalCorners": 1195,
+    "totalProjected": 1197,
+    "totalCrosses": 4505,
+    "totalShotsBox": 2157
   },
   "Erovnuli Liga": {
     "matches": 83,
@@ -2625,16 +2625,16 @@
     "totalShotsBox": 0
   },
   "Chinese FA Cup - Cuartos de Final": {
-    "matches": 3,
-    "totalCorners": 38,
-    "totalProjected": 38,
+    "matches": 4,
+    "totalCorners": 42,
+    "totalProjected": 42,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "FA Cup": {
-    "matches": 4,
-    "totalCorners": 0,
-    "totalProjected": 0,
+    "matches": 6,
+    "totalCorners": 29,
+    "totalProjected": 29,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2684,6 +2684,13 @@
     "matches": 6,
     "totalCorners": 58,
     "totalProjected": 58,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "League Cup - Primera Ronda": {
+    "matches": 13,
+    "totalCorners": 133,
+    "totalProjected": 133,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
