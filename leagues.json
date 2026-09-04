@@ -161,9 +161,9 @@
     "totalShotsBox": 60
   },
   "Segunda división": {
-    "matches": 241,
-    "totalCorners": 2420,
-    "totalProjected": 2439,
+    "matches": 243,
+    "totalCorners": 2440,
+    "totalProjected": 2459,
     "totalCrosses": 1108,
     "totalShotsBox": 308
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 977,
-    "totalCorners": 8926,
-    "totalProjected": 9066,
+    "matches": 980,
+    "totalCorners": 8937,
+    "totalProjected": 9077,
     "totalCrosses": 9936,
     "totalShotsBox": 4092
   },
@@ -294,7 +294,7 @@
     "totalShotsBox": 28
   },
   "Supreme Division Women": {
-    "matches": 51,
+    "matches": 52,
     "totalCorners": 48,
     "totalProjected": 62,
     "totalCrosses": 0,
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 157,
-    "totalCorners": 1460,
-    "totalProjected": 1468,
+    "matches": 158,
+    "totalCorners": 1476,
+    "totalProjected": 1484,
     "totalCrosses": 488,
     "totalShotsBox": 86
   },
@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 54,
-    "totalCorners": 489,
-    "totalProjected": 479,
+    "matches": 56,
+    "totalCorners": 506,
+    "totalProjected": 496,
     "totalCrosses": 220,
     "totalShotsBox": 14
   },
@@ -1162,9 +1162,9 @@
     "totalShotsBox": 16
   },
   "Liga": {
-    "matches": 106,
-    "totalCorners": 979,
-    "totalProjected": 978,
+    "matches": 107,
+    "totalCorners": 994,
+    "totalProjected": 993,
     "totalCrosses": 3421,
     "totalShotsBox": 1921
   },
@@ -1820,9 +1820,9 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 168,
-    "totalCorners": 1060,
-    "totalProjected": 1121,
+    "matches": 169,
+    "totalCorners": 1065,
+    "totalProjected": 1126,
     "totalCrosses": 490,
     "totalShotsBox": 114
   },
@@ -2177,9 +2177,9 @@
     "totalShotsBox": 901
   },
   "Liga Super - Regular": {
-    "matches": 21,
-    "totalCorners": 207,
-    "totalProjected": 213,
+    "matches": 22,
+    "totalCorners": 213,
+    "totalProjected": 219,
     "totalCrosses": 84,
     "totalShotsBox": 26
   },
@@ -2709,9 +2709,9 @@
     "totalShotsBox": 0
   },
   "Division 3": {
-    "matches": 5,
-    "totalCorners": 38,
-    "totalProjected": 38,
+    "matches": 10,
+    "totalCorners": 79,
+    "totalProjected": 79,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2747,6 +2747,13 @@
     "matches": 1,
     "totalCorners": 0,
     "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "ASEAN Club": {
+    "matches": 1,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
