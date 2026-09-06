@@ -154,9 +154,9 @@
     "totalShotsBox": 0
   },
   "Tercera división": {
-    "matches": 47,
-    "totalCorners": 403,
-    "totalProjected": 420,
+    "matches": 49,
+    "totalCorners": 422,
+    "totalProjected": 439,
     "totalCrosses": 191,
     "totalShotsBox": 60
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1037,
-    "totalCorners": 9451,
-    "totalProjected": 9607,
+    "matches": 1038,
+    "totalCorners": 9462,
+    "totalProjected": 9618,
     "totalCrosses": 10674,
     "totalShotsBox": 4403
   },
@@ -1162,9 +1162,9 @@
     "totalShotsBox": 16
   },
   "Liga": {
-    "matches": 118,
-    "totalCorners": 1136,
-    "totalProjected": 1128,
+    "matches": 119,
+    "totalCorners": 1149,
+    "totalProjected": 1141,
     "totalCrosses": 3638,
     "totalShotsBox": 2041
   },
@@ -1183,9 +1183,9 @@
     "totalShotsBox": 0
   },
   "Liga 2 rumana - Regular": {
-    "matches": 100,
-    "totalCorners": 1053,
-    "totalProjected": 1063,
+    "matches": 101,
+    "totalCorners": 1064,
+    "totalProjected": 1074,
     "totalCrosses": 233,
     "totalShotsBox": 47
   },
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 147,
-    "totalCorners": 1283,
-    "totalProjected": 1285,
-    "totalCrosses": 4887,
-    "totalShotsBox": 2335
+    "matches": 151,
+    "totalCorners": 1321,
+    "totalProjected": 1323,
+    "totalCrosses": 5081,
+    "totalShotsBox": 2415
   },
   "Erovnuli Liga": {
     "matches": 87,
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 127,
-    "totalCorners": 1283,
-    "totalProjected": 1289,
+    "matches": 129,
+    "totalCorners": 1302,
+    "totalProjected": 1308,
     "totalCrosses": 887,
     "totalShotsBox": 287
   },
@@ -2268,7 +2268,7 @@
     "totalShotsBox": 72
   },
   "Campeonato Italiano Sub-19": {
-    "matches": 42,
+    "matches": 43,
     "totalCorners": 55,
     "totalProjected": 55,
     "totalCrosses": 0,
@@ -2478,9 +2478,9 @@
     "totalShotsBox": 15
   },
   "National League - Regular": {
-    "matches": 11,
-    "totalCorners": 123,
-    "totalProjected": 123,
+    "matches": 12,
+    "totalCorners": 133,
+    "totalProjected": 133,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2835,13 +2835,20 @@
     "totalShotsBox": 12
   },
   "Segunda RFEF": {
-    "matches": 5,
-    "totalCorners": 29,
-    "totalProjected": 29,
+    "matches": 7,
+    "totalCorners": 51,
+    "totalProjected": 51,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Suomen Cup - Final": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Super": {
     "matches": 1,
     "totalCorners": 10,
     "totalProjected": 10,
