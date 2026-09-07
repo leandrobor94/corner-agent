@@ -175,16 +175,16 @@
     "totalShotsBox": 10265
   },
   "Tercera División -": {
-    "matches": 109,
+    "matches": 110,
     "totalCorners": 814,
     "totalProjected": 819,
     "totalCrosses": 24,
     "totalShotsBox": 0
   },
   "APF Primera C": {
-    "matches": 10,
-    "totalCorners": 78,
-    "totalProjected": 84,
+    "matches": 11,
+    "totalCorners": 79,
+    "totalProjected": 85,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -217,9 +217,9 @@
     "totalShotsBox": 225
   },
   "Vysshaya Liga": {
-    "matches": 151,
-    "totalCorners": 1519,
-    "totalProjected": 1538,
+    "matches": 152,
+    "totalCorners": 1528,
+    "totalProjected": 1547,
     "totalCrosses": 551,
     "totalShotsBox": 187
   },
@@ -812,9 +812,9 @@
     "totalShotsBox": 0
   },
   "First League - Regular": {
-    "matches": 109,
-    "totalCorners": 935,
-    "totalProjected": 938,
+    "matches": 110,
+    "totalCorners": 945,
+    "totalProjected": 948,
     "totalCrosses": 168,
     "totalShotsBox": 64
   },
@@ -826,9 +826,9 @@
     "totalShotsBox": 0
   },
   "Vtora Liga": {
-    "matches": 231,
-    "totalCorners": 2229,
-    "totalProjected": 2215,
+    "matches": 232,
+    "totalCorners": 2241,
+    "totalProjected": 2227,
     "totalCrosses": 933,
     "totalShotsBox": 174
   },
@@ -1463,9 +1463,9 @@
     "totalShotsBox": 2220
   },
   "1. Lig": {
-    "matches": 211,
-    "totalCorners": 1697,
-    "totalProjected": 1715,
+    "matches": 213,
+    "totalCorners": 1715,
+    "totalProjected": 1733,
     "totalCrosses": 654,
     "totalShotsBox": 171
   },
@@ -2198,11 +2198,11 @@
     "totalShotsBox": 60
   },
   "Primera División de": {
-    "matches": 85,
-    "totalCorners": 800,
-    "totalProjected": 800,
-    "totalCrosses": 3331,
-    "totalShotsBox": 1296
+    "matches": 87,
+    "totalCorners": 816,
+    "totalProjected": 816,
+    "totalCrosses": 3406,
+    "totalShotsBox": 1319
   },
   "NM Cupen - Primera Ronda": {
     "matches": 250,
@@ -2359,9 +2359,9 @@
     "totalShotsBox": 0
   },
   "Q": {
-    "matches": 36,
-    "totalCorners": 263,
-    "totalProjected": 263,
+    "matches": 37,
+    "totalCorners": 271,
+    "totalProjected": 271,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2478,9 +2478,9 @@
     "totalShotsBox": 15
   },
   "National League - Regular": {
-    "matches": 13,
-    "totalCorners": 143,
-    "totalProjected": 143,
+    "matches": 14,
+    "totalCorners": 157,
+    "totalProjected": 157,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2821,9 +2821,9 @@
     "totalShotsBox": 0
   },
   "2° División de": {
-    "matches": 1,
-    "totalCorners": 4,
-    "totalProjected": 4,
+    "matches": 2,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2852,6 +2852,20 @@
     "matches": 3,
     "totalCorners": 29,
     "totalProjected": 29,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Mundial Femenino Sub-20 - Grupo E": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Mundial Femenino Sub-20 - Grupo F": {
+    "matches": 1,
+    "totalCorners": 21,
+    "totalProjected": 21,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
