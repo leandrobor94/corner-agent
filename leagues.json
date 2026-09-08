@@ -308,9 +308,9 @@
     "totalShotsBox": 4617
   },
   "Primera división": {
-    "matches": 150,
-    "totalCorners": 1356,
-    "totalProjected": 1365,
+    "matches": 152,
+    "totalCorners": 1372,
+    "totalProjected": 1381,
     "totalCrosses": 1117,
     "totalShotsBox": 310
   },
@@ -658,9 +658,9 @@
     "totalShotsBox": 0
   },
   "Copa": {
-    "matches": 109,
-    "totalCorners": 842,
-    "totalProjected": 840,
+    "matches": 110,
+    "totalCorners": 852,
+    "totalProjected": 850,
     "totalCrosses": 209,
     "totalShotsBox": 52
   },
@@ -1449,11 +1449,11 @@
     "totalShotsBox": 12
   },
   "Eredivisie": {
-    "matches": 215,
-    "totalCorners": 2314,
-    "totalProjected": 2316,
-    "totalCrosses": 5873,
-    "totalShotsBox": 3271
+    "matches": 216,
+    "totalCorners": 2326,
+    "totalProjected": 2328,
+    "totalCrosses": 5911,
+    "totalShotsBox": 3295
   },
   "2.": {
     "matches": 107,
@@ -1708,9 +1708,9 @@
     "totalShotsBox": 0
   },
   "AFC Challenge League - Clasificación": {
-    "matches": 23,
-    "totalCorners": 138,
-    "totalProjected": 146,
+    "matches": 24,
+    "totalCorners": 143,
+    "totalProjected": 151,
     "totalCrosses": 173,
     "totalShotsBox": 48
   },
@@ -2866,6 +2866,13 @@
     "matches": 2,
     "totalCorners": 29,
     "totalProjected": 29,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Liga Juvenil de la UEFA": {
+    "matches": 3,
+    "totalCorners": 28,
+    "totalProjected": 28,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
