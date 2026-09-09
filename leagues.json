@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1049,
-    "totalCorners": 9570,
-    "totalProjected": 9726,
+    "matches": 1050,
+    "totalCorners": 9578,
+    "totalProjected": 9734,
     "totalCrosses": 10805,
     "totalShotsBox": 4481
   },
@@ -308,9 +308,9 @@
     "totalShotsBox": 4617
   },
   "Primera división": {
-    "matches": 158,
-    "totalCorners": 1420,
-    "totalProjected": 1429,
+    "matches": 162,
+    "totalCorners": 1454,
+    "totalProjected": 1463,
     "totalCrosses": 1117,
     "totalShotsBox": 310
   },
@@ -1001,9 +1001,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Regions Path -": {
-    "matches": 150,
-    "totalCorners": 1354,
-    "totalProjected": 1342,
+    "matches": 151,
+    "totalCorners": 1370,
+    "totalProjected": 1358,
     "totalCrosses": 296,
     "totalShotsBox": 105
   },
@@ -2632,9 +2632,9 @@
     "totalShotsBox": 0
   },
   "FA Cup": {
-    "matches": 11,
-    "totalCorners": 91,
-    "totalProjected": 91,
+    "matches": 12,
+    "totalCorners": 102,
+    "totalProjected": 102,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2688,9 +2688,9 @@
     "totalShotsBox": 0
   },
   "League Cup - Primera Ronda": {
-    "matches": 26,
-    "totalCorners": 266,
-    "totalProjected": 266,
+    "matches": 32,
+    "totalCorners": 339,
+    "totalProjected": 339,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2709,9 +2709,9 @@
     "totalShotsBox": 0
   },
   "Division 3": {
-    "matches": 16,
-    "totalCorners": 135,
-    "totalProjected": 135,
+    "matches": 17,
+    "totalCorners": 144,
+    "totalProjected": 144,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2870,16 +2870,16 @@
     "totalShotsBox": 0
   },
   "Liga Juvenil de la UEFA": {
-    "matches": 21,
-    "totalCorners": 181,
-    "totalProjected": 181,
+    "matches": 23,
+    "totalCorners": 193,
+    "totalProjected": 193,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Copa Ucrania - 16avos de final": {
-    "matches": 4,
-    "totalCorners": 27,
-    "totalProjected": 27,
+    "matches": 8,
+    "totalCorners": 56,
+    "totalProjected": 56,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2910,5 +2910,12 @@
     "totalProjected": 72,
     "totalCrosses": 185,
     "totalShotsBox": 94
+  },
+  "Australia Cup -": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
