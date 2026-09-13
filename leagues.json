@@ -1022,7 +1022,7 @@
     "totalShotsBox": 0
   },
   "Formuladeildin": {
-    "matches": 142,
+    "matches": 143,
     "totalCorners": 1435,
     "totalProjected": 1427,
     "totalCrosses": 296,
@@ -3034,6 +3034,13 @@
     "matches": 1,
     "totalCorners": 9,
     "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Paulista - Cuartos de Final": {
+    "matches": 2,
+    "totalCorners": 15,
+    "totalProjected": 15,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
