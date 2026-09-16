@@ -217,9 +217,9 @@
     "totalShotsBox": 234
   },
   "Vysshaya Liga": {
-    "matches": 167,
-    "totalCorners": 1671,
-    "totalProjected": 1694,
+    "matches": 168,
+    "totalCorners": 1677,
+    "totalProjected": 1700,
     "totalCrosses": 603,
     "totalShotsBox": 203
   },
@@ -1162,9 +1162,9 @@
     "totalShotsBox": 16
   },
   "Liga": {
-    "matches": 137,
-    "totalCorners": 1343,
-    "totalProjected": 1337,
+    "matches": 138,
+    "totalCorners": 1353,
+    "totalProjected": 1347,
     "totalCrosses": 3904,
     "totalShotsBox": 2137
   },
@@ -1533,9 +1533,9 @@
     "totalShotsBox": 13
   },
   "Erovnuli Liga 2": {
-    "matches": 92,
-    "totalCorners": 762,
-    "totalProjected": 764,
+    "matches": 95,
+    "totalCorners": 786,
+    "totalProjected": 788,
     "totalCrosses": 125,
     "totalShotsBox": 0
   },
@@ -2163,9 +2163,9 @@
     "totalShotsBox": 360
   },
   "Russian First": {
-    "matches": 118,
-    "totalCorners": 1087,
-    "totalProjected": 1092,
+    "matches": 119,
+    "totalCorners": 1099,
+    "totalProjected": 1104,
     "totalCrosses": 450,
     "totalShotsBox": 147
   },
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 31,
-    "totalCorners": 249,
-    "totalProjected": 247,
+    "matches": 33,
+    "totalCorners": 265,
+    "totalProjected": 263,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
@@ -2632,9 +2632,9 @@
     "totalShotsBox": 0
   },
   "FA Cup": {
-    "matches": 21,
-    "totalCorners": 186,
-    "totalProjected": 186,
+    "matches": 22,
+    "totalCorners": 199,
+    "totalProjected": 199,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2877,9 +2877,9 @@
     "totalShotsBox": 0
   },
   "Copa Ucrania - 16avos de final": {
-    "matches": 24,
-    "totalCorners": 170,
-    "totalProjected": 170,
+    "matches": 26,
+    "totalCorners": 183,
+    "totalProjected": 183,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3073,11 +3073,11 @@
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones Élite": {
-    "matches": 18,
-    "totalCorners": 169,
-    "totalProjected": 169,
-    "totalCrosses": 596,
-    "totalShotsBox": 284
+    "matches": 20,
+    "totalCorners": 183,
+    "totalProjected": 183,
+    "totalCrosses": 657,
+    "totalShotsBox": 314
   },
   "Torneo Promocional Amateur - Reducido - Cuartos de Final": {
     "matches": 2,
@@ -3087,17 +3087,31 @@
     "totalShotsBox": 0
   },
   "Juegos Asiáticos": {
-    "matches": 6,
-    "totalCorners": 66,
-    "totalProjected": 66,
+    "matches": 10,
+    "totalCorners": 115,
+    "totalProjected": 115,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones 2": {
-    "matches": 8,
-    "totalCorners": 56,
-    "totalProjected": 54,
-    "totalCrosses": 242,
-    "totalShotsBox": 94
+    "matches": 10,
+    "totalCorners": 77,
+    "totalProjected": 75,
+    "totalCrosses": 335,
+    "totalShotsBox": 125
+  },
+  "Copa de Turquía": {
+    "matches": 3,
+    "totalCorners": 32,
+    "totalProjected": 32,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Mundial Femenino Sub-20 - Octavos de final": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
