@@ -161,9 +161,9 @@
     "totalShotsBox": 60
   },
   "Segunda división": {
-    "matches": 276,
-    "totalCorners": 2762,
-    "totalProjected": 2780,
+    "matches": 278,
+    "totalCorners": 2784,
+    "totalProjected": 2802,
     "totalCrosses": 1187,
     "totalShotsBox": 329
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1242,
-    "totalCorners": 11370,
-    "totalProjected": 11491,
+    "matches": 1243,
+    "totalCorners": 11377,
+    "totalProjected": 11498,
     "totalCrosses": 12829,
     "totalShotsBox": 5256
   },
@@ -308,9 +308,9 @@
     "totalShotsBox": 5151
   },
   "Primera división": {
-    "matches": 180,
-    "totalCorners": 1616,
-    "totalProjected": 1625,
+    "matches": 181,
+    "totalCorners": 1629,
+    "totalProjected": 1638,
     "totalCrosses": 1117,
     "totalShotsBox": 310
   },
@@ -1162,9 +1162,9 @@
     "totalShotsBox": 16
   },
   "Liga": {
-    "matches": 142,
-    "totalCorners": 1402,
-    "totalProjected": 1396,
+    "matches": 144,
+    "totalCorners": 1417,
+    "totalProjected": 1411,
     "totalCrosses": 3904,
     "totalShotsBox": 2137
   },
@@ -1183,9 +1183,9 @@
     "totalShotsBox": 0
   },
   "Liga 2 rumana - Regular": {
-    "matches": 109,
-    "totalCorners": 1143,
-    "totalProjected": 1153,
+    "matches": 116,
+    "totalCorners": 1201,
+    "totalProjected": 1211,
     "totalCrosses": 233,
     "totalShotsBox": 47
   },
@@ -1421,11 +1421,11 @@
     "totalShotsBox": 36
   },
   "J": {
-    "matches": 172,
-    "totalCorners": 1538,
-    "totalProjected": 1540,
-    "totalCrosses": 5937,
-    "totalShotsBox": 2800
+    "matches": 177,
+    "totalCorners": 1594,
+    "totalProjected": 1596,
+    "totalCrosses": 6124,
+    "totalShotsBox": 2896
   },
   "Erovnuli Liga": {
     "matches": 106,
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 144,
-    "totalCorners": 1444,
-    "totalProjected": 1450,
+    "matches": 146,
+    "totalCorners": 1472,
+    "totalProjected": 1478,
     "totalCrosses": 887,
     "totalShotsBox": 287
   },
@@ -1932,9 +1932,9 @@
     "totalShotsBox": 690
   },
   "Youth": {
-    "matches": 148,
-    "totalCorners": 999,
-    "totalProjected": 971,
+    "matches": 153,
+    "totalCorners": 1051,
+    "totalProjected": 1023,
     "totalCrosses": 326,
     "totalShotsBox": 0
   },
@@ -2268,7 +2268,7 @@
     "totalShotsBox": 118
   },
   "Campeonato Italiano Sub-19": {
-    "matches": 49,
+    "matches": 51,
     "totalCorners": 92,
     "totalProjected": 92,
     "totalCrosses": 0,
@@ -3167,6 +3167,13 @@
     "matches": 1,
     "totalCorners": 12,
     "totalProjected": 12,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "HK Senior": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
