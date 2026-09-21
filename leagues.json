@@ -595,9 +595,9 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 16,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 74,
-    "totalCorners": 625,
-    "totalProjected": 615,
+    "matches": 75,
+    "totalCorners": 640,
+    "totalProjected": 630,
     "totalCrosses": 220,
     "totalShotsBox": 14
   },
