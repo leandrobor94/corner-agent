@@ -49,10 +49,10 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 180,
-    "totalCorners": 1323,
-    "totalProjected": 1349,
-    "totalCrosses": 0,
+    "matches": 182,
+    "totalCorners": 1333,
+    "totalProjected": 1357,
+    "totalCrosses": 25,
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
@@ -469,11 +469,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 140,
-    "totalCorners": 1375,
-    "totalProjected": 1372,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 144,
+    "totalCorners": 1413,
+    "totalProjected": 1412,
+    "totalCrosses": 58,
+    "totalShotsBox": 9
   },
   "Copa Simón Bolívar - Oruro": {
     "matches": 2,
@@ -1554,9 +1554,9 @@
     "totalShotsBox": 575
   },
   "7ª División": {
-    "matches": 1318,
-    "totalCorners": 3909,
-    "totalProjected": 3698,
+    "matches": 1339,
+    "totalCorners": 4031,
+    "totalProjected": 3820,
     "totalCrosses": 2591,
     "totalShotsBox": 0
   },
@@ -1764,9 +1764,9 @@
     "totalShotsBox": 18
   },
   "Challenge Cup": {
-    "matches": 176,
-    "totalCorners": 1558,
-    "totalProjected": 1558,
+    "matches": 194,
+    "totalCorners": 1753,
+    "totalProjected": 1753,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2065,11 +2065,11 @@
     "totalShotsBox": 0
   },
   "EFL": {
-    "matches": 29,
-    "totalCorners": 356,
-    "totalProjected": 356,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 73,
+    "totalCorners": 744,
+    "totalProjected": 758,
+    "totalCrosses": 616,
+    "totalShotsBox": 209
   },
   "UEFA Champions League Clasificatorio -": {
     "matches": 31,
@@ -3080,9 +3080,9 @@
     "totalShotsBox": 344
   },
   "Torneo Promocional Amateur - Reducido - Cuartos de Final": {
-    "matches": 4,
-    "totalCorners": 33,
-    "totalProjected": 35,
+    "matches": 5,
+    "totalCorners": 38,
+    "totalProjected": 40,
     "totalCrosses": 40,
     "totalShotsBox": 0
   },
@@ -3157,9 +3157,9 @@
     "totalShotsBox": 0
   },
   "Copa de Inglaterra - Preliminar - 2da ronda de clasificación": {
-    "matches": 3,
-    "totalCorners": 25,
-    "totalProjected": 25,
+    "matches": 9,
+    "totalCorners": 86,
+    "totalProjected": 86,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3227,10 +3227,17 @@
     "totalShotsBox": 0
   },
   "Liga de Campeones": {
-    "matches": 2,
-    "totalCorners": 11,
-    "totalProjected": 11,
-    "totalCrosses": 58,
-    "totalShotsBox": 31
+    "matches": 5,
+    "totalCorners": 41,
+    "totalProjected": 41,
+    "totalCrosses": 165,
+    "totalShotsBox": 74
+  },
+  "KNVB Cup - 2da ronda de clasificación": {
+    "matches": 28,
+    "totalCorners": 298,
+    "totalProjected": 274,
+    "totalCrosses": 357,
+    "totalShotsBox": 0
   }
 }
