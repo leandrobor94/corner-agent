@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3027,
-    "totalCorners": 20053,
-    "totalProjected": 20337,
+    "matches": 3028,
+    "totalCorners": 20060,
+    "totalProjected": 20344,
     "totalCrosses": 8301,
     "totalShotsBox": 3081
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1278,
-    "totalCorners": 11681,
-    "totalProjected": 11803,
+    "matches": 1279,
+    "totalCorners": 11689,
+    "totalProjected": 11811,
     "totalCrosses": 13229,
     "totalShotsBox": 5408
   },
@@ -595,9 +595,9 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 6,
-    "totalCorners": 34,
-    "totalProjected": 34,
+    "matches": 8,
+    "totalCorners": 47,
+    "totalProjected": 47,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -623,11 +623,11 @@
     "totalShotsBox": 297
   },
   "USL": {
-    "matches": 6,
-    "totalCorners": 40,
-    "totalProjected": 42,
-    "totalCrosses": 102,
-    "totalShotsBox": 38
+    "matches": 7,
+    "totalCorners": 48,
+    "totalProjected": 50,
+    "totalCrosses": 129,
+    "totalShotsBox": 54
   },
   "Besta-deild karla": {
     "matches": 132,
@@ -812,9 +812,9 @@
     "totalShotsBox": 0
   },
   "First League - Regular": {
-    "matches": 122,
-    "totalCorners": 1028,
-    "totalProjected": 1033,
+    "matches": 123,
+    "totalCorners": 1037,
+    "totalProjected": 1042,
     "totalCrosses": 170,
     "totalShotsBox": 64
   },
@@ -861,9 +861,9 @@
     "totalShotsBox": 400
   },
   "MOL Cup - Octavos de final": {
-    "matches": 176,
-    "totalCorners": 1835,
-    "totalProjected": 1816,
+    "matches": 177,
+    "totalCorners": 1845,
+    "totalProjected": 1826,
     "totalCrosses": 384,
     "totalShotsBox": 95
   },
@@ -2576,9 +2576,9 @@
     "totalShotsBox": 20
   },
   "NPFL - Temporada": {
-    "matches": 29,
-    "totalCorners": 235,
-    "totalProjected": 241,
+    "matches": 34,
+    "totalCorners": 282,
+    "totalProjected": 288,
     "totalCrosses": 156,
     "totalShotsBox": 32
   },
@@ -2702,16 +2702,16 @@
     "totalShotsBox": 0
   },
   "Slovakia Cup - Octavos de final": {
-    "matches": 30,
-    "totalCorners": 351,
-    "totalProjected": 351,
+    "matches": 31,
+    "totalCorners": 359,
+    "totalProjected": 359,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Division 3": {
-    "matches": 76,
-    "totalCorners": 616,
-    "totalProjected": 616,
+    "matches": 85,
+    "totalCorners": 684,
+    "totalProjected": 684,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3087,9 +3087,9 @@
     "totalShotsBox": 0
   },
   "Juegos Asiáticos": {
-    "matches": 36,
-    "totalCorners": 356,
-    "totalProjected": 360,
+    "matches": 40,
+    "totalCorners": 389,
+    "totalProjected": 393,
     "totalCrosses": 70,
     "totalShotsBox": 16
   },
@@ -3227,11 +3227,11 @@
     "totalShotsBox": 0
   },
   "Liga de Campeones": {
-    "matches": 5,
-    "totalCorners": 41,
-    "totalProjected": 41,
-    "totalCrosses": 165,
-    "totalShotsBox": 74
+    "matches": 7,
+    "totalCorners": 58,
+    "totalProjected": 58,
+    "totalCrosses": 240,
+    "totalShotsBox": 118
   },
   "KNVB Cup - 2da ronda de clasificación": {
     "matches": 28,
@@ -3241,16 +3241,44 @@
     "totalShotsBox": 0
   },
   "Emperors Cup - Segunda Ronda": {
-    "matches": 12,
-    "totalCorners": 98,
-    "totalProjected": 98,
+    "matches": 18,
+    "totalCorners": 147,
+    "totalProjected": 147,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
   "Mundial Femenino Sub-20 -": {
+    "matches": 3,
+    "totalCorners": 21,
+    "totalProjected": 21,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa de Naciones del Golfo": {
     "matches": 1,
-    "totalCorners": 7,
-    "totalProjected": 7,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "President's Cup - Fase": {
+    "matches": 3,
+    "totalCorners": 30,
+    "totalProjected": 30,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "NM Cupen - Segunda Ronda": {
+    "matches": 1,
+    "totalCorners": 16,
+    "totalProjected": 16,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "UEFA Women's Europa Cup - 2da ronda de clasificación": {
+    "matches": 3,
+    "totalCorners": 19,
+    "totalProjected": 19,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
