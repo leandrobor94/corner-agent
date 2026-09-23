@@ -3087,9 +3087,9 @@
     "totalShotsBox": 0
   },
   "Juegos Asiáticos": {
-    "matches": 30,
-    "totalCorners": 311,
-    "totalProjected": 315,
+    "matches": 32,
+    "totalCorners": 323,
+    "totalProjected": 327,
     "totalCrosses": 70,
     "totalShotsBox": 16
   },
@@ -3238,6 +3238,13 @@
     "totalCorners": 298,
     "totalProjected": 274,
     "totalCrosses": 357,
+    "totalShotsBox": 0
+  },
+  "Emperors Cup - Segunda Ronda": {
+    "matches": 6,
+    "totalCorners": 49,
+    "totalProjected": 49,
+    "totalCrosses": 0,
     "totalShotsBox": 0
   }
 }
