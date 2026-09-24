@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3030,
-    "totalCorners": 20074,
-    "totalProjected": 20358,
+    "matches": 3031,
+    "totalCorners": 20075,
+    "totalProjected": 20359,
     "totalCrosses": 8301,
     "totalShotsBox": 3081
   },
@@ -595,11 +595,11 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 10,
-    "totalCorners": 60,
-    "totalProjected": 60,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 14,
+    "totalCorners": 88,
+    "totalProjected": 88,
+    "totalCrosses": 74,
+    "totalShotsBox": 26
   },
   "Belarusian Cup - Octavos de final": {
     "matches": 14,
@@ -2142,9 +2142,9 @@
     "totalShotsBox": 0
   },
   "Segunda División de": {
-    "matches": 48,
-    "totalCorners": 381,
-    "totalProjected": 381,
+    "matches": 49,
+    "totalCorners": 386,
+    "totalProjected": 386,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2709,9 +2709,9 @@
     "totalShotsBox": 0
   },
   "Division 3": {
-    "matches": 96,
-    "totalCorners": 761,
-    "totalProjected": 761,
+    "matches": 98,
+    "totalCorners": 783,
+    "totalProjected": 783,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2744,9 +2744,9 @@
     "totalShotsBox": 7
   },
   "Division 4": {
-    "matches": 18,
-    "totalCorners": 104,
-    "totalProjected": 104,
+    "matches": 19,
+    "totalCorners": 119,
+    "totalProjected": 119,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3314,6 +3314,20 @@
     "matches": 1,
     "totalCorners": 13,
     "totalProjected": 13,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Amistoso Internacional Sub19": {
+    "matches": 4,
+    "totalCorners": 29,
+    "totalProjected": 30,
+    "totalCrosses": 42,
+    "totalShotsBox": 9
+  },
+  "Copa de África de Naciones - Clasificación": {
+    "matches": 1,
+    "totalCorners": 16,
+    "totalProjected": 16,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
