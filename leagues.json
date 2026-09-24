@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3031,
-    "totalCorners": 20075,
-    "totalProjected": 20359,
+    "matches": 3034,
+    "totalCorners": 20096,
+    "totalProjected": 20380,
     "totalCrosses": 8301,
     "totalShotsBox": 3081
   },
@@ -287,9 +287,9 @@
     "totalShotsBox": 212
   },
   "National": {
-    "matches": 125,
-    "totalCorners": 1122,
-    "totalProjected": 1106,
+    "matches": 129,
+    "totalCorners": 1153,
+    "totalProjected": 1137,
     "totalCrosses": 270,
     "totalShotsBox": 101
   },
@@ -595,11 +595,11 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 14,
-    "totalCorners": 88,
-    "totalProjected": 88,
-    "totalCrosses": 74,
-    "totalShotsBox": 26
+    "matches": 19,
+    "totalCorners": 120,
+    "totalProjected": 120,
+    "totalCrosses": 148,
+    "totalShotsBox": 52
   },
   "Belarusian Cup - Octavos de final": {
     "matches": 14,
@@ -1722,9 +1722,9 @@
     "totalShotsBox": 12
   },
   "Copa Estonia - Tercera Ronda": {
-    "matches": 9,
-    "totalCorners": 63,
-    "totalProjected": 63,
+    "matches": 10,
+    "totalCorners": 74,
+    "totalProjected": 74,
     "totalCrosses": 92,
     "totalShotsBox": 0
   },
@@ -2142,9 +2142,9 @@
     "totalShotsBox": 0
   },
   "Segunda División de": {
-    "matches": 49,
-    "totalCorners": 386,
-    "totalProjected": 386,
+    "matches": 54,
+    "totalCorners": 427,
+    "totalProjected": 427,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2576,9 +2576,9 @@
     "totalShotsBox": 20
   },
   "NPFL - Temporada": {
-    "matches": 39,
-    "totalCorners": 329,
-    "totalProjected": 335,
+    "matches": 40,
+    "totalCorners": 339,
+    "totalProjected": 345,
     "totalCrosses": 156,
     "totalShotsBox": 32
   },
@@ -2709,9 +2709,9 @@
     "totalShotsBox": 0
   },
   "Division 3": {
-    "matches": 98,
-    "totalCorners": 783,
-    "totalProjected": 783,
+    "matches": 104,
+    "totalCorners": 837,
+    "totalProjected": 837,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2744,9 +2744,9 @@
     "totalShotsBox": 7
   },
   "Division 4": {
-    "matches": 19,
-    "totalCorners": 119,
-    "totalProjected": 119,
+    "matches": 27,
+    "totalCorners": 150,
+    "totalProjected": 150,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3255,9 +3255,9 @@
     "totalShotsBox": 0
   },
   "Copa de Naciones del Golfo": {
-    "matches": 3,
-    "totalCorners": 36,
-    "totalProjected": 36,
+    "matches": 4,
+    "totalCorners": 39,
+    "totalProjected": 39,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3318,17 +3318,24 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 4,
-    "totalCorners": 29,
-    "totalProjected": 30,
-    "totalCrosses": 42,
-    "totalShotsBox": 9
+    "matches": 11,
+    "totalCorners": 93,
+    "totalProjected": 95,
+    "totalCrosses": 84,
+    "totalShotsBox": 18
   },
   "Copa de África de Naciones - Clasificación": {
-    "matches": 1,
-    "totalCorners": 16,
-    "totalProjected": 16,
+    "matches": 5,
+    "totalCorners": 59,
+    "totalProjected": 59,
     "totalCrosses": 0,
     "totalShotsBox": 0
+  },
+  "Liga de las Naciones - UEFA - Liga D - Grupo 1": {
+    "matches": 1,
+    "totalCorners": 5,
+    "totalProjected": 5,
+    "totalCrosses": 19,
+    "totalShotsBox": 19
   }
 }
