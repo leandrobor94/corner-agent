@@ -469,11 +469,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 149,
-    "totalCorners": 1444,
-    "totalProjected": 1443,
-    "totalCrosses": 58,
-    "totalShotsBox": 9
+    "matches": 157,
+    "totalCorners": 1512,
+    "totalProjected": 1514,
+    "totalCrosses": 215,
+    "totalShotsBox": 43
   },
   "Copa Simón Bolívar - Oruro": {
     "matches": 2,
@@ -658,9 +658,9 @@
     "totalShotsBox": 0
   },
   "Copa": {
-    "matches": 137,
-    "totalCorners": 1124,
-    "totalProjected": 1122,
+    "matches": 139,
+    "totalCorners": 1139,
+    "totalProjected": 1137,
     "totalCrosses": 209,
     "totalShotsBox": 52
   },
@@ -1869,9 +1869,9 @@
     "totalShotsBox": 49
   },
   "Ligue 3": {
-    "matches": 116,
-    "totalCorners": 936,
-    "totalProjected": 938,
+    "matches": 117,
+    "totalCorners": 943,
+    "totalProjected": 945,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2737,17 +2737,17 @@
     "totalShotsBox": 0
   },
   "Serie B - Fase de grupos - Grupo": {
-    "matches": 10,
-    "totalCorners": 79,
-    "totalProjected": 80,
+    "matches": 12,
+    "totalCorners": 91,
+    "totalProjected": 92,
     "totalCrosses": 28,
     "totalShotsBox": 7
   },
   "Division 4": {
-    "matches": 27,
-    "totalCorners": 150,
-    "totalProjected": 150,
-    "totalCrosses": 0,
+    "matches": 32,
+    "totalCorners": 155,
+    "totalProjected": 158,
+    "totalCrosses": 61,
     "totalShotsBox": 0
   },
   "ASEAN Club": {
@@ -3255,11 +3255,11 @@
     "totalShotsBox": 0
   },
   "Copa de Naciones del Golfo": {
-    "matches": 4,
-    "totalCorners": 39,
-    "totalProjected": 39,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 6,
+    "totalCorners": 47,
+    "totalProjected": 49,
+    "totalCrosses": 37,
+    "totalShotsBox": 7
   },
   "President's Cup - Fase": {
     "matches": 6,
@@ -3304,9 +3304,9 @@
     "totalShotsBox": 0
   },
   "Copa Paraguay - Octavos de final": {
-    "matches": 1,
-    "totalCorners": 12,
-    "totalProjected": 12,
+    "matches": 2,
+    "totalCorners": 24,
+    "totalProjected": 24,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3325,9 +3325,9 @@
     "totalShotsBox": 18
   },
   "Copa de África de Naciones - Clasificación": {
-    "matches": 5,
-    "totalCorners": 59,
-    "totalProjected": 59,
+    "matches": 9,
+    "totalCorners": 95,
+    "totalProjected": 95,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3337,5 +3337,61 @@
     "totalProjected": 5,
     "totalCrosses": 19,
     "totalShotsBox": 19
+  },
+  "Clasificatorio Euro Sub-21": {
+    "matches": 3,
+    "totalCorners": 29,
+    "totalProjected": 29,
+    "totalCrosses": 48,
+    "totalShotsBox": 9
+  },
+  "Paulista U20 - 16avos de final": {
+    "matches": 2,
+    "totalCorners": 16,
+    "totalProjected": 18,
+    "totalCrosses": 36,
+    "totalShotsBox": 0
+  },
+  "Liga de las Naciones - UEFA - Liga A - Grupo 2": {
+    "matches": 2,
+    "totalCorners": 21,
+    "totalProjected": 21,
+    "totalCrosses": 71,
+    "totalShotsBox": 46
+  },
+  "Liga de las Naciones - UEFA - Liga A - Grupo 4": {
+    "matches": 2,
+    "totalCorners": 23,
+    "totalProjected": 23,
+    "totalCrosses": 61,
+    "totalShotsBox": 39
+  },
+  "Liga de las Naciones - UEFA - Liga B - Grupo 3": {
+    "matches": 2,
+    "totalCorners": 7,
+    "totalProjected": 7,
+    "totalCrosses": 66,
+    "totalShotsBox": 37
+  },
+  "Liga de las Naciones - UEFA - Liga D - Grupo 2": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
+    "totalCrosses": 25,
+    "totalShotsBox": 12
+  },
+  "CONCACAF Liga de Naciones - Liga B - Grupo 1": {
+    "matches": 1,
+    "totalCorners": 4,
+    "totalProjected": 4,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Botola Pro": {
+    "matches": 1,
+    "totalCorners": 9,
+    "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
