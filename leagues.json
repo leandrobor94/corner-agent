@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3034,
-    "totalCorners": 20096,
-    "totalProjected": 20380,
+    "matches": 3035,
+    "totalCorners": 20104,
+    "totalProjected": 20388,
     "totalCrosses": 8301,
     "totalShotsBox": 3081
   },
@@ -49,9 +49,9 @@
     "totalShotsBox": 0
   },
   "APF Primera B": {
-    "matches": 182,
-    "totalCorners": 1333,
-    "totalProjected": 1357,
+    "matches": 183,
+    "totalCorners": 1344,
+    "totalProjected": 1368,
     "totalCrosses": 25,
     "totalShotsBox": 0
   },
@@ -196,7 +196,7 @@
     "totalShotsBox": 5408
   },
   "Pershaya Liga": {
-    "matches": 254,
+    "matches": 256,
     "totalCorners": 1503,
     "totalProjected": 1337,
     "totalCrosses": 0,
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 492,
-    "totalCorners": 4759,
-    "totalProjected": 4674,
-    "totalCrosses": 12064,
-    "totalShotsBox": 5151
+    "matches": 493,
+    "totalCorners": 4772,
+    "totalProjected": 4687,
+    "totalCrosses": 12094,
+    "totalShotsBox": 5164
   },
   "Primera división": {
     "matches": 185,
@@ -595,11 +595,11 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 19,
-    "totalCorners": 120,
-    "totalProjected": 120,
-    "totalCrosses": 148,
-    "totalShotsBox": 52
+    "matches": 20,
+    "totalCorners": 137,
+    "totalProjected": 137,
+    "totalCrosses": 193,
+    "totalShotsBox": 63
   },
   "Belarusian Cup - Octavos de final": {
     "matches": 14,
@@ -854,9 +854,9 @@
     "totalShotsBox": 728
   },
   "Division 2": {
-    "matches": 269,
-    "totalCorners": 2551,
-    "totalProjected": 2527,
+    "matches": 270,
+    "totalCorners": 2565,
+    "totalProjected": 2541,
     "totalCrosses": 1203,
     "totalShotsBox": 400
   },
@@ -952,7 +952,7 @@
     "totalShotsBox": 3542
   },
   "Divisional C - Torneo Final": {
-    "matches": 63,
+    "matches": 64,
     "totalCorners": 94,
     "totalProjected": 96,
     "totalCrosses": 664,
@@ -2142,9 +2142,9 @@
     "totalShotsBox": 0
   },
   "Segunda División de": {
-    "matches": 54,
-    "totalCorners": 427,
-    "totalProjected": 427,
+    "matches": 58,
+    "totalCorners": 464,
+    "totalProjected": 464,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3318,16 +3318,16 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 11,
-    "totalCorners": 93,
-    "totalProjected": 95,
+    "matches": 13,
+    "totalCorners": 113,
+    "totalProjected": 115,
     "totalCrosses": 84,
     "totalShotsBox": 18
   },
   "Copa de África de Naciones - Clasificación": {
-    "matches": 9,
-    "totalCorners": 95,
-    "totalProjected": 95,
+    "matches": 12,
+    "totalCorners": 109,
+    "totalProjected": 109,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3395,9 +3395,9 @@
     "totalShotsBox": 0
   },
   "Juegos Asiáticos - Cuartos de Final": {
-    "matches": 1,
-    "totalCorners": 8,
-    "totalProjected": 8,
+    "matches": 2,
+    "totalCorners": 15,
+    "totalProjected": 15,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
