@@ -595,9 +595,9 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 43,
-    "totalCorners": 345,
-    "totalProjected": 345,
+    "matches": 44,
+    "totalCorners": 357,
+    "totalProjected": 357,
     "totalCrosses": 577,
     "totalShotsBox": 220
   },
@@ -3318,9 +3318,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 35,
-    "totalCorners": 328,
-    "totalProjected": 330,
+    "matches": 37,
+    "totalCorners": 353,
+    "totalProjected": 355,
     "totalCrosses": 84,
     "totalShotsBox": 18
   },
@@ -3643,6 +3643,13 @@
     "matches": 2,
     "totalCorners": 0,
     "totalProjected": 0,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Juegos Asiáticos -": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
