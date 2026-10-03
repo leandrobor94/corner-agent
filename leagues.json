@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3234,
-    "totalCorners": 21526,
-    "totalProjected": 21819,
+    "matches": 3251,
+    "totalCorners": 21656,
+    "totalProjected": 21949,
     "totalCrosses": 8486,
     "totalShotsBox": 3189
   },
@@ -154,9 +154,9 @@
     "totalShotsBox": 0
   },
   "Tercera división": {
-    "matches": 67,
-    "totalCorners": 571,
-    "totalProjected": 588,
+    "matches": 71,
+    "totalCorners": 603,
+    "totalProjected": 620,
     "totalCrosses": 191,
     "totalShotsBox": 60
   },
@@ -189,16 +189,16 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1298,
-    "totalCorners": 11819,
-    "totalProjected": 11941,
+    "matches": 1301,
+    "totalCorners": 11847,
+    "totalProjected": 11969,
     "totalCrosses": 13229,
     "totalShotsBox": 5408
   },
   "Pershaya Liga": {
-    "matches": 273,
-    "totalCorners": 1610,
-    "totalProjected": 1437,
+    "matches": 276,
+    "totalCorners": 1654,
+    "totalProjected": 1481,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -294,9 +294,9 @@
     "totalShotsBox": 101
   },
   "Supreme Division Women": {
-    "matches": 64,
-    "totalCorners": 67,
-    "totalProjected": 81,
+    "matches": 67,
+    "totalCorners": 81,
+    "totalProjected": 95,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 88,
-    "totalCorners": 795,
-    "totalProjected": 782,
+    "matches": 90,
+    "totalCorners": 807,
+    "totalProjected": 794,
     "totalCrosses": 220,
     "totalShotsBox": 14
   },
@@ -931,9 +931,9 @@
     "totalShotsBox": 348
   },
   "Damallsvenskan": {
-    "matches": 201,
-    "totalCorners": 1972,
-    "totalProjected": 1998,
+    "matches": 203,
+    "totalCorners": 1989,
+    "totalProjected": 2015,
     "totalCrosses": 1118,
     "totalShotsBox": 320
   },
@@ -1211,9 +1211,9 @@
     "totalShotsBox": 0
   },
   "League Two": {
-    "matches": 383,
-    "totalCorners": 3738,
-    "totalProjected": 3651,
+    "matches": 384,
+    "totalCorners": 3751,
+    "totalProjected": 3664,
     "totalCrosses": 1491,
     "totalShotsBox": 533
   },
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 169,
-    "totalCorners": 1659,
-    "totalProjected": 1665,
+    "matches": 174,
+    "totalCorners": 1699,
+    "totalProjected": 1705,
     "totalCrosses": 887,
     "totalShotsBox": 287
   },
@@ -1897,11 +1897,11 @@
     "totalShotsBox": 0
   },
   "LaLiga 2": {
-    "matches": 197,
-    "totalCorners": 1745,
-    "totalProjected": 1742,
-    "totalCrosses": 6850,
-    "totalShotsBox": 2912
+    "matches": 198,
+    "totalCorners": 1751,
+    "totalProjected": 1748,
+    "totalCrosses": 6901,
+    "totalShotsBox": 2934
   },
   "Copa de la Liga Escocia - Octavos de final": {
     "matches": 98,
@@ -1918,9 +1918,9 @@
     "totalShotsBox": 29
   },
   "Tweede": {
-    "matches": 188,
-    "totalCorners": 2072,
-    "totalProjected": 2069,
+    "matches": 189,
+    "totalCorners": 2078,
+    "totalProjected": 2075,
     "totalCrosses": 546,
     "totalShotsBox": 126
   },
@@ -2212,9 +2212,9 @@
     "totalShotsBox": 0
   },
   "Frauen": {
-    "matches": 100,
-    "totalCorners": 1108,
-    "totalProjected": 1128,
+    "matches": 101,
+    "totalCorners": 1114,
+    "totalProjected": 1134,
     "totalCrosses": 344,
     "totalShotsBox": 134
   },
@@ -2380,7 +2380,7 @@
     "totalShotsBox": 0
   },
   "Liga Primera -": {
-    "matches": 6,
+    "matches": 7,
     "totalCorners": 57,
     "totalProjected": 58,
     "totalCrosses": 38,
@@ -2485,9 +2485,9 @@
     "totalShotsBox": 0
   },
   "Liga Femenina": {
-    "matches": 49,
-    "totalCorners": 455,
-    "totalProjected": 451,
+    "matches": 50,
+    "totalCorners": 465,
+    "totalProjected": 461,
     "totalCrosses": 174,
     "totalShotsBox": 67
   },
@@ -2534,9 +2534,9 @@
     "totalShotsBox": 0
   },
   "Primera División RFEF": {
-    "matches": 114,
-    "totalCorners": 1033,
-    "totalProjected": 1045,
+    "matches": 115,
+    "totalCorners": 1039,
+    "totalProjected": 1051,
     "totalCrosses": 282,
     "totalShotsBox": 91
   },
@@ -2590,7 +2590,7 @@
     "totalShotsBox": 0
   },
   "Primera Premier - Grupo A": {
-    "matches": 7,
+    "matches": 8,
     "totalCorners": 74,
     "totalProjected": 72,
     "totalCrosses": 46,
@@ -2688,9 +2688,9 @@
     "totalShotsBox": 0
   },
   "League Cup - Primera Ronda": {
-    "matches": 50,
-    "totalCorners": 558,
-    "totalProjected": 558,
+    "matches": 51,
+    "totalCorners": 567,
+    "totalProjected": 567,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2821,9 +2821,9 @@
     "totalShotsBox": 0
   },
   "2° División de": {
-    "matches": 31,
-    "totalCorners": 221,
-    "totalProjected": 225,
+    "matches": 33,
+    "totalCorners": 234,
+    "totalProjected": 238,
     "totalCrosses": 54,
     "totalShotsBox": 18
   },
@@ -2989,9 +2989,9 @@
     "totalShotsBox": 0
   },
   "2. Lig": {
-    "matches": 42,
-    "totalCorners": 155,
-    "totalProjected": 155,
+    "matches": 43,
+    "totalCorners": 165,
+    "totalProjected": 165,
     "totalCrosses": 38,
     "totalShotsBox": 0
   },
@@ -3318,9 +3318,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 73,
-    "totalCorners": 622,
-    "totalProjected": 624,
+    "matches": 74,
+    "totalCorners": 632,
+    "totalProjected": 634,
     "totalCrosses": 84,
     "totalShotsBox": 18
   },
@@ -3458,11 +3458,11 @@
     "totalShotsBox": 0
   },
   "Serie A Femenino - Regular": {
-    "matches": 9,
-    "totalCorners": 104,
-    "totalProjected": 102,
-    "totalCrosses": 173,
-    "totalShotsBox": 92
+    "matches": 10,
+    "totalCorners": 111,
+    "totalProjected": 109,
+    "totalCrosses": 209,
+    "totalShotsBox": 107
   },
   "Liga de las Naciones - UEFA - Liga B - Grupo 1": {
     "matches": 6,
@@ -3682,9 +3682,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub23": {
-    "matches": 3,
-    "totalCorners": 31,
-    "totalProjected": 31,
+    "matches": 4,
+    "totalCorners": 40,
+    "totalProjected": 40,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3710,9 +3710,23 @@
     "totalShotsBox": 0
   },
   "Juegos Asiáticos - 3er": {
+    "matches": 2,
+    "totalCorners": 12,
+    "totalProjected": 12,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Cup - Cuartos de Final": {
+    "matches": 4,
+    "totalCorners": 44,
+    "totalProjected": 44,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa de Inglaterra - Preliminar - 3ra ronda de clasificación": {
     "matches": 1,
-    "totalCorners": 6,
-    "totalProjected": 6,
+    "totalCorners": 10,
+    "totalProjected": 10,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
