@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3233,
-    "totalCorners": 21517,
-    "totalProjected": 21810,
+    "matches": 3234,
+    "totalCorners": 21526,
+    "totalProjected": 21819,
     "totalCrosses": 8486,
     "totalShotsBox": 3189
   },
@@ -154,9 +154,9 @@
     "totalShotsBox": 0
   },
   "Tercera división": {
-    "matches": 64,
-    "totalCorners": 546,
-    "totalProjected": 563,
+    "matches": 67,
+    "totalCorners": 571,
+    "totalProjected": 588,
     "totalCrosses": 191,
     "totalShotsBox": 60
   },
@@ -294,7 +294,7 @@
     "totalShotsBox": 101
   },
   "Supreme Division Women": {
-    "matches": 63,
+    "matches": 64,
     "totalCorners": 67,
     "totalProjected": 81,
     "totalCrosses": 0,
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 167,
-    "totalCorners": 1642,
-    "totalProjected": 1648,
+    "matches": 169,
+    "totalCorners": 1659,
+    "totalProjected": 1665,
     "totalCrosses": 887,
     "totalShotsBox": 287
   },
@@ -3682,9 +3682,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub23": {
-    "matches": 2,
-    "totalCorners": 22,
-    "totalProjected": 22,
+    "matches": 3,
+    "totalCorners": 31,
+    "totalProjected": 31,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3706,6 +3706,13 @@
     "matches": 1,
     "totalCorners": 9,
     "totalProjected": 9,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Juegos Asiáticos - 3er": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
