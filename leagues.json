@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3265,
-    "totalCorners": 21742,
-    "totalProjected": 22035,
+    "matches": 3266,
+    "totalCorners": 21752,
+    "totalProjected": 22045,
     "totalCrosses": 8486,
     "totalShotsBox": 3189
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 504,
-    "totalCorners": 4881,
-    "totalProjected": 4796,
-    "totalCrosses": 12481,
-    "totalShotsBox": 5332
+    "matches": 509,
+    "totalCorners": 4933,
+    "totalProjected": 4848,
+    "totalCrosses": 12650,
+    "totalShotsBox": 5396
   },
   "Primera división": {
     "matches": 187,
@@ -595,11 +595,11 @@
     "totalShotsBox": 285
   },
   "Amistoso": {
-    "matches": 82,
-    "totalCorners": 571,
-    "totalProjected": 571,
-    "totalCrosses": 856,
-    "totalShotsBox": 360
+    "matches": 84,
+    "totalCorners": 584,
+    "totalProjected": 584,
+    "totalCrosses": 919,
+    "totalShotsBox": 378
   },
   "Belarusian Cup - Octavos de final": {
     "matches": 14,
@@ -714,9 +714,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub20": {
-    "matches": 12,
-    "totalCorners": 87,
-    "totalProjected": 89,
+    "matches": 13,
+    "totalCorners": 96,
+    "totalProjected": 98,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3101,7 +3101,7 @@
     "totalShotsBox": 378
   },
   "Copa de Turquía": {
-    "matches": 7,
+    "matches": 8,
     "totalCorners": 64,
     "totalProjected": 64,
     "totalCrosses": 0,
@@ -3318,9 +3318,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 81,
-    "totalCorners": 661,
-    "totalProjected": 663,
+    "matches": 82,
+    "totalCorners": 667,
+    "totalProjected": 669,
     "totalCrosses": 84,
     "totalShotsBox": 18
   },
