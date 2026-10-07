@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 519,
-    "totalCorners": 5037,
-    "totalProjected": 4952,
-    "totalCrosses": 12988,
-    "totalShotsBox": 5524
+    "matches": 522,
+    "totalCorners": 5069,
+    "totalProjected": 4984,
+    "totalCrosses": 13085,
+    "totalShotsBox": 5575
   },
   "Primera división": {
     "matches": 187,
@@ -364,9 +364,9 @@
     "totalShotsBox": 0
   },
   "Copa de la Liga": {
-    "matches": 93,
-    "totalCorners": 850,
-    "totalProjected": 760,
+    "matches": 95,
+    "totalCorners": 864,
+    "totalProjected": 774,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -490,9 +490,9 @@
     "totalShotsBox": 0
   },
   "Super Liga de Uzbekistán": {
-    "matches": 187,
-    "totalCorners": 1740,
-    "totalProjected": 1748,
+    "matches": 188,
+    "totalCorners": 1756,
+    "totalProjected": 1764,
     "totalCrosses": 488,
     "totalShotsBox": 86
   },
@@ -2247,7 +2247,7 @@
     "totalShotsBox": 0
   },
   "Ligue 1": {
-    "matches": 134,
+    "matches": 135,
     "totalCorners": 1337,
     "totalProjected": 1348,
     "totalCrosses": 4033,
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 38,
-    "totalCorners": 311,
-    "totalProjected": 309,
+    "matches": 42,
+    "totalCorners": 334,
+    "totalProjected": 332,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
@@ -2751,9 +2751,9 @@
     "totalShotsBox": 0
   },
   "ASEAN Club": {
-    "matches": 5,
-    "totalCorners": 68,
-    "totalProjected": 68,
+    "matches": 8,
+    "totalCorners": 107,
+    "totalProjected": 107,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2835,7 +2835,7 @@
     "totalShotsBox": 28
   },
   "Segunda RFEF": {
-    "matches": 226,
+    "matches": 227,
     "totalCorners": 1962,
     "totalProjected": 1950,
     "totalCrosses": 822,
@@ -3101,9 +3101,9 @@
     "totalShotsBox": 378
   },
   "Copa de Turquía": {
-    "matches": 10,
-    "totalCorners": 64,
-    "totalProjected": 64,
+    "matches": 20,
+    "totalCorners": 117,
+    "totalProjected": 117,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3241,9 +3241,9 @@
     "totalShotsBox": 0
   },
   "Emperors Cup - Segunda Ronda": {
-    "matches": 24,
-    "totalCorners": 196,
-    "totalProjected": 196,
+    "matches": 33,
+    "totalCorners": 269,
+    "totalProjected": 269,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3755,6 +3755,13 @@
     "matches": 1,
     "totalCorners": 5,
     "totalProjected": 5,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Albanian Cup - 32avos de final": {
+    "matches": 5,
+    "totalCorners": 26,
+    "totalProjected": 26,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
