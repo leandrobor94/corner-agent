@@ -1834,9 +1834,9 @@
     "totalShotsBox": 2128
   },
   "Superliga de Kosovo - Regular": {
-    "matches": 99,
-    "totalCorners": 819,
-    "totalProjected": 813,
+    "matches": 100,
+    "totalCorners": 829,
+    "totalProjected": 823,
     "totalCrosses": 186,
     "totalShotsBox": 19
   },
@@ -2142,9 +2142,9 @@
     "totalShotsBox": 0
   },
   "Segunda División de": {
-    "matches": 112,
-    "totalCorners": 887,
-    "totalProjected": 887,
+    "matches": 117,
+    "totalCorners": 945,
+    "totalProjected": 945,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 55,
-    "totalCorners": 438,
-    "totalProjected": 436,
+    "matches": 57,
+    "totalCorners": 459,
+    "totalProjected": 457,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
@@ -3094,11 +3094,11 @@
     "totalShotsBox": 16
   },
   "AFC Liga de Campeones 2": {
-    "matches": 44,
-    "totalCorners": 398,
-    "totalProjected": 396,
-    "totalCrosses": 1546,
-    "totalShotsBox": 656
+    "matches": 50,
+    "totalCorners": 449,
+    "totalProjected": 447,
+    "totalCrosses": 1740,
+    "totalShotsBox": 739
   },
   "Copa de Turquía": {
     "matches": 23,
@@ -3902,6 +3902,13 @@
     "matches": 1,
     "totalCorners": 7,
     "totalProjected": 7,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Europeo Sub17": {
+    "matches": 1,
+    "totalCorners": 0,
+    "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
