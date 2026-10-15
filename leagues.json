@@ -217,9 +217,9 @@
     "totalShotsBox": 242
   },
   "Vysshaya Liga": {
-    "matches": 179,
-    "totalCorners": 1763,
-    "totalProjected": 1790,
+    "matches": 180,
+    "totalCorners": 1768,
+    "totalProjected": 1795,
     "totalCrosses": 621,
     "totalShotsBox": 209
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 527,
-    "totalCorners": 5120,
-    "totalProjected": 5035,
-    "totalCrosses": 13248,
-    "totalShotsBox": 5641
+    "matches": 528,
+    "totalCorners": 5134,
+    "totalProjected": 5049,
+    "totalCrosses": 13308,
+    "totalShotsBox": 5664
   },
   "Primera división": {
     "matches": 196,
@@ -469,11 +469,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 206,
-    "totalCorners": 1977,
-    "totalProjected": 1979,
-    "totalCrosses": 215,
-    "totalShotsBox": 43
+    "matches": 215,
+    "totalCorners": 2068,
+    "totalProjected": 2071,
+    "totalCrosses": 360,
+    "totalShotsBox": 68
   },
   "Copa Simón Bolívar - Oruro": {
     "matches": 2,
@@ -1295,9 +1295,9 @@
     "totalShotsBox": 0
   },
   "Torneo BetPlay Dimayor - Finalización": {
-    "matches": 36,
-    "totalCorners": 369,
-    "totalProjected": 359,
+    "matches": 37,
+    "totalCorners": 380,
+    "totalProjected": 370,
     "totalCrosses": 141,
     "totalShotsBox": 24
   },
@@ -1323,11 +1323,11 @@
     "totalShotsBox": 48
   },
   "Copa de Rusia - Grupo A": {
-    "matches": 20,
-    "totalCorners": 244,
-    "totalProjected": 232,
-    "totalCrosses": 186,
-    "totalShotsBox": 60
+    "matches": 22,
+    "totalCorners": 272,
+    "totalProjected": 258,
+    "totalCrosses": 213,
+    "totalShotsBox": 69
   },
   "DBU Pokalen - Primera Ronda": {
     "matches": 14,
@@ -1575,9 +1575,9 @@
     "totalShotsBox": 830
   },
   "Liga Nacional -": {
-    "matches": 22,
-    "totalCorners": 187,
-    "totalProjected": 191,
+    "matches": 23,
+    "totalCorners": 189,
+    "totalProjected": 193,
     "totalCrosses": 72,
     "totalShotsBox": 20
   },
@@ -1869,9 +1869,9 @@
     "totalShotsBox": 59
   },
   "Ligue 3": {
-    "matches": 134,
-    "totalCorners": 1086,
-    "totalProjected": 1088,
+    "matches": 135,
+    "totalCorners": 1096,
+    "totalProjected": 1098,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2737,9 +2737,9 @@
     "totalShotsBox": 0
   },
   "Serie B - Fase de grupos - Grupo": {
-    "matches": 18,
-    "totalCorners": 132,
-    "totalProjected": 133,
+    "matches": 20,
+    "totalCorners": 142,
+    "totalProjected": 143,
     "totalCrosses": 28,
     "totalShotsBox": 7
   },
@@ -3122,11 +3122,11 @@
     "totalShotsBox": 32
   },
   "UEFA Europa": {
-    "matches": 33,
-    "totalCorners": 313,
-    "totalProjected": 318,
-    "totalCrosses": 1004,
-    "totalShotsBox": 538
+    "matches": 43,
+    "totalCorners": 414,
+    "totalProjected": 419,
+    "totalCrosses": 1332,
+    "totalShotsBox": 736
   },
   "Copa Federacion - Octavos de final": {
     "matches": 3,
@@ -3584,9 +3584,9 @@
     "totalShotsBox": 0
   },
   "Division 4 - Regular": {
-    "matches": 50,
-    "totalCorners": 333,
-    "totalProjected": 333,
+    "matches": 52,
+    "totalCorners": 335,
+    "totalProjected": 335,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3675,9 +3675,9 @@
     "totalShotsBox": 0
   },
   "Copa Uruguay - 16avos de final": {
-    "matches": 3,
-    "totalCorners": 32,
-    "totalProjected": 32,
+    "matches": 4,
+    "totalCorners": 45,
+    "totalProjected": 45,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3780,11 +3780,11 @@
     "totalShotsBox": 0
   },
   "Copa de Brasil Sub20 - Octavos de final": {
-    "matches": 9,
-    "totalCorners": 85,
-    "totalProjected": 85,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 12,
+    "totalCorners": 119,
+    "totalProjected": 114,
+    "totalCrosses": 36,
+    "totalShotsBox": 2
   },
   "Liga de Portugal Sub23": {
     "matches": 2,
@@ -3913,10 +3913,17 @@
     "totalShotsBox": 0
   },
   "UEFA Conference": {
-    "matches": 10,
-    "totalCorners": 99,
-    "totalProjected": 99,
-    "totalCrosses": 342,
-    "totalShotsBox": 176
+    "matches": 18,
+    "totalCorners": 175,
+    "totalProjected": 175,
+    "totalCrosses": 587,
+    "totalShotsBox": 322
+  },
+  "CONMEBOL Libertadores Femenina - Fase de": {
+    "matches": 2,
+    "totalCorners": 11,
+    "totalProjected": 11,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
   }
 }
