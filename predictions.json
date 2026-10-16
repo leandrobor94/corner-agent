@@ -1187542,5 +1187542,587 @@
     },
     "_sentAlerts": [],
     "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-16T09:57:32.274Z",
+    "match": "PSIM Yogyakarta vs PSM Makassar",
+    "league": "Liga",
+    "gameId": 4808755,
+    "homeId": 89689,
+    "awayId": 10400,
+    "date": "2026-10-16",
+    "minute": 70,
+    "score": "0-2",
+    "corners": {
+      "home": 6,
+      "away": 3,
+      "total": 9
+    },
+    "projected": {
+      "home": 10,
+      "away": 4,
+      "total": 14
+    },
+    "stats": {
+      "crosses": 32,
+      "shotsInsideBox": 8,
+      "shotsOnTarget": 4,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 130,
+      "possession": {
+        "home": 66,
+        "away": 34
+      },
+      "totalShots": 13
+    },
+    "teams": {
+      "home": {
+        "corners": 6,
+        "crosses": 20,
+        "shotsInsideBox": 4,
+        "shotsOnTarget": 2,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 81,
+        "totalShots": 7
+      },
+      "away": {
+        "corners": 3,
+        "crosses": 12,
+        "shotsInsideBox": 4,
+        "shotsOnTarget": 2,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 49,
+        "totalShots": 6
+      }
+    },
+    "teamAlerts": [
+      {
+        "team": "PSIM Yogyakarta",
+        "line": 6.5,
+        "prob": 81,
+        "current": 6,
+        "projected": 10,
+        "side": "home",
+        "reasoning": "PSIM Yogyakarta 20 centros, 4 tiros área, 66% posesión | va perdiendo, necesita atacar"
+      },
+      {
+        "team": "PSIM Yogyakarta",
+        "line": 7.5,
+        "prob": 72,
+        "current": 6,
+        "projected": 10,
+        "side": "home",
+        "reasoning": "PSIM Yogyakarta 20 centros, 4 tiros área, 66% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 77,
+        "current": 9,
+        "projected": 14
+      }
+    ],
+    "key": "PSIM Yogyakarta vs PSM Makassar_70",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "PSIM Yogyakarta_O6.5",
+      "Total_O10.5",
+      "PSIM Yogyakarta_O7.5"
+    ],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-16T09:57:32.278Z",
+    "match": "SC Kababir vs Hapoel Daliat El Karmel",
+    "league": "Division 4 - Regular",
+    "gameId": 4876365,
+    "homeId": 7851,
+    "awayId": 7016,
+    "date": "2026-10-16",
+    "minute": 90,
+    "score": "1-8",
+    "corners": {
+      "home": 1,
+      "away": 7,
+      "total": 8
+    },
+    "projected": {
+      "home": 1,
+      "away": 7,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 112,
+      "possession": {
+        "home": 37,
+        "away": 63
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 1,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 50,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 7,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 62,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "SC Kababir vs Hapoel Daliat El Karmel_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 8
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 37,
+        "corners": 1,
+        "redCards": 1,
+        "attacks": 50,
+        "yellowCards": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 63,
+        "corners": 7,
+        "redCards": 0,
+        "attacks": 62,
+        "yellowCards": 4,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 7851,
+          "isMajor": true,
+          "value": "37%",
+          "valuePercentage": 0.37,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 7851,
+          "value": "1",
+          "valuePercentage": 0.12,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 7851,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 7851,
+          "value": "50",
+          "valuePercentage": 0.45,
+          "order": 10,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 7851,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 7016,
+          "isMajor": true,
+          "value": "63%",
+          "valuePercentage": 0.63,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 7016,
+          "value": "7",
+          "valuePercentage": 0.88,
+          "order": 5,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 7016,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 7016,
+          "value": "62",
+          "valuePercentage": 0.55,
+          "order": 10,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 7016,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-16T09:57:32.365Z",
+    "match": "MS Netanya vs Ironi Ariel",
+    "league": "Division 4 - Regular",
+    "gameId": 4877342,
+    "homeId": 8575,
+    "awayId": 27704,
+    "date": "2026-10-16",
+    "minute": 90,
+    "score": "3-0",
+    "corners": {
+      "home": 1,
+      "away": 0,
+      "total": 1
+    },
+    "projected": {
+      "home": 1,
+      "away": 0,
+      "total": 1
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 154,
+      "possession": {
+        "home": 37,
+        "away": 63
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 1,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 61,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 93,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "MS Netanya vs Ironi Ariel_90",
+    "correct": true,
+    "finalScore": {
+      "home": 3,
+      "away": 0
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 37,
+        "corners": 1,
+        "redCards": 0,
+        "attacks": 61,
+        "freeKicks": 8,
+        "throwIns": 19,
+        "yellowCards": 4,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 63,
+        "corners": 0,
+        "redCards": 0,
+        "attacks": 93,
+        "freeKicks": 23,
+        "throwIns": 27,
+        "yellowCards": 2,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8575,
+          "isMajor": true,
+          "value": "37%",
+          "valuePercentage": 0.37,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8575,
+          "value": "1",
+          "valuePercentage": 1,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8575,
+          "value": "13",
+          "valuePercentage": 0.81,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 8575,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 8575,
+          "value": "61",
+          "valuePercentage": 0.4,
+          "order": 10,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 8575,
+          "value": "8",
+          "valuePercentage": 0.26,
+          "order": 15
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 8575,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "19",
+          "valuePercentage": 0.41,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 8575,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "13",
+          "valuePercentage": 0.76,
+          "categoryOrder": 2,
+          "order": 42,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 8575,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "4",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 2
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 27704,
+          "isMajor": true,
+          "value": "63%",
+          "valuePercentage": 0.63,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 27704,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 27704,
+          "value": "3",
+          "valuePercentage": 0.19,
+          "order": 7,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 27704,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 11,
+          "name": "Ataques",
+          "competitorId": 27704,
+          "value": "93",
+          "valuePercentage": 0.6,
+          "order": 10,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 13,
+          "name": "Saques de falta",
+          "competitorId": 27704,
+          "value": "23",
+          "valuePercentage": 0.74,
+          "order": 15
+        },
+        {
+          "id": 15,
+          "name": "Saques de banda",
+          "competitorId": 27704,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "27",
+          "valuePercentage": 0.59,
+          "categoryOrder": 2,
+          "order": 38,
+          "markedTeam": 2
+        },
+        {
+          "id": 14,
+          "name": "Saques de puerta",
+          "competitorId": 27704,
+          "categoryId": 47,
+          "categoryName": "Pases",
+          "value": "4",
+          "valuePercentage": 0.24,
+          "categoryOrder": 2,
+          "order": 42,
+          "markedTeam": 1
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 27704,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 2
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
   }
 ]
