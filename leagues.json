@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1630,
-    "totalCorners": 14833,
-    "totalProjected": 14950,
+    "matches": 1632,
+    "totalCorners": 14851,
+    "totalProjected": 14968,
     "totalCrosses": 15115,
     "totalShotsBox": 6165
   },
@@ -301,11 +301,11 @@
     "totalShotsBox": 0
   },
   "League One": {
-    "matches": 569,
-    "totalCorners": 5587,
-    "totalProjected": 5502,
-    "totalCrosses": 14709,
-    "totalShotsBox": 6320
+    "matches": 570,
+    "totalCorners": 5596,
+    "totalProjected": 5511,
+    "totalCrosses": 14751,
+    "totalShotsBox": 6340
   },
   "Primera división": {
     "matches": 202,
@@ -469,11 +469,11 @@
     "totalShotsBox": 0
   },
   "Liga Profesional - Reserva -": {
-    "matches": 221,
-    "totalCorners": 2125,
-    "totalProjected": 2128,
-    "totalCrosses": 360,
-    "totalShotsBox": 68
+    "matches": 230,
+    "totalCorners": 2206,
+    "totalProjected": 2219,
+    "totalCrosses": 532,
+    "totalShotsBox": 100
   },
   "Copa Simón Bolívar - Oruro": {
     "matches": 2,
@@ -1554,9 +1554,9 @@
     "totalShotsBox": 575
   },
   "7ª División": {
-    "matches": 1471,
-    "totalCorners": 4791,
-    "totalProjected": 4580,
+    "matches": 1473,
+    "totalCorners": 4805,
+    "totalProjected": 4594,
     "totalCrosses": 2591,
     "totalShotsBox": 0
   },
@@ -1890,11 +1890,11 @@
     "totalShotsBox": 22
   },
   "Premier League Cup": {
-    "matches": 26,
-    "totalCorners": 262,
-    "totalProjected": 262,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 28,
+    "totalCorners": 280,
+    "totalProjected": 279,
+    "totalCrosses": 31,
+    "totalShotsBox": 1
   },
   "LaLiga 2": {
     "matches": 235,
@@ -1960,11 +1960,11 @@
     "totalShotsBox": 0
   },
   "LaLiga": {
-    "matches": 153,
-    "totalCorners": 1459,
-    "totalProjected": 1455,
-    "totalCrosses": 4837,
-    "totalShotsBox": 2369
+    "matches": 155,
+    "totalCorners": 1483,
+    "totalProjected": 1481,
+    "totalCrosses": 4908,
+    "totalShotsBox": 2404
   },
   "Liga de Expansión MX -": {
     "matches": 24,
@@ -2380,7 +2380,7 @@
     "totalShotsBox": 0
   },
   "Liga Primera -": {
-    "matches": 8,
+    "matches": 9,
     "totalCorners": 57,
     "totalProjected": 58,
     "totalCrosses": 38,
@@ -2891,11 +2891,11 @@
     "totalShotsBox": 0
   },
   "UEFA Champions": {
-    "matches": 55,
-    "totalCorners": 522,
-    "totalProjected": 516,
-    "totalCrosses": 1525,
-    "totalShotsBox": 1052
+    "matches": 62,
+    "totalCorners": 586,
+    "totalProjected": 580,
+    "totalCrosses": 1716,
+    "totalShotsBox": 1190
   },
   "Copa De La Reina": {
     "matches": 10,
@@ -3283,11 +3283,11 @@
     "totalShotsBox": 0
   },
   "Womens League Cup": {
-    "matches": 30,
-    "totalCorners": 307,
-    "totalProjected": 307,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 39,
+    "totalCorners": 406,
+    "totalProjected": 403,
+    "totalCrosses": 162,
+    "totalShotsBox": 25
   },
   "Gaucho A2 - Cuartos de Final": {
     "matches": 1,
@@ -3584,9 +3584,9 @@
     "totalShotsBox": 0
   },
   "Division 4 - Regular": {
-    "matches": 77,
-    "totalCorners": 422,
-    "totalProjected": 423,
+    "matches": 78,
+    "totalCorners": 423,
+    "totalProjected": 424,
     "totalCrosses": 91,
     "totalShotsBox": 0
   },
@@ -3675,7 +3675,7 @@
     "totalShotsBox": 0
   },
   "Copa Uruguay - 16avos de final": {
-    "matches": 4,
+    "matches": 5,
     "totalCorners": 45,
     "totalProjected": 45,
     "totalCrosses": 0,
@@ -3780,11 +3780,11 @@
     "totalShotsBox": 0
   },
   "Copa de Brasil Sub20 - Octavos de final": {
-    "matches": 12,
-    "totalCorners": 119,
-    "totalProjected": 114,
-    "totalCrosses": 36,
-    "totalShotsBox": 2
+    "matches": 16,
+    "totalCorners": 187,
+    "totalProjected": 171,
+    "totalCrosses": 107,
+    "totalShotsBox": 21
   },
   "Liga de Portugal Sub23": {
     "matches": 2,
@@ -3857,9 +3857,9 @@
     "totalShotsBox": 0
   },
   "League Cup - 16avos de final": {
-    "matches": 33,
-    "totalCorners": 296,
-    "totalProjected": 296,
+    "matches": 34,
+    "totalCorners": 302,
+    "totalProjected": 302,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3920,9 +3920,9 @@
     "totalShotsBox": 322
   },
   "CONMEBOL Libertadores Femenina - Fase de": {
-    "matches": 12,
-    "totalCorners": 74,
-    "totalProjected": 76,
+    "matches": 13,
+    "totalCorners": 80,
+    "totalProjected": 82,
     "totalCrosses": 77,
     "totalShotsBox": 24
   },
@@ -3990,11 +3990,11 @@
     "totalShotsBox": 0
   },
   "Mundial Sub17 (F)": {
-    "matches": 28,
-    "totalCorners": 299,
-    "totalProjected": 297,
-    "totalCrosses": 89,
-    "totalShotsBox": 31
+    "matches": 32,
+    "totalCorners": 331,
+    "totalProjected": 336,
+    "totalCrosses": 173,
+    "totalShotsBox": 59
   },
   "Federal A - Revalida - Segunda etapa": {
     "matches": 14,
@@ -4004,7 +4004,7 @@
     "totalShotsBox": 12
   },
   "Pernambucano": {
-    "matches": 3,
+    "matches": 4,
     "totalCorners": 43,
     "totalProjected": 39,
     "totalCrosses": 22,
