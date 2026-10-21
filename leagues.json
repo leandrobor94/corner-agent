@@ -1,8 +1,8 @@
 {
   "Meistriliiga": {
-    "matches": 189,
-    "totalCorners": 1815,
-    "totalProjected": 1823,
+    "matches": 190,
+    "totalCorners": 1831,
+    "totalProjected": 1839,
     "totalCrosses": 355,
     "totalShotsBox": 138
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1627,
-    "totalCorners": 14815,
-    "totalProjected": 14932,
+    "matches": 1630,
+    "totalCorners": 14833,
+    "totalProjected": 14950,
     "totalCrosses": 15115,
     "totalShotsBox": 6165
   },
@@ -231,9 +231,9 @@
     "totalShotsBox": 0
   },
   "Veikkausliiga": {
-    "matches": 263,
-    "totalCorners": 2608,
-    "totalProjected": 2646,
+    "matches": 264,
+    "totalCorners": 2618,
+    "totalProjected": 2656,
     "totalCrosses": 8767,
     "totalShotsBox": 3854
   },
@@ -497,9 +497,9 @@
     "totalShotsBox": 100
   },
   "Liga MX Sub21 -": {
-    "matches": 147,
-    "totalCorners": 1306,
-    "totalProjected": 1315,
+    "matches": 152,
+    "totalCorners": 1354,
+    "totalProjected": 1363,
     "totalCrosses": 500,
     "totalShotsBox": 186
   },
@@ -1218,16 +1218,16 @@
     "totalShotsBox": 533
   },
   "Liga Prom - Apertura - Conferencia Oeste - Zona Sur": {
-    "matches": 25,
-    "totalCorners": 148,
-    "totalProjected": 148,
-    "totalCrosses": 0,
+    "matches": 27,
+    "totalCorners": 168,
+    "totalProjected": 167,
+    "totalCrosses": 22,
     "totalShotsBox": 0
   },
   "OBOS-ligaen": {
-    "matches": 282,
-    "totalCorners": 3124,
-    "totalProjected": 3063,
+    "matches": 283,
+    "totalCorners": 3136,
+    "totalProjected": 3075,
     "totalCrosses": 878,
     "totalShotsBox": 242
   },
@@ -1260,9 +1260,9 @@
     "totalShotsBox": 0
   },
   "First": {
-    "matches": 277,
-    "totalCorners": 2423,
-    "totalProjected": 2440,
+    "matches": 279,
+    "totalCorners": 2439,
+    "totalProjected": 2456,
     "totalCrosses": 484,
     "totalShotsBox": 178
   },
@@ -1575,9 +1575,9 @@
     "totalShotsBox": 830
   },
   "Liga Nacional -": {
-    "matches": 27,
-    "totalCorners": 223,
-    "totalProjected": 227,
+    "matches": 28,
+    "totalCorners": 228,
+    "totalProjected": 232,
     "totalCrosses": 72,
     "totalShotsBox": 20
   },
@@ -1932,9 +1932,9 @@
     "totalShotsBox": 690
   },
   "Youth": {
-    "matches": 194,
-    "totalCorners": 1442,
-    "totalProjected": 1414,
+    "matches": 196,
+    "totalCorners": 1460,
+    "totalProjected": 1432,
     "totalCrosses": 444,
     "totalShotsBox": 0
   },
@@ -2198,11 +2198,11 @@
     "totalShotsBox": 60
   },
   "Primera División de": {
-    "matches": 135,
-    "totalCorners": 1297,
-    "totalProjected": 1297,
-    "totalCrosses": 5090,
-    "totalShotsBox": 2090
+    "matches": 139,
+    "totalCorners": 1326,
+    "totalProjected": 1326,
+    "totalCrosses": 5217,
+    "totalShotsBox": 2146
   },
   "NM Cupen - Primera Ronda": {
     "matches": 276,
@@ -2702,9 +2702,9 @@
     "totalShotsBox": 0
   },
   "Slovakia Cup - Octavos de final": {
-    "matches": 62,
-    "totalCorners": 687,
-    "totalProjected": 687,
+    "matches": 63,
+    "totalCorners": 695,
+    "totalProjected": 695,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2772,7 +2772,7 @@
     "totalShotsBox": 16
   },
   "CAF Champions League - Clasificación": {
-    "matches": 73,
+    "matches": 74,
     "totalCorners": 387,
     "totalProjected": 384,
     "totalCrosses": 228,
@@ -2835,9 +2835,9 @@
     "totalShotsBox": 28
   },
   "Segunda RFEF": {
-    "matches": 332,
-    "totalCorners": 2905,
-    "totalProjected": 2899,
+    "matches": 333,
+    "totalCorners": 2910,
+    "totalProjected": 2904,
     "totalCrosses": 1057,
     "totalShotsBox": 184
   },
@@ -2870,11 +2870,11 @@
     "totalShotsBox": 9
   },
   "Liga Juvenil de la UEFA": {
-    "matches": 108,
-    "totalCorners": 1052,
-    "totalProjected": 1046,
-    "totalCrosses": 93,
-    "totalShotsBox": 33
+    "matches": 114,
+    "totalCorners": 1108,
+    "totalProjected": 1102,
+    "totalCrosses": 215,
+    "totalShotsBox": 43
   },
   "Copa Ucrania - 16avos de final": {
     "matches": 31,
@@ -2891,11 +2891,11 @@
     "totalShotsBox": 0
   },
   "UEFA Champions": {
-    "matches": 53,
-    "totalCorners": 511,
-    "totalProjected": 505,
-    "totalCrosses": 1481,
-    "totalShotsBox": 1021
+    "matches": 55,
+    "totalCorners": 522,
+    "totalProjected": 516,
+    "totalCrosses": 1525,
+    "totalShotsBox": 1052
   },
   "Copa De La Reina": {
     "matches": 10,
@@ -3871,16 +3871,16 @@
     "totalShotsBox": 0
   },
   "Cyprus Cup - 16avos de final": {
-    "matches": 2,
-    "totalCorners": 14,
-    "totalProjected": 14,
-    "totalCrosses": 0,
-    "totalShotsBox": 0
+    "matches": 5,
+    "totalCorners": 32,
+    "totalProjected": 36,
+    "totalCrosses": 32,
+    "totalShotsBox": 6
   },
   "Pro Cup - Cuartos de Final": {
-    "matches": 2,
-    "totalCorners": 8,
-    "totalProjected": 8,
+    "matches": 3,
+    "totalCorners": 21,
+    "totalProjected": 21,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3990,9 +3990,9 @@
     "totalShotsBox": 0
   },
   "Mundial Sub17 (F)": {
-    "matches": 26,
-    "totalCorners": 273,
-    "totalProjected": 271,
+    "matches": 28,
+    "totalCorners": 299,
+    "totalProjected": 297,
     "totalCrosses": 89,
     "totalShotsBox": 31
   },
@@ -4091,6 +4091,13 @@
     "matches": 2,
     "totalCorners": 20,
     "totalProjected": 20,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "DBU Pokalen - Octavos de final": {
+    "matches": 1,
+    "totalCorners": 8,
+    "totalProjected": 8,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
