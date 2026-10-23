@@ -1602874,5 +1602874,332 @@
     },
     "_sentAlerts": [],
     "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-23T02:12:48.687Z",
+    "match": "CR Belouizdad vs AS Douanes",
+    "league": "CAF Confederation Cup - Clasificación",
+    "gameId": 4859967,
+    "homeId": 8225,
+    "awayId": 76766,
+    "date": "2026-10-23",
+    "minute": 90,
+    "score": "-1--1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "CR Belouizdad vs AS Douanes_90",
+    "correct": true,
+    "finalScore": {
+      "home": -1,
+      "away": -1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8225,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 8225,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 8225,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8225,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8225,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 8225,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 8225,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 8225,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 8225,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 8225,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 8225,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 76766,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 76766,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 76766,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 76766,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 76766,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 76766,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 76766,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 76766,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 76766,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 76766,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 76766,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
   }
 ]
