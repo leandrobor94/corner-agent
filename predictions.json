@@ -1602876,7 +1602876,7 @@
     "modelVersion": 5
   },
   {
-    "timestamp": "2026-10-23T02:12:48.687Z",
+    "timestamp": "2026-10-23T07:44:26.074Z",
     "match": "CR Belouizdad vs AS Douanes",
     "league": "CAF Confederation Cup - Clasificación",
     "gameId": 4859967,
@@ -1603200,6 +1603200,143 @@
       ]
     },
     "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-23T07:44:26.253Z",
+    "match": "Beitar Ramat Gan vs Hakoah Amidar Ramat Gan F.C.",
+    "league": "Division 4 - Regular",
+    "gameId": 4883514,
+    "homeId": 7909,
+    "awayId": 572,
+    "date": "2026-10-23",
+    "minute": 77,
+    "score": "0-0",
+    "corners": {
+      "home": 0,
+      "away": 1,
+      "total": 1
+    },
+    "projected": {
+      "home": 0,
+      "away": 2,
+      "total": 2
+    },
+    "stats": {
+      "crosses": 31,
+      "shotsInsideBox": 0,
+      "shotsOnTarget": 0,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 120,
+      "possession": {
+        "home": 44,
+        "away": 56
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 15,
+        "shotsInsideBox": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 58,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 1,
+        "crosses": 16,
+        "shotsInsideBox": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 62,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Beitar Ramat Gan vs Hakoah Amidar Ramat Gan F.C._77",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-23T07:44:26.489Z",
+    "match": "Ferrymead Bays Fc vs Cashmere Technical",
+    "league": "National",
+    "gameId": 4860789,
+    "homeId": 81290,
+    "awayId": 72433,
+    "date": "2026-10-23",
+    "minute": 74,
+    "score": "0-1",
+    "corners": {
+      "home": 3,
+      "away": 6,
+      "total": 9
+    },
+    "projected": {
+      "home": 5,
+      "away": 8,
+      "total": 13
+    },
+    "stats": {
+      "crosses": 35,
+      "shotsInsideBox": 6,
+      "shotsOnTarget": 2,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 139,
+      "possession": {
+        "home": 41,
+        "away": 59
+      },
+      "totalShots": 10
+    },
+    "teams": {
+      "home": {
+        "corners": 3,
+        "crosses": 15,
+        "shotsInsideBox": 1,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 59,
+        "totalShots": 2
+      },
+      "away": {
+        "corners": 6,
+        "crosses": 20,
+        "shotsInsideBox": 5,
+        "shotsOnTarget": 2,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 80,
+        "totalShots": 8
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [
+      {
+        "line": 10.5,
+        "prob": 70,
+        "current": 9,
+        "projected": 13
+      }
+    ],
+    "key": "Ferrymead Bays Fc vs Cashmere Technical_74",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Total_O10.5"
+    ],
     "modelVersion": 5
   }
 ]
