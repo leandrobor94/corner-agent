@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 1916,
-    "totalCorners": 18079,
-    "totalProjected": 18192,
+    "matches": 1917,
+    "totalCorners": 18081,
+    "totalProjected": 18194,
     "totalCrosses": 16893,
     "totalShotsBox": 7050
   },
@@ -1162,9 +1162,9 @@
     "totalShotsBox": 16
   },
   "Liga": {
-    "matches": 231,
-    "totalCorners": 2297,
-    "totalProjected": 2296,
+    "matches": 232,
+    "totalCorners": 2308,
+    "totalProjected": 2307,
     "totalCrosses": 5319,
     "totalShotsBox": 2845
   },
@@ -1806,11 +1806,11 @@
     "totalShotsBox": 76
   },
   "Liga Profesional Saudí": {
-    "matches": 235,
-    "totalCorners": 2180,
-    "totalProjected": 2222,
-    "totalCrosses": 8077,
-    "totalShotsBox": 3687
+    "matches": 236,
+    "totalCorners": 2195,
+    "totalProjected": 2237,
+    "totalCrosses": 8128,
+    "totalShotsBox": 3699
   },
   "Copa Africana de Naciones (F) - Play-in": {
     "matches": 7,
@@ -2961,9 +2961,9 @@
     "totalShotsBox": 0
   },
   "Hungarian Cup - Tercera Ronda": {
-    "matches": 20,
-    "totalCorners": 183,
-    "totalProjected": 180,
+    "matches": 21,
+    "totalCorners": 192,
+    "totalProjected": 189,
     "totalCrosses": 25,
     "totalShotsBox": 6
   },
@@ -3073,11 +3073,11 @@
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones Élite": {
-    "matches": 44,
-    "totalCorners": 393,
-    "totalProjected": 393,
-    "totalCrosses": 1463,
-    "totalShotsBox": 668
+    "matches": 50,
+    "totalCorners": 456,
+    "totalProjected": 456,
+    "totalCrosses": 1684,
+    "totalShotsBox": 780
   },
   "Torneo Promocional Amateur - Reducido - Cuartos de Final": {
     "matches": 5,
@@ -3101,9 +3101,9 @@
     "totalShotsBox": 739
   },
   "Copa de Turquía": {
-    "matches": 23,
-    "totalCorners": 155,
-    "totalProjected": 155,
+    "matches": 29,
+    "totalCorners": 188,
+    "totalProjected": 188,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3213,7 +3213,7 @@
     "totalShotsBox": 234
   },
   "Azadegan": {
-    "matches": 39,
+    "matches": 40,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -4231,6 +4231,34 @@
     "matches": 5,
     "totalCorners": 36,
     "totalProjected": 36,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Moldovan Cup - 8th": {
+    "matches": 1,
+    "totalCorners": 10,
+    "totalProjected": 10,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Polish Cup - 16avos de final": {
+    "matches": 2,
+    "totalCorners": 21,
+    "totalProjected": 21,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Bosnia Hezergovina Cup - 16avos de final": {
+    "matches": 2,
+    "totalCorners": 11,
+    "totalProjected": 11,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa Ucrania - Octavos de final": {
+    "matches": 1,
+    "totalCorners": 14,
+    "totalProjected": 14,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
