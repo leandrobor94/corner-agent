@@ -1250935,134 +1250935,6 @@
     "modelVersion": 5
   },
   {
-    "timestamp": "2026-10-22T23:43:11.114Z",
-    "match": "Fluminense (F) vs Flamengo (F)",
-    "league": "Copa do Brasil Women - Cuartos de Final",
-    "gameId": 4788277,
-    "homeId": 78696,
-    "awayId": 26648,
-    "date": "2026-10-22",
-    "minute": 79,
-    "score": "0-3",
-    "corners": {
-      "home": 2,
-      "away": 2,
-      "total": 4
-    },
-    "projected": {
-      "home": 3,
-      "away": 2,
-      "total": 6
-    },
-    "stats": {
-      "crosses": 45,
-      "shotsInsideBox": 3,
-      "shotsOnTarget": 5,
-      "keyPasses": 0,
-      "bigChances": 0,
-      "attacks": 178,
-      "possession": {
-        "home": 58,
-        "away": 42
-      },
-      "totalShots": 5
-    },
-    "teams": {
-      "home": {
-        "corners": 2,
-        "crosses": 25,
-        "shotsInsideBox": 1,
-        "shotsOnTarget": 1,
-        "keyPasses": 0,
-        "bigChances": 0,
-        "attacks": 99,
-        "totalShots": 1
-      },
-      "away": {
-        "corners": 2,
-        "crosses": 20,
-        "shotsInsideBox": 2,
-        "shotsOnTarget": 4,
-        "keyPasses": 0,
-        "bigChances": 0,
-        "attacks": 79,
-        "totalShots": 4
-      }
-    },
-    "teamAlerts": [],
-    "totalAlerts": [],
-    "key": "Fluminense (F) vs Flamengo (F)_79",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
-    "_sentAlerts": [],
-    "modelVersion": 5
-  },
-  {
-    "timestamp": "2026-10-22T23:43:11.179Z",
-    "match": "Atlético/Mg Youth vs Amazonas Júnior",
-    "league": "Copa de Brasil Sub20 - Octavos de final",
-    "gameId": 4882120,
-    "homeId": 28843,
-    "awayId": 92287,
-    "date": "2026-10-22",
-    "minute": 83,
-    "score": "2-0",
-    "corners": {
-      "home": 8,
-      "away": 4,
-      "total": 12
-    },
-    "projected": {
-      "home": 9,
-      "away": 6,
-      "total": 14
-    },
-    "stats": {
-      "crosses": 29,
-      "shotsInsideBox": 14,
-      "shotsOnTarget": 10,
-      "keyPasses": 0,
-      "bigChances": 0,
-      "attacks": 115,
-      "possession": {
-        "home": 72,
-        "away": 28
-      },
-      "totalShots": 22
-    },
-    "teams": {
-      "home": {
-        "corners": 8,
-        "crosses": 18,
-        "shotsInsideBox": 10,
-        "shotsOnTarget": 7,
-        "keyPasses": 0,
-        "bigChances": 0,
-        "attacks": 71,
-        "totalShots": 16
-      },
-      "away": {
-        "corners": 4,
-        "crosses": 11,
-        "shotsInsideBox": 4,
-        "shotsOnTarget": 3,
-        "keyPasses": 0,
-        "bigChances": 0,
-        "attacks": 44,
-        "totalShots": 6
-      }
-    },
-    "teamAlerts": [],
-    "totalAlerts": [],
-    "key": "Atlético/Mg Youth vs Amazonas Júnior_83",
-    "correct": null,
-    "finalScore": null,
-    "finalCorners": null,
-    "_sentAlerts": [],
-    "modelVersion": 5
-  },
-  {
     "timestamp": "2026-10-22T23:43:11.458Z",
     "match": "Persik Kediri vs PSS Sleman",
     "league": "Liga",
@@ -1682563,6 +1682435,987 @@
           "categoryOrder": 5,
           "order": 92,
           "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-30T02:43:23.866Z",
+    "match": "Al Wasl vs Al Dhafra",
+    "league": "UAE Pro",
+    "gameId": 4866920,
+    "homeId": 8346,
+    "awayId": 8352,
+    "date": "2026-10-30",
+    "minute": 90,
+    "score": "-1--1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Al Wasl vs Al Dhafra_90",
+    "correct": true,
+    "finalScore": {
+      "home": -1,
+      "away": -1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8346,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 8346,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 8346,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8346,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8346,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 8346,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 8346,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 8346,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 8346,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 8346,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 8346,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8352,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 8352,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 8352,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8352,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8352,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 8352,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 8352,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 8352,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 8352,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 8352,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 8352,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-30T02:43:23.956Z",
+    "match": "Dubai United vs Khor Fakkan",
+    "league": "UAE Pro",
+    "gameId": 4866921,
+    "homeId": 77221,
+    "awayId": 11134,
+    "date": "2026-10-30",
+    "minute": 90,
+    "score": "-1--1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Dubai United vs Khor Fakkan_90",
+    "correct": true,
+    "finalScore": {
+      "home": -1,
+      "away": -1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 77221,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 77221,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 77221,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 77221,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 77221,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 77221,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 77221,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 77221,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 77221,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 77221,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 77221,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 11134,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 11134,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 11134,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 11134,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 11134,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 11134,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 11134,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 11134,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 11134,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 11134,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 11134,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-10-30T02:43:24.141Z",
+    "match": "Shabab Al Ahly vs Kalba",
+    "league": "UAE Pro",
+    "gameId": 4866919,
+    "homeId": 8347,
+    "awayId": 8355,
+    "date": "2026-10-30",
+    "minute": 90,
+    "score": "-1--1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Shabab Al Ahly vs Kalba_90",
+    "correct": true,
+    "finalScore": {
+      "home": -1,
+      "away": -1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "shotsOffTarget": 0,
+        "blockedShots": 0,
+        "totalPasses": 0,
+        "fouls": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8347,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 8347,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 8347,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8347,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8347,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 8347,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 8347,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 8347,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 8347,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 8347,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 8347,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 8355,
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "isPrimary": true,
+          "order": 0,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 8355,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 2,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 8355,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 8355,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "isTop": true
+        },
+        {
+          "id": 9,
+          "name": "Fueras de Juego",
+          "competitorId": 8355,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 7,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 8355,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 11
+        },
+        {
+          "id": 6,
+          "name": "Remates bloqueados",
+          "competitorId": 8355,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 12
+        },
+        {
+          "id": 25,
+          "name": "Pelotas al poste",
+          "competitorId": 8355,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 13
+        },
+        {
+          "id": 21,
+          "name": "Total de pases",
+          "competitorId": 8355,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 16
+        },
+        {
+          "id": 23,
+          "name": "Salvadas de Portero",
+          "competitorId": 8355,
+          "categoryId": 48,
+          "categoryName": "Defensivas",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 3,
+          "order": 52
+        },
+        {
+          "id": 12,
+          "name": "Faltas",
+          "competitorId": 8355,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 91
         }
       ]
     },
