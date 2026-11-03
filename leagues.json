@@ -175,9 +175,9 @@
     "totalShotsBox": 15247
   },
   "Tercera División -": {
-    "matches": 186,
-    "totalCorners": 1450,
-    "totalProjected": 1461,
+    "matches": 187,
+    "totalCorners": 1463,
+    "totalProjected": 1474,
     "totalCrosses": 145,
     "totalShotsBox": 0
   },
@@ -259,9 +259,9 @@
     "totalShotsBox": 203
   },
   "Division 1": {
-    "matches": 327,
-    "totalCorners": 2881,
-    "totalProjected": 2890,
+    "matches": 328,
+    "totalCorners": 2892,
+    "totalProjected": 2901,
     "totalCrosses": 673,
     "totalShotsBox": 189
   },
@@ -364,9 +364,9 @@
     "totalShotsBox": 0
   },
   "Copa de la Liga": {
-    "matches": 103,
-    "totalCorners": 934,
-    "totalProjected": 844,
+    "matches": 105,
+    "totalCorners": 940,
+    "totalProjected": 850,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1260,9 +1260,9 @@
     "totalShotsBox": 0
   },
   "First": {
-    "matches": 324,
-    "totalCorners": 2806,
-    "totalProjected": 2823,
+    "matches": 328,
+    "totalCorners": 2837,
+    "totalProjected": 2854,
     "totalCrosses": 574,
     "totalShotsBox": 196
   },
@@ -1820,7 +1820,7 @@
     "totalShotsBox": 0
   },
   "Ligi Kuu Bara": {
-    "matches": 238,
+    "matches": 239,
     "totalCorners": 1540,
     "totalProjected": 1608,
     "totalCrosses": 612,
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 104,
-    "totalCorners": 877,
-    "totalProjected": 875,
+    "matches": 107,
+    "totalCorners": 905,
+    "totalProjected": 903,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
@@ -2870,9 +2870,9 @@
     "totalShotsBox": 9
   },
   "Liga Juvenil de la UEFA": {
-    "matches": 132,
-    "totalCorners": 1270,
-    "totalProjected": 1264,
+    "matches": 143,
+    "totalCorners": 1391,
+    "totalProjected": 1385,
     "totalCrosses": 215,
     "totalShotsBox": 43
   },
@@ -3073,11 +3073,11 @@
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones Élite": {
-    "matches": 70,
-    "totalCorners": 637,
-    "totalProjected": 638,
-    "totalCrosses": 2304,
-    "totalShotsBox": 1108
+    "matches": 76,
+    "totalCorners": 687,
+    "totalProjected": 688,
+    "totalCrosses": 2504,
+    "totalShotsBox": 1224
   },
   "Torneo Promocional Amateur - Reducido - Cuartos de Final": {
     "matches": 5,
@@ -3094,11 +3094,11 @@
     "totalShotsBox": 16
   },
   "AFC Liga de Campeones 2": {
-    "matches": 72,
-    "totalCorners": 649,
-    "totalProjected": 647,
-    "totalCrosses": 2492,
-    "totalShotsBox": 1062
+    "matches": 74,
+    "totalCorners": 668,
+    "totalProjected": 666,
+    "totalCrosses": 2568,
+    "totalShotsBox": 1096
   },
   "Copa de Turquía": {
     "matches": 75,
@@ -3731,9 +3731,9 @@
     "totalShotsBox": 0
   },
   "Copa Croata - Octavos de final": {
-    "matches": 6,
-    "totalCorners": 50,
-    "totalProjected": 50,
+    "matches": 8,
+    "totalCorners": 69,
+    "totalProjected": 69,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3801,9 +3801,9 @@
     "totalShotsBox": 0
   },
   "Liga Unitel": {
-    "matches": 16,
-    "totalCorners": 46,
-    "totalProjected": 46,
+    "matches": 17,
+    "totalCorners": 47,
+    "totalProjected": 47,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -3843,9 +3843,9 @@
     "totalShotsBox": 0
   },
   "Gulf Club Champions": {
-    "matches": 17,
-    "totalCorners": 136,
-    "totalProjected": 138,
+    "matches": 19,
+    "totalCorners": 159,
+    "totalProjected": 161,
     "totalCrosses": 36,
     "totalShotsBox": 8
   },
@@ -4511,6 +4511,13 @@
     "matches": 1,
     "totalCorners": 10,
     "totalProjected": 10,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Copa de Rusia - League Path - Quarter": {
+    "matches": 1,
+    "totalCorners": 0,
+    "totalProjected": 0,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
