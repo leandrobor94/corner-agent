@@ -56,9 +56,9 @@
     "totalShotsBox": 0
   },
   "Campeonato Femenino -": {
-    "matches": 228,
-    "totalCorners": 1777,
-    "totalProjected": 1774,
+    "matches": 229,
+    "totalCorners": 1789,
+    "totalProjected": 1786,
     "totalCrosses": 23,
     "totalShotsBox": 3
   },
@@ -595,16 +595,16 @@
     "totalShotsBox": 308
   },
   "Amistoso": {
-    "matches": 94,
-    "totalCorners": 666,
-    "totalProjected": 666,
+    "matches": 95,
+    "totalCorners": 672,
+    "totalProjected": 672,
     "totalCrosses": 1117,
     "totalShotsBox": 448
   },
   "Belarusian Cup - Octavos de final": {
-    "matches": 14,
-    "totalCorners": 95,
-    "totalProjected": 91,
+    "matches": 15,
+    "totalCorners": 104,
+    "totalProjected": 100,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -784,7 +784,7 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 141,
+    "matches": 142,
     "totalCorners": 1209,
     "totalProjected": 1205,
     "totalCrosses": 438,
@@ -2793,9 +2793,9 @@
     "totalShotsBox": 0
   },
   "Campeonato Francés (F)": {
-    "matches": 49,
-    "totalCorners": 442,
-    "totalProjected": 436,
+    "matches": 50,
+    "totalCorners": 449,
+    "totalProjected": 443,
     "totalCrosses": 151,
     "totalShotsBox": 46
   },
@@ -3003,7 +3003,7 @@
     "totalShotsBox": 0
   },
   "3. Lig": {
-    "matches": 185,
+    "matches": 202,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -3318,9 +3318,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub19": {
-    "matches": 87,
-    "totalCorners": 711,
-    "totalProjected": 713,
+    "matches": 88,
+    "totalCorners": 723,
+    "totalProjected": 725,
     "totalCrosses": 84,
     "totalShotsBox": 18
   },
@@ -3703,9 +3703,9 @@
     "totalShotsBox": 0
   },
   "Premier B - Temporada": {
-    "matches": 3,
-    "totalCorners": 18,
-    "totalProjected": 18,
+    "matches": 4,
+    "totalCorners": 22,
+    "totalProjected": 22,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4347,9 +4347,9 @@
     "totalShotsBox": 0
   },
   "UEFA Women's Europa Cup - Octavos de final": {
-    "matches": 11,
-    "totalCorners": 99,
-    "totalProjected": 99,
+    "matches": 12,
+    "totalCorners": 118,
+    "totalProjected": 118,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4501,7 +4501,7 @@
     "totalShotsBox": 15
   },
   "Clasificatorio Sub-17 - Primera Fase": {
-    "matches": 3,
+    "matches": 18,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -4529,9 +4529,9 @@
     "totalShotsBox": 0
   },
   "Slovakia Cup - Cuarta Ronda": {
-    "matches": 2,
-    "totalCorners": 27,
-    "totalProjected": 27,
+    "matches": 4,
+    "totalCorners": 51,
+    "totalProjected": 51,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4543,9 +4543,9 @@
     "totalShotsBox": 0
   },
   "Campeonato de la SAFF - Group Stage": {
-    "matches": 8,
-    "totalCorners": 68,
-    "totalProjected": 69,
+    "matches": 10,
+    "totalCorners": 90,
+    "totalProjected": 91,
     "totalCrosses": 31,
     "totalShotsBox": 14
   },
@@ -4672,6 +4672,27 @@
     "matches": 1,
     "totalCorners": 17,
     "totalProjected": 17,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "League Cup - Cuartos de Final": {
+    "matches": 5,
+    "totalCorners": 39,
+    "totalProjected": 46,
+    "totalCrosses": 55,
+    "totalShotsBox": 17
+  },
+  "Clasificatorio Euro Sub-19 - Segunda Fase": {
+    "matches": 17,
+    "totalCorners": 139,
+    "totalProjected": 139,
+    "totalCrosses": 20,
+    "totalShotsBox": 7
+  },
+  "Virsliga Letonia -": {
+    "matches": 1,
+    "totalCorners": 13,
+    "totalProjected": 13,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
