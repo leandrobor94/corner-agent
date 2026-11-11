@@ -1549420,5 +1549420,798 @@
     },
     "_sentAlerts": [],
     "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.073Z",
+    "match": "Holanda Sub17 vs Noruega Sub17",
+    "league": "Clasificatorio Sub-17 - Primera Fase",
+    "gameId": 4679343,
+    "homeId": 5265,
+    "awayId": 5264,
+    "date": "2026-11-11",
+    "minute": 57,
+    "score": "1-0",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "shotsOnTarget": 0,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Holanda Sub17 vs Noruega Sub17_57",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.181Z",
+    "match": "South Korea U19 vs Tajikistan U19",
+    "league": "Amistoso Internacional Sub19",
+    "gameId": 4892102,
+    "homeId": 5370,
+    "awayId": 45738,
+    "date": "2026-11-11",
+    "minute": 90,
+    "score": "1-1",
+    "corners": {
+      "home": 8,
+      "away": 0,
+      "total": 8
+    },
+    "projected": {
+      "home": 8,
+      "away": 0,
+      "total": 8
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 39,
+        "away": 61
+      },
+      "totalShots": 16
+    },
+    "teams": {
+      "home": {
+        "corners": 8,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 12
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 4
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "South Korea U19 vs Tajikistan U19_90",
+    "correct": true,
+    "finalScore": {
+      "home": 1,
+      "away": 1
+    },
+    "finalCorners": {
+      "home": {
+        "possession": 39,
+        "totalShots": 12,
+        "shotsOnTarget": 0,
+        "corners": 8,
+        "redCards": 0,
+        "shotsOffTarget": 12,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "possession": 61,
+        "totalShots": 4,
+        "shotsOnTarget": 0,
+        "corners": 0,
+        "redCards": 0,
+        "shotsOffTarget": 4,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 5370,
+          "isMajor": true,
+          "value": "39%",
+          "valuePercentage": 0.39,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 5370,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "12",
+          "valuePercentage": 0.75,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 5370,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 5370,
+          "value": "8",
+          "valuePercentage": 1,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5370,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 5370,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "12",
+          "valuePercentage": 0.75,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        },
+        {
+          "id": 10,
+          "name": "Posesión",
+          "competitorId": 45738,
+          "isMajor": true,
+          "value": "61%",
+          "valuePercentage": 0.61,
+          "isPrimary": true,
+          "order": 0,
+          "markedTeam": 2,
+          "isTop": true
+        },
+        {
+          "id": 3,
+          "name": "Total Remates",
+          "competitorId": 45738,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "4",
+          "valuePercentage": 0.25,
+          "categoryOrder": 1,
+          "order": 2,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 4,
+          "name": "Remates a Puerta",
+          "competitorId": 45738,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "isMajor": true,
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 1,
+          "order": 3,
+          "isTop": true
+        },
+        {
+          "id": 8,
+          "name": "Saques de Esquina",
+          "competitorId": 45738,
+          "value": "0",
+          "valuePercentage": 0,
+          "order": 5,
+          "markedTeam": 1,
+          "isTop": true
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 45738,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 5,
+          "name": "Remates Fuera",
+          "competitorId": 45738,
+          "categoryId": 46,
+          "categoryName": "Remates",
+          "value": "4",
+          "valuePercentage": 0.25,
+          "categoryOrder": 1,
+          "order": 11,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.196Z",
+    "match": "Vissel Kobe vs Machida Zelvia",
+    "league": "League Cup - Cuartos de Final",
+    "gameId": 4886996,
+    "homeId": 2151,
+    "awayId": 9133,
+    "date": "2026-11-11",
+    "minute": 56,
+    "score": "0-0",
+    "corners": {
+      "home": 1,
+      "away": 5,
+      "total": 6
+    },
+    "projected": {
+      "home": 2,
+      "away": 9,
+      "total": 10
+    },
+    "stats": {
+      "crosses": 26,
+      "shotsInsideBox": 7,
+      "shotsOnTarget": 3,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 104,
+      "possession": {
+        "home": 52,
+        "away": 48
+      },
+      "totalShots": 12
+    },
+    "teams": {
+      "home": {
+        "corners": 1,
+        "crosses": 15,
+        "shotsInsideBox": 4,
+        "shotsOnTarget": 2,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 61,
+        "totalShots": 7
+      },
+      "away": {
+        "corners": 5,
+        "crosses": 11,
+        "shotsInsideBox": 3,
+        "shotsOnTarget": 1,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 43,
+        "totalShots": 5
+      }
+    },
+    "teamAlerts": [
+      {
+        "team": "Machida Zelvia",
+        "line": 5.5,
+        "prob": 83,
+        "current": 5,
+        "projected": 9,
+        "side": "away",
+        "reasoning": "Machida Zelvia 11 centros, 3 tiros área, 48% posesión | empate, busca el gol"
+      },
+      {
+        "team": "Machida Zelvia",
+        "line": 6.5,
+        "prob": 74,
+        "current": 5,
+        "projected": 9,
+        "side": "away",
+        "reasoning": "Machida Zelvia 11 centros, 3 tiros área, 48% posesión | empate, busca el gol"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Vissel Kobe vs Machida Zelvia_56",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Machida Zelvia_O5.5",
+      "Machida Zelvia_O6.5"
+    ],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.220Z",
+    "match": "Luxemburgo Sub17 vs Italia Sub17",
+    "league": "Clasificatorio Sub-17 - Primera Fase",
+    "gameId": 4679347,
+    "homeId": 5224,
+    "awayId": 5259,
+    "date": "2026-11-11",
+    "minute": 90,
+    "score": "0-6",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Luxemburgo Sub17 vs Italia Sub17_90",
+    "correct": true,
+    "finalScore": {
+      "home": 0,
+      "away": 6
+    },
+    "finalCorners": {
+      "home": {
+        "redCards": 0,
+        "yellowCards": 1,
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "redCards": 0,
+        "yellowCards": 2,
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5224,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5224,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "1",
+          "valuePercentage": 0.33,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5259,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5259,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 0.67,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.237Z",
+    "match": "Kawasaki Frontale vs Kashiwa Reysol",
+    "league": "League Cup - Cuartos de Final",
+    "gameId": 4886999,
+    "homeId": 2143,
+    "awayId": 2145,
+    "date": "2026-11-11",
+    "minute": 56,
+    "score": "1-0",
+    "corners": {
+      "home": 3,
+      "away": 3,
+      "total": 6
+    },
+    "projected": {
+      "home": 5,
+      "away": 6,
+      "total": 11
+    },
+    "stats": {
+      "crosses": 29,
+      "shotsInsideBox": 10,
+      "shotsOnTarget": 5,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 115,
+      "possession": {
+        "home": 54,
+        "away": 46
+      },
+      "totalShots": 18
+    },
+    "teams": {
+      "home": {
+        "corners": 3,
+        "crosses": 15,
+        "shotsInsideBox": 5,
+        "shotsOnTarget": 2,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 60,
+        "totalShots": 9
+      },
+      "away": {
+        "corners": 3,
+        "crosses": 14,
+        "shotsInsideBox": 5,
+        "shotsOnTarget": 3,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 55,
+        "totalShots": 9
+      }
+    },
+    "teamAlerts": [
+      {
+        "team": "Kashiwa Reysol",
+        "line": 3.5,
+        "prob": 79,
+        "current": 3,
+        "projected": 6,
+        "side": "away",
+        "reasoning": "Kashiwa Reysol 14 centros, 5 tiros área, 46% posesión | va perdiendo, necesita atacar"
+      }
+    ],
+    "totalAlerts": [],
+    "key": "Kawasaki Frontale vs Kashiwa Reysol_56",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [
+      "Kashiwa Reysol_O3.5"
+    ],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.261Z",
+    "match": "Hungría Sub17 vs Macedonia Sub17",
+    "league": "Clasificatorio Sub-17 - Primera Fase",
+    "gameId": 4679339,
+    "homeId": 5216,
+    "awayId": 5267,
+    "date": "2026-11-11",
+    "minute": 90,
+    "score": "2-3",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 0,
+      "shotsInsideBox": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 0
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "attacks": 0,
+        "totalShots": 0
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Hungría Sub17 vs Macedonia Sub17_90",
+    "correct": true,
+    "finalScore": {
+      "home": 2,
+      "away": 3
+    },
+    "finalCorners": {
+      "home": {
+        "redCards": 0,
+        "yellowCards": 0,
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "away": {
+        "redCards": 0,
+        "yellowCards": 2,
+        "possession": 50,
+        "corners": 0,
+        "attacks": 0,
+        "crosses": 0,
+        "shotsInsideBox": 0,
+        "totalShots": 0,
+        "shotsOnTarget": 0,
+        "keyPasses": 0,
+        "bigChances": 0
+      },
+      "raw": [
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5216,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5216,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        },
+        {
+          "id": 2,
+          "name": "Tarjetas Rojas",
+          "competitorId": 5267,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "0",
+          "valuePercentage": 0,
+          "categoryOrder": 5,
+          "order": 9,
+          "isTop": true
+        },
+        {
+          "id": 1,
+          "name": "Tarjetas Amarillas",
+          "competitorId": 5267,
+          "categoryId": 50,
+          "categoryName": "Disciplinarias",
+          "value": "2",
+          "valuePercentage": 1,
+          "categoryOrder": 5,
+          "order": 92,
+          "markedTeam": 1
+        }
+      ]
+    },
+    "_sentAlerts": [],
+    "modelVersion": 5
+  },
+  {
+    "timestamp": "2026-11-11T11:15:26.277Z",
+    "match": "Estonia U19 vs Liechtenstein U19",
+    "league": "Clasificatorio Euro Sub-19 - Segunda Fase",
+    "gameId": 4892665,
+    "homeId": 5328,
+    "awayId": 5322,
+    "date": "2026-11-11",
+    "minute": 56,
+    "score": "5-1",
+    "corners": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "projected": {
+      "home": 0,
+      "away": 0,
+      "total": 0
+    },
+    "stats": {
+      "crosses": 20,
+      "shotsInsideBox": 7,
+      "shotsOnTarget": 5,
+      "keyPasses": 0,
+      "bigChances": 0,
+      "attacks": 0,
+      "possession": {
+        "home": 50,
+        "away": 50
+      },
+      "totalShots": 11
+    },
+    "teams": {
+      "home": {
+        "corners": 0,
+        "crosses": 18,
+        "shotsInsideBox": 6,
+        "shotsOnTarget": 4,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 0,
+        "totalShots": 10
+      },
+      "away": {
+        "corners": 0,
+        "crosses": 2,
+        "shotsInsideBox": 1,
+        "shotsOnTarget": 1,
+        "keyPasses": 0,
+        "bigChances": 0,
+        "attacks": 0,
+        "totalShots": 1
+      }
+    },
+    "teamAlerts": [],
+    "totalAlerts": [],
+    "key": "Estonia U19 vs Liechtenstein U19_56",
+    "correct": null,
+    "finalScore": null,
+    "finalCorners": null,
+    "_sentAlerts": [],
+    "modelVersion": 5
   }
 ]
