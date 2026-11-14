@@ -28,9 +28,9 @@
     "totalShotsBox": 0
   },
   "Partido": {
-    "matches": 3318,
-    "totalCorners": 22126,
-    "totalProjected": 22419,
+    "matches": 3319,
+    "totalCorners": 22134,
+    "totalProjected": 22427,
     "totalCrosses": 8486,
     "totalShotsBox": 3189
   },
@@ -189,9 +189,9 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 2281,
-    "totalCorners": 21251,
-    "totalProjected": 21362,
+    "matches": 2282,
+    "totalCorners": 21257,
+    "totalProjected": 21368,
     "totalCrosses": 19051,
     "totalShotsBox": 8042
   },
@@ -595,9 +595,9 @@
     "totalShotsBox": 308
   },
   "Amistoso": {
-    "matches": 110,
-    "totalCorners": 779,
-    "totalProjected": 779,
+    "matches": 112,
+    "totalCorners": 785,
+    "totalProjected": 785,
     "totalCrosses": 1229,
     "totalShotsBox": 521
   },
@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 144,
-    "totalCorners": 1227,
-    "totalProjected": 1223,
+    "matches": 146,
+    "totalCorners": 1231,
+    "totalProjected": 1227,
     "totalCrosses": 438,
     "totalShotsBox": 14
   },
@@ -1505,9 +1505,9 @@
     "totalShotsBox": 24
   },
   "J2": {
-    "matches": 282,
-    "totalCorners": 2815,
-    "totalProjected": 2819,
+    "matches": 287,
+    "totalCorners": 2871,
+    "totalProjected": 2875,
     "totalCrosses": 1243,
     "totalShotsBox": 410
   },
@@ -3682,9 +3682,9 @@
     "totalShotsBox": 0
   },
   "Amistoso Internacional Sub23": {
-    "matches": 11,
-    "totalCorners": 115,
-    "totalProjected": 115,
+    "matches": 12,
+    "totalCorners": 126,
+    "totalProjected": 126,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4501,7 +4501,7 @@
     "totalShotsBox": 15
   },
   "Clasificatorio Sub-17 - Primera Fase": {
-    "matches": 21,
+    "matches": 23,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -4543,9 +4543,9 @@
     "totalShotsBox": 0
   },
   "Campeonato de la SAFF - Group Stage": {
-    "matches": 10,
-    "totalCorners": 90,
-    "totalProjected": 91,
+    "matches": 11,
+    "totalCorners": 101,
+    "totalProjected": 102,
     "totalCrosses": 31,
     "totalShotsBox": 14
   },
@@ -4721,6 +4721,13 @@
     "matches": 4,
     "totalCorners": 46,
     "totalProjected": 46,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "SportPesa Premier League - Regular": {
+    "matches": 1,
+    "totalCorners": 2,
+    "totalProjected": 2,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
