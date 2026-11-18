@@ -189,16 +189,16 @@
     "totalShotsBox": 0
   },
   "Premier": {
-    "matches": 2297,
-    "totalCorners": 21379,
-    "totalProjected": 21490,
+    "matches": 2299,
+    "totalCorners": 21389,
+    "totalProjected": 21500,
     "totalCrosses": 19051,
     "totalShotsBox": 8042
   },
   "Pershaya Liga": {
-    "matches": 357,
-    "totalCorners": 1824,
-    "totalProjected": 1647,
+    "matches": 358,
+    "totalCorners": 1826,
+    "totalProjected": 1649,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -1260,9 +1260,9 @@
     "totalShotsBox": 0
   },
   "First": {
-    "matches": 362,
-    "totalCorners": 3114,
-    "totalProjected": 3131,
+    "matches": 363,
+    "totalCorners": 3123,
+    "totalProjected": 3140,
     "totalCrosses": 642,
     "totalShotsBox": 222
   },
@@ -2513,9 +2513,9 @@
     "totalShotsBox": 0
   },
   "Premier League - Regular": {
-    "matches": 118,
-    "totalCorners": 995,
-    "totalProjected": 993,
+    "matches": 119,
+    "totalCorners": 1001,
+    "totalProjected": 999,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
@@ -2751,9 +2751,9 @@
     "totalShotsBox": 0
   },
   "ASEAN Club": {
-    "matches": 12,
-    "totalCorners": 141,
-    "totalProjected": 141,
+    "matches": 14,
+    "totalCorners": 156,
+    "totalProjected": 156,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2989,9 +2989,9 @@
     "totalShotsBox": 0
   },
   "2. Lig": {
-    "matches": 275,
-    "totalCorners": 1251,
-    "totalProjected": 1251,
+    "matches": 291,
+    "totalCorners": 1375,
+    "totalProjected": 1375,
     "totalCrosses": 38,
     "totalShotsBox": 0
   },
@@ -3759,9 +3759,9 @@
     "totalShotsBox": 0
   },
   "Albanian Cup - 32avos de final": {
-    "matches": 7,
-    "totalCorners": 32,
-    "totalProjected": 32,
+    "matches": 13,
+    "totalCorners": 66,
+    "totalProjected": 66,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4270,9 +4270,9 @@
     "totalShotsBox": 0
   },
   "Kup - Tercera Ronda": {
-    "matches": 15,
-    "totalCorners": 81,
-    "totalProjected": 81,
+    "matches": 16,
+    "totalCorners": 84,
+    "totalProjected": 84,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4903,6 +4903,13 @@
     "matches": 2,
     "totalCorners": 15,
     "totalProjected": 15,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Hervis Pokal - Octavos de final": {
+    "matches": 1,
+    "totalCorners": 6,
+    "totalProjected": 6,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
