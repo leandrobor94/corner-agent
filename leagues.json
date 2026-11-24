@@ -784,9 +784,9 @@
     "totalShotsBox": 0
   },
   "Persha Liga": {
-    "matches": 152,
-    "totalCorners": 1258,
-    "totalProjected": 1254,
+    "matches": 153,
+    "totalCorners": 1270,
+    "totalProjected": 1266,
     "totalCrosses": 438,
     "totalShotsBox": 14
   },
@@ -1260,9 +1260,9 @@
     "totalShotsBox": 0
   },
   "First": {
-    "matches": 368,
-    "totalCorners": 3161,
-    "totalProjected": 3178,
+    "matches": 372,
+    "totalCorners": 3187,
+    "totalProjected": 3204,
     "totalCrosses": 642,
     "totalShotsBox": 222
   },
@@ -1309,9 +1309,9 @@
     "totalShotsBox": 0
   },
   "Copa de Rusia - Grupo D": {
-    "matches": 24,
-    "totalCorners": 226,
-    "totalProjected": 244,
+    "matches": 25,
+    "totalCorners": 232,
+    "totalProjected": 250,
     "totalCrosses": 150,
     "totalShotsBox": 48
   },
@@ -2513,16 +2513,16 @@
     "totalShotsBox": 11
   },
   "Premier League - Regular": {
-    "matches": 128,
-    "totalCorners": 1068,
-    "totalProjected": 1066,
+    "matches": 130,
+    "totalCorners": 1085,
+    "totalProjected": 1083,
     "totalCrosses": 84,
     "totalShotsBox": 16
   },
   "Cup": {
-    "matches": 10,
-    "totalCorners": 87,
-    "totalProjected": 87,
+    "matches": 11,
+    "totalCorners": 95,
+    "totalProjected": 95,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -2870,9 +2870,9 @@
     "totalShotsBox": 9
   },
   "Liga Juvenil de la UEFA": {
-    "matches": 175,
-    "totalCorners": 1701,
-    "totalProjected": 1698,
+    "matches": 180,
+    "totalCorners": 1753,
+    "totalProjected": 1750,
     "totalCrosses": 291,
     "totalShotsBox": 65
   },
@@ -3073,11 +3073,11 @@
     "totalShotsBox": 0
   },
   "AFC Liga de Campeones Élite": {
-    "matches": 92,
-    "totalCorners": 829,
-    "totalProjected": 832,
-    "totalCrosses": 3026,
-    "totalShotsBox": 1501
+    "matches": 98,
+    "totalCorners": 867,
+    "totalProjected": 870,
+    "totalCrosses": 3197,
+    "totalShotsBox": 1604
   },
   "Torneo Promocional Amateur - Reducido - Cuartos de Final": {
     "matches": 5,
@@ -3094,11 +3094,11 @@
     "totalShotsBox": 16
   },
   "AFC Liga de Campeones 2": {
-    "matches": 89,
-    "totalCorners": 815,
-    "totalProjected": 808,
-    "totalCrosses": 3039,
-    "totalShotsBox": 1286
+    "matches": 90,
+    "totalCorners": 831,
+    "totalProjected": 824,
+    "totalCrosses": 3093,
+    "totalShotsBox": 1303
   },
   "Copa de Turquía": {
     "matches": 75,
@@ -3213,7 +3213,7 @@
     "totalShotsBox": 353
   },
   "Azadegan": {
-    "matches": 67,
+    "matches": 69,
     "totalCorners": 0,
     "totalProjected": 0,
     "totalCrosses": 0,
@@ -3479,9 +3479,9 @@
     "totalShotsBox": 0
   },
   "Division 2 - Temporada": {
-    "matches": 98,
-    "totalCorners": 615,
-    "totalProjected": 617,
+    "matches": 102,
+    "totalCorners": 649,
+    "totalProjected": 651,
     "totalCrosses": 148,
     "totalShotsBox": 0
   },
@@ -3829,11 +3829,11 @@
     "totalShotsBox": 0
   },
   "Indian Super": {
-    "matches": 56,
-    "totalCorners": 543,
-    "totalProjected": 544,
-    "totalCrosses": 1739,
-    "totalShotsBox": 911
+    "matches": 57,
+    "totalCorners": 557,
+    "totalProjected": 558,
+    "totalCrosses": 1789,
+    "totalShotsBox": 931
   },
   "Premier League - Fase de": {
     "matches": 27,
@@ -4389,9 +4389,9 @@
     "totalShotsBox": 0
   },
   "I-League": {
-    "matches": 15,
-    "totalCorners": 137,
-    "totalProjected": 137,
+    "matches": 16,
+    "totalCorners": 146,
+    "totalProjected": 146,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4725,9 +4725,9 @@
     "totalShotsBox": 0
   },
   "SportPesa Premier League - Regular": {
-    "matches": 15,
-    "totalCorners": 155,
-    "totalProjected": 155,
+    "matches": 16,
+    "totalCorners": 162,
+    "totalProjected": 162,
     "totalCrosses": 0,
     "totalShotsBox": 0
   },
@@ -4949,9 +4949,9 @@
     "totalShotsBox": 0
   },
   "Mundial Sub17": {
-    "matches": 41,
-    "totalCorners": 420,
-    "totalProjected": 416,
+    "matches": 46,
+    "totalCorners": 463,
+    "totalProjected": 459,
     "totalCrosses": 21,
     "totalShotsBox": 11
   },
@@ -5071,6 +5071,13 @@
     "matches": 1,
     "totalCorners": 8,
     "totalProjected": 8,
+    "totalCrosses": 0,
+    "totalShotsBox": 0
+  },
+  "Crnogorski Cup - Cuartos de Final": {
+    "matches": 3,
+    "totalCorners": 13,
+    "totalProjected": 13,
     "totalCrosses": 0,
     "totalShotsBox": 0
   }
